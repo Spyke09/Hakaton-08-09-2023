@@ -1,0 +1,339 @@
+{
+    "question": "Какой информации вам сейчас не хватает?",
+    "id": 27600,
+    "answers": [
+        {
+            "answer": "алгоритма что делать",
+            "count": 1,
+            "cluster": "алгоритма что делать",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "бронь",
+            "count": 2,
+            "cluster": "бронь",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "быстрой информации",
+            "count": 1,
+            "cluster": "перегруз информации",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "вапкансий в отрасли",
+            "count": 1,
+            "cluster": "вакансий в отрасли",
+            "sentiment": "neutrals",
+            "corrected": "вакансий в отрасли"
+        },
+        {
+            "answer": "всего",
+            "count": 1,
+            "cluster": "всего",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "всего хватает",
+            "count": 16,
+            "cluster": "всего хватает",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "да хватает",
+            "count": 1,
+            "cluster": "что творится в нашей стране",
+            "sentiment": "neutrals",
+            "corrected": "что творится в нашей стране"
+        },
+        {
+            "answer": "инфо хватает но не прозрачно",
+            "count": 1,
+            "cluster": "информация хватает но не прозрачно",
+            "sentiment": "neutrals",
+            "corrected": "информация хватает но не прозрачно"
+        },
+        {
+            "answer": "хватает",
+            "count": 9,
+            "cluster": "всего хватает",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "дорожной карты отр мероприятий",
+            "count": 1,
+            "cluster": "дорожной карты от мероприятий",
+            "sentiment": "neutrals",
+            "corrected": "дорожной карты от мероприятий"
+        },
+        {
+            "answer": "достижение показ. видения 2030",
+            "count": 1,
+            "cluster": "карьера",
+            "sentiment": "positives",
+            "corrected": "достижение показ видения 2030"
+        },
+        {
+            "answer": "достоверной и понятной",
+            "count": 1,
+            "cluster": "прозрачной",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "единого канала информации",
+            "count": 1,
+            "cluster": "единого канала информации",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "информационная безопасность",
+            "count": 1,
+            "cluster": "информационная безопасность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "как правильно строить карьеру",
+            "count": 1,
+            "cluster": "как строить карьеру",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "как строить карьеру",
+            "count": 1,
+            "cluster": "как строить карьеру",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "карьера",
+            "count": 10,
+            "cluster": "карьера",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "плана карьерного развития",
+            "count": 2,
+            "cluster": "обучение карьера",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "как реализовать себя?",
+            "count": 1,
+            "cluster": "алгоритма что делать",
+            "sentiment": "neutrals",
+            "corrected": "как реализовать себя"
+        },
+        {
+            "answer": "как стать руководителем",
+            "count": 1,
+            "cluster": "как стать руководителем",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "карьера город",
+            "count": 1,
+            "cluster": "карьера",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "карьерного направления",
+            "count": 1,
+            "cluster": "карьерные перспективы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "карьерное консультирование",
+            "count": 1,
+            "cluster": "карьерные перспективы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "карьерные возможности",
+            "count": 2,
+            "cluster": "карьерные перспективы",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "карьерные перспективы",
+            "count": 2,
+            "cluster": "карьерные перспективы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "карьерный рост",
+            "count": 2,
+            "cluster": "карьерные перспективы",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "карьерных возможностей",
+            "count": 1,
+            "cluster": "карьерные перспективы",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "качественной",
+            "count": 2,
+            "cluster": "качественной",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "качество и каналы информации",
+            "count": 1,
+            "cluster": "единого канала информации",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "обмен опытом с другими городам",
+            "count": 1,
+            "cluster": "обмен опытом с другими городами",
+            "sentiment": "positives",
+            "corrected": "обмен опытом с другими городами"
+        },
+        {
+            "answer": "обучение",
+            "count": 1,
+            "cluster": "обучение карьера",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "обучение карьера",
+            "count": 1,
+            "cluster": "обучение карьера",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "общего информационного блока",
+            "count": 1,
+            "cluster": "информационная безопасность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "перегруз информации",
+            "count": 1,
+            "cluster": "единого канала информации",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "переизбыток информации",
+            "count": 1,
+            "cluster": "перегруз информации",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "слишком много информации",
+            "count": 1,
+            "cluster": "слишком много информации",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "по вакансиям",
+            "count": 1,
+            "cluster": "вакансий в отрасли",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "полезной информации",
+            "count": 1,
+            "cluster": "единого канала информации",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "политической",
+            "count": 1,
+            "cluster": "политической",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "про мотивацию",
+            "count": 1,
+            "cluster": "про мотивацию",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "прозрачной",
+            "count": 1,
+            "cluster": "прозрачной",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "прозрачность роста",
+            "count": 1,
+            "cluster": "прозрачной",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "производственные достижения",
+            "count": 1,
+            "cluster": "как строить карьеру",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "психологическая поддержка",
+            "count": 1,
+            "cluster": "психологическая поддержка",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "результаты работы сообществ",
+            "count": 1,
+            "cluster": "результаты работы сообществ",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "события других дивизионов",
+            "count": 1,
+            "cluster": "события других дивизионов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "соц поддержка молодежи",
+            "count": 1,
+            "cluster": "психологическая поддержка",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "способы миграции внутри гк",
+            "count": 1,
+            "cluster": "способы миграции внутри госкорпорация",
+            "sentiment": "neutrals",
+            "corrected": "способы миграции внутри госкорпорация"
+        },
+        {
+            "answer": "стратегия 2030",
+            "count": 1,
+            "cluster": "стратегия 2030",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "точечной",
+            "count": 1,
+            "cluster": "точечной",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "четких инструкций",
+            "count": 2,
+            "cluster": "четких инструкций",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "что будет дальше",
+            "count": 1,
+            "cluster": "что будет дальше",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "что и как",
+            "count": 1,
+            "cluster": "что и как",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "что твориться в нашей стране!!",
+            "count": 1,
+            "cluster": "что творится в нашей стране",
+            "sentiment": "neutrals",
+            "corrected": "что творится в нашей стране"
+        }
+    ]
+}

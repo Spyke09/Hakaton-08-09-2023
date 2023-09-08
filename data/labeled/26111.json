@@ -1,0 +1,1424 @@
+{
+    "question": "Что позволяет вам лично поддерживать уверенность и рабочий настрой?",
+    "id": 26111,
+    "answers": [
+        {
+            "answer": "авторитет росатома",
+            "count": 1,
+            "cluster": "авторитет росатома",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "гордость за бренд «росатом»",
+            "count": 1,
+            "cluster": "гордость за бренд росатом",
+            "sentiment": "positives",
+            "corrected": "гордость за бренд росатом"
+        },
+        {
+            "answer": "адекватные коллеги",
+            "count": 1,
+            "cluster": "коллектив",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "активность",
+            "count": 1,
+            "cluster": "активность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "амбициозные цели-достижимость",
+            "count": 1,
+            "cluster": "амбициозные цели достижимость",
+            "sentiment": "positives",
+            "corrected": "амбициозные цели достижимость"
+        },
+        {
+            "answer": "анализ ситуации",
+            "count": 1,
+            "cluster": "анализ ситуации",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "антидипрессанты",
+            "count": 1,
+            "cluster": "антидепрессанты",
+            "sentiment": "neutrals",
+            "corrected": "антидепрессанты"
+        },
+        {
+            "answer": "атмосфера",
+            "count": 1,
+            "cluster": "атмосфера",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "бесстрашие",
+            "count": 1,
+            "cluster": "бесстрашие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "благодарность руководителей",
+            "count": 1,
+            "cluster": "благодарность руководителей",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "благополучие и семья",
+            "count": 1,
+            "cluster": "благополучие и семья",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "большая цель трансформации",
+            "count": 1,
+            "cluster": "большая цель трансформации",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "важность выполняемой работы",
+            "count": 1,
+            "cluster": "понимание важности задачи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "важность дела",
+            "count": 1,
+            "cluster": "понимание важности задачи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "восстребованность результата",
+            "count": 1,
+            "cluster": "востребованность результата",
+            "sentiment": "positives",
+            "corrected": "востребованность результата"
+        },
+        {
+            "answer": "осознание важности цели",
+            "count": 1,
+            "cluster": "понимание важности задачи",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "понимание важности задачи",
+            "count": 1,
+            "cluster": "понимание важности задачи",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "понимание конечной цели",
+            "count": 2,
+            "cluster": "понимание конечной цели",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "понимание смысла своего труда",
+            "count": 1,
+            "cluster": "понимание важности задачи",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "стратегическое значение работы",
+            "count": 1,
+            "cluster": "понимание важности задачи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "большое количество задач.",
+            "count": 1,
+            "cluster": "загруженность работой",
+            "sentiment": "neutrals",
+            "corrected": "большое количество задач"
+        },
+        {
+            "answer": "загруженность работой",
+            "count": 1,
+            "cluster": "загруженность работой",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ввп",
+            "count": 1,
+            "cluster": "валовой внутренний продукт",
+            "sentiment": "neutrals",
+            "corrected": "валовой внутренний продукт"
+        },
+        {
+            "answer": "вера",
+            "count": 2,
+            "cluster": "вера",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "вера в достижении цели",
+            "count": 1,
+            "cluster": "вера в достижение цели",
+            "sentiment": "positives",
+            "corrected": "вера в достижение цели"
+        },
+        {
+            "answer": "вера в корпорацию.",
+            "count": 1,
+            "cluster": "вера в корпорацию",
+            "sentiment": "positives",
+            "corrected": "вера в корпорацию"
+        },
+        {
+            "answer": "вера в свою компанию",
+            "count": 1,
+            "cluster": "вера в корпорацию",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "вера в лучшее",
+            "count": 2,
+            "cluster": "оптимизм",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "вера в светлое будущее",
+            "count": 1,
+            "cluster": "оптимизм",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "вера в хорошее будущее страны",
+            "count": 1,
+            "cluster": "оптимизм",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "надежда на лучшее",
+            "count": 1,
+            "cluster": "оптимизм",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "оптимизм",
+            "count": 2,
+            "cluster": "оптимизм",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "оптимизм всегда и во всем",
+            "count": 1,
+            "cluster": "оптимизм",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "вера в топ-руководителей",
+            "count": 1,
+            "cluster": "вера в топ руководителей",
+            "sentiment": "positives",
+            "corrected": "вера в топ руководителей"
+        },
+        {
+            "answer": "вера коллектива в  меня как ру",
+            "count": 1,
+            "cluster": "вера коллектива в меня как руководителя",
+            "sentiment": "positives",
+            "corrected": "вера коллектива в меня как руководителя"
+        },
+        {
+            "answer": "виденье поддержки от работодат",
+            "count": 1,
+            "cluster": "виденье поддержки от работодателя",
+            "sentiment": "positives",
+            "corrected": "виденье поддержки от работодателя"
+        },
+        {
+            "answer": "внутренняя мотивация",
+            "count": 1,
+            "cluster": "внутренняя мотивация",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "вовлечённость",
+            "count": 1,
+            "cluster": "вовлечённость",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "возможность роста",
+            "count": 1,
+            "cluster": "возможность роста",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "перспектива кадрового роста",
+            "count": 1,
+            "cluster": "возможность роста",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "перспектива развития и роста",
+            "count": 1,
+            "cluster": "возможность роста",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "перспективы карьерного роста",
+            "count": 1,
+            "cluster": "возможность роста",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "выдержка",
+            "count": 1,
+            "cluster": "выдержка",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "высокий порог на парадоксы",
+            "count": 1,
+            "cluster": "высокий порог на парадоксы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "дисциплина; оптимизм; цель",
+            "count": 1,
+            "cluster": "дисциплина оптимизм цель",
+            "sentiment": "positives",
+            "corrected": "дисциплина оптимизм цель"
+        },
+        {
+            "answer": "доверие руководителей",
+            "count": 1,
+            "cluster": "доверие руководителей",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "доверие руководителя",
+            "count": 1,
+            "cluster": "доверие руководителей",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "доверие руководителя и коллег",
+            "count": 1,
+            "cluster": "доверие руководителей",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "достижение поставленных задач",
+            "count": 1,
+            "cluster": "достижение результата",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "достижение поставленных целей",
+            "count": 1,
+            "cluster": "достижение результата",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "достижение результата",
+            "count": 1,
+            "cluster": "достижение результата",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "получение результата работы",
+            "count": 1,
+            "cluster": "достижение результата",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "результат работы",
+            "count": 1,
+            "cluster": "достижение результата",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "достойная компенсация труда",
+            "count": 1,
+            "cluster": "достойная компенсация труда",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "зарплата",
+            "count": 1,
+            "cluster": "зарплата",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "индексация зарплаты",
+            "count": 1,
+            "cluster": "индексация зарплаты",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "рост заработной платы",
+            "count": 1,
+            "cluster": "индексация зарплаты",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "рост исн и индексация зп",
+            "count": 1,
+            "cluster": "индексация зарплаты",
+            "sentiment": "positives",
+            "corrected": "рост интегрированная стимулирующая надбавка и индексация зарплата"
+        },
+        {
+            "answer": "увеличение зарплаты",
+            "count": 1,
+            "cluster": "индексация зарплаты",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "дружный коллектив",
+            "count": 1,
+            "cluster": "коллектив",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "единство коллектива.",
+            "count": 1,
+            "cluster": "коллектив",
+            "sentiment": "positives",
+            "corrected": "единство коллектива"
+        },
+        {
+            "answer": "коллектив",
+            "count": 8,
+            "cluster": "коллектив",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "команда",
+            "count": 2,
+            "cluster": "коллектив",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "отношения в коллективе",
+            "count": 1,
+            "cluster": "коллектив",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "чувство единения",
+            "count": 1,
+            "cluster": "чувство единения",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "друзья",
+            "count": 1,
+            "cluster": "друзья",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "еда в столовой",
+            "count": 1,
+            "cluster": "еда в столовой",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "если не я то кто?",
+            "count": 1,
+            "cluster": "если не я то кто",
+            "sentiment": "neutrals",
+            "corrected": "если не я то кто"
+        },
+        {
+            "answer": "желание дальнейшего развития",
+            "count": 1,
+            "cluster": "желание дальнейшего развития",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "желание достигнуть результат",
+            "count": 1,
+            "cluster": "нацеленность на результат",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "нацеленность на результат",
+            "count": 1,
+            "cluster": "нацеленность на результат",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "желание изменить мир",
+            "count": 1,
+            "cluster": "желание изменить мир",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "забота отрасли о сотрудниках",
+            "count": 1,
+            "cluster": "забота отрасли о сотрудниках",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "задача",
+            "count": 1,
+            "cluster": "задача",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "задачи которые выполняем",
+            "count": 1,
+            "cluster": "задача",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "интересные задачи",
+            "count": 5,
+            "cluster": "задача",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "сформированные задачи",
+            "count": 1,
+            "cluster": "задача",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "фокус на конкретной задаче",
+            "count": 1,
+            "cluster": "фокус на рабочих задачах",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "фокус на рабочих задачах",
+            "count": 1,
+            "cluster": "фокус на рабочих задачах",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "четко сформулированные задачи",
+            "count": 1,
+            "cluster": "ясность целей и задач",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "ясность целей",
+            "count": 1,
+            "cluster": "ясность целей и задач",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "ясность целей и задач.",
+            "count": 1,
+            "cluster": "ясность целей и задач",
+            "sentiment": "positives",
+            "corrected": "ясность целей и задач"
+        },
+        {
+            "answer": "занятия спортом",
+            "count": 2,
+            "cluster": "спорт",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "спорт",
+            "count": 4,
+            "cluster": "спорт",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "зачисление в укр",
+            "count": 1,
+            "cluster": "зачисление в укр",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "защита",
+            "count": 1,
+            "cluster": "защита",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "защищённости",
+            "count": 1,
+            "cluster": "защищённости",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "здоровое питание",
+            "count": 1,
+            "cluster": "здоровое питание",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "здоровые рабочие отношения",
+            "count": 1,
+            "cluster": "здоровые рабочие отношения",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "здоровый образ жизни",
+            "count": 1,
+            "cluster": "здоровый образ жизни",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "идея и цель",
+            "count": 1,
+            "cluster": "идея и цель",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "идея польза дела",
+            "count": 1,
+            "cluster": "идея польза дела",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "идея. настрой на успех",
+            "count": 1,
+            "cluster": "идея настрой на успех",
+            "sentiment": "positives",
+            "corrected": "идея настрой на успех"
+        },
+        {
+            "answer": "интерес",
+            "count": 1,
+            "cluster": "интерес",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "интерес к делу",
+            "count": 1,
+            "cluster": "интерес",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "интерес к работе",
+            "count": 1,
+            "cluster": "интерес",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "интересное обучение в рекорде",
+            "count": 1,
+            "cluster": "интересное обучение в рекорде",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "информирование от руководства",
+            "count": 1,
+            "cluster": "информирование от руководства",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ипотека",
+            "count": 1,
+            "cluster": "ипотека",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "йога",
+            "count": 1,
+            "cluster": "йога",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "компетенции",
+            "count": 1,
+            "cluster": "компетенции",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "конечный результат",
+            "count": 1,
+            "cluster": "достижение результата",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "кофе",
+            "count": 1,
+            "cluster": "кофе",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "литература семья",
+            "count": 1,
+            "cluster": "литература семья",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "лихачев а.е.",
+            "count": 1,
+            "cluster": "лихачев а е",
+            "sentiment": "neutrals",
+            "corrected": "лихачев а е"
+        },
+        {
+            "answer": "личные амбиции",
+            "count": 1,
+            "cluster": "личные амбиции",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "личный опыт",
+            "count": 1,
+            "cluster": "личный опыт",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "любовь",
+            "count": 1,
+            "cluster": "любовь",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "любовь к делу",
+            "count": 1,
+            "cluster": "любовь к делу",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "любовь к отрасли",
+            "count": 1,
+            "cluster": "любовь к отрасли",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "любовь к своей работе",
+            "count": 1,
+            "cluster": "любовь к делу",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "любовь к матушке россии.",
+            "count": 1,
+            "cluster": "патриотизм",
+            "sentiment": "positives",
+            "corrected": "любовь к матушке россии"
+        },
+        {
+            "answer": "патриотизм",
+            "count": 1,
+            "cluster": "патриотизм",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "масштаб задач",
+            "count": 1,
+            "cluster": "масштаб задач",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мотивация",
+            "count": 2,
+            "cluster": "мотивация",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "мотивация от руководителя",
+            "count": 1,
+            "cluster": "мотивация",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "моя семья.",
+            "count": 1,
+            "cluster": "семья",
+            "sentiment": "neutrals",
+            "corrected": "моя семья"
+        },
+        {
+            "answer": "семья",
+            "count": 28,
+            "cluster": "семья",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "надежда",
+            "count": 3,
+            "cluster": "надежда",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "надежда на изменения",
+            "count": 1,
+            "cluster": "надежда на изменения",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "надежность работодателя",
+            "count": 1,
+            "cluster": "надежность работодателя",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "надёжный работодатель",
+            "count": 1,
+            "cluster": "надежность работодателя",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "уверенность в организации",
+            "count": 1,
+            "cluster": "надежность работодателя",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "уверенность в работодателе",
+            "count": 1,
+            "cluster": "надежность работодателя",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "не смотреть новости",
+            "count": 1,
+            "cluster": "не смотреть новости",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "не читать новости",
+            "count": 1,
+            "cluster": "не смотреть новости",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "не терять надежды на результат",
+            "count": 1,
+            "cluster": "не терять надежды на результат",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "нематериальная мотивация",
+            "count": 1,
+            "cluster": "нематериальная мотивация",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "нетривиальные задачи и успех",
+            "count": 1,
+            "cluster": "нетривиальные задачи и успех",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "новые проекты",
+            "count": 1,
+            "cluster": "новые проекты",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новые технологии",
+            "count": 1,
+            "cluster": "новые технологии",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "обеспеченность ресурсами",
+            "count": 1,
+            "cluster": "обеспеченность ресурсами",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "обмен мнениями",
+            "count": 1,
+            "cluster": "обмен мнениями",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "обратная связь от руководства",
+            "count": 2,
+            "cluster": "получение обратной связи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "получение обратной связи",
+            "count": 1,
+            "cluster": "получение обратной связи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "обсуждение проблем с коллегами",
+            "count": 1,
+            "cluster": "обсуждение проблем с коллегами",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "одобрениедействийруководителем",
+            "count": 1,
+            "cluster": "одобрение действий руководителем",
+            "sentiment": "positives",
+            "corrected": "одобрение действий руководителем"
+        },
+        {
+            "answer": "ответственность",
+            "count": 1,
+            "cluster": "ответственность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "ответственность.",
+            "count": 1,
+            "cluster": "ответственность",
+            "sentiment": "positives",
+            "corrected": "ответственность"
+        },
+        {
+            "answer": "ответственность за близких",
+            "count": 1,
+            "cluster": "ответственность за близких",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ответственность за семью",
+            "count": 1,
+            "cluster": "ответственность за близких",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ответственность за коллектив",
+            "count": 1,
+            "cluster": "ответственность за коллектив",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ответственность за людей",
+            "count": 1,
+            "cluster": "ответственность за коллектив",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ответственность за результат",
+            "count": 3,
+            "cluster": "ответственность за результат",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ответственность работы",
+            "count": 1,
+            "cluster": "ответственность работы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "отдых/тренинг по психологии",
+            "count": 1,
+            "cluster": "отдых тренинг по психологии",
+            "sentiment": "neutrals",
+            "corrected": "отдых тренинг по психологии"
+        },
+        {
+            "answer": "открытость руководителей",
+            "count": 1,
+            "cluster": "открытость руководителей",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "отличное место работы!!!!",
+            "count": 1,
+            "cluster": "отличное место работы",
+            "sentiment": "positives",
+            "corrected": "отличное место работы"
+        },
+        {
+            "answer": "отстранение от внешней ситуаци",
+            "count": 1,
+            "cluster": "отстранение от внешней ситуации",
+            "sentiment": "neutrals",
+            "corrected": "отстранение от внешней ситуации"
+        },
+        {
+            "answer": "отсутствие переработок",
+            "count": 1,
+            "cluster": "отсутствие переработок",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "перевооружен",
+            "count": 1,
+            "cluster": "перевооружен",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "периодические бонусы",
+            "count": 1,
+            "cluster": "периодические бонусы",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "перспективы отрасли",
+            "count": 1,
+            "cluster": "перспективы отрасли",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "пиво",
+            "count": 1,
+            "cluster": "пиво",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "поддерживать осознанное состоя",
+            "count": 1,
+            "cluster": "поддерживать осознанное состояние",
+            "sentiment": "positives",
+            "corrected": "поддерживать осознанное состояние"
+        },
+        {
+            "answer": "поддержка",
+            "count": 1,
+            "cluster": "поддержка",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "поддержка близких и родных",
+            "count": 1,
+            "cluster": "поддержка близких и родных",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "поддержка вышестоящего руковод",
+            "count": 1,
+            "cluster": "поддержка руководителя",
+            "sentiment": "positives",
+            "corrected": "поддержка вышестоящего руководства"
+        },
+        {
+            "answer": "поддержка руководителей",
+            "count": 1,
+            "cluster": "поддержка руководителя",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "поддержка руководителя",
+            "count": 2,
+            "cluster": "поддержка руководителя",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "поддержка руководства",
+            "count": 2,
+            "cluster": "поддержка руководителя",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "поддержка коллег",
+            "count": 2,
+            "cluster": "поддержка команды",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "поддержка команды",
+            "count": 1,
+            "cluster": "поддержка команды",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "поддержка коллег и семьи",
+            "count": 1,
+            "cluster": "поддержка команды",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "поддержка организации",
+            "count": 1,
+            "cluster": "поддержка организации",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "позитивное мышление",
+            "count": 1,
+            "cluster": "позитивный настрой",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "позитивный настрой",
+            "count": 2,
+            "cluster": "позитивный настрой",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "позитивный настрой сутра!",
+            "count": 1,
+            "cluster": "позитивный настрой",
+            "sentiment": "positives",
+            "corrected": "позитивный настрой с утра"
+        },
+        {
+            "answer": "позитивный настрой части колле",
+            "count": 1,
+            "cluster": "позитивный настрой",
+            "sentiment": "positives",
+            "corrected": "позитивный настрой части коллег"
+        },
+        {
+            "answer": "получение максимального эффект",
+            "count": 1,
+            "cluster": "получение максимального эффекта",
+            "sentiment": "neutrals",
+            "corrected": "получение максимального эффекта"
+        },
+        {
+            "answer": "понимание что я нужен здесь!",
+            "count": 1,
+            "cluster": "понимание что я нужен здесь",
+            "sentiment": "positives",
+            "corrected": "понимание что я нужен здесь"
+        },
+        {
+            "answer": "понятные цели",
+            "count": 1,
+            "cluster": "ясность целей и задач",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "постоянная коммуникация",
+            "count": 1,
+            "cluster": "постоянная коммуникация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "постоянство",
+            "count": 1,
+            "cluster": "стабильность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "стабиллность",
+            "count": 1,
+            "cluster": "стабильность",
+            "sentiment": "positives",
+            "corrected": "стабильность"
+        },
+        {
+            "answer": "стабильность",
+            "count": 8,
+            "cluster": "стабильность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "стабильность в отрасли.",
+            "count": 1,
+            "cluster": "стабильность в отрасли",
+            "sentiment": "positives",
+            "corrected": "стабильность в отрасли"
+        },
+        {
+            "answer": "стабильность в росатоме",
+            "count": 1,
+            "cluster": "стабильность предприятия",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "стабильность отрасли",
+            "count": 2,
+            "cluster": "стабильность в отрасли",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "стабильность предприятия",
+            "count": 1,
+            "cluster": "стабильность предприятия",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "приближение конца года",
+            "count": 1,
+            "cluster": "приближение конца года",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "причастность к общей цели",
+            "count": 1,
+            "cluster": "причастность к общей цели",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "психотерапевт",
+            "count": 1,
+            "cluster": "психотерапия",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "психотерапия",
+            "count": 1,
+            "cluster": "психотерапия",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "работа с психологом",
+            "count": 1,
+            "cluster": "психотерапия",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "работа",
+            "count": 1,
+            "cluster": "работа",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "работа в команде",
+            "count": 1,
+            "cluster": "работа в команде",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "разговор с руководителем",
+            "count": 1,
+            "cluster": "разговор с руководителем",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "реализация решений",
+            "count": 1,
+            "cluster": "реализация решений",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "рост заказов на ближайшие годы",
+            "count": 1,
+            "cluster": "рост заказов на ближайшие годы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "руководитель",
+            "count": 1,
+            "cluster": "руководство",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "руководство",
+            "count": 1,
+            "cluster": "руководство",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "самовнушение",
+            "count": 1,
+            "cluster": "самовнушение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "самомотивация",
+            "count": 1,
+            "cluster": "самомотивация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "саморазвитие и новые задачи",
+            "count": 1,
+            "cluster": "саморазвитие и новые задачи",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "смелость",
+            "count": 1,
+            "cluster": "бесстрашие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "смена области деятельности",
+            "count": 1,
+            "cluster": "смена области деятельности",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "содейтвие руководителей",
+            "count": 1,
+            "cluster": "содействие руководителей",
+            "sentiment": "positives",
+            "corrected": "содействие руководителей"
+        },
+        {
+            "answer": "сон",
+            "count": 1,
+            "cluster": "сон",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сосредоточенность на хорошем",
+            "count": 1,
+            "cluster": "сосредоточенность на хорошем",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "социальная поддержка",
+            "count": 2,
+            "cluster": "социальная поддержка",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "социальная стабильность",
+            "count": 1,
+            "cluster": "социальная стабильность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "спокойствие за своих близких",
+            "count": 1,
+            "cluster": "спокойствие за своих близких",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "спорт и семья",
+            "count": 1,
+            "cluster": "семья",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "стабильная выплата зарплаты",
+            "count": 1,
+            "cluster": "стабильная зарплата",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "стабильная зарплата",
+            "count": 1,
+            "cluster": "стабильная зарплата",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "стрессоустойчивость",
+            "count": 1,
+            "cluster": "стрессоустойчивость",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "тимбилдинг",
+            "count": 1,
+            "cluster": "командообразование",
+            "sentiment": "neutrals",
+            "corrected": "командообразование"
+        },
+        {
+            "answer": "туризм",
+            "count": 1,
+            "cluster": "туризм",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "тяга быть лучшим",
+            "count": 1,
+            "cluster": "тяга быть лучшим",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "уважение мнения",
+            "count": 1,
+            "cluster": "уважение мнения",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "уверенность в достижении задач",
+            "count": 1,
+            "cluster": "уверенность в достижении задач",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "уверенность в завтрашнем дне",
+            "count": 10,
+            "cluster": "уверенность в завтрашнем дне",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "уверенность в руководстве",
+            "count": 1,
+            "cluster": "уверенность в руководстве",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "уверенность в себе",
+            "count": 1,
+            "cluster": "уверенность в себе",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "уверенность в себе и коллегах",
+            "count": 1,
+            "cluster": "уверенность в себе и коллегах",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "уверенность руководства",
+            "count": 1,
+            "cluster": "уверенность руководства",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "увлече",
+            "count": 1,
+            "cluster": "хобби",
+            "sentiment": "neutrals",
+            "corrected": "увлечения"
+        },
+        {
+            "answer": "увлечения",
+            "count": 1,
+            "cluster": "хобби",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "хобби",
+            "count": 1,
+            "cluster": "хобби",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "успехи в работе",
+            "count": 1,
+            "cluster": "успехи в работе",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "участие в проектах",
+            "count": 1,
+            "cluster": "участие в проектах",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "учебы семинары как смена обста",
+            "count": 1,
+            "cluster": "учебы семинары как смена места",
+            "sentiment": "neutrals",
+            "corrected": "учебы семинары как смена места"
+        },
+        {
+            "answer": "характер.",
+            "count": 1,
+            "cluster": "характер",
+            "sentiment": "neutrals",
+            "corrected": "характер"
+        },
+        {
+            "answer": "хобби и поддержка близких",
+            "count": 1,
+            "cluster": "хобби и поддержка близких",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "хороший отдых",
+            "count": 1,
+            "cluster": "хороший отдых",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "целеустремленность",
+            "count": 1,
+            "cluster": "целеустремленность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "чувство долга",
+            "count": 1,
+            "cluster": "чувство долга",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "чувство юмора",
+            "count": 1,
+            "cluster": "юмор",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "юмор",
+            "count": 1,
+            "cluster": "юмор",
+            "sentiment": "neutrals"
+        }
+    ]
+}

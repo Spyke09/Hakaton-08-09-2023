@@ -1,0 +1,50 @@
+{
+    "question": "Откуда вы? (Город)",
+    "id": 23360,
+    "answers": [
+        {
+            "answer": "евпатория",
+            "count": 1,
+            "cluster": "евпатория",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "могилев",
+            "count": 2,
+            "cluster": "могилев",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "могилев беларусь",
+            "count": 1,
+            "cluster": "могилев",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "москва",
+            "count": 2,
+            "cluster": "москва",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "реутов",
+            "count": 1,
+            "cluster": "реутов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "санк-петербург",
+            "count": 1,
+            "cluster": "санкт петербург",
+            "sentiment": "neutrals",
+            "corrected": "санкт петербург"
+        },
+        {
+            "answer": "санкт-петербург",
+            "count": 1,
+            "cluster": "санкт петербург",
+            "sentiment": "neutrals",
+            "corrected": "санкт петербург"
+        }
+    ]
+}

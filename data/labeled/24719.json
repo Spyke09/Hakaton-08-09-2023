@@ -1,0 +1,20 @@
+{
+    "question": "Что поможет сделать программу более полезной для вас?",
+    "id": 24719,
+    "answers": [
+        {
+            "answer": "все обеспечено",
+            "count": 1,
+            "cluster": "все обеспечено",
+            "sentiment": "context cluster",
+            "corrected": "всё отлично"
+        },
+        {
+            "answer": "программа максимально насвщена",
+            "count": 1,
+            "cluster": "программа максимально насыщена",
+            "sentiment": "context cluster",
+            "corrected": "всё отлично"
+        }
+    ]
+}

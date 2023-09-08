@@ -1,0 +1,170 @@
+{
+    "question": "Напишите сильные стороны переговорщиков в Росатоме",
+    "id": 24378,
+    "answers": [
+        {
+            "answer": "авторитет",
+            "count": 1,
+            "cluster": "авторитет",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "административный ресурс",
+            "count": 1,
+            "cluster": "административный ресурс",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "бренд",
+            "count": 2,
+            "cluster": "бренд",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "гибкость",
+            "count": 1,
+            "cluster": "гибкость",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "грамотные технические спецы",
+            "count": 1,
+            "cluster": "грамотные технические специалисты",
+            "sentiment": "positives",
+            "corrected": "грамотные технические специалисты"
+        },
+        {
+            "answer": "духом",
+            "count": 1,
+            "cluster": "духом",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "заёмными средствами",
+            "count": 1,
+            "cluster": "заёмными средствами",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "знание",
+            "count": 1,
+            "cluster": "знания",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "знания",
+            "count": 1,
+            "cluster": "знания",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "знания и опыт",
+            "count": 1,
+            "cluster": "знания",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "имидж",
+            "count": 1,
+            "cluster": "имидж",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "компетентность уважение",
+            "count": 1,
+            "cluster": "компетентность уважение",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "компетентностью и квалифик",
+            "count": 1,
+            "cluster": "компетентностью и квалификацией",
+            "sentiment": "positives",
+            "corrected": "компетентностью и квалификацией"
+        },
+        {
+            "answer": "компетенции",
+            "count": 1,
+            "cluster": "компетентность уважение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "лидеры в отрасли",
+            "count": 1,
+            "cluster": "лидеры в отрасли",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "опыт",
+            "count": 3,
+            "cluster": "опыт",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "опытом",
+            "count": 1,
+            "cluster": "опыт",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "опыт строительства",
+            "count": 1,
+            "cluster": "опыт строительства",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "отстаивание позиции",
+            "count": 1,
+            "cluster": "отстаивание позиции",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "подготовка",
+            "count": 2,
+            "cluster": "подготовка",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "продукты сильнее на рынке",
+            "count": 1,
+            "cluster": "продукты сильнее на рынке",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "репутация",
+            "count": 3,
+            "cluster": "репутация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сильная стартовая позиция",
+            "count": 2,
+            "cluster": "сильная стартовая позиция",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "референции",
+            "count": 1,
+            "cluster": "референции",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "стратегия",
+            "count": 1,
+            "cluster": "стратегия",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "упрямость",
+            "count": 1,
+            "cluster": "упрямость",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "харизма",
+            "count": 1,
+            "cluster": "харизма",
+            "sentiment": "positives"
+        }
+    ]
+}

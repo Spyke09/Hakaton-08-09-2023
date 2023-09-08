@@ -1,0 +1,55 @@
+{
+    "question": "Ваши открытия за время обучения на модуле",
+    "id": 23464,
+    "answers": [
+        {
+            "answer": "все",
+            "count": 1,
+            "cluster": "все",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "интересные результаты тестиров",
+            "count": 1,
+            "cluster": "интересные результаты тестирования",
+            "sentiment": "positives",
+            "corrected": "интересные результаты тестирования"
+        },
+        {
+            "answer": "много всего интересного",
+            "count": 1,
+            "cluster": "много всего интересного",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "не одно",
+            "count": 1,
+            "cluster": "не одно",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "переговоры",
+            "count": 1,
+            "cluster": "переговоры",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "структуризация переговоров",
+            "count": 1,
+            "cluster": "структуризация переговоров",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "твёрдость не всегда правильно",
+            "count": 1,
+            "cluster": "твердость не всегда хороша",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "твердость не всегда хороша",
+            "count": 1,
+            "cluster": "твердость не всегда хороша",
+            "sentiment": "neutrals"
+        }
+    ]
+}

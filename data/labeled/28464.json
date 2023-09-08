@@ -1,0 +1,381 @@
+{
+    "question": "На какие еще темы вы хотели бы поговорить с А.Е. Лихачевым?",
+    "id": 28464,
+    "answers": [
+        {
+            "answer": "безопасность",
+            "count": 4,
+            "cluster": "безопасность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "безопасность в отрасли",
+            "count": 1,
+            "cluster": "безопасность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "бизнес стратегия",
+            "count": 1,
+            "cluster": "стратегия",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "будущие контракты на аэс",
+            "count": 1,
+            "cluster": "будущие контракты на аэс",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "вдохновение",
+            "count": 1,
+            "cluster": "вдохновение",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "вклад основателей",
+            "count": 1,
+            "cluster": "вклад основателей",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "вопросы поощрений",
+            "count": 1,
+            "cluster": "поощрение",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "поощрение",
+            "count": 1,
+            "cluster": "поощрение",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "поощрения активных сотрудников",
+            "count": 1,
+            "cluster": "поощрение",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "выборы в осм 2023",
+            "count": 1,
+            "cluster": "выборы в осм 2023",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "выгорание",
+            "count": 6,
+            "cluster": "выгорание",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "вызовы",
+            "count": 1,
+            "cluster": "вызовы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "где взять деньги на проекты",
+            "count": 1,
+            "cluster": "где взять деньги на проекты",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "жизненный баланс",
+            "count": 1,
+            "cluster": "жизненный баланс",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "закрепление статуса осм в гк",
+            "count": 2,
+            "cluster": "закрепление статуса осм в госкорпорация",
+            "sentiment": "neutrals",
+            "corrected": "закрепление статуса осм в госкорпорация"
+        },
+        {
+            "answer": "запросы от руководства",
+            "count": 1,
+            "cluster": "запросы от руководства",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "как выжить",
+            "count": 1,
+            "cluster": "как выжить",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "карьера",
+            "count": 1,
+            "cluster": "карьерные перспективы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "карьера молодых специалистов",
+            "count": 1,
+            "cluster": "карьерные перспективы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "карьерные перспективы",
+            "count": 2,
+            "cluster": "карьерные перспективы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "карьера и развитие молодежи",
+            "count": 1,
+            "cluster": "карьерные перспективы",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "керлинг",
+            "count": 1,
+            "cluster": "поиграть в кёрлинг",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "поиграть в керлинг",
+            "count": 1,
+            "cluster": "поиграть в кёрлинг",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "поиграть в кёрлинг",
+            "count": 3,
+            "cluster": "поиграть в кёрлинг",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "котики",
+            "count": 1,
+            "cluster": "котики",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "личный опыт",
+            "count": 1,
+            "cluster": "опыт",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "опыт",
+            "count": 1,
+            "cluster": "опыт",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мировой бизнес",
+            "count": 1,
+            "cluster": "мировой бизнес",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мотивация",
+            "count": 6,
+            "cluster": "мотивация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "стимул",
+            "count": 1,
+            "cluster": "мотивация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "на любые",
+            "count": 1,
+            "cluster": "на любые",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "обо всём",
+            "count": 1,
+            "cluster": "на любые",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "научная повестка",
+            "count": 1,
+            "cluster": "научная повестка",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "проведение научных форумов",
+            "count": 1,
+            "cluster": "научная повестка",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нет идей",
+            "count": 1,
+            "cluster": "нет идей",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "о прямом информирование",
+            "count": 1,
+            "cluster": "о прямом информировании",
+            "sentiment": "neutrals",
+            "corrected": "о прямом информировании"
+        },
+        {
+            "answer": "о развитии",
+            "count": 1,
+            "cluster": "развитие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "развитие",
+            "count": 2,
+            "cluster": "развитие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "росатом второй путь развития",
+            "count": 1,
+            "cluster": "росатом второй путь развития",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "перспектива зато",
+            "count": 1,
+            "cluster": "перспектива зато",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "перспективные зарубеж.проекты",
+            "count": 1,
+            "cluster": "перспективные зарубежные проекты",
+            "sentiment": "positives",
+            "corrected": "перспективные зарубежные проекты"
+        },
+        {
+            "answer": "победы",
+            "count": 1,
+            "cluster": "победа",
+            "sentiment": "positives",
+            "corrected": "победа"
+        },
+        {
+            "answer": "поддержка активности «дома»",
+            "count": 1,
+            "cluster": "поддержка активности дома",
+            "sentiment": "positives",
+            "corrected": "поддержка активности дома"
+        },
+        {
+            "answer": "поддержка инженерных спец-ов",
+            "count": 1,
+            "cluster": "поддержка инженерных специалистов",
+            "sentiment": "positives",
+            "corrected": "поддержка инженерных специалистов"
+        },
+        {
+            "answer": "поддержка молодёжи",
+            "count": 1,
+            "cluster": "поддержка молодёжи",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "поддержка осм",
+            "count": 1,
+            "cluster": "поддержка осм",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "поехать в энергодар",
+            "count": 1,
+            "cluster": "поехать в энергодар",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "политический клуб",
+            "count": 1,
+            "cluster": "политический клуб",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "про зайчика",
+            "count": 1,
+            "cluster": "про зайчика",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "секрет успеха",
+            "count": 1,
+            "cluster": "секрет успеха",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "снятие стресса и перезагрузка",
+            "count": 1,
+            "cluster": "снятие стресса и перезагрузка",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "социальное равенство",
+            "count": 1,
+            "cluster": "социальное равенство",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "стратегия",
+            "count": 1,
+            "cluster": "стратегия",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "таки вкусное вино в сочи?",
+            "count": 1,
+            "cluster": "таки вкусное вино в сочи",
+            "sentiment": "neutrals",
+            "corrected": "таки вкусное вино в сочи"
+        },
+        {
+            "answer": "тема справедливости и честност",
+            "count": 1,
+            "cluster": "тема справедливости и честности",
+            "sentiment": "positives",
+            "corrected": "тема справедливости и честности"
+        },
+        {
+            "answer": "темы по новым продуктам в it",
+            "count": 1,
+            "cluster": "темы по новым продуктам в информационные технологии",
+            "sentiment": "neutrals",
+            "corrected": "темы по новым продуктам в информационные технологии"
+        },
+        {
+            "answer": "трансформация отрасли",
+            "count": 1,
+            "cluster": "трансформация отрасли",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ширпотреб",
+            "count": 1,
+            "cluster": "ширпотреб",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "экология",
+            "count": 1,
+            "cluster": "экология",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "экономическое развитие",
+            "count": 1,
+            "cluster": "экономическое развитие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "эффективность",
+            "count": 1,
+            "cluster": "эффективность",
+            "sentiment": "positives"
+        }
+    ]
+}

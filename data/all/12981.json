@@ -1,0 +1,838 @@
+{
+    "id": 12981,
+    "question": "Родные города",
+    "answers": [
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "волгодонск",
+            "count": 1
+        },
+        {
+            "answer": "новочеркасск",
+            "count": 1
+        },
+        {
+            "answer": "ростов-на-дону",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "черкесск",
+            "count": 1
+        },
+        {
+            "answer": "саратов",
+            "count": 1
+        },
+        {
+            "answer": "краматорск",
+            "count": 1
+        },
+        {
+            "answer": "димитровград",
+            "count": 1
+        },
+        {
+            "answer": "саратов",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "темрюк",
+            "count": 1
+        },
+        {
+            "answer": "ленинград казань",
+            "count": 1
+        },
+        {
+            "answer": "монастырщина",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "санкт - петербург",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "тамбов",
+            "count": 1
+        },
+        {
+            "answer": "железногорск",
+            "count": 1
+        },
+        {
+            "answer": "северск",
+            "count": 1
+        },
+        {
+            "answer": "десногорск",
+            "count": 1
+        },
+        {
+            "answer": "аша",
+            "count": 1
+        },
+        {
+            "answer": "трехгорный",
+            "count": 1
+        },
+        {
+            "answer": "челябинск",
+            "count": 1
+        },
+        {
+            "answer": "краснодар",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "нижний новгород",
+            "count": 1
+        },
+        {
+            "answer": "ульяновск москва",
+            "count": 1
+        },
+        {
+            "answer": "саров",
+            "count": 1
+        },
+        {
+            "answer": "саров",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "трехгорный",
+            "count": 1
+        },
+        {
+            "answer": "оренбург",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "курчатов",
+            "count": 1
+        },
+        {
+            "answer": "нижний новгород",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "чита",
+            "count": 1
+        },
+        {
+            "answer": "кечкемет",
+            "count": 1
+        },
+        {
+            "answer": "симферополь",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "севастополь",
+            "count": 1
+        },
+        {
+            "answer": "мурманск",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "волгодонск",
+            "count": 1
+        },
+        {
+            "answer": "екатеринбург",
+            "count": 1
+        },
+        {
+            "answer": "десногорск",
+            "count": 1
+        },
+        {
+            "answer": "санкт-петербург",
+            "count": 1
+        },
+        {
+            "answer": "озерск",
+            "count": 1
+        },
+        {
+            "answer": "трехгорный",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "челябинск",
+            "count": 1
+        },
+        {
+            "answer": "екатеринбург",
+            "count": 1
+        },
+        {
+            "answer": "новый узень",
+            "count": 1
+        },
+        {
+            "answer": "майкоп, москва",
+            "count": 1
+        },
+        {
+            "answer": "коломна",
+            "count": 1
+        },
+        {
+            "answer": "нижний новгород",
+            "count": 1
+        },
+        {
+            "answer": "курск",
+            "count": 1
+        },
+        {
+            "answer": "томск",
+            "count": 1
+        },
+        {
+            "answer": "красноярск",
+            "count": 1
+        },
+        {
+            "answer": "норильск",
+            "count": 1
+        },
+        {
+            "answer": "красноярск",
+            "count": 1
+        },
+        {
+            "answer": "диксон",
+            "count": 1
+        },
+        {
+            "answer": "обнинск",
+            "count": 1
+        },
+        {
+            "answer": "балаково",
+            "count": 1
+        },
+        {
+            "answer": "салехард",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "санкт-петербург",
+            "count": 1
+        },
+        {
+            "answer": "озёрск",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "екатеринбург",
+            "count": 1
+        },
+        {
+            "answer": "ляньюньган",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "прага",
+            "count": 1
+        },
+        {
+            "answer": "балашиха",
+            "count": 1
+        },
+        {
+            "answer": "волгодонск",
+            "count": 1
+        },
+        {
+            "answer": "подольск",
+            "count": 1
+        },
+        {
+            "answer": "калуга",
+            "count": 1
+        },
+        {
+            "answer": "санкт-петербург",
+            "count": 1
+        },
+        {
+            "answer": "северск",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "северск",
+            "count": 1
+        },
+        {
+            "answer": "ангарск",
+            "count": 1
+        },
+        {
+            "answer": "томск",
+            "count": 1
+        },
+        {
+            "answer": "степногорск",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "санкт-петербург",
+            "count": 1
+        },
+        {
+            "answer": "владимир",
+            "count": 1
+        },
+        {
+            "answer": "краснодар",
+            "count": 1
+        },
+        {
+            "answer": "ковров",
+            "count": 1
+        },
+        {
+            "answer": "электросталь",
+            "count": 1
+        },
+        {
+            "answer": "сочи",
+            "count": 1
+        },
+        {
+            "answer": "ставрополь",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "северодвинск",
+            "count": 1
+        },
+        {
+            "answer": "обнинск",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "санкт-петербург",
+            "count": 1
+        },
+        {
+            "answer": "новосибирск",
+            "count": 1
+        },
+        {
+            "answer": "ульяновск",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "самара",
+            "count": 1
+        },
+        {
+            "answer": "новосибирск",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "павловский посад",
+            "count": 1
+        },
+        {
+            "answer": "санкт-петербург",
+            "count": 1
+        },
+        {
+            "answer": "казань",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "мурманск",
+            "count": 1
+        },
+        {
+            "answer": "смоленск",
+            "count": 1
+        },
+        {
+            "answer": "саров",
+            "count": 1
+        },
+        {
+            "answer": "моршанск",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "советский союз",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "санкт-петербург",
+            "count": 1
+        },
+        {
+            "answer": "волгодонск",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "нижний новгород",
+            "count": 1
+        },
+        {
+            "answer": "пакш",
+            "count": 1
+        },
+        {
+            "answer": "горький",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "нижний новгород",
+            "count": 1
+        },
+        {
+            "answer": "тверь",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "челябинск",
+            "count": 1
+        },
+        {
+            "answer": "балаково",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "владимир",
+            "count": 1
+        },
+        {
+            "answer": "ташкент",
+            "count": 1
+        },
+        {
+            "answer": "геттебург",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "энгельс",
+            "count": 1
+        },
+        {
+            "answer": "саратов",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "обнинск",
+            "count": 1
+        },
+        {
+            "answer": "железногорск (красноярск)",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "глазов",
+            "count": 1
+        },
+        {
+            "answer": "знаменск",
+            "count": 1
+        },
+        {
+            "answer": "димитровград",
+            "count": 1
+        },
+        {
+            "answer": "ульяновск",
+            "count": 1
+        },
+        {
+            "answer": "заречный",
+            "count": 1
+        },
+        {
+            "answer": "екатеринбург",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "курган",
+            "count": 1
+        },
+        {
+            "answer": "екатеринбург",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "екатеринбург",
+            "count": 1
+        },
+        {
+            "answer": "волгодонск",
+            "count": 1
+        },
+        {
+            "answer": "саоатов",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "нижний новгород",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "томск",
+            "count": 1
+        },
+        {
+            "answer": "мурманск",
+            "count": 1
+        },
+        {
+            "answer": "курск",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "тверь",
+            "count": 1
+        },
+        {
+            "answer": "новосибирск",
+            "count": 1
+        },
+        {
+            "answer": "ангарск",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "ленинград",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "пермь",
+            "count": 1
+        },
+        {
+            "answer": "санкт-петербург",
+            "count": 1
+        },
+        {
+            "answer": "зеленогорск",
+            "count": 1
+        },
+        {
+            "answer": "томск",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "новоуральск",
+            "count": 1
+        },
+        {
+            "answer": "железногорск",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "нефтеюганск",
+            "count": 1
+        },
+        {
+            "answer": "видное",
+            "count": 1
+        },
+        {
+            "answer": "киров",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "екатеринбург",
+            "count": 1
+        },
+        {
+            "answer": "нижний новгород",
+            "count": 1
+        },
+        {
+            "answer": "глазов",
+            "count": 1
+        },
+        {
+            "answer": "нижний новгород",
+            "count": 1
+        },
+        {
+            "answer": "глазов",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "новоуральск",
+            "count": 1
+        },
+        {
+            "answer": "санкт петербург",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "новосибирск",
+            "count": 1
+        },
+        {
+            "answer": "вологда",
+            "count": 1
+        },
+        {
+            "answer": "полярные зори",
+            "count": 1
+        },
+        {
+            "answer": "полярные зори",
+            "count": 1
+        },
+        {
+            "answer": "томск москва",
+            "count": 1
+        },
+        {
+            "answer": "москва",
+            "count": 1
+        },
+        {
+            "answer": "ковров",
+            "count": 1
+        },
+        {
+            "answer": "тверь",
+            "count": 1
+        },
+        {
+            "answer": "санкт-петербург",
+            "count": 1
+        },
+        {
+            "answer": "самара",
+            "count": 1
+        }
+    ]
+}

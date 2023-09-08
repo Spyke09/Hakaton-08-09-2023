@@ -1,0 +1,48 @@
+{
+    "question": "Ключевые ассоциации с либерально-идеалистической парадигмой",
+    "id": 21718,
+    "answers": [
+        {
+            "answer": "свобода актора",
+            "count": 2,
+            "cluster": "свобода актора",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "свобода идея люди рынок мир",
+            "count": 1,
+            "cluster": "свобода идея люди рынок мир",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "свобода права и морали",
+            "count": 1,
+            "cluster": "свобода права и морали",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "свободное право",
+            "count": 1,
+            "cluster": "свободное право",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "сотрудничество",
+            "count": 2,
+            "cluster": "сотрудничество",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "универсальные ценности",
+            "count": 1,
+            "cluster": "универсальные ценности",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "частная собственность",
+            "count": 2,
+            "cluster": "частная собственность",
+            "sentiment": "neutrals"
+        }
+    ]
+}

@@ -1,0 +1,220 @@
+{
+    "question": "Ключевое слово вчерашнего дня",
+    "id": 24682,
+    "answers": [
+        {
+            "answer": "sas",
+            "count": 1,
+            "cluster": "sas",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "все о sas",
+            "count": 1,
+            "cluster": "sas",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "wow-эффект",
+            "count": 1,
+            "cluster": "wow эффект",
+            "sentiment": "neutrals",
+            "corrected": "wow эффект"
+        },
+        {
+            "answer": "акселератор ? а какой продукт?",
+            "count": 1,
+            "cluster": "акселератор а какой продукт",
+            "sentiment": "neutrals",
+            "corrected": "акселератор а какой продукт"
+        },
+        {
+            "answer": "введение",
+            "count": 1,
+            "cluster": "введение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "вопросов больше чем ответов",
+            "count": 1,
+            "cluster": "вопросов больше чем ответов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "вопросы",
+            "count": 1,
+            "cluster": "вопросы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "встречи",
+            "count": 1,
+            "cluster": "встречи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "границы",
+            "count": 1,
+            "cluster": "границы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "знакомство",
+            "count": 1,
+            "cluster": "знакомство",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новые контакты",
+            "count": 1,
+            "cluster": "знакомство",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "интенсивность",
+            "count": 1,
+            "cluster": "интенсивность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "интерес",
+            "count": 1,
+            "cluster": "интерес",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "команда",
+            "count": 1,
+            "cluster": "команда",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "командная работа",
+            "count": 1,
+            "cluster": "команда",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "кто ты?",
+            "count": 1,
+            "cluster": "кто ты",
+            "sentiment": "neutrals",
+            "corrected": "кто ты"
+        },
+        {
+            "answer": "много",
+            "count": 1,
+            "cluster": "много",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "неожиданность",
+            "count": 2,
+            "cluster": "неожиданность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "неопределённость",
+            "count": 1,
+            "cluster": "неопределённость",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "озадаченность",
+            "count": 1,
+            "cluster": "озадаченность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "осознанность",
+            "count": 2,
+            "cluster": "осознанность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "плюрализм мнений",
+            "count": 1,
+            "cluster": "плюрализм мнений",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "погружение",
+            "count": 1,
+            "cluster": "погружение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "проблема",
+            "count": 1,
+            "cluster": "проблема",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "радость",
+            "count": 1,
+            "cluster": "радость",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "развитие",
+            "count": 2,
+            "cluster": "развитие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "размышление",
+            "count": 1,
+            "cluster": "размышление",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ребёнок",
+            "count": 1,
+            "cluster": "ребёнок",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "свобода",
+            "count": 1,
+            "cluster": "свобода",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "субъект субъектность",
+            "count": 1,
+            "cluster": "субъектность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "субъектностб",
+            "count": 1,
+            "cluster": "субъектность",
+            "sentiment": "neutrals",
+            "corrected": "субъектность"
+        },
+        {
+            "answer": "субъектность",
+            "count": 8,
+            "cluster": "субъектность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "усталость",
+            "count": 1,
+            "cluster": "усталость",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "ученика",
+            "count": 1,
+            "cluster": "ученика",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "учителя",
+            "count": 1,
+            "cluster": "учителя",
+            "sentiment": "neutrals"
+        }
+    ]
+}

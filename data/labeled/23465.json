@@ -1,0 +1,43 @@
+{
+    "question": "Что поможет сделать программу более полезной для вас?",
+    "id": 23465,
+    "answers": [
+        {
+            "answer": "более углублённое изучение",
+            "count": 1,
+            "cluster": "более углублённое изучение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "больше дней с практикой",
+            "count": 1,
+            "cluster": "практика",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "все отлично",
+            "count": 2,
+            "cluster": "все отлично",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "доп кейсы",
+            "count": 1,
+            "cluster": "дополнительное решение",
+            "sentiment": "neutrals",
+            "corrected": "дополнительное решение"
+        },
+        {
+            "answer": "практика",
+            "count": 2,
+            "cluster": "практика",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "смена команд",
+            "count": 1,
+            "cluster": "смена команд",
+            "sentiment": "neutrals"
+        }
+    ]
+}

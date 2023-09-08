@@ -1,0 +1,151 @@
+{
+    "question": "На какие еще темы вы хотели бы поговорить с А.Е. Лихачевым?",
+    "id": 28528,
+    "answers": [
+        {
+            "answer": "\"эксперемент.песочницы\" бизнес",
+            "count": 1,
+            "cluster": "эксперимент песочницы бизнес",
+            "sentiment": "neutrals",
+            "corrected": "эксперимент песочницы бизнес"
+        },
+        {
+            "answer": "pr бренда госкорпорации",
+            "count": 1,
+            "cluster": "pr бренда госкорпорации",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "бизнес мотивацая",
+            "count": 1,
+            "cluster": "бизнес мотивация",
+            "sentiment": "neutrals",
+            "corrected": "бизнес мотивация"
+        },
+        {
+            "answer": "видение 2030",
+            "count": 1,
+            "cluster": "видение 2030",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "волонтерство",
+            "count": 1,
+            "cluster": "волонтерство",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "все было развернуто",
+            "count": 1,
+            "cluster": "все было развернуто",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "обсудили всё что актуально",
+            "count": 1,
+            "cluster": "все было развернуто",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "интересные",
+            "count": 1,
+            "cluster": "интересные",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "как вдохновлять коллег)",
+            "count": 1,
+            "cluster": "как вдохновлять коллег",
+            "sentiment": "positives",
+            "corrected": "как вдохновлять коллег"
+        },
+        {
+            "answer": "как молодежь влияет на видение",
+            "count": 1,
+            "cluster": "как молодежь влияет на видение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "про молодежь",
+            "count": 1,
+            "cluster": "про молодежь",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "развитие молодёжных пространст",
+            "count": 1,
+            "cluster": "развитие молодёжных пространств",
+            "sentiment": "positives",
+            "corrected": "развитие молодёжных пространств"
+        },
+        {
+            "answer": "спец. по работе с молодёжью",
+            "count": 1,
+            "cluster": "специалист по работе с молодёжью",
+            "sentiment": "neutrals",
+            "corrected": "специалист по работе с молодёжью"
+        },
+        {
+            "answer": "каким видит будущее сотруднико",
+            "count": 1,
+            "cluster": "каким видит будущее сотрудников",
+            "sentiment": "neutrals",
+            "corrected": "каким видит будущее сотрудников"
+        },
+        {
+            "answer": "освобожденный председатель осм",
+            "count": 1,
+            "cluster": "освобожденный председатель осм",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "перспективы школьников",
+            "count": 1,
+            "cluster": "перспективы школьников",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "поддержка со стороны лин.р-лей",
+            "count": 1,
+            "cluster": "поддержка со стороны линейных руководителей",
+            "sentiment": "positives",
+            "corrected": "поддержка со стороны линейных руководителей"
+        },
+        {
+            "answer": "портрет лидера росатома",
+            "count": 1,
+            "cluster": "портрет лидера росатома",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "профессиональное развитие",
+            "count": 1,
+            "cluster": "профессиональное развитие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "работа в условиях санкций",
+            "count": 1,
+            "cluster": "работа в условиях санкций",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "спорт в атомной отрасли",
+            "count": 1,
+            "cluster": "спорт в атомной отрасли",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "студенческие годы",
+            "count": 1,
+            "cluster": "студенческие годы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "тема ценностей",
+            "count": 1,
+            "cluster": "тема ценностей",
+            "sentiment": "neutrals"
+        }
+    ]
+}

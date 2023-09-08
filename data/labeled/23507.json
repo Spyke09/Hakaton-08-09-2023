@@ -1,0 +1,62 @@
+{
+    "question": "Что поможет сделать программу более полезной для вас?",
+    "id": 23507,
+    "answers": [
+        {
+            "answer": "всë и так очень хорошо",
+            "count": 1,
+            "cluster": "всё хорошо",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "все достаточно",
+            "count": 1,
+            "cluster": "всё хорошо",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "все идеально",
+            "count": 1,
+            "cluster": "всё хорошо",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "все отлично",
+            "count": 1,
+            "cluster": "всё хорошо",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "всё хорошо",
+            "count": 1,
+            "cluster": "всё хорошо",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "не знаю",
+            "count": 1,
+            "cluster": "не знаю",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "очные встречи",
+            "count": 1,
+            "cluster": "очные встречи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "работать со всеми участеиками",
+            "count": 1,
+            "cluster": "работать со всеми участниками",
+            "sentiment": "neutrals",
+            "corrected": "работать со всеми участниками"
+        },
+        {
+            "answer": "удвоение времени для более глу",
+            "count": 1,
+            "cluster": "удвоение времени для более глубокого",
+            "sentiment": "neutrals",
+            "corrected": "удвоение времени для более глубокого"
+        }
+    ]
+}

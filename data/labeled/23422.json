@@ -1,0 +1,62 @@
+{
+    "question": "Ваши открытия за время обучения на модуле",
+    "id": 23422,
+    "answers": [
+        {
+            "answer": "важно формировать осознание",
+            "count": 1,
+            "cluster": "важно формировать осознание",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "есть",
+            "count": 1,
+            "cluster": "есть",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "интерактивная бизнес-игра",
+            "count": 1,
+            "cluster": "интерактивная бизнес игра",
+            "sentiment": "neutrals",
+            "corrected": "интерактивная бизнес игра"
+        },
+        {
+            "answer": "модель",
+            "count": 1,
+            "cluster": "модель",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "модель адкар",
+            "count": 1,
+            "cluster": "модель адкар",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нет",
+            "count": 1,
+            "cluster": "нет",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нужен план изменений",
+            "count": 1,
+            "cluster": "нужен план изменений",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "очень интересная игра",
+            "count": 1,
+            "cluster": "очень интересная игра",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "разобраться можно во всем!",
+            "count": 1,
+            "cluster": "разобраться можно во всем",
+            "sentiment": "neutrals",
+            "corrected": "разобраться можно во всем"
+        }
+    ]
+}

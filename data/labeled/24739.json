@@ -1,0 +1,94 @@
+{
+    "question": "Что поможет сделать программу более полезной для вас?",
+    "id": 24739,
+    "answers": [
+        {
+            "answer": "бизнес-игры",
+            "count": 1,
+            "cluster": "бизнес игры",
+            "sentiment": "neutrals",
+            "corrected": "бизнес игры"
+        },
+        {
+            "answer": "больше игр",
+            "count": 1,
+            "cluster": "больше игр",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "больше командных задач/рабочих",
+            "count": 1,
+            "cluster": "больше командных задач рабочих",
+            "sentiment": "neutrals",
+            "corrected": "больше командных задач рабочих"
+        },
+        {
+            "answer": "больше практики",
+            "count": 1,
+            "cluster": "больше практики",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "больше тактики",
+            "count": 1,
+            "cluster": "больше тактики",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "время",
+            "count": 1,
+            "cluster": "время",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "все достаточно",
+            "count": 1,
+            "cluster": "все отлично",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "все отлично",
+            "count": 1,
+            "cluster": "все отлично",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "всё хорошо",
+            "count": 1,
+            "cluster": "все отлично",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "достаточно",
+            "count": 1,
+            "cluster": "все отлично",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "итак полезно",
+            "count": 1,
+            "cluster": "все отлично",
+            "sentiment": "positives",
+            "corrected": "и так полезно"
+        },
+        {
+            "answer": "да",
+            "count": 1,
+            "cluster": "да",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нет",
+            "count": 1,
+            "cluster": "нет",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "реальные кейсы росатома",
+            "count": 1,
+            "cluster": "реальные решение росатома",
+            "sentiment": "neutrals",
+            "corrected": "реальные решение росатома"
+        }
+    ]
+}

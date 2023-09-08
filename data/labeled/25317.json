@@ -1,0 +1,85 @@
+{
+    "question": "Что планируете применять из пройденного обучения в ближайшее время?",
+    "id": 25317,
+    "answers": [
+        {
+            "answer": "внедрение цифровизации",
+            "count": 1,
+            "cluster": "внедрение цифровизации",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "внедрение цифровых проектов",
+            "count": 1,
+            "cluster": "внедрение цифровизации",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "всё",
+            "count": 1,
+            "cluster": "всё",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "полученные знания и навыки",
+            "count": 1,
+            "cluster": "полученный материал",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "полученный материал",
+            "count": 1,
+            "cluster": "полученный материал",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "задачи цифровизации",
+            "count": 1,
+            "cluster": "задачи цифровизации",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "изменений в коллективе",
+            "count": 1,
+            "cluster": "изменений в коллективе",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "опыт",
+            "count": 1,
+            "cluster": "опыт",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "оценка качества предполагаемых",
+            "count": 1,
+            "cluster": "оценка качества предполагаемых",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "планирование",
+            "count": 1,
+            "cluster": "планирование",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "подходы к улучшениям",
+            "count": 1,
+            "cluster": "подходы к улучшениям",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "пока не ясно",
+            "count": 1,
+            "cluster": "пока не ясно",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "цифровизация наше всё!",
+            "count": 1,
+            "cluster": "цифровизация наше всё",
+            "sentiment": "neutrals",
+            "corrected": "цифровизация наше всё"
+        }
+    ]
+}

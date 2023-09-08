@@ -1,0 +1,20 @@
+﻿{
+    "question": "В чём причина стресса, по вашему мнению?",
+    "id": 26765,
+    "answers": [
+        {
+            "answer": "перерабока",
+            "count": 1,
+            "cluster": "переработка",
+            "sentiment": "negative",
+            "corrected": "переработка"
+        },
+        {
+            "answer": "переработки",
+            "count": 1,
+            "cluster": "переработка",
+            "sentiment": "negative",
+            "corrected": "переработка"
+        }
+    ]
+}

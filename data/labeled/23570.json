@@ -1,0 +1,721 @@
+{
+    "question": "Ключевой успех за 4 года",
+    "id": 23570,
+    "answers": [
+        {
+            "answer": "bim",
+            "count": 1,
+            "cluster": "bim",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "digital atom",
+            "count": 1,
+            "cluster": "digital atom",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "lean smart plant",
+            "count": 1,
+            "cluster": "lean smart plant",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "m&a",
+            "count": 2,
+            "cluster": "m a",
+            "sentiment": "neutrals",
+            "corrected": "m a"
+        },
+        {
+            "answer": "multi d",
+            "count": 1,
+            "cluster": "multid",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "multid",
+            "count": 3,
+            "cluster": "multid",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ux",
+            "count": 1,
+            "cluster": "ux",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "абакумов",
+            "count": 2,
+            "cluster": "абакумов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "абакумов абакумов абакумов",
+            "count": 1,
+            "cluster": "абакумов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "амбиции",
+            "count": 1,
+            "cluster": "амбиции",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "амбиция атconsulting",
+            "count": 1,
+            "cluster": "ат консалтинг",
+            "sentiment": "neutrals",
+            "corrected": "амбиция ат consulting"
+        },
+        {
+            "answer": "арида",
+            "count": 1,
+            "cluster": "арида",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ат консалтинг",
+            "count": 1,
+            "cluster": "ат консалтинг",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "покупка ат консалтинг",
+            "count": 1,
+            "cluster": "ат консалтинг",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "атомспейс",
+            "count": 5,
+            "cluster": "атомспейс",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "бюджет",
+            "count": 1,
+            "cluster": "бюджет",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "в нас поверили",
+            "count": 1,
+            "cluster": "в нас поверили",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "внутренняя цифровизация",
+            "count": 1,
+            "cluster": "внутренняя цифровизация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "выделение цифровизации",
+            "count": 1,
+            "cluster": "выделение цифровизации",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "инвестиции в цифру",
+            "count": 1,
+            "cluster": "инвестиции в цифровизация",
+            "sentiment": "neutrals",
+            "corrected": "инвестиции в цифровизация"
+        },
+        {
+            "answer": "вовлечённость",
+            "count": 1,
+            "cluster": "повышение вовлечённости",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "повышение вовлечённости",
+            "count": 1,
+            "cluster": "повышение вовлечённости",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "возможность удаленной работы",
+            "count": 1,
+            "cluster": "удаленная работа",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "удаленка",
+            "count": 3,
+            "cluster": "удаленная работа",
+            "sentiment": "neutrals",
+            "corrected": "дистанционно"
+        },
+        {
+            "answer": "удалённая приемка",
+            "count": 1,
+            "cluster": "удалённая приемка",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "удаленная работа",
+            "count": 1,
+            "cluster": "удаленная работа",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "время первых",
+            "count": 1,
+            "cluster": "время первых",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "выручка",
+            "count": 7,
+            "cluster": "выручка",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "движение началось",
+            "count": 1,
+            "cluster": "движение началось",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "диалог",
+            "count": 1,
+            "cluster": "диалог",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ецс",
+            "count": 1,
+            "cluster": "ецс",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "замена erp",
+            "count": 1,
+            "cluster": "замена erp",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "имортозамешение",
+            "count": 1,
+            "cluster": "импортозамещение",
+            "sentiment": "neutrals",
+            "corrected": "импортозамещение"
+        },
+        {
+            "answer": "импортозамещение",
+            "count": 6,
+            "cluster": "импортозамещение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "импортозамещение началось",
+            "count": 1,
+            "cluster": "импортозамещение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "импортозамещение тарм",
+            "count": 1,
+            "cluster": "импортозамещение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "программа импортозамещение",
+            "count": 2,
+            "cluster": "импортозамещение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "старт импортозамещения",
+            "count": 1,
+            "cluster": "импортозамещение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "импортонезависимость",
+            "count": 2,
+            "cluster": "импортонезависимость",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "импортонезавтсимость",
+            "count": 1,
+            "cluster": "импортонезависимость",
+            "sentiment": "positives",
+            "corrected": "импортонезависимость"
+        },
+        {
+            "answer": "индустрия 4.0",
+            "count": 1,
+            "cluster": "индустрия 4 0",
+            "sentiment": "neutrals",
+            "corrected": "индустрия 4 0"
+        },
+        {
+            "answer": "информационная безопасность",
+            "count": 1,
+            "cluster": "информационная безопасность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "кадры",
+            "count": 1,
+            "cluster": "кадры",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "квант",
+            "count": 1,
+            "cluster": "квант",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "квантовые компьютеры",
+            "count": 1,
+            "cluster": "квантовый компьютер",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "квантовый компьютер",
+            "count": 5,
+            "cluster": "квантовый компьютер",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "кнп",
+            "count": 1,
+            "cluster": "кнп",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "команда",
+            "count": 14,
+            "cluster": "команда",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "работоспособная команда",
+            "count": 5,
+            "cluster": "команда",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "сформирована команда",
+            "count": 1,
+            "cluster": "команда",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "усиление рыночной команды",
+            "count": 1,
+            "cluster": "усиление рыночной команды",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "конференция цифровой росатом",
+            "count": 1,
+            "cluster": "конференция цифровой росатом",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "культура",
+            "count": 1,
+            "cluster": "культура",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "курс",
+            "count": 2,
+            "cluster": "курс",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "лидерство",
+            "count": 5,
+            "cluster": "лидерство",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "росатом лидер",
+            "count": 1,
+            "cluster": "лидерство",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "стать реальным лидером",
+            "count": 1,
+            "cluster": "лидерство",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "логос",
+            "count": 4,
+            "cluster": "логос",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "масштаб",
+            "count": 1,
+            "cluster": "масштаб",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "увеличение масштаба",
+            "count": 1,
+            "cluster": "масштаб",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "меньше стали врать",
+            "count": 1,
+            "cluster": "меньше стали врать",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "назад дороги нет !",
+            "count": 1,
+            "cluster": "назад дороги нет",
+            "sentiment": "neutrals",
+            "corrected": "назад дороги нет"
+        },
+        {
+            "answer": "начали вовлекать бизнес",
+            "count": 1,
+            "cluster": "начали вовлекать бизнес",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "не знаю",
+            "count": 1,
+            "cluster": "не знаю",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "не стало хуже",
+            "count": 2,
+            "cluster": "не стало хуже",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "нейроморфы",
+            "count": 1,
+            "cluster": "нейроморфы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нет",
+            "count": 1,
+            "cluster": "нет",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нет успехов",
+            "count": 1,
+            "cluster": "нет",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "отсутствуют",
+            "count": 1,
+            "cluster": "нет",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нет провала",
+            "count": 1,
+            "cluster": "не стало хуже",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "новые прооекты",
+            "count": 1,
+            "cluster": "новые проекты",
+            "sentiment": "neutrals",
+            "corrected": "новые проекты"
+        },
+        {
+            "answer": "новые решения",
+            "count": 1,
+            "cluster": "новые решения",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новые точки роста",
+            "count": 1,
+            "cluster": "новые точки роста",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "нпт",
+            "count": 2,
+            "cluster": "нпт",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "обледенение команд",
+            "count": 1,
+            "cluster": "обледенение команд",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "осознание неотвратимости ит)",
+            "count": 1,
+            "cluster": "осознание неотвратимости информационные технологии",
+            "sentiment": "positives",
+            "corrected": "осознание неотвратимости информационные технологии"
+        },
+        {
+            "answer": "осознание результатов",
+            "count": 1,
+            "cluster": "осознание результатов",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "открытость",
+            "count": 1,
+            "cluster": "открытость",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "первая продажа цифр продукта",
+            "count": 1,
+            "cluster": "первая продажа цифрового продукта",
+            "sentiment": "neutrals",
+            "corrected": "первая продажа цифрового продукта"
+        },
+        {
+            "answer": "цифровые продукты",
+            "count": 1,
+            "cluster": "цифровые продукты",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "переход на новый уровень",
+            "count": 1,
+            "cluster": "переход на новый уровень",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "платформы",
+            "count": 1,
+            "cluster": "платформы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "поддержка правительства",
+            "count": 1,
+            "cluster": "поддержка правительства",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "признание государства",
+            "count": 1,
+            "cluster": "признание государства",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "покупка ит компании",
+            "count": 1,
+            "cluster": "покупка информационные технологии компании",
+            "sentiment": "neutrals",
+            "corrected": "покупка информационные технологии компании"
+        },
+        {
+            "answer": "покупка компании",
+            "count": 1,
+            "cluster": "покупка компании",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "попытка реализации стратегии",
+            "count": 1,
+            "cluster": "попытка реализации стратегии",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "поступательно вперёд",
+            "count": 1,
+            "cluster": "поступательно вперёд",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "появились продукты",
+            "count": 1,
+            "cluster": "продукты",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "продуктовизация",
+            "count": 1,
+            "cluster": "продукты",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "продукты",
+            "count": 1,
+            "cluster": "продукты",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "приоритеы",
+            "count": 1,
+            "cluster": "приоритет",
+            "sentiment": "neutrals",
+            "corrected": "приоритет"
+        },
+        {
+            "answer": "стали одним из приоритетов!",
+            "count": 1,
+            "cluster": "приоритет",
+            "sentiment": "positives",
+            "corrected": "стали одним из приоритетов"
+        },
+        {
+            "answer": "программы",
+            "count": 1,
+            "cluster": "новые проекты",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "проникновение технологий",
+            "count": 1,
+            "cluster": "технологии",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "технологии",
+            "count": 1,
+            "cluster": "технологии",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "работа с государством",
+            "count": 1,
+            "cluster": "работа с государством",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "федеральный уровень задач",
+            "count": 1,
+            "cluster": "работа с государством",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "разделение цифры и ит",
+            "count": 1,
+            "cluster": "разделение цифровизация и информационные технологии",
+            "sentiment": "neutrals",
+            "corrected": "разделение цифровизация и информационные технологии"
+        },
+        {
+            "answer": "реальные внедрения цт",
+            "count": 1,
+            "cluster": "реальные внедрения цт",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "российское по",
+            "count": 1,
+            "cluster": "российское по",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сарус",
+            "count": 1,
+            "cluster": "сарус",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сделка",
+            "count": 1,
+            "cluster": "сделка",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "севморпуть",
+            "count": 1,
+            "cluster": "севморпуть",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "синхронизация направлений разв",
+            "count": 1,
+            "cluster": "синхронизация направлений развития",
+            "sentiment": "neutrals",
+            "corrected": "синхронизация направлений развития"
+        },
+        {
+            "answer": "сотрудничество",
+            "count": 1,
+            "cluster": "сотрудничество",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "спжц",
+            "count": 1,
+            "cluster": "спжц",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "т-ком",
+            "count": 1,
+            "cluster": "т ком",
+            "sentiment": "neutrals",
+            "corrected": "т ком"
+        },
+        {
+            "answer": "толерантное топливо",
+            "count": 1,
+            "cluster": "толерантное топливо",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "успех",
+            "count": 1,
+            "cluster": "успех",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "целеполагание",
+            "count": 1,
+            "cluster": "целеполагание",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "цифра в hr",
+            "count": 1,
+            "cluster": "цифровизация в hr",
+            "sentiment": "neutrals",
+            "corrected": "цифровизация в hr"
+        },
+        {
+            "answer": "цифровая вертикаль",
+            "count": 1,
+            "cluster": "цифровая вертикаль",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "цифровая стратегия",
+            "count": 1,
+            "cluster": "цифровая стратегия",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "цифровые роботы",
+            "count": 1,
+            "cluster": "цифровые роботы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "цод",
+            "count": 2,
+            "cluster": "центр обработки данных",
+            "sentiment": "neutrals",
+            "corrected": "центр обработки данных"
+        }
+    ]
+}

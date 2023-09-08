@@ -1,0 +1,36 @@
+{
+    "question": "Ключевое слово семинара",
+    "id": 26099,
+    "answers": [
+        {
+            "answer": "креативность",
+            "count": 3,
+            "cluster": "креативность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "новаторство",
+            "count": 1,
+            "cluster": "новаторство",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "надежда",
+            "count": 1,
+            "cluster": "надежда",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "успех",
+            "count": 1,
+            "cluster": "успех",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "ясность",
+            "count": 2,
+            "cluster": "ясность",
+            "sentiment": "positives"
+        }
+    ]
+}

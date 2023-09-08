@@ -1,0 +1,178 @@
+{
+    "question": "Ваше настроение на сегодня. 1-2 слова",
+    "id": 25366,
+    "answers": [
+        {
+            "answer": "+ опыт реализации  пср",
+            "count": 1,
+            "cluster": "опыт реализации пср",
+            "sentiment": "positives",
+            "corrected": "опыт реализации пср"
+        },
+        {
+            "answer": "а были ли турбины?",
+            "count": 1,
+            "cluster": "а были ли турбины",
+            "sentiment": "neutrals",
+            "corrected": "а были ли турбины"
+        },
+        {
+            "answer": "бодрое",
+            "count": 5,
+            "cluster": "бодрое",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "боевая готовность!",
+            "count": 1,
+            "cluster": "готовность",
+            "sentiment": "positives",
+            "corrected": "боевая готовность"
+        },
+        {
+            "answer": "боевое",
+            "count": 2,
+            "cluster": "боевое",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "готовность",
+            "count": 1,
+            "cluster": "готовность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "только вперёд",
+            "count": 1,
+            "cluster": "только вперёд",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "в предвкушении",
+            "count": 1,
+            "cluster": "в предвкушении",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "великолепное",
+            "count": 1,
+            "cluster": "прекрасное",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "замечательное",
+            "count": 1,
+            "cluster": "прекрасное",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "отлично",
+            "count": 1,
+            "cluster": "прекрасное",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "отличное",
+            "count": 4,
+            "cluster": "прекрасное",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "прекрасное",
+            "count": 1,
+            "cluster": "прекрасное",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "восприимчивость",
+            "count": 1,
+            "cluster": "восприимчивость",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "конструктивное",
+            "count": 1,
+            "cluster": "конструктивное",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "оптимистичное",
+            "count": 1,
+            "cluster": "оптимистичное",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "познавательно",
+            "count": 1,
+            "cluster": "познавательно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "полезно",
+            "count": 1,
+            "cluster": "полезно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "продуктивное",
+            "count": 1,
+            "cluster": "конструктивное",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "настроена на работу",
+            "count": 1,
+            "cluster": "рабочее",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "настроение работать!",
+            "count": 1,
+            "cluster": "рабочее",
+            "sentiment": "neutrals",
+            "corrected": "настроение работать"
+        },
+        {
+            "answer": "рабочее",
+            "count": 2,
+            "cluster": "рабочее",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "радость",
+            "count": 1,
+            "cluster": "радость",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "сонное",
+            "count": 1,
+            "cluster": "сонное",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "спокойное",
+            "count": 1,
+            "cluster": "спокойное",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "увлечённые люди многое могут",
+            "count": 1,
+            "cluster": "увлечённые люди многое могут",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "хорошее",
+            "count": 3,
+            "cluster": "прекрасное",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "хотим увидеть суздаль",
+            "count": 2,
+            "cluster": "хотим увидеть суздаль",
+            "sentiment": "neutrals"
+        }
+    ]
+}

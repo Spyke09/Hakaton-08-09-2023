@@ -1,0 +1,84 @@
+{
+    "question": "1. Назовите примеры современных кампусов / Please, write the relevant examples of modern campuses",
+    "id": 25785,
+    "answers": [
+        {
+            "answer": "imperial college london uk",
+            "count": 1,
+            "cluster": "imperial college london uk",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "innopolis university russia",
+            "count": 1,
+            "cluster": "innopolis university russia",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "masdar institute uae",
+            "count": 1,
+            "cluster": "masdar institute uae",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "mit",
+            "count": 1,
+            "cluster": "mit",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "вшэ",
+            "count": 1,
+            "cluster": "вшэ",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "двфу",
+            "count": 1,
+            "cluster": "двфу",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мгу",
+            "count": 2,
+            "cluster": "мгу",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мфти",
+            "count": 1,
+            "cluster": "мфти",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мэи",
+            "count": 1,
+            "cluster": "мэи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нияу мифи",
+            "count": 1,
+            "cluster": "нияу мифи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сингапур",
+            "count": 1,
+            "cluster": "сингапур",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "тпу",
+            "count": 1,
+            "cluster": "тпу",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "университет лейдена",
+            "count": 1,
+            "cluster": "университет лейдена",
+            "sentiment": "neutrals"
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "question": "Кодекс проводника",
+    "id": 27854,
+    "answers": [
+        {
+            "answer": "быть доступным",
+            "count": 1,
+            "cluster": "быть доступным",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "быть компетентным",
+            "count": 1,
+            "cluster": "быть компетентным",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "быть общительным",
+            "count": 3,
+            "cluster": "быть общительным",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "быть открытым всему новому",
+            "count": 3,
+            "cluster": "быть открытым всему новому",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "быть открытым для изменений",
+            "count": 8,
+            "cluster": "быть открытым всему новому",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "быть открытым для новых идей",
+            "count": 8,
+            "cluster": "быть открытым всему новому",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "быть открытым к критике",
+            "count": 5,
+            "cluster": "быть открытым к критике",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "быть последовательным",
+            "count": 2,
+            "cluster": "быть последовательным",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "быть примером",
+            "count": 2,
+            "cluster": "быть примером",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "быть сообщником для коллег",
+            "count": 4,
+            "cluster": "быть сообщником для коллег",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "быть стрессоустойчивым",
+            "count": 1,
+            "cluster": "быть стрессоустойчивым",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "быть честным",
+            "count": 1,
+            "cluster": "быть честным",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "быть эмоционально устойчивым",
+            "count": 6,
+            "cluster": "быть эмоционально устойчивым",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "давать конструктивную критику",
+            "count": 4,
+            "cluster": "давать конструктивную критику",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "давать обратную связь",
+            "count": 5,
+            "cluster": "давать обратную связь",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "доводить дело до конца",
+            "count": 4,
+            "cluster": "доводить дело до конца",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "искать возможность улучшения",
+            "count": 1,
+            "cluster": "искать возможность улучшения",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "искать проводников",
+            "count": 1,
+            "cluster": "искать проводников",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "искать сторонников",
+            "count": 1,
+            "cluster": "искать проводников",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "находить подход к людям",
+            "count": 1,
+            "cluster": "уметь договариваться",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "не делить на «своих» и «чужих»",
+            "count": 3,
+            "cluster": "не делить на своих и чужих",
+            "sentiment": "positives",
+            "corrected": "не делить на своих и чужих"
+        },
+        {
+            "answer": "обеспечивать взаимопомощь",
+            "count": 5,
+            "cluster": "оказывать поддержку",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "оказывать поддержку",
+            "count": 2,
+            "cluster": "оказывать поддержку",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "тестировать изменения на себе",
+            "count": 8,
+            "cluster": "тестировать изменения на себе",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "уметь договариваться",
+            "count": 3,
+            "cluster": "уметь договариваться",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "уметь читать людей",
+            "count": 1,
+            "cluster": "уметь читать людей",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ценить вклад каждого",
+            "count": 3,
+            "cluster": "ценить вклад каждого",
+            "sentiment": "positives"
+        }
+    ]
+}

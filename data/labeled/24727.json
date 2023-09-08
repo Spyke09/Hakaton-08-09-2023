@@ -1,0 +1,84 @@
+{
+    "question": "Что планируете применять из пройденного обучения в ближайшее время?",
+    "id": 24727,
+    "answers": [
+        {
+            "answer": "learning lessons",
+            "count": 1,
+            "cluster": "learning lessons",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "все",
+            "count": 5,
+            "cluster": "все",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "да",
+            "count": 1,
+            "cluster": "да",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "декомпозицию",
+            "count": 1,
+            "cluster": "декомпозицию",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "доску канбан",
+            "count": 1,
+            "cluster": "доску канбан",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "канбан доску",
+            "count": 1,
+            "cluster": "доску канбан",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "использовать в проекте",
+            "count": 1,
+            "cluster": "использовать в проекте",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "оформление проектной работы",
+            "count": 1,
+            "cluster": "разработка проекта",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "планирование своего проекта",
+            "count": 1,
+            "cluster": "разработка проекта",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "проектное мышление",
+            "count": 2,
+            "cluster": "проектное мышление",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "разработка проекта",
+            "count": 1,
+            "cluster": "разработка проекта",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "управление рисками",
+            "count": 2,
+            "cluster": "управление рисками",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "частично",
+            "count": 1,
+            "cluster": "частично",
+            "sentiment": "neutrals"
+        }
+    ]
+}

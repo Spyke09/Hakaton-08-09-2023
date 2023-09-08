@@ -1,0 +1,36 @@
+{
+    "question": "Напишите 3 (три) ваши ассоциации с Китаем",
+    "id": 23239,
+    "answers": [
+        {
+            "answer": "украсть технологии задешево",
+            "count": 1,
+            "cluster": "украсть технологии задешево",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "четко знают свою выгоду",
+            "count": 1,
+            "cluster": "четко знают свою выгоду",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "шанхай",
+            "count": 1,
+            "cluster": "шанхай",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "шаолинь",
+            "count": 1,
+            "cluster": "шаолинь",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "экономика",
+            "count": 1,
+            "cluster": "экономика",
+            "sentiment": "neutrals"
+        }
+    ]
+}

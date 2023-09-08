@@ -1,0 +1,55 @@
+{
+    "question": "что такое миротворчество",
+    "id": 25350,
+    "answers": [
+        {
+            "answer": "дружба",
+            "count": 2,
+            "cluster": "дружба",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "красота",
+            "count": 1,
+            "cluster": "красота",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "микрочип",
+            "count": 1,
+            "cluster": "микрочип",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мир",
+            "count": 1,
+            "cluster": "мир",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "оон",
+            "count": 1,
+            "cluster": "оон",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "открытка",
+            "count": 1,
+            "cluster": "открытка",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "стороны",
+            "count": 1,
+            "cluster": "стороны",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "цветочкк",
+            "count": 1,
+            "cluster": "цветочки",
+            "sentiment": "neutrals",
+            "corrected": "цветочки"
+        }
+    ]
+}

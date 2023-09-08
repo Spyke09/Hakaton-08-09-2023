@@ -1,0 +1,13 @@
+{
+    "question": "Ваши открытия за время обучения на модуле",
+    "id": 23516,
+    "answers": [
+        {
+            "answer": "боли",
+            "count": 1,
+            "cluster": "боли",
+            "sentiment": "context cluster",
+            "corrected": "больные вопросы"
+        }
+    ]
+}

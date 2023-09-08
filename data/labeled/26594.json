@@ -1,0 +1,81 @@
+{
+    "question": "Современный урок - какой он?",
+    "id": 26594,
+    "answers": [
+        {
+            "answer": "вкусный",
+            "count": 1,
+            "cluster": "вкусный",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "деятельностный",
+            "count": 1,
+            "cluster": "деятельностный",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "динамичный",
+            "count": 2,
+            "cluster": "динамичный",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "интересный",
+            "count": 4,
+            "cluster": "интересный",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "увлекательный",
+            "count": 1,
+            "cluster": "интересный",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "катюша",
+            "count": 1,
+            "cluster": "катюша",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новый! интересный динамичный",
+            "count": 1,
+            "cluster": "интересный",
+            "sentiment": "positives",
+            "corrected": "новый интересный динамичный"
+        },
+        {
+            "answer": "познавательный",
+            "count": 2,
+            "cluster": "познавательный",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "познаветельный",
+            "count": 1,
+            "cluster": "познавательный",
+            "sentiment": "positives",
+            "corrected": "познавательный"
+        },
+        {
+            "answer": "практичный",
+            "count": 1,
+            "cluster": "практичный",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "цифров",
+            "count": 1,
+            "cluster": "цифровой",
+            "sentiment": "neutrals",
+            "corrected": "цифровой"
+        },
+        {
+            "answer": "цифровой",
+            "count": 2,
+            "cluster": "цифровой",
+            "sentiment": "neutrals"
+        }
+    ]
+}

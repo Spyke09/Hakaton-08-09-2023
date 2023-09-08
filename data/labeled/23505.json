@@ -1,0 +1,55 @@
+{
+    "question": "Что планируете применять из пройденного обучения в ближайшее время?",
+    "id": 23505,
+    "answers": [
+        {
+            "answer": "всë",
+            "count": 2,
+            "cluster": "все",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "все",
+            "count": 3,
+            "cluster": "все",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "полностью",
+            "count": 1,
+            "cluster": "все",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "изучить",
+            "count": 1,
+            "cluster": "изучить",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "много примеров",
+            "count": 1,
+            "cluster": "много примеров",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "поверить своё предприятия",
+            "count": 1,
+            "cluster": "проверить своё предприятие",
+            "sentiment": "neutrals",
+            "corrected": "проверить своё предприятие"
+        },
+        {
+            "answer": "расчёт финпоказателей",
+            "count": 1,
+            "cluster": "расчёт финпоказателей",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "снижение расходов",
+            "count": 1,
+            "cluster": "снижение расходов",
+            "sentiment": "neutrals"
+        }
+    ]
+}

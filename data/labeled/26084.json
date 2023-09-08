@@ -1,0 +1,162 @@
+{
+    "question": "Что было ценным сегодня?",
+    "id": 26084,
+    "answers": [
+        {
+            "answer": "айда по домам!",
+            "count": 2,
+            "cluster": "айда по домам",
+            "sentiment": "neutrals",
+            "corrected": "айда по домам"
+        },
+        {
+            "answer": "атмосфера",
+            "count": 1,
+            "cluster": "атмосфера",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "буфетик",
+            "count": 1,
+            "cluster": "буфетик",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "вот сейчас легче стало",
+            "count": 1,
+            "cluster": "вот сейчас легче стало",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "время",
+            "count": 1,
+            "cluster": "время",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "всем чмоки в этом чате!",
+            "count": 1,
+            "cluster": "всем чмоки в этом чате",
+            "sentiment": "neutrals",
+            "corrected": "всем чмоки в этом чате"
+        },
+        {
+            "answer": "вытащили из пещер",
+            "count": 1,
+            "cluster": "вытащили из пещер",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "выявлены пять проблем",
+            "count": 1,
+            "cluster": "выявлены пять проблем",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "еще номерок получать",
+            "count": 1,
+            "cluster": "еще номерок получать",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "как хорошо что все мы здесь",
+            "count": 1,
+            "cluster": "как хорошо что все мы здесь",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "кто быстрее до проходной?",
+            "count": 1,
+            "cluster": "кто быстрее до проходной",
+            "sentiment": "neutrals",
+            "corrected": "кто быстрее до проходной"
+        },
+        {
+            "answer": "кто здесь?",
+            "count": 1,
+            "cluster": "кто здесь",
+            "sentiment": "neutrals",
+            "corrected": "кто здесь"
+        },
+        {
+            "answer": "общение",
+            "count": 15,
+            "cluster": "общение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "общение с коллегами",
+            "count": 2,
+            "cluster": "общение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "оргсхема",
+            "count": 3,
+            "cluster": "оргсхема",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "отпустите нас",
+            "count": 2,
+            "cluster": "отпустите нас",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ощение",
+            "count": 1,
+            "cluster": "общение",
+            "sentiment": "neutrals",
+            "corrected": "общение"
+        },
+        {
+            "answer": "полученный результат",
+            "count": 1,
+            "cluster": "полученный результат",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "помогите",
+            "count": 1,
+            "cluster": "помогите",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "работа в команде",
+            "count": 1,
+            "cluster": "работа в команде",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "совместная работа с коллегами",
+            "count": 1,
+            "cluster": "работа в команде",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "развитие связей",
+            "count": 1,
+            "cluster": "развитие связей",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "ура товарищи! поздравляю!",
+            "count": 1,
+            "cluster": "радость товарищи поздравляю",
+            "sentiment": "positives",
+            "corrected": "радость товарищи поздравляю"
+        },
+        {
+            "answer": "эмоциональная разрядка",
+            "count": 1,
+            "cluster": "эмоциональная разрядка",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "юмор",
+            "count": 1,
+            "cluster": "юмор",
+            "sentiment": "neutrals"
+        }
+    ]
+}

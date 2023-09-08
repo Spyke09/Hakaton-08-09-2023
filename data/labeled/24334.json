@@ -1,0 +1,84 @@
+{
+    "question": "Что бизнес (компании поставщики и партнеры) сейчас получают от чемпионатов?",
+    "id": 24334,
+    "answers": [
+        {
+            "answer": "взаимовыгодное партнерство",
+            "count": 1,
+            "cluster": "партнёрство",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "партнерство",
+            "count": 1,
+            "cluster": "партнёрство",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "партнёрство",
+            "count": 2,
+            "cluster": "партнёрство",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "новые контракты",
+            "count": 1,
+            "cluster": "новые контракты",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "пиар",
+            "count": 2,
+            "cluster": "реклама",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "продвижение услуг",
+            "count": 1,
+            "cluster": "реклама",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "реклама",
+            "count": 1,
+            "cluster": "реклама",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "рекламу",
+            "count": 2,
+            "cluster": "реклама",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "связи",
+            "count": 2,
+            "cluster": "связи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "связи для будущих парнерств",
+            "count": 1,
+            "cluster": "связи",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "узнать лучшие практики",
+            "count": 1,
+            "cluster": "узнать лучшие практики",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "финансовые вливания",
+            "count": 1,
+            "cluster": "финансы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "финансы",
+            "count": 1,
+            "cluster": "финансы",
+            "sentiment": "neutrals"
+        }
+    ]
+}

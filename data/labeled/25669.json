@@ -1,0 +1,351 @@
+{
+    "question": "Опишите одним словом, что для вас наставничество",
+    "id": 25669,
+    "answers": [
+        {
+            "answer": "алгоритм",
+            "count": 1,
+            "cluster": "алгоритм",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "близость",
+            "count": 1,
+            "cluster": "близость",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "в окружении",
+            "count": 1,
+            "cluster": "в сообществе",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "в организации",
+            "count": 1,
+            "cluster": "в организации",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "в пивной",
+            "count": 3,
+            "cluster": "в пивной",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "в профильных сообществах",
+            "count": 1,
+            "cluster": "в сообществе",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "в сенеже",
+            "count": 2,
+            "cluster": "в сенеже",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сенеж",
+            "count": 2,
+            "cluster": "в сенеже",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "в сообществе",
+            "count": 2,
+            "cluster": "в сообществе",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "вдохновение",
+            "count": 1,
+            "cluster": "вдохновение",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "взаимодействие",
+            "count": 3,
+            "cluster": "взаимодействие",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сотрудничество",
+            "count": 2,
+            "cluster": "сотрудничество",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "взаимообмен",
+            "count": 1,
+            "cluster": "взаимообмен",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "взаимопомощь",
+            "count": 1,
+            "cluster": "взаимопомощь",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "возможности",
+            "count": 2,
+            "cluster": "возможности",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "возможность",
+            "count": 1,
+            "cluster": "возможности",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "возможность роста",
+            "count": 1,
+            "cluster": "возможность роста",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "где угодно😉",
+            "count": 1,
+            "cluster": "где угодно",
+            "sentiment": "neutrals",
+            "corrected": "где угодно"
+        },
+        {
+            "answer": "движение вперед",
+            "count": 1,
+            "cluster": "движение вперед",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "делиться опытом",
+            "count": 1,
+            "cluster": "делиться опытом",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "опыт",
+            "count": 10,
+            "cluster": "опыт",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "доверие",
+            "count": 1,
+            "cluster": "доверие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "единство",
+            "count": 1,
+            "cluster": "единство",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "синергия",
+            "count": 1,
+            "cluster": "синергия",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "жизнь",
+            "count": 1,
+            "cluster": "жизнь",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "команда",
+            "count": 1,
+            "cluster": "команда",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "лидерство",
+            "count": 1,
+            "cluster": "лидерство",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "мастер развития",
+            "count": 1,
+            "cluster": "мастер развития",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "маяк",
+            "count": 1,
+            "cluster": "маяк",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мотивация молодого специалиста",
+            "count": 1,
+            "cluster": "мотивация молодого специалиста",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "пинок вперед",
+            "count": 1,
+            "cluster": "движение вперед",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "на производстве",
+            "count": 1,
+            "cluster": "на производстве",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "направлять",
+            "count": 1,
+            "cluster": "направлять",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "наставничество - поддержка",
+            "count": 1,
+            "cluster": "помощь и поддержка",
+            "sentiment": "positives",
+            "corrected": "наставничество поддержка"
+        },
+        {
+            "answer": "опора",
+            "count": 1,
+            "cluster": "помощь и поддержка",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "поддержка",
+            "count": 8,
+            "cluster": "помощь и поддержка",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "нетворкинг",
+            "count": 1,
+            "cluster": "окружение специалистов определенной сферы",
+            "sentiment": "positives",
+            "corrected": "окружение специалистов определенной сферы"
+        },
+        {
+            "answer": "общение",
+            "count": 1,
+            "cluster": "взаимодействие",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "отражение",
+            "count": 1,
+            "cluster": "отражение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "помощь",
+            "count": 3,
+            "cluster": "помощь и поддержка",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "помощь и поддержка",
+            "count": 1,
+            "cluster": "помощь и поддержка",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "попечение",
+            "count": 1,
+            "cluster": "попечение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "приверженность",
+            "count": 1,
+            "cluster": "приверженность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "профессионализм",
+            "count": 1,
+            "cluster": "профессионализм",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "развитие",
+            "count": 15,
+            "cluster": "рост",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "результат",
+            "count": 1,
+            "cluster": "результат",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "рост",
+            "count": 4,
+            "cluster": "рост",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "свет в туннеле",
+            "count": 1,
+            "cluster": "свет в туннеле",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "свобода",
+            "count": 1,
+            "cluster": "свобода",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "сила",
+            "count": 1,
+            "cluster": "сила",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "совет",
+            "count": 2,
+            "cluster": "совет",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сопровождение",
+            "count": 1,
+            "cluster": "сопровождение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сотворчество",
+            "count": 1,
+            "cluster": "сотворчество",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "уверенность",
+            "count": 1,
+            "cluster": "уверенность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "улучшение",
+            "count": 1,
+            "cluster": "улучшение",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "успех",
+            "count": 2,
+            "cluster": "успех",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "флагманы образования",
+            "count": 1,
+            "cluster": "флагманы образования",
+            "sentiment": "neutrals"
+        }
+    ]
+}

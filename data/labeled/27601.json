@@ -1,0 +1,634 @@
+{
+    "question": "Какие мероприятия за последние 4 года вас вдохновили?",
+    "id": 27601,
+    "answers": [
+        {
+            "answer": "atomexpo",
+            "count": 1,
+            "cluster": "atomexpo",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "atomskills",
+            "count": 2,
+            "cluster": "atomskills",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "атомскилс",
+            "count": 2,
+            "cluster": "atomskills",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "hr-конференция",
+            "count": 1,
+            "cluster": "hr конференция",
+            "sentiment": "neutrals",
+            "corrected": "hr конференция"
+        },
+        {
+            "answer": "pro.yaok",
+            "count": 1,
+            "cluster": "pro yaok",
+            "sentiment": "neutrals",
+            "corrected": "pro yaok"
+        },
+        {
+            "answer": "форум прояок",
+            "count": 1,
+            "cluster": "pro yaok",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "proлюдей",
+            "count": 1,
+            "cluster": "proлюдей",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "skill talk",
+            "count": 3,
+            "cluster": "skilltalk",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "skilltalk",
+            "count": 1,
+            "cluster": "skilltalk",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "steam",
+            "count": 1,
+            "cluster": "steam",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мероприятия от steam",
+            "count": 1,
+            "cluster": "steam",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "welcomday",
+            "count": 1,
+            "cluster": "welcomday",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "worldskills kazan 2019",
+            "count": 1,
+            "cluster": "worldskills kazan 2019",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "атомдрайв",
+            "count": 6,
+            "cluster": "атомдрайв",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "атомпрофи",
+            "count": 2,
+            "cluster": "атомпрофи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "атомскилс и хайтек",
+            "count": 1,
+            "cluster": "атомскилс и хайтек",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "атомслет",
+            "count": 1,
+            "cluster": "атомслет",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "атомслёт",
+            "count": 1,
+            "cluster": "атомслет",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "атомспорт",
+            "count": 1,
+            "cluster": "атомспорт",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "атомэкс регион 2022",
+            "count": 1,
+            "cluster": "атомекс регион 2022",
+            "sentiment": "neutrals",
+            "corrected": "атомекс регион 2022"
+        },
+        {
+            "answer": "вектор",
+            "count": 1,
+            "cluster": "вектор",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "велопробег",
+            "count": 1,
+            "cluster": "велопробег",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "велопробег на предприятии",
+            "count": 1,
+            "cluster": "велопробег",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "волонтерство",
+            "count": 1,
+            "cluster": "волонтерство",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "встреча с а.е. лихачевым",
+            "count": 1,
+            "cluster": "встреча с лихачевым",
+            "sentiment": "neutrals",
+            "corrected": "встреча с а е лихачевым"
+        },
+        {
+            "answer": "встреча с лае",
+            "count": 2,
+            "cluster": "встреча с лихачевым",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "встреча с лае в 2019 на хайтек",
+            "count": 1,
+            "cluster": "встреча с лихачевым",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "встреча с лае сентябрь",
+            "count": 1,
+            "cluster": "встреча с лихачевым",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "встреча с лихачевым",
+            "count": 1,
+            "cluster": "встреча с лихачевым",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "встреча с лихачевым а. е.",
+            "count": 1,
+            "cluster": "встреча с лихачевым",
+            "sentiment": "neutrals",
+            "corrected": "встреча с лихачевым а е"
+        },
+        {
+            "answer": "встречи с а. е.",
+            "count": 1,
+            "cluster": "встреча с лихачевым",
+            "sentiment": "neutrals",
+            "corrected": "встречи с а е"
+        },
+        {
+            "answer": "встреча с терентьевой т.а.",
+            "count": 1,
+            "cluster": "встреча с терентьевой т а",
+            "sentiment": "neutrals",
+            "corrected": "встреча с терентьевой т а"
+        },
+        {
+            "answer": "гонка дивизионов",
+            "count": 2,
+            "cluster": "гонка дивизионов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "день донора",
+            "count": 2,
+            "cluster": "день донора",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "день информирования",
+            "count": 3,
+            "cluster": "день информирования",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "день работника атомной промышн",
+            "count": 1,
+            "cluster": "день работника атомной промышленности",
+            "sentiment": "neutrals",
+            "corrected": "день работника атомной промышленности"
+        },
+        {
+            "answer": "дивизиональные",
+            "count": 1,
+            "cluster": "дивизиональные",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "добро",
+            "count": 1,
+            "cluster": "добро",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "забег атомных городов",
+            "count": 1,
+            "cluster": "забег атомных городов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "запуск global partners network",
+            "count": 1,
+            "cluster": "запуск global partners network",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "карнавал",
+            "count": 3,
+            "cluster": "карнавал",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ковид",
+            "count": 2,
+            "cluster": "коронавирус",
+            "sentiment": "neutrals",
+            "corrected": "коронавирус"
+        },
+        {
+            "answer": "команда",
+            "count": 1,
+            "cluster": "команда",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "конгресс",
+            "count": 2,
+            "cluster": "конгресс",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "конгресс лидеров изменений",
+            "count": 10,
+            "cluster": "конгресс лидеров изменений",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "конгресс росатома",
+            "count": 4,
+            "cluster": "конгресс росатома",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "конкурс «энергетика лидеров»",
+            "count": 1,
+            "cluster": "конкурс энергетика лидеров",
+            "sentiment": "neutrals",
+            "corrected": "конкурс энергетика лидеров"
+        },
+        {
+            "answer": "конференция жао",
+            "count": 1,
+            "cluster": "конференция жао",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "конференция команды в воронеже",
+            "count": 1,
+            "cluster": "конференция команды в воронеже",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "кубок по рационализации",
+            "count": 1,
+            "cluster": "кубок по рационализации",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "кубок росатома",
+            "count": 1,
+            "cluster": "кубок росатома",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ледокол",
+            "count": 1,
+            "cluster": "ледокол",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ледокол открытий",
+            "count": 1,
+            "cluster": "ледокол открытий",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "лидеры россии",
+            "count": 1,
+            "cluster": "лидеры россии",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "личная встреча с черниковым аа",
+            "count": 1,
+            "cluster": "личная встреча с черниковым аа",
+            "sentiment": "neutrals",
+            "corrected": "личная встреча с черниковым а а"
+        },
+        {
+            "answer": "мероприятия моей организации",
+            "count": 1,
+            "cluster": "мероприятия моей организации",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мобилизация",
+            "count": 1,
+            "cluster": "мобилизация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "молодежный конгресс 2019",
+            "count": 1,
+            "cluster": "молодежный конгресс 2019",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мы вместе",
+            "count": 1,
+            "cluster": "мы вместе",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мывместе",
+            "count": 1,
+            "cluster": "мы вместе",
+            "sentiment": "neutrals",
+            "corrected": "мы вместе"
+        },
+        {
+            "answer": "научная конференция",
+            "count": 1,
+            "cluster": "научная конференция",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ничего",
+            "count": 1,
+            "cluster": "ничего",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нтк",
+            "count": 3,
+            "cluster": "нтк",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "обучение в укр",
+            "count": 1,
+            "cluster": "обучение в укр",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "открытие академии маяк",
+            "count": 1,
+            "cluster": "открытие академии маяк",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "пмэф",
+            "count": 1,
+            "cluster": "пмэф",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "поездка в атомфлот",
+            "count": 1,
+            "cluster": "поездка в атомфлот",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "посвят внииа",
+            "count": 1,
+            "cluster": "посвят внииа",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "посвящение в \"марсиане\"",
+            "count": 1,
+            "cluster": "посвящение в марсиане",
+            "sentiment": "neutrals",
+            "corrected": "посвящение в марсиане"
+        },
+        {
+            "answer": "праздничный концерт 28.09",
+            "count": 1,
+            "cluster": "праздничный концерт 28 09",
+            "sentiment": "neutrals",
+            "corrected": "праздничный концерт 28 09"
+        },
+        {
+            "answer": "приёмка 1 серийного ледокола",
+            "count": 1,
+            "cluster": "приёмка 1 серийного ледокола",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "пушистый атом",
+            "count": 2,
+            "cluster": "пушистый атом",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "российская энергетическая неде",
+            "count": 1,
+            "cluster": "российская энергетическая неделя",
+            "sentiment": "neutrals",
+            "corrected": "российская энергетическая неделя"
+        },
+        {
+            "answer": "свадьба",
+            "count": 1,
+            "cluster": "свадьба",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "слет",
+            "count": 1,
+            "cluster": "слет",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "слёт кпи май",
+            "count": 1,
+            "cluster": "слёт кпи май",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "слёт лидеров в мае",
+            "count": 1,
+            "cluster": "слёт лидеров в мае",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "слёт лидеров молодёжи",
+            "count": 2,
+            "cluster": "слёт лидеров молодёжи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "слёт молодёжи маиностроительно",
+            "count": 1,
+            "cluster": "слёт молодёжи машиностроительного дивизиона",
+            "sentiment": "neutrals",
+            "corrected": "слёт молодёжи машиностроительного дивизиона"
+        },
+        {
+            "answer": "сочи",
+            "count": 1,
+            "cluster": "сочи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "спартакиада горнорудного",
+            "count": 1,
+            "cluster": "спартакиада горнорудного",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "таврида-арт",
+            "count": 1,
+            "cluster": "таврида арт",
+            "sentiment": "neutrals",
+            "corrected": "таврида арт"
+        },
+        {
+            "answer": "танцевальный флешмоб атоммаш",
+            "count": 2,
+            "cluster": "танцевальный флешмоб атоммаш",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "техтуры",
+            "count": 1,
+            "cluster": "техтуры",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "туристический слёт",
+            "count": 1,
+            "cluster": "туристический слёт",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "фестиваль \"люди\"",
+            "count": 2,
+            "cluster": "фестиваль люди",
+            "sentiment": "neutrals",
+            "corrected": "фестиваль люди"
+        },
+        {
+            "answer": "фестиваль «люди»",
+            "count": 1,
+            "cluster": "фестиваль люди",
+            "sentiment": "neutrals",
+            "corrected": "фестиваль люди"
+        },
+        {
+            "answer": "форсаж 2019",
+            "count": 1,
+            "cluster": "форсаж 2019",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "форум мывместе клуб настольных",
+            "count": 1,
+            "cluster": "форум мы вместе клуб настольных",
+            "sentiment": "neutrals",
+            "corrected": "форум мы вместе клуб настольных"
+        },
+        {
+            "answer": "форум волонтёров яок",
+            "count": 1,
+            "cluster": "форум волонтёров ядерный оружейный комплекс",
+            "sentiment": "neutrals",
+            "corrected": "форум волонтёров ядерный оружейный комплекс"
+        },
+        {
+            "answer": "форум энергия снежинск",
+            "count": 1,
+            "cluster": "форум энергия снежинск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "цифровая конференция росатома",
+            "count": 1,
+            "cluster": "цифровая конференция росатома",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "человек года",
+            "count": 6,
+            "cluster": "человек года",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "человек года 2020",
+            "count": 1,
+            "cluster": "человек года",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "чемпионат мира по футболу",
+            "count": 1,
+            "cluster": "чемпионат мира по футболу",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "школа лидеров",
+            "count": 5,
+            "cluster": "школа лидеров",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "школа лидеров мс",
+            "count": 1,
+            "cluster": "школа лидеров",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "школа молодёжного лидера вао",
+            "count": 1,
+            "cluster": "школа молодёжного лидера вао",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "экспо-2020",
+            "count": 1,
+            "cluster": "экспо 2020",
+            "sentiment": "neutrals",
+            "corrected": "экспо 2020"
+        },
+        {
+            "answer": "этот слет",
+            "count": 1,
+            "cluster": "этот слет",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ядерный форум в питере",
+            "count": 1,
+            "cluster": "ядерный форум в питере",
+            "sentiment": "neutrals"
+        }
+    ]
+}

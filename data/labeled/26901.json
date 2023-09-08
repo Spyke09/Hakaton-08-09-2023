@@ -1,0 +1,872 @@
+{
+    "question": "Для меня безопасность – это…?",
+    "id": 26901,
+    "answers": [
+        {
+            "answer": "modus operandi",
+            "count": 1,
+            "cluster": "modus operandi",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "безаварийн",
+            "count": 1,
+            "cluster": "безаварийно",
+            "sentiment": "positives",
+            "corrected": "безаварийно"
+        },
+        {
+            "answer": "безопасность",
+            "count": 2,
+            "cluster": "безопасность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "безопасность это жизнь",
+            "count": 1,
+            "cluster": "жизнь человека",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "жизнь",
+            "count": 11,
+            "cluster": "жизнь человека",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "жизнь человека",
+            "count": 1,
+            "cluster": "жизнь человека",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "моя жизнь",
+            "count": 1,
+            "cluster": "жизнь человека",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "безопасные условия труда",
+            "count": 2,
+            "cluster": "безопасные условия труда",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "безошибочность",
+            "count": 1,
+            "cluster": "безошибочность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "безусловное выполнение правил",
+            "count": 1,
+            "cluster": "соблюдение правил",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "выполнение правил",
+            "count": 1,
+            "cluster": "соблюдение правил",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "дисциплина",
+            "count": 2,
+            "cluster": "дисциплина",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "исполнение всех требований охт",
+            "count": 1,
+            "cluster": "соблюдение правил",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "соблюдать правила",
+            "count": 1,
+            "cluster": "соблюдение правил",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "соблюдение инструкций и правил",
+            "count": 1,
+            "cluster": "соблюдение правил",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "соблюдение норм защиты",
+            "count": 1,
+            "cluster": "соблюдение правил",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "соблюдение правил",
+            "count": 2,
+            "cluster": "соблюдение правил",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "соблюдение правил охраны труда",
+            "count": 1,
+            "cluster": "соблюдение правил",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "соблюдение регламентов процеду",
+            "count": 1,
+            "cluster": "соблюдение правил",
+            "sentiment": "neutrals",
+            "corrected": "соблюдение регламентов процедур"
+        },
+        {
+            "answer": "соблюдение требований",
+            "count": 1,
+            "cluster": "соблюдение правил",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "строгое выполнение правил",
+            "count": 1,
+            "cluster": "выполнение правил",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "бюрократия",
+            "count": 1,
+            "cluster": "бюрократия",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "важно",
+            "count": 1,
+            "cluster": "важно",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "внимательность",
+            "count": 3,
+            "cluster": "внимательность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "внутреннее состояние",
+            "count": 2,
+            "cluster": "внутреннее состояние",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "возможность выполнения работы",
+            "count": 1,
+            "cluster": "возможность выполнения работы",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "высший приоритет",
+            "count": 1,
+            "cluster": "главный приоритет",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "главное",
+            "count": 1,
+            "cluster": "главный приоритет",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "главный приоритет",
+            "count": 1,
+            "cluster": "главный приоритет",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "приоритет",
+            "count": 3,
+            "cluster": "главный приоритет",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "приоритет номер 1",
+            "count": 1,
+            "cluster": "главный приоритет",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "самое главное в работе",
+            "count": 1,
+            "cluster": "главный приоритет",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "вью",
+            "count": 1,
+            "cluster": "вью",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "гарантия",
+            "count": 1,
+            "cluster": "гарантия",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "главная цель",
+            "count": 1,
+            "cluster": "главный приоритет",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "дожить до старости",
+            "count": 1,
+            "cluster": "дожить до старости",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "дом стабильность",
+            "count": 1,
+            "cluster": "стабильность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "жив цел орел",
+            "count": 1,
+            "cluster": "жив цел орел",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "жизнь и здоровье коллег",
+            "count": 1,
+            "cluster": "жизнь и здоровье сотрудника",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "жизнь и здоровье сотрудника",
+            "count": 1,
+            "cluster": "жизнь и здоровье сотрудника",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "моя жизнь и жизнь моих коллег",
+            "count": 1,
+            "cluster": "жизнь человека",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "закон",
+            "count": 1,
+            "cluster": "закон",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "зашищенность",
+            "count": 1,
+            "cluster": "защищенность",
+            "sentiment": "positives",
+            "corrected": "защищенность"
+        },
+        {
+            "answer": "защита",
+            "count": 5,
+            "cluster": "охрана",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "защита жизни и здоровья",
+            "count": 1,
+            "cluster": "защита жизни и здоровья",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "защищенность",
+            "count": 6,
+            "cluster": "защищенность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "охрана",
+            "count": 1,
+            "cluster": "охрана",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "состояние защищенности",
+            "count": 1,
+            "cluster": "защищенность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "защищенность от рисков",
+            "count": 1,
+            "cluster": "защищенность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "здоровая атмосфера",
+            "count": 1,
+            "cluster": "здоровая атмосфера",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "здоровье",
+            "count": 11,
+            "cluster": "здоровье",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "здоровье сотрудников",
+            "count": 1,
+            "cluster": "здоровье",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "знание нюансов",
+            "count": 1,
+            "cluster": "знание нюансов",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "инстинкт самосохранения",
+            "count": 1,
+            "cluster": "инстинкт самосохранения",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "информационная",
+            "count": 1,
+            "cluster": "информационная",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "качество жизни",
+            "count": 1,
+            "cluster": "качество жизни",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "когда все возвращаются домой",
+            "count": 1,
+            "cluster": "когда все возвращаются домой",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "комплекс мер",
+            "count": 1,
+            "cluster": "комплекс мероприятий",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "комплекс меропрятий",
+            "count": 1,
+            "cluster": "комплекс мероприятий",
+            "sentiment": "neutrals",
+            "corrected": "комплекс мероприятий"
+        },
+        {
+            "answer": "комфорт",
+            "count": 3,
+            "cluster": "комфорт",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "комфортные условия труда",
+            "count": 1,
+            "cluster": "комфортные условия труда",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "контроль",
+            "count": 1,
+            "cluster": "контроль",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "культура",
+            "count": 1,
+            "cluster": "культура",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "культура поведения",
+            "count": 3,
+            "cluster": "культура поведения",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "личная культура безопасности",
+            "count": 1,
+            "cluster": "личная культура безопасности",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "личная ответственность",
+            "count": 2,
+            "cluster": "ответственность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ответсвенность",
+            "count": 3,
+            "cluster": "ответственность",
+            "sentiment": "neutrals",
+            "corrected": "ответственность"
+        },
+        {
+            "answer": "ответственность",
+            "count": 8,
+            "cluster": "ответственность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ответственность перед собой и",
+            "count": 1,
+            "cluster": "ответственность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "персональная ответственность",
+            "count": 1,
+            "cluster": "ответственность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "личный пример",
+            "count": 1,
+            "cluster": "личный пример",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "минимизация риска",
+            "count": 1,
+            "cluster": "минимизация риска",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "нет рисков",
+            "count": 1,
+            "cluster": "минимизация риска",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "набор характеристик.......",
+            "count": 1,
+            "cluster": "набор характеристик",
+            "sentiment": "neutrals",
+            "corrected": "набор характеристик"
+        },
+        {
+            "answer": "надежда на завтра",
+            "count": 1,
+            "cluster": "надежда на завтра",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "надежность",
+            "count": 9,
+            "cluster": "надежность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "необходимость",
+            "count": 2,
+            "cluster": "необходимость",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "обязанность",
+            "count": 1,
+            "cluster": "необходимость",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "потребность",
+            "count": 1,
+            "cluster": "необходимость",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нет отклонений",
+            "count": 1,
+            "cluster": "нет отклонений",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "нет травматизму",
+            "count": 1,
+            "cluster": "отсутствие травм",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "нет угрозы жизни и здоровья",
+            "count": 1,
+            "cluster": "отсутствие угрозы жизни",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "нивелирование угроз",
+            "count": 1,
+            "cluster": "отсутствие угрозы жизни",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "отсутствие угрозы жизни",
+            "count": 1,
+            "cluster": "отсутствие угрозы жизни",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "отсутствие угрозы:жизни здоро",
+            "count": 1,
+            "cluster": "отсутствие угрозы жизни",
+            "sentiment": "positives",
+            "corrected": "отсутствие угрозы жизни здоровью"
+        },
+        {
+            "answer": "неудобство",
+            "count": 1,
+            "cluster": "неудобство",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "норма жизни",
+            "count": 1,
+            "cluster": "норма жизни",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "обдумывать каждое решение",
+            "count": 1,
+            "cluster": "обдумывать каждое решение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "основа",
+            "count": 1,
+            "cluster": "основа работы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "основа организации работы",
+            "count": 1,
+            "cluster": "основа работы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "основа работы",
+            "count": 1,
+            "cluster": "основа работы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "осознанность",
+            "count": 1,
+            "cluster": "понимание",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "остаться целым",
+            "count": 1,
+            "cluster": "остаться целым",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "отношение к работе",
+            "count": 1,
+            "cluster": "отношение к работе",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "отсутсвие опасности",
+            "count": 1,
+            "cluster": "отсутствие опасности",
+            "sentiment": "positives",
+            "corrected": "отсутствие опасности"
+        },
+        {
+            "answer": "отсутствие опасности.",
+            "count": 1,
+            "cluster": "отсутствие опасности",
+            "sentiment": "positives",
+            "corrected": "отсутствие опасности"
+        },
+        {
+            "answer": "состояние без опасности",
+            "count": 1,
+            "cluster": "отсутствие опасности",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "отсутствие роста травматизма",
+            "count": 1,
+            "cluster": "отсутствие травм",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "отсутствие травм",
+            "count": 3,
+            "cluster": "отсутствие травм",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "план",
+            "count": 1,
+            "cluster": "план",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "покой",
+            "count": 1,
+            "cluster": "покой",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "спокойствие",
+            "count": 7,
+            "cluster": "покой",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "понимание",
+            "count": 1,
+            "cluster": "понимание",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "понимание ответственности",
+            "count": 1,
+            "cluster": "понимание ответственности",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "понимание процесса",
+            "count": 1,
+            "cluster": "понимание процесса",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "понятие из ядерных норм",
+            "count": 1,
+            "cluster": "понятие из ядерных норм",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "понятный порядок действий",
+            "count": 1,
+            "cluster": "понятный порядок действий",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "порядок",
+            "count": 2,
+            "cluster": "порядок",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "правила",
+            "count": 2,
+            "cluster": "правила",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "превентивные меры",
+            "count": 1,
+            "cluster": "превентивные меры",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "процесс",
+            "count": 1,
+            "cluster": "процесс",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "психике",
+            "count": 1,
+            "cluster": "психике",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "работа",
+            "count": 1,
+            "cluster": "работа",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "режим дня",
+            "count": 1,
+            "cluster": "режим дня",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "риски под контролем",
+            "count": 1,
+            "cluster": "риски под контролем",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "родные люди рядом. защищенност",
+            "count": 1,
+            "cluster": "родные люди рядом защищенность",
+            "sentiment": "positives",
+            "corrected": "родные люди рядом защищенность"
+        },
+        {
+            "answer": "росатом",
+            "count": 1,
+            "cluster": "росатом",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "свод правил",
+            "count": 1,
+            "cluster": "свод правил",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "семья",
+            "count": 1,
+            "cluster": "семья",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "смысл организации труда",
+            "count": 1,
+            "cluster": "смысл организации труда",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "соблюдение остарожности",
+            "count": 1,
+            "cluster": "соблюдения осторожности",
+            "sentiment": "neutrals",
+            "corrected": "соблюдения осторожности"
+        },
+        {
+            "answer": "сон",
+            "count": 1,
+            "cluster": "сон",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сохранение",
+            "count": 1,
+            "cluster": "сохранение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сохранность",
+            "count": 1,
+            "cluster": "сохранение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сохранение жизни и здоровья",
+            "count": 3,
+            "cluster": "сохранение жизни и здоровья",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "сохранение здоровья",
+            "count": 1,
+            "cluster": "сохранение жизни и здоровья",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "сохранение здоровья и жизни че",
+            "count": 1,
+            "cluster": "сохранение жизни и здоровья",
+            "sentiment": "positives",
+            "corrected": "сохранение здоровья и жизни человека"
+        },
+        {
+            "answer": "сохранённая жизнь",
+            "count": 1,
+            "cluster": "сохранение жизни и здоровья",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "сохранность здоровья",
+            "count": 1,
+            "cluster": "сохранение жизни и здоровья",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "стабильность",
+            "count": 3,
+            "cluster": "стабильность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "стандарт",
+            "count": 1,
+            "cluster": "норма жизни",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "стиль жизни",
+            "count": 1,
+            "cluster": "стиль жизни",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "тб",
+            "count": 1,
+            "cluster": "техника безопасности",
+            "sentiment": "neutrals",
+            "corrected": "техника безопасности"
+        },
+        {
+            "answer": "уверенность",
+            "count": 11,
+            "cluster": "уверенность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "увеличение грузооборота смп",
+            "count": 1,
+            "cluster": "увеличение грузооборота северный морской путь",
+            "sentiment": "neutrals",
+            "corrected": "увеличение грузооборота северный морской путь"
+        },
+        {
+            "answer": "условия труда",
+            "count": 1,
+            "cluster": "условия труда",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "уютно работать",
+            "count": 1,
+            "cluster": "комфортные условия труда",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "ценность",
+            "count": 1,
+            "cluster": "ценность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ценность жизни",
+            "count": 1,
+            "cluster": "ценность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "чувство надежности",
+            "count": 1,
+            "cluster": "надежность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "это правила поведения",
+            "count": 1,
+            "cluster": "культура поведения",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "я",
+            "count": 2,
+            "cluster": "я",
+            "sentiment": "neutrals"
+        }
+    ]
+}

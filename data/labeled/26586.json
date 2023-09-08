@@ -1,0 +1,24 @@
+{
+    "question": "Перечислите слова, которые ассоциируются у Вас с деятельностью Академии",
+    "id": 26586,
+    "answers": [
+        {
+            "answer": "полезная",
+            "count": 1,
+            "cluster": "полезная",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "развивающая",
+            "count": 1,
+            "cluster": "развивающая",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "эффективность",
+            "count": 1,
+            "cluster": "эффективность",
+            "sentiment": "positives"
+        }
+    ]
+}

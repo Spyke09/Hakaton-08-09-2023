@@ -1,0 +1,178 @@
+{
+    "question": "На какие еще темы вы хотели бы поговорить с А.Е. Лихачевым?",
+    "id": 28520,
+    "answers": [
+        {
+            "answer": "больше историй из его жизни",
+            "count": 1,
+            "cluster": "больше историй из его жизни",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "о жизни",
+            "count": 1,
+            "cluster": "о жизни",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "взаимодействие со студентами",
+            "count": 1,
+            "cluster": "взаимодействие со студентами",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "все важные темы мы обсудили",
+            "count": 1,
+            "cluster": "все важные темы мы обсудили",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "дальнейшее развитие росатома",
+            "count": 1,
+            "cluster": "дальнейшее развитие росатома",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "его путь к успеху",
+            "count": 1,
+            "cluster": "его путь к успеху",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "история личного бизнеса до гк",
+            "count": 1,
+            "cluster": "его путь к успеху",
+            "sentiment": "neutrals",
+            "corrected": "история личного бизнеса до госкорпорация"
+        },
+        {
+            "answer": "о истории успеха",
+            "count": 1,
+            "cluster": "его путь к успеху",
+            "sentiment": "positives",
+            "corrected": "об истории успеха"
+        },
+        {
+            "answer": "история атомной отрасли",
+            "count": 1,
+            "cluster": "история атомной отрасли",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "история атомной промышленности",
+            "count": 2,
+            "cluster": "история атомной отрасли",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "об истории атомной отрасли",
+            "count": 1,
+            "cluster": "история атомной отрасли",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "про историю атомной отрасли",
+            "count": 1,
+            "cluster": "история атомной отрасли",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "как лихачев видит будущее",
+            "count": 1,
+            "cluster": "перспективы компании и мира",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "перспективы компании и мира",
+            "count": 1,
+            "cluster": "перспективы компании и мира",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "медиа сопровождение гк",
+            "count": 1,
+            "cluster": "медиасопровождение госкорпорация",
+            "sentiment": "neutrals",
+            "corrected": "медиасопровождение госкорпорация"
+        },
+        {
+            "answer": "на тему девяностых",
+            "count": 1,
+            "cluster": "на тему девяностых",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "о его видении молодежи",
+            "count": 1,
+            "cluster": "о его видении молодежи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "о его опыте как не выгореть",
+            "count": 1,
+            "cluster": "о его опыте как не выгореть",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "о развитии движения заграницей",
+            "count": 1,
+            "cluster": "о развитии движения заграницей",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "про предприятия",
+            "count": 1,
+            "cluster": "про предприятия",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "проекты для совета юниоров",
+            "count": 1,
+            "cluster": "проекты для совета юниоров",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "путь к достижению большего",
+            "count": 1,
+            "cluster": "путь к достижению большего",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "развитие архитектуры в росатом",
+            "count": 1,
+            "cluster": "развитие архитектуры в росатом",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "рзавитие атомной отрасли вссср",
+            "count": 1,
+            "cluster": "развитие атомной отрасли в ссср",
+            "sentiment": "positives",
+            "corrected": "развитие атомной отрасли в ссср"
+        },
+        {
+            "answer": "росатом в отдаленных регионах",
+            "count": 1,
+            "cluster": "росатом в отдаленных регионах",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "современное образование",
+            "count": 2,
+            "cluster": "современное образование",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "страны партнеры",
+            "count": 1,
+            "cluster": "страны партнеры",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "энергоблоки нового поколения",
+            "count": 1,
+            "cluster": "энергоблоки нового поколения",
+            "sentiment": "neutrals"
+        }
+    ]
+}

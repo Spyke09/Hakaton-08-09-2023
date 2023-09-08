@@ -1,0 +1,85 @@
+{
+    "question": "Name 3 most important skills that you expect you will need in your future job.",
+    "id": 20799,
+    "answers": [
+        {
+            "answer": "hard working",
+            "count": 1,
+            "cluster": "hard working",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "innovation",
+            "count": 1,
+            "cluster": "innovation",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "it",
+            "count": 1,
+            "cluster": "it skills",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "it skills",
+            "count": 1,
+            "cluster": "it skills",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "leadership",
+            "count": 1,
+            "cluster": "leadership",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "leadership skills",
+            "count": 1,
+            "cluster": "leadership",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "open-mindedness",
+            "count": 1,
+            "cluster": "open mindedness",
+            "sentiment": "positives",
+            "corrected": "open mindedness"
+        },
+        {
+            "answer": "patience",
+            "count": 1,
+            "cluster": "patience",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "perseverance",
+            "count": 1,
+            "cluster": "perseverance",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "responsibility",
+            "count": 2,
+            "cluster": "responsibility",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "soft",
+            "count": 1,
+            "cluster": "soft skills",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "soft skills",
+            "count": 2,
+            "cluster": "soft skills",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "stress resistance",
+            "count": 1,
+            "cluster": "stress resistance",
+            "sentiment": "positives"
+        }
+    ]
+}

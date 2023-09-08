@@ -1,0 +1,46 @@
+{
+    "question": "Что для меня лично эти 10 лет?",
+    "id": 27862,
+    "answers": [
+        {
+            "answer": "движение в перед",
+            "count": 1,
+            "cluster": "движение вперед",
+            "sentiment": "context sentiment",
+            "corrected": "движение вперед"
+        },
+        {
+            "answer": "движение вперед",
+            "count": 1,
+            "cluster": "движение вперед",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "движение вперёд",
+            "count": 1,
+            "cluster": "движение вперёд",
+            "sentiment": "context sentiment",
+            "corrected": "движение вперед"
+        },
+        {
+            "answer": "напряженная работа",
+            "count": 1,
+            "cluster": "напряженная работа",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "напряжённая работа",
+            "count": 1,
+            "cluster": "напряжённая работа",
+            "sentiment": "context sentiment",
+            "corrected": "напряженная работа"
+        },
+        {
+            "answer": "прорыв",
+            "count": 1,
+            "cluster": "прорыв",
+            "sentiment": "context sentiment",
+            "corrected": "развитие"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "question": "Что планируете применять из пройденного обучения в ближайшее время?",
+    "id": 23421,
+    "answers": [
+        {
+            "answer": "автоматизацию",
+            "count": 1,
+            "cluster": "автоматизацию",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "в раздумьях пока",
+            "count": 1,
+            "cluster": "в раздумьях пока",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "все",
+            "count": 3,
+            "cluster": "все",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "командная работа",
+            "count": 1,
+            "cluster": "командная работа",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "работа в команде",
+            "count": 1,
+            "cluster": "командная работа",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "полученные знания",
+            "count": 1,
+            "cluster": "полученные знания",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "пытаться применять знания",
+            "count": 1,
+            "cluster": "пытаться применять знания",
+            "sentiment": "neutrals"
+        }
+    ]
+}

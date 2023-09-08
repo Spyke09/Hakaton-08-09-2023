@@ -1,0 +1,237 @@
+{
+    "question": "Теперь вы лучше знаете свою команду. Ваши впечатления? Одним-двумя словами",
+    "id": 27132,
+    "answers": [
+        {
+            "answer": "активные",
+            "count": 2,
+            "cluster": "активные",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "в шоке от разносторонности люд",
+            "count": 1,
+            "cluster": "разносторонние",
+            "sentiment": "positives",
+            "corrected": "в шоке от разносторонности людей"
+        },
+        {
+            "answer": "разнообразие",
+            "count": 1,
+            "cluster": "разнообразие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "разнообразие интересов",
+            "count": 1,
+            "cluster": "разносторонние",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "разносторонние",
+            "count": 5,
+            "cluster": "разносторонние",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "разносторонняя",
+            "count": 2,
+            "cluster": "разносторонние",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "разные и крутые!",
+            "count": 1,
+            "cluster": "разнообразие",
+            "sentiment": "positives",
+            "corrected": "разные и крутые"
+        },
+        {
+            "answer": "восторг",
+            "count": 1,
+            "cluster": "супер",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "все очень разные но интересные",
+            "count": 1,
+            "cluster": "интересные",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "разносторонние интересные люди",
+            "count": 1,
+            "cluster": "разносторонние",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "дружные",
+            "count": 1,
+            "cluster": "дружные",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "единый коллектив",
+            "count": 1,
+            "cluster": "дружные",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "есть приколы",
+            "count": 1,
+            "cluster": "есть приколы",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "позитивные",
+            "count": 1,
+            "cluster": "позитивные",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "затнтересованность",
+            "count": 1,
+            "cluster": "заинтересованность",
+            "sentiment": "positives",
+            "corrected": "заинтересованность"
+        },
+        {
+            "answer": "интересные",
+            "count": 1,
+            "cluster": "интересные",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "интересные личности",
+            "count": 1,
+            "cluster": "интересные",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "красивые лица",
+            "count": 1,
+            "cluster": "красивые лица",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "креативные",
+            "count": 1,
+            "cluster": "креативные",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "крутые",
+            "count": 1,
+            "cluster": "супер",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "крутые hr и са",
+            "count": 1,
+            "cluster": "крутые hr и са",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "лучшая команда",
+            "count": 1,
+            "cluster": "невероятная команда",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "молодцы",
+            "count": 1,
+            "cluster": "молодцы",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "невероятная команда",
+            "count": 1,
+            "cluster": "невероятная команда",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "огонь",
+            "count": 1,
+            "cluster": "супер",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "отличная команда",
+            "count": 1,
+            "cluster": "невероятная команда",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "отличные ребята",
+            "count": 1,
+            "cluster": "супер",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "супер",
+            "count": 1,
+            "cluster": "супер",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "манипуляция",
+            "count": 1,
+            "cluster": "манипуляция",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "мы похожи",
+            "count": 1,
+            "cluster": "мы похожи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "общительные",
+            "count": 1,
+            "cluster": "общительные",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "перспективные",
+            "count": 1,
+            "cluster": "перспективные",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "профессионалы своего дела",
+            "count": 1,
+            "cluster": "профессионалы своего дела",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "рад знакомству",
+            "count": 1,
+            "cluster": "рад знакомству",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "удивительные и позитивные",
+            "count": 1,
+            "cluster": "удивительные и позитивные",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "умные мысли",
+            "count": 1,
+            "cluster": "умные мысли",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "уникальные",
+            "count": 1,
+            "cluster": "уникальные",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "уникальные люди",
+            "count": 1,
+            "cluster": "уникальные",
+            "sentiment": "positives"
+        }
+    ]
+}

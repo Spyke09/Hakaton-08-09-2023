@@ -1,0 +1,269 @@
+{
+    "question": "Какие качества свойственны молодому работнику АО «ФПК»?",
+    "id": 24298,
+    "answers": [
+        {
+            "answer": "адаптированнос",
+            "count": 1,
+            "cluster": "адаптированность",
+            "sentiment": "neutrals",
+            "corrected": "адаптированность"
+        },
+        {
+            "answer": "активность",
+            "count": 2,
+            "cluster": "активность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "активные",
+            "count": 1,
+            "cluster": "активность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "энергичность",
+            "count": 3,
+            "cluster": "энергичность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "энергичный",
+            "count": 1,
+            "cluster": "энергичность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "амбициозность",
+            "count": 3,
+            "cluster": "амбициозность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "вежливость",
+            "count": 1,
+            "cluster": "вежливость",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "вера в лучшее",
+            "count": 1,
+            "cluster": "вера в лучшее",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "заинтересованный",
+            "count": 1,
+            "cluster": "заинтересованный",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "идет в ногу со временем",
+            "count": 1,
+            "cluster": "идет в ногу со временем",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "инициатива",
+            "count": 1,
+            "cluster": "инициативный",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "инициативная",
+            "count": 1,
+            "cluster": "инициативный",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "инициативность",
+            "count": 7,
+            "cluster": "инициативный",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "инициативный",
+            "count": 2,
+            "cluster": "инициативный",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "иноватор",
+            "count": 1,
+            "cluster": "инноватор",
+            "sentiment": "neutrals",
+            "corrected": "инноватор"
+        },
+        {
+            "answer": "исполнител",
+            "count": 1,
+            "cluster": "исполнительность",
+            "sentiment": "positives",
+            "corrected": "исполнительность"
+        },
+        {
+            "answer": "коммуникабельность",
+            "count": 1,
+            "cluster": "коммуникабельность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "компетентность",
+            "count": 1,
+            "cluster": "компетентность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "компетентный",
+            "count": 1,
+            "cluster": "компетентность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "креативность",
+            "count": 1,
+            "cluster": "креативность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "творческая",
+            "count": 1,
+            "cluster": "креативность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "любопытство",
+            "count": 1,
+            "cluster": "любопытство",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "настойчивость",
+            "count": 1,
+            "cluster": "настойчивость",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "небритый но добрый",
+            "count": 1,
+            "cluster": "небритый но добрый",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "новый взгляд на организацию ра",
+            "count": 1,
+            "cluster": "новый взгляд на организацию работы",
+            "sentiment": "neutrals",
+            "corrected": "новый взгляд на организацию работы"
+        },
+        {
+            "answer": "ответственность",
+            "count": 1,
+            "cluster": "ответственность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "человек дела",
+            "count": 1,
+            "cluster": "человек дела",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "продуктивный",
+            "count": 1,
+            "cluster": "результативность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "результативная",
+            "count": 1,
+            "cluster": "результативность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "результативност",
+            "count": 1,
+            "cluster": "результативность",
+            "sentiment": "positives",
+            "corrected": "результативность"
+        },
+        {
+            "answer": "решительность",
+            "count": 1,
+            "cluster": "решительность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "скромность",
+            "count": 1,
+            "cluster": "скромность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "смышлёный",
+            "count": 1,
+            "cluster": "смышлёный",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "ум",
+            "count": 2,
+            "cluster": "ум",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "умные",
+            "count": 1,
+            "cluster": "ум",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "стремление",
+            "count": 1,
+            "cluster": "целеустремлённость",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "стрессоустойчивый",
+            "count": 1,
+            "cluster": "стрессоустойчивый",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "тайм менеджмент",
+            "count": 1,
+            "cluster": "тайм менеджмент",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "трудолюбие",
+            "count": 1,
+            "cluster": "трудолюбие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "усидчивость",
+            "count": 1,
+            "cluster": "усидчивость",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "целеустремленность",
+            "count": 1,
+            "cluster": "целеустремлённость",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "целеустремлённость",
+            "count": 1,
+            "cluster": "целеустремлённость",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "чуткость",
+            "count": 1,
+            "cluster": "чуткость",
+            "sentiment": "positives"
+        }
+    ]
+}

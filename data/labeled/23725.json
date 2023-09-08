@@ -1,0 +1,60 @@
+{
+    "question": "Какие модели педдизайна Вы знаете?",
+    "id": 23725,
+    "answers": [
+        {
+            "answer": "addie",
+            "count": 5,
+            "cluster": "addie",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ald",
+            "count": 1,
+            "cluster": "ald",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "id",
+            "count": 1,
+            "cluster": "id",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "sam",
+            "count": 3,
+            "cluster": "sam",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "smart",
+            "count": 1,
+            "cluster": "smart",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "steam",
+            "count": 1,
+            "cluster": "steam",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ubd",
+            "count": 1,
+            "cluster": "ubd",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "таксономия блума",
+            "count": 1,
+            "cluster": "таксономия блума",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "таксономия марцано",
+            "count": 1,
+            "cluster": "таксономия марцано",
+            "sentiment": "neutrals"
+        }
+    ]
+}

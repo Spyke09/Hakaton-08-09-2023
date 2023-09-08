@@ -1,0 +1,216 @@
+{
+    "question": "Напишите Ваши ассоциации со словом НЕТВОРКИНГ. Сформулируйте каждую Ассоциацию в 1 слово или короткое словосочетание. Вы можете дать 1-3 ассоциации отдельными ответами",
+    "id": 27127,
+    "answers": [
+        {
+            "answer": "relationship",
+            "count": 1,
+            "cluster": "relationship",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "блат",
+            "count": 1,
+            "cluster": "блат",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "взаимная выгода",
+            "count": 1,
+            "cluster": "взаимная выгода",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "взаимодействие",
+            "count": 3,
+            "cluster": "взаимодействие",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "коммуникации",
+            "count": 1,
+            "cluster": "коммуникация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "коммуникация",
+            "count": 2,
+            "cluster": "коммуникация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "общение",
+            "count": 3,
+            "cluster": "коммуникация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "полезные коммуникации",
+            "count": 1,
+            "cluster": "коммуникация",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "взаимосвязь",
+            "count": 1,
+            "cluster": "взаимосвязь",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "возможность",
+            "count": 1,
+            "cluster": "возможность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "знакомства",
+            "count": 1,
+            "cluster": "знакомства",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "полезное знакомство",
+            "count": 1,
+            "cluster": "знакомства",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "полезные контакты",
+            "count": 1,
+            "cluster": "связи",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "связи",
+            "count": 3,
+            "cluster": "связи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "связь",
+            "count": 1,
+            "cluster": "связи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "инновации",
+            "count": 1,
+            "cluster": "инновации",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "команда",
+            "count": 2,
+            "cluster": "команда",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "люди",
+            "count": 3,
+            "cluster": "люди",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "коммуникационная польза",
+            "count": 1,
+            "cluster": "полезные коммуникации",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "организм",
+            "count": 1,
+            "cluster": "организм",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "познание",
+            "count": 1,
+            "cluster": "познание",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "польза",
+            "count": 2,
+            "cluster": "польза",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "понимание",
+            "count": 1,
+            "cluster": "понимание",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "продуктивная деятельность",
+            "count": 1,
+            "cluster": "продуктивная деятельность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "работа",
+            "count": 2,
+            "cluster": "работа",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "работа вне",
+            "count": 1,
+            "cluster": "работа",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "развитие",
+            "count": 1,
+            "cluster": "рост",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "рост",
+            "count": 1,
+            "cluster": "рост",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "раскрытие личности",
+            "count": 1,
+            "cluster": "раскрытие личности",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "расчет",
+            "count": 1,
+            "cluster": "расчет",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "решала",
+            "count": 1,
+            "cluster": "решала",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сеть",
+            "count": 3,
+            "cluster": "сеть",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "синергия",
+            "count": 1,
+            "cluster": "синергия",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "социальная сеть",
+            "count": 1,
+            "cluster": "социальная сеть",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "успех",
+            "count": 1,
+            "cluster": "успех",
+            "sentiment": "positives"
+        }
+    ]
+}

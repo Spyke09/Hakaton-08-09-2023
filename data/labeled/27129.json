@@ -1,0 +1,171 @@
+{
+    "question": "Ваше впечатление за день?",
+    "id": 27129,
+    "answers": [
+        {
+            "answer": "бывало и хуже",
+            "count": 1,
+            "cluster": "бывало и хуже",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "внедрить знания в дело",
+            "count": 1,
+            "cluster": "внедрить знания в дело",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "желание работать",
+            "count": 1,
+            "cluster": "желание работать",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "желание узнавать что-то новое",
+            "count": 1,
+            "cluster": "желание узнавать что то новое",
+            "sentiment": "positives",
+            "corrected": "желание узнавать что то новое"
+        },
+        {
+            "answer": "заряд энергии",
+            "count": 1,
+            "cluster": "заряд энергии",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "подъём",
+            "count": 1,
+            "cluster": "подъём",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "ильина",
+            "count": 1,
+            "cluster": "ильина",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "интересно",
+            "count": 4,
+            "cluster": "интересно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "интересный разбор ошибок",
+            "count": 1,
+            "cluster": "интересный разбор ошибок",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "круто",
+            "count": 1,
+            "cluster": "круто",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "круть",
+            "count": 1,
+            "cluster": "круто",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "отлично",
+            "count": 1,
+            "cluster": "круто",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "положительное",
+            "count": 1,
+            "cluster": "круто",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "потрясающее",
+            "count": 1,
+            "cluster": "круто",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "прекрасное",
+            "count": 1,
+            "cluster": "круто",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "супер",
+            "count": 1,
+            "cluster": "круто",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "личное общение",
+            "count": 1,
+            "cluster": "личное общение",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "обмен мнениями",
+            "count": 1,
+            "cluster": "обмен мнениями",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "огромный позитив!",
+            "count": 1,
+            "cluster": "позитив",
+            "sentiment": "positives",
+            "corrected": "огромный позитив"
+        },
+        {
+            "answer": "позитив",
+            "count": 2,
+            "cluster": "позитив",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "радость",
+            "count": 1,
+            "cluster": "радость",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "очень полезно",
+            "count": 1,
+            "cluster": "очень полезно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "очень полезно и интересно",
+            "count": 1,
+            "cluster": "очень полезно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "полезно",
+            "count": 3,
+            "cluster": "очень полезно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "полезное мероприятие",
+            "count": 1,
+            "cluster": "очень полезно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "позновательно",
+            "count": 1,
+            "cluster": "познавательно",
+            "sentiment": "positives",
+            "corrected": "познавательно"
+        },
+        {
+            "answer": "продуктивное",
+            "count": 1,
+            "cluster": "продуктивное",
+            "sentiment": "positives"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "question": "Ваши открытия за время обучения на модуле",
+    "id": 23432,
+    "answers": [
+        {
+            "answer": "мало используем по для менеджм",
+            "count": 1,
+            "cluster": "мало используем по для менеджмента",
+            "sentiment": "negatives",
+            "corrected": "мало используем по для менеджмента"
+        },
+        {
+            "answer": "метаданные",
+            "count": 1,
+            "cluster": "метаданные",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "много инструментов",
+            "count": 1,
+            "cluster": "много инструментов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нет",
+            "count": 1,
+            "cluster": "нет",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нужен стабильный интернет",
+            "count": 1,
+            "cluster": "нужен стабильный интернет",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "цифровизация везде",
+            "count": 1,
+            "cluster": "цифровизация везде",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "яндекс.формы)",
+            "count": 1,
+            "cluster": "яндекс формы",
+            "sentiment": "neutrals",
+            "corrected": "яндекс формы"
+        }
+    ]
+}

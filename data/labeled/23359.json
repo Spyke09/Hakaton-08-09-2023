@@ -1,0 +1,42 @@
+{
+    "question": "Какая ассоциация у вас со словом \"грамотность\"? (1-2 слова)",
+    "id": 23359,
+    "answers": [
+        {
+            "answer": "владеющий",
+            "count": 1,
+            "cluster": "владеющий",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "донецк",
+            "count": 1,
+            "cluster": "донецк",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "интеллект",
+            "count": 1,
+            "cluster": "интеллект",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "образование",
+            "count": 1,
+            "cluster": "образование",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "отсутствие ошибок",
+            "count": 1,
+            "cluster": "отсутствие ошибок",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "современность",
+            "count": 1,
+            "cluster": "современность",
+            "sentiment": "neutrals"
+        }
+    ]
+}

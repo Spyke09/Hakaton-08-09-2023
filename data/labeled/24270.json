@@ -1,0 +1,552 @@
+{
+    "question": "Основной тренд ИТ в будущем. Опишите 1-2 словами.",
+    "id": 24270,
+    "answers": [
+        {
+            "answer": "1. кроссплатформенность",
+            "count": 1,
+            "cluster": "1 кроссплатформенность",
+            "sentiment": "neutrals",
+            "corrected": "1 кроссплатформенность"
+        },
+        {
+            "answer": "big data",
+            "count": 2,
+            "cluster": "big data",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "embedded",
+            "count": 1,
+            "cluster": "embedded",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "no code",
+            "count": 1,
+            "cluster": "no code",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "адаптивность и безопасность",
+            "count": 1,
+            "cluster": "безопасность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "безопасное импортонезависимое",
+            "count": 1,
+            "cluster": "безопасность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "безопасность",
+            "count": 1,
+            "cluster": "безопасность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "бесчеловечный интеллект",
+            "count": 1,
+            "cluster": "искусственный интеллект",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ии",
+            "count": 7,
+            "cluster": "искусственный интеллект",
+            "sentiment": "neutrals",
+            "corrected": "искусственный интеллект"
+        },
+        {
+            "answer": "искусственный интеллект",
+            "count": 3,
+            "cluster": "искусственный интеллект",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "больше работы",
+            "count": 1,
+            "cluster": "больше работы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "бренд",
+            "count": 1,
+            "cluster": "бренд",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "будет интересно",
+            "count": 1,
+            "cluster": "будет интересно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "быстрая разработка",
+            "count": 1,
+            "cluster": "быстрая разработка",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "в ит со школы",
+            "count": 1,
+            "cluster": "в информационные технологии со школы",
+            "sentiment": "neutrals",
+            "corrected": "в информационные технологии со школы"
+        },
+        {
+            "answer": "все в одном",
+            "count": 1,
+            "cluster": "все в одном",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "встроенные устройства",
+            "count": 2,
+            "cluster": "встроенные устройства",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "глобализация",
+            "count": 1,
+            "cluster": "глобализация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "госиткорпорация",
+            "count": 1,
+            "cluster": "государственная ит корпорация",
+            "sentiment": "neutrals",
+            "corrected": "государственная ит корпорация"
+        },
+        {
+            "answer": "демонополизация",
+            "count": 1,
+            "cluster": "демонополизация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "дополненная реальность",
+            "count": 1,
+            "cluster": "дополненная реальность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "единая экосистема",
+            "count": 1,
+            "cluster": "единая экосистема",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "замена человека в экономике",
+            "count": 1,
+            "cluster": "замена человека в экономике",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "зона возможностей максимальна",
+            "count": 1,
+            "cluster": "зона возможностей максимальна",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "избегание цифры",
+            "count": 1,
+            "cluster": "избегание цифровизация",
+            "sentiment": "neutrals",
+            "corrected": "избегание цифровизация"
+        },
+        {
+            "answer": "изменение концепции рабочего м",
+            "count": 1,
+            "cluster": "изменение концепции рабочего места",
+            "sentiment": "neutrals",
+            "corrected": "изменение концепции рабочего места"
+        },
+        {
+            "answer": "импортзамещение",
+            "count": 1,
+            "cluster": "российские продукты",
+            "sentiment": "neutrals",
+            "corrected": "импортозамещение"
+        },
+        {
+            "answer": "импортонезависимость прорыв",
+            "count": 1,
+            "cluster": "российские продукты",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "инновации- управление вызовами",
+            "count": 1,
+            "cluster": "инновации управление вызовами",
+            "sentiment": "neutrals",
+            "corrected": "инновации управление вызовами"
+        },
+        {
+            "answer": "интеграция",
+            "count": 1,
+            "cluster": "интеграция",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "исключить трайбализм",
+            "count": 1,
+            "cluster": "исключить трайбализм",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "ит суверенитет путь на 10 лет",
+            "count": 1,
+            "cluster": "информационные технологии суверенитет путь на 10 лет",
+            "sentiment": "neutrals",
+            "corrected": "информационные технологии суверенитет путь на 10 лет"
+        },
+        {
+            "answer": "ит-курсы заменят университет",
+            "count": 1,
+            "cluster": "информационные технологии курсы заменят университет",
+            "sentiment": "neutrals",
+            "corrected": "информационные технологии курсы заменят университет"
+        },
+        {
+            "answer": "квантовые технологии",
+            "count": 1,
+            "cluster": "квантовые технологии",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "кибербезопасность и ии",
+            "count": 1,
+            "cluster": "кибербезопасность и искусственный интеллект",
+            "sentiment": "neutrals",
+            "corrected": "кибербезопасность и искусственный интеллект"
+        },
+        {
+            "answer": "кибервойны",
+            "count": 1,
+            "cluster": "кибервойны",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "конкурентные it-продукты",
+            "count": 1,
+            "cluster": "конкурентные информационные технологии продукты",
+            "sentiment": "positives",
+            "corrected": "конкурентные информационные технологии продукты"
+        },
+        {
+            "answer": "метавселенная",
+            "count": 1,
+            "cluster": "метавселенная",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "независимость",
+            "count": 4,
+            "cluster": "независимость",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новые технологии",
+            "count": 1,
+            "cluster": "новые технологии",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "облачные решения",
+            "count": 1,
+            "cluster": "облачные технологии",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "облачные технологии",
+            "count": 1,
+            "cluster": "облачные технологии",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "обогнать",
+            "count": 1,
+            "cluster": "обогнать",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "образование",
+            "count": 1,
+            "cluster": "образование",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "обучение",
+            "count": 1,
+            "cluster": "образование",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "обучение в виртуальном простр.",
+            "count": 1,
+            "cluster": "обучение в виртуальном пространстве",
+            "sentiment": "neutrals",
+            "corrected": "обучение в виртуальном пространстве"
+        },
+        {
+            "answer": "объединение усилий",
+            "count": 1,
+            "cluster": "интеграция",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "окно возможностей",
+            "count": 1,
+            "cluster": "окно возможностей",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "осознание",
+            "count": 1,
+            "cluster": "осознание",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "осознанность и многофункцион-т",
+            "count": 1,
+            "cluster": "осознанность и многофункциональность",
+            "sentiment": "positives",
+            "corrected": "осознанность и многофункциональность"
+        },
+        {
+            "answer": "поддержка ит-предпринимателей",
+            "count": 1,
+            "cluster": "поддержка информационные технологии предпринимателей",
+            "sentiment": "positives",
+            "corrected": "поддержка информационные технологии предпринимателей"
+        },
+        {
+            "answer": "полный удаленный рабочий день",
+            "count": 1,
+            "cluster": "полный удаленный рабочий день",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "удаленка",
+            "count": 1,
+            "cluster": "полный удаленный рабочий день",
+            "sentiment": "neutrals",
+            "corrected": "дистанционно"
+        },
+        {
+            "answer": "приспособляемость к изменениям",
+            "count": 1,
+            "cluster": "приспособляемость к изменениям",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "прорыв?",
+            "count": 1,
+            "cluster": "прорыв",
+            "sentiment": "neutrals",
+            "corrected": "прорыв"
+        },
+        {
+            "answer": "радиоэлектроника",
+            "count": 1,
+            "cluster": "радиоэлектроника",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "развитие",
+            "count": 1,
+            "cluster": "развитие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "развитие в тишине!",
+            "count": 1,
+            "cluster": "развитие в тишине",
+            "sentiment": "neutrals",
+            "corrected": "развитие в тишине"
+        },
+        {
+            "answer": "развитие по спирали",
+            "count": 1,
+            "cluster": "развитие по спирали",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "форсированное развитие",
+            "count": 1,
+            "cluster": "форсированное развитие",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ренессанс",
+            "count": 1,
+            "cluster": "ренессанс",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "роботизация",
+            "count": 1,
+            "cluster": "роботизация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "российские продукты",
+            "count": 1,
+            "cluster": "российские продукты",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "своя продукция",
+            "count": 1,
+            "cluster": "российские продукты",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "российский магазин по",
+            "count": 1,
+            "cluster": "российские продукты",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "рост скорости изменений",
+            "count": 1,
+            "cluster": "рост скорости изменений",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "самый умный",
+            "count": 1,
+            "cluster": "самый умный",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "сегодня 20 лет назад",
+            "count": 1,
+            "cluster": "сегодня 20 лет назад",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "создание новых продуктов",
+            "count": 1,
+            "cluster": "создание новых продуктов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "создать российский бренд  ит",
+            "count": 1,
+            "cluster": "создать российский бренд информационные технологии",
+            "sentiment": "neutrals",
+            "corrected": "создать российский бренд информационные технологии"
+        },
+        {
+            "answer": "стагнация",
+            "count": 1,
+            "cluster": "стагнация",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "стартапы",
+            "count": 1,
+            "cluster": "стартапы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "технологический суверинитет",
+            "count": 1,
+            "cluster": "технологический суверенитет",
+            "sentiment": "positives",
+            "corrected": "технологический суверенитет"
+        },
+        {
+            "answer": "трайбализм (",
+            "count": 1,
+            "cluster": "трайбализм",
+            "sentiment": "negatives",
+            "corrected": "трайбализм"
+        },
+        {
+            "answer": "трудно но интересно",
+            "count": 1,
+            "cluster": "трудно но интересно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "улучшение условий труда",
+            "count": 1,
+            "cluster": "улучшение условий труда",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "умение учиться",
+            "count": 1,
+            "cluster": "умение учиться",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "успех",
+            "count": 1,
+            "cluster": "успех",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "цифровая безопасность",
+            "count": 1,
+            "cluster": "цифровая безопасность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "цифровизация всех возможных пр",
+            "count": 1,
+            "cluster": "цифровизация процессов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "цифровизация процессов",
+            "count": 1,
+            "cluster": "цифровизация процессов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "цифровизация обучения",
+            "count": 1,
+            "cluster": "цифровизация обучения",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "цифровое производство",
+            "count": 5,
+            "cluster": "цифровое производство",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "цифровые платформы",
+            "count": 1,
+            "cluster": "цифровые платформы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "цод дома",
+            "count": 1,
+            "cluster": "центр обработки данных дома",
+            "sentiment": "neutrals",
+            "corrected": "центр обработки данных дома"
+        },
+        {
+            "answer": "экосистема. нейроморфные ит",
+            "count": 1,
+            "cluster": "экосистема нейроморфные информационные технологии",
+            "sentiment": "neutrals",
+            "corrected": "экосистема нейроморфные информационные технологии"
+        },
+        {
+            "answer": "экспорт it-продуктов",
+            "count": 1,
+            "cluster": "экспорт информационные технологии продуктов",
+            "sentiment": "neutrals",
+            "corrected": "экспорт информационные технологии продуктов"
+        }
+    ]
+}

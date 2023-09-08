@@ -1,0 +1,30 @@
+{
+    "question": "Кто для Вас лидер по культуре безопасности? Что отличает лидера, что конкретно он делает, напишите 1-2 глагола / Who is the leader in safety culture for you? What distinguishes a leader, what exactly does he do, write 1-2 verbs.",
+    "id": 21584,
+    "answers": [
+        {
+            "answer": "руководитель отдела",
+            "count": 1,
+            "cluster": "руководитель отдела",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "создаёт творческую атмосферу",
+            "count": 1,
+            "cluster": "создаёт творческую атмосферу",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "стремится сам",
+            "count": 1,
+            "cluster": "стремится сам",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "человек делающий правильно пра",
+            "count": 1,
+            "cluster": "человек делающий правильно пра",
+            "sentiment": "positives"
+        }
+    ]
+}
