@@ -1,0 +1,445 @@
+{
+    "question": "Какая наиболее важная для вас ценность не присутствует среди ценностей Росатома",
+    "id": 28158,
+    "answers": [
+        {
+            "answer": "work/family",
+            "count": 1,
+            "cluster": "work family",
+            "sentiment": "neutrals",
+            "corrected": "work family"
+        },
+        {
+            "answer": "отношение семьи и работы",
+            "count": 1,
+            "cluster": "отношения",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "базированность",
+            "count": 1,
+            "cluster": "базированность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "верность",
+            "count": 1,
+            "cluster": "верность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "взаимопомощь",
+            "count": 1,
+            "cluster": "взаимопомощь",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "видимый результат",
+            "count": 1,
+            "cluster": "видимый результат",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "возможность",
+            "count": 1,
+            "cluster": "перспектива",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "всё круто!",
+            "count": 1,
+            "cluster": "всё круто",
+            "sentiment": "positives",
+            "corrected": "всё круто"
+        },
+        {
+            "answer": "гарантии",
+            "count": 1,
+            "cluster": "гарантии",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "гибкость",
+            "count": 3,
+            "cluster": "гибкость",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "график",
+            "count": 1,
+            "cluster": "график",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "гуманитарии",
+            "count": 1,
+            "cluster": "гуманитарии",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "гуманитарность",
+            "count": 1,
+            "cluster": "гуманитарии",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "да да",
+            "count": 1,
+            "cluster": "развитие",
+            "sentiment": "positives",
+            "corrected": "прогресс"
+        },
+        {
+            "answer": "движение",
+            "count": 1,
+            "cluster": "движение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "продвижение",
+            "count": 1,
+            "cluster": "движение",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "развитие",
+            "count": 1,
+            "cluster": "развитие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "деньги",
+            "count": 3,
+            "cluster": "деньги",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "доступность",
+            "count": 3,
+            "cluster": "открытость",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "жопа",
+            "count": 1,
+            "cluster": "человечность",
+            "sentiment": "neutrals",
+            "corrected": "личность"
+        },
+        {
+            "answer": "забота о сотрудниках",
+            "count": 1,
+            "cluster": "ценность сотрудника",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "зарплата",
+            "count": 1,
+            "cluster": "зарплата",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "зп",
+            "count": 1,
+            "cluster": "зарплата",
+            "sentiment": "neutrals",
+            "corrected": "зарплата"
+        },
+        {
+            "answer": "иклюзивность",
+            "count": 1,
+            "cluster": "иклюзивность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "инклюзивность",
+            "count": 1,
+            "cluster": "инклюзивность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "инициатива",
+            "count": 1,
+            "cluster": "инициативность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "инициативность",
+            "count": 1,
+            "cluster": "инициативность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "качество",
+            "count": 1,
+            "cluster": "качество",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "коммунизм",
+            "count": 1,
+            "cluster": "коммунизм",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "комфортность",
+            "count": 1,
+            "cluster": "комфортность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "красота",
+            "count": 1,
+            "cluster": "красота",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "креативность",
+            "count": 1,
+            "cluster": "креативность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "нестандартное мышление",
+            "count": 1,
+            "cluster": "нестандартное мышление",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "оригинальность",
+            "count": 1,
+            "cluster": "оригинальность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "кушац",
+            "count": 1,
+            "cluster": "кушак",
+            "sentiment": "neutrals",
+            "corrected": "кушак"
+        },
+        {
+            "answer": "ленин",
+            "count": 2,
+            "cluster": "ленин",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "личность",
+            "count": 1,
+            "cluster": "человечность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "надежность",
+            "count": 1,
+            "cluster": "верность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "научная этика",
+            "count": 1,
+            "cluster": "научная этика",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "открытость",
+            "count": 6,
+            "cluster": "открытость",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "обучаемость",
+            "count": 1,
+            "cluster": "обучаемость",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "отношения",
+            "count": 1,
+            "cluster": "отношения",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "патриотизм",
+            "count": 1,
+            "cluster": "патриотизм",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "родина",
+            "count": 1,
+            "cluster": "родина",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "пацифизм",
+            "count": 1,
+            "cluster": "пацифизм",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "перегруженность",
+            "count": 1,
+            "cluster": "перегруженность",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "перспектива",
+            "count": 1,
+            "cluster": "перспектива",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "поддержка вне работы",
+            "count": 1,
+            "cluster": "социальная поддержка",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "понятность",
+            "count": 1,
+            "cluster": "понятность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "приемственность",
+            "count": 1,
+            "cluster": "преемственность",
+            "sentiment": "positives",
+            "corrected": "преемственность"
+        },
+        {
+            "answer": "прогресс",
+            "count": 1,
+            "cluster": "развитие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "пунктуальность",
+            "count": 1,
+            "cluster": "пунктуальность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "путешествия",
+            "count": 2,
+            "cluster": "путешествия",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "развитие химии",
+            "count": 3,
+            "cluster": "развитие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "ротация",
+            "count": 1,
+            "cluster": "ротация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "свобода",
+            "count": 10,
+            "cluster": "свобода",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "свобода передвижения",
+            "count": 1,
+            "cluster": "движение",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "семья",
+            "count": 1,
+            "cluster": "семья",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "скорость работы",
+            "count": 1,
+            "cluster": "инициативность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сон",
+            "count": 4,
+            "cluster": "сон",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "социальная поддержка",
+            "count": 1,
+            "cluster": "социальная поддержка",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "справедливость",
+            "count": 1,
+            "cluster": "верность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "стабильность",
+            "count": 19,
+            "cluster": "стабильность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "технологическое преимущество",
+            "count": 1,
+            "cluster": "технологическое преимущество",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "традиции",
+            "count": 3,
+            "cluster": "традиции",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "уважение",
+            "count": 1,
+            "cluster": "уважение",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "удовольствие",
+            "count": 1,
+            "cluster": "удовольствие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "узкая специализация",
+            "count": 1,
+            "cluster": "узкая специализация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ценность сотрудника",
+            "count": 1,
+            "cluster": "ценность сотрудника",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "человек",
+            "count": 1,
+            "cluster": "человечность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "человечность",
+            "count": 1,
+            "cluster": "человечность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "честность",
+            "count": 2,
+            "cluster": "открытость",
+            "sentiment": "positives"
+        }
+    ]
+}

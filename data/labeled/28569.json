@@ -1,0 +1,95 @@
+{
+    "question": "Сетевое взаимодействие - это",
+    "id": 28569,
+    "answers": [
+        {
+            "answer": "возможность?",
+            "count": 1,
+            "cluster": "возможность",
+            "sentiment": "positives",
+            "corrected": "возможность"
+        },
+        {
+            "answer": "может быть новые возможности",
+            "count": 1,
+            "cluster": "возможность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "городской образовательный прое",
+            "count": 1,
+            "cluster": "городской образовательный проект",
+            "sentiment": "neutrals",
+            "corrected": "городской образовательный проект"
+        },
+        {
+            "answer": "найти новые способности",
+            "count": 1,
+            "cluster": "найти новые способности",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нормативная база предпрофессио",
+            "count": 1,
+            "cluster": "нормативная база",
+            "sentiment": "neutrals",
+            "corrected": "нормативная база предпрофессионального"
+        },
+        {
+            "answer": "нормативная база?",
+            "count": 1,
+            "cluster": "нормативная база",
+            "sentiment": "neutrals",
+            "corrected": "нормативная база"
+        },
+        {
+            "answer": "нормативные документы",
+            "count": 1,
+            "cluster": "нормативная база",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "обмен опытом",
+            "count": 1,
+            "cluster": "обмен опытом",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "образования и управления",
+            "count": 1,
+            "cluster": "образования и управления",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "повышение мотивации педагогов",
+            "count": 1,
+            "cluster": "повышение мотивации педагогов",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "разрабатывать апробировать и предлагать инновационные формы",
+            "count": 1,
+            "cluster": "разрабатывать апробировать и предлагать инновационные формы",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "решение проблем",
+            "count": 1,
+            "cluster": "решение проблем",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "система связей позволяющих",
+            "count": 1,
+            "cluster": "система связей позволяющих",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "эффективные практики взаимодей",
+            "count": 1,
+            "cluster": "эффективные практики взаимодействия",
+            "sentiment": "positives",
+            "corrected": "эффективные практики взаимодействия"
+        }
+    ]
+}

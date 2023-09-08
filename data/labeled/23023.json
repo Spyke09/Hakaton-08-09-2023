@@ -1,0 +1,30 @@
+{
+    "question": "Напишите ваши ожидания от курса в 2х словах?",
+    "id": 23023,
+    "answers": [
+        {
+            "answer": "новые возможности",
+            "count": 1,
+            "cluster": "новые возможности",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "новые смыслы образовательных с",
+            "count": 1,
+            "cluster": "новые смыслы образовательных с",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "профильный летний лагерь",
+            "count": 1,
+            "cluster": "профильный летний лагерь",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "содержательно",
+            "count": 1,
+            "cluster": "содержательно",
+            "sentiment": "positives"
+        }
+    ]
+}

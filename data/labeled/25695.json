@@ -1,0 +1,494 @@
+{
+    "question": "Напишите 3 слова, которые главным образом могут охарактеризовать стратегическую сессию? Ваши ассоциации",
+    "id": 25695,
+    "answers": [
+        {
+            "answer": "wrong",
+            "count": 1,
+            "cluster": "wrong",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "актуально",
+            "count": 1,
+            "cluster": "актуально",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "без комментариев",
+            "count": 1,
+            "cluster": "без комментариев",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "бизнес",
+            "count": 2,
+            "cluster": "бизнес",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "бодро",
+            "count": 1,
+            "cluster": "бодро",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "будущее",
+            "count": 1,
+            "cluster": "будущее",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "быстро",
+            "count": 1,
+            "cluster": "быстро",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "важно",
+            "count": 1,
+            "cluster": "нужно",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "вв",
+            "count": 2,
+            "cluster": "вв",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "вовлеченность",
+            "count": 2,
+            "cluster": "вовлеченность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "все хорошо",
+            "count": 1,
+            "cluster": "отлично",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "ок",
+            "count": 1,
+            "cluster": "нормально",
+            "sentiment": "neutrals",
+            "corrected": "нормально"
+        },
+        {
+            "answer": "движение",
+            "count": 1,
+            "cluster": "движение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "детализация",
+            "count": 1,
+            "cluster": "детализация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "дефицит времени",
+            "count": 1,
+            "cluster": "дефицит времени",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "мало времени",
+            "count": 1,
+            "cluster": "дефицит времени",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "долгая",
+            "count": 1,
+            "cluster": "долго",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "долго",
+            "count": 1,
+            "cluster": "долго",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "заставляет задуматься",
+            "count": 1,
+            "cluster": "заставляет задуматься",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "зачем",
+            "count": 1,
+            "cluster": "зачем",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "инновационность",
+            "count": 1,
+            "cluster": "инновационность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "новизна",
+            "count": 1,
+            "cluster": "инновационность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "интересно",
+            "count": 5,
+            "cluster": "интересно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "информати",
+            "count": 1,
+            "cluster": "информативно",
+            "sentiment": "positives",
+            "corrected": "информативность"
+        },
+        {
+            "answer": "информативно",
+            "count": 1,
+            "cluster": "информативно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "информативность",
+            "count": 1,
+            "cluster": "информативно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "информированность",
+            "count": 1,
+            "cluster": "информированность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "исследователь",
+            "count": 1,
+            "cluster": "исследователь",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "клиентоцентричность",
+            "count": 1,
+            "cluster": "клиентоцентричность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "компе",
+            "count": 1,
+            "cluster": "компетентность",
+            "sentiment": "positives",
+            "corrected": "компетентность"
+        },
+        {
+            "answer": "компетентность",
+            "count": 1,
+            "cluster": "компетентность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "концентрация",
+            "count": 1,
+            "cluster": "концентрация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "креатив",
+            "count": 1,
+            "cluster": "креативно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "креативно",
+            "count": 1,
+            "cluster": "креативно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "креативность",
+            "count": 1,
+            "cluster": "креативно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "лл",
+            "count": 1,
+            "cluster": "лл",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мало",
+            "count": 1,
+            "cluster": "мало",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "маркетплейс",
+            "count": 1,
+            "cluster": "место для продаж",
+            "sentiment": "neutrals",
+            "corrected": "место для продаж"
+        },
+        {
+            "answer": "масштабно",
+            "count": 1,
+            "cluster": "масштабно",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мяу",
+            "count": 1,
+            "cluster": "мяу",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нагрузочный мозговой штурм",
+            "count": 1,
+            "cluster": "нагрузочный мозговой штурм",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "наука",
+            "count": 1,
+            "cluster": "наука",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "научные услуги",
+            "count": 1,
+            "cluster": "научные услуги",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "не все услышано",
+            "count": 1,
+            "cluster": "не все услышано",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "необходимо",
+            "count": 1,
+            "cluster": "нужно",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нужно",
+            "count": 1,
+            "cluster": "нужно",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "несколько шагов назад",
+            "count": 1,
+            "cluster": "несколько шагов назад",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "отлично",
+            "count": 1,
+            "cluster": "отлично",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "открытость",
+            "count": 1,
+            "cluster": "открытость",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "переспектива развития страны",
+            "count": 1,
+            "cluster": "перспектива развития страны",
+            "sentiment": "positives",
+            "corrected": "перспектива развития страны"
+        },
+        {
+            "answer": "плохая дискуссия на пленарке",
+            "count": 1,
+            "cluster": "плохая дискуссия на пленарке",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "плохо сфокусирована",
+            "count": 1,
+            "cluster": "плохо сфокусирована",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "погружение",
+            "count": 1,
+            "cluster": "погружение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "позитивно",
+            "count": 1,
+            "cluster": "позитивно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "полезно",
+            "count": 3,
+            "cluster": "полезно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "понятно",
+            "count": 1,
+            "cluster": "понятно",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "поработать с фт",
+            "count": 1,
+            "cluster": "поработать с фт",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "практично",
+            "count": 1,
+            "cluster": "практично",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "проблемы",
+            "count": 1,
+            "cluster": "проблемы",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "продуктивная",
+            "count": 1,
+            "cluster": "продуктивность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "продуктивно",
+            "count": 3,
+            "cluster": "продуктивность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "продуктивность",
+            "count": 3,
+            "cluster": "продуктивность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "результат",
+            "count": 1,
+            "cluster": "продуктивность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "результативно",
+            "count": 1,
+            "cluster": "продуктивность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "эффективная",
+            "count": 1,
+            "cluster": "продуктивность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "эффективно",
+            "count": 3,
+            "cluster": "продуктивность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "эффективность",
+            "count": 1,
+            "cluster": "продуктивность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "продуктивная командная работа.",
+            "count": 1,
+            "cluster": "продуктивность",
+            "sentiment": "positives",
+            "corrected": "продуктивная командная работа"
+        },
+        {
+            "answer": "развитие",
+            "count": 1,
+            "cluster": "развитие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "рассинхронизация",
+            "count": 1,
+            "cluster": "рассинхронизация",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "стратегия",
+            "count": 2,
+            "cluster": "стратегия",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "суббота продуктивность цифра",
+            "count": 1,
+            "cluster": "суббота продуктивность цифровизация",
+            "sentiment": "positives",
+            "corrected": "суббота продуктивность цифровизация"
+        },
+        {
+            "answer": "сумбурно",
+            "count": 1,
+            "cluster": "сумбурно",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "фасилитатор вел группу",
+            "count": 1,
+            "cluster": "фасилитатор вел группу",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "хорошая дискуссия в группах",
+            "count": 1,
+            "cluster": "хорошая дискуссия в группах",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "хорошая организация",
+            "count": 1,
+            "cluster": "хорошая организация",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "хорошая площадка",
+            "count": 1,
+            "cluster": "хорошая площадка",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "целеустремленность",
+            "count": 1,
+            "cluster": "целеустремленность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "цифррвизауи",
+            "count": 1,
+            "cluster": "цифровизация",
+            "sentiment": "neutrals",
+            "corrected": "цифровизация"
+        },
+        {
+            "answer": "четко по времени",
+            "count": 1,
+            "cluster": "четко по времени",
+            "sentiment": "positives"
+        }
+    ]
+}

@@ -1,0 +1,310 @@
+{
+    "question": "Сеть - это",
+    "id": 28568,
+    "answers": [
+        {
+            "answer": "взаимодейс по общим интересам",
+            "count": 1,
+            "cluster": "взаимодействие в общих интересах",
+            "sentiment": "positives",
+            "corrected": "взаимодействие по общим интересам"
+        },
+        {
+            "answer": "взаимодействие в общих интерес",
+            "count": 1,
+            "cluster": "взаимодействие в общих интересах",
+            "sentiment": "positives",
+            "corrected": "взаимодействие в общих интересах"
+        },
+        {
+            "answer": "взаимодействие единомышленнико",
+            "count": 1,
+            "cluster": "взаимодействие единомышленников",
+            "sentiment": "positives",
+            "corrected": "взаимодействие единомышленников"
+        },
+        {
+            "answer": "единиц объединённых одной зада",
+            "count": 1,
+            "cluster": "объединение",
+            "sentiment": "neutrals",
+            "corrected": "единиц объединённых одной задачей"
+        },
+        {
+            "answer": "взаимодействие",
+            "count": 9,
+            "cluster": "взаимодействие",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "глобальное взаимодействие",
+            "count": 1,
+            "cluster": "взаимодействие",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "взаимодействие оо",
+            "count": 1,
+            "cluster": "взаимодействие",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "взаимодействие оо и др. учрежд",
+            "count": 1,
+            "cluster": "взаимодействие",
+            "sentiment": "neutrals",
+            "corrected": "взаимодействие оо и других учреждений"
+        },
+        {
+            "answer": "взаимозависимость",
+            "count": 1,
+            "cluster": "взаимозависимость",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "взаимосвязь",
+            "count": 2,
+            "cluster": "взаимосвязь",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "взаимосвязь объектов",
+            "count": 1,
+            "cluster": "взаимосвязь",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "единая база",
+            "count": 2,
+            "cluster": "единая база",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "идея",
+            "count": 1,
+            "cluster": "идея",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "команда учреждений",
+            "count": 1,
+            "cluster": "команда учреждений",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "командная работа",
+            "count": 1,
+            "cluster": "командная работа",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "совместная работа по достижени",
+            "count": 1,
+            "cluster": "командная работа",
+            "sentiment": "neutrals",
+            "corrected": "совместная работа по достижению"
+        },
+        {
+            "answer": "которую решают вместе",
+            "count": 1,
+            "cluster": "командная работа",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "можно соединить недостающие звенья одной цепи",
+            "count": 1,
+            "cluster": "можно соединить недостающие звенья одной цепи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новые возможности",
+            "count": 1,
+            "cluster": "новые возможности",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "обмен",
+            "count": 1,
+            "cluster": "обмен",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "обмен идеями / опытом",
+            "count": 1,
+            "cluster": "обмен идеями опытом",
+            "sentiment": "positives",
+            "corrected": "обмен идеями опытом"
+        },
+        {
+            "answer": "общение",
+            "count": 1,
+            "cluster": "взаимодействие",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "общие ресурсы",
+            "count": 1,
+            "cluster": "общие ресурсы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "общие цели",
+            "count": 1,
+            "cluster": "общие цели",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "объединение",
+            "count": 1,
+            "cluster": "объединение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "объединения",
+            "count": 1,
+            "cluster": "объединение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "соединение",
+            "count": 1,
+            "cluster": "объединение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "объект который рассматривается",
+            "count": 1,
+            "cluster": "объект который рассматривается",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "опыт других",
+            "count": 1,
+            "cluster": "опыт других",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "партнеры",
+            "count": 1,
+            "cluster": "сотрудничество",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сотрудничество",
+            "count": 1,
+            "cluster": "сотрудничество",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "паутина",
+            "count": 1,
+            "cluster": "паутина",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "развитие",
+            "count": 1,
+            "cluster": "развитие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "распределение ресурсов",
+            "count": 1,
+            "cluster": "распределение ресурсов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "реализации различных целей",
+            "count": 1,
+            "cluster": "реализации различных целей",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ресурс",
+            "count": 1,
+            "cluster": "ресурс",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ресурсы",
+            "count": 1,
+            "cluster": "ресурс",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "совокупность ресурсов",
+            "count": 1,
+            "cluster": "ресурс",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "секта",
+            "count": 1,
+            "cluster": "секта",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сеть - это то при помощи чего",
+            "count": 1,
+            "cluster": "сеть это то при помощи чего",
+            "sentiment": "neutrals",
+            "corrected": "сеть это то при помощи чего"
+        },
+        {
+            "answer": "система",
+            "count": 1,
+            "cluster": "система",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "система взаимодействия",
+            "count": 1,
+            "cluster": "взаимодействие",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "система для взаимодействия",
+            "count": 1,
+            "cluster": "взаимодействие",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "соединение элементов",
+            "count": 1,
+            "cluster": "объединение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "созданное людьми для",
+            "count": 1,
+            "cluster": "созданное людьми для",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "способ обьединить ресурсы орг.",
+            "count": 1,
+            "cluster": "способ объединить ресурсы организации",
+            "sentiment": "neutrals",
+            "corrected": "способ объединить ресурсы организации"
+        },
+        {
+            "answer": "структура из самостоятельных е",
+            "count": 1,
+            "cluster": "структура из самостоятельных единиц",
+            "sentiment": "neutrals",
+            "corrected": "структура из самостоятельных единиц"
+        },
+        {
+            "answer": "то при помощи чего можно",
+            "count": 1,
+            "cluster": "то при помощи чего можно",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "это совокупность систем",
+            "count": 1,
+            "cluster": "это совокупность систем",
+            "sentiment": "neutrals"
+        }
+    ]
+}

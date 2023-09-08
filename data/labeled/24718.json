@@ -1,0 +1,108 @@
+{
+    "question": "Ваши открытия за время обучения на модуле",
+    "id": 24718,
+    "answers": [
+        {
+            "answer": "bi стстемы",
+            "count": 1,
+            "cluster": "bi системы",
+            "sentiment": "neutrals",
+            "corrected": "bi системы"
+        },
+        {
+            "answer": "data-lake",
+            "count": 1,
+            "cluster": "data lake",
+            "sentiment": "neutrals",
+            "corrected": "data lake"
+        },
+        {
+            "answer": "новый термин data lake",
+            "count": 1,
+            "cluster": "data lake",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "озеро данных))",
+            "count": 1,
+            "cluster": "data lake",
+            "sentiment": "neutrals",
+            "corrected": "озеро данных"
+        },
+        {
+            "answer": "все",
+            "count": 1,
+            "cluster": "все",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "есть много процессов в цифре",
+            "count": 1,
+            "cluster": "есть много процессов в цифровизация",
+            "sentiment": "neutrals",
+            "corrected": "есть много процессов в цифровизация"
+        },
+        {
+            "answer": "ецс",
+            "count": 1,
+            "cluster": "единая цифровая стратегия",
+            "sentiment": "neutrals",
+            "corrected": "единая цифровая стратегия"
+        },
+        {
+            "answer": "кастомизация",
+            "count": 1,
+            "cluster": "кастомизация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "коллеги из отрасли",
+            "count": 1,
+            "cluster": "коллеги из отрасли",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "можно применить уже сейчас",
+            "count": 1,
+            "cluster": "можно применить уже сейчас",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "новые знания",
+            "count": 1,
+            "cluster": "новые знания",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "применение цифровизации для пп",
+            "count": 1,
+            "cluster": "применение цифровизации для пп",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "рвёт границы понимания всё за",
+            "count": 1,
+            "cluster": "рвёт границы понимания всё за",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "умный город - саров",
+            "count": 1,
+            "cluster": "умный город саров",
+            "sentiment": "neutrals",
+            "corrected": "умный город саров"
+        },
+        {
+            "answer": "цифровизация",
+            "count": 1,
+            "cluster": "цифровизация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "цифровые продукты",
+            "count": 1,
+            "cluster": "цифровые продукты",
+            "sentiment": "neutrals"
+        }
+    ]
+}

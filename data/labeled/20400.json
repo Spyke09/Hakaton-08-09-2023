@@ -1,0 +1,91 @@
+{
+    "question": "Name 4-5 emerging markets",
+    "id": 20400,
+    "answers": [
+        {
+            "answer": "india",
+            "count": 18,
+            "cluster": "india",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "indonesia",
+            "count": 2,
+            "cluster": "indonesia",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "korea",
+            "count": 1,
+            "cluster": "korea",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "mexico",
+            "count": 3,
+            "cluster": "mexico",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "pakistan",
+            "count": 1,
+            "cluster": "pakistan",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "peru",
+            "count": 1,
+            "cluster": "peru",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "philippines",
+            "count": 1,
+            "cluster": "philippines",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "russia",
+            "count": 7,
+            "cluster": "russia",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "saudi arabia",
+            "count": 1,
+            "cluster": "saudi arabia",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "south america",
+            "count": 1,
+            "cluster": "south america",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "turkey",
+            "count": 4,
+            "cluster": "turkey",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "usa",
+            "count": 2,
+            "cluster": "usa",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "viethnam",
+            "count": 1,
+            "cluster": "vietnam",
+            "sentiment": "neutrals",
+            "corrected": "vietnam"
+        },
+        {
+            "answer": "vietnam",
+            "count": 4,
+            "cluster": "vietnam",
+            "sentiment": "neutrals"
+        }
+    ]
+}

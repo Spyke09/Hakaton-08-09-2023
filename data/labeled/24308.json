@@ -1,0 +1,49 @@
+{
+    "question": "Что Вы узнали на сегодняшнем обучении?",
+    "id": 24308,
+    "answers": [
+        {
+            "answer": "ипр",
+            "count": 1,
+            "cluster": "индивидуальный план развития",
+            "sentiment": "neutrals",
+            "corrected": "индивидуальный план развития"
+        },
+        {
+            "answer": "кадровые резервы",
+            "count": 1,
+            "cluster": "кадровые резервы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "какие есть резервы в ао фпк",
+            "count": 1,
+            "cluster": "какие есть резервы в ао фпк",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "о кадровом резерве",
+            "count": 1,
+            "cluster": "кадровые резервы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "кто такой молодой специалист",
+            "count": 1,
+            "cluster": "кто такой молодой специалист",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "узнала много нового",
+            "count": 1,
+            "cluster": "узнала много нового",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "узнала что не успела в кр 22",
+            "count": 1,
+            "cluster": "узнала что не успела в кр 22",
+            "sentiment": "neutrals"
+        }
+    ]
+}

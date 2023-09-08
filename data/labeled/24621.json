@@ -1,0 +1,42 @@
+{
+    "question": "Каким словом можно описать состояние молодежи вашего предприятия сегодня?",
+    "id": 24621,
+    "answers": [
+        {
+            "answer": "единая",
+            "count": 1,
+            "cluster": "единая",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "инициатива",
+            "count": 1,
+            "cluster": "инициатива",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "невключенная",
+            "count": 1,
+            "cluster": "невключенная",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "образованная",
+            "count": 1,
+            "cluster": "образованная",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "революционность",
+            "count": 1,
+            "cluster": "революционность",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "яркость",
+            "count": 1,
+            "cluster": "яркость",
+            "sentiment": "context sentiment"
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "question": "Чем вы готовы вложиться в процесс для максимальной пользы?",
+    "id": 27614,
+    "answers": [
+        {
+            "answer": "вниманием",
+            "count": 2,
+            "cluster": "вниманием",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "внимательность",
+            "count": 1,
+            "cluster": "вниманием",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "временем",
+            "count": 2,
+            "cluster": "временем",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "время",
+            "count": 3,
+            "cluster": "временем",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "свое время",
+            "count": 1,
+            "cluster": "временем",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "временем и усилиями",
+            "count": 1,
+            "cluster": "свое время и силы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "свое время и силы",
+            "count": 1,
+            "cluster": "свое время и силы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "все в чем компетентен",
+            "count": 1,
+            "cluster": "способности",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "всем",
+            "count": 1,
+            "cluster": "всем",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "герман",
+            "count": 1,
+            "cluster": "герман",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "душой",
+            "count": 2,
+            "cluster": "душой",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "желанием и трудом",
+            "count": 1,
+            "cluster": "желанием и трудом",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "креатив",
+            "count": 1,
+            "cluster": "креатив",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "любовью",
+            "count": 1,
+            "cluster": "любовью",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "мозгами",
+            "count": 1,
+            "cluster": "мозгами",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "развитием для корпорации трудо",
+            "count": 1,
+            "cluster": "развитием для корпорации трудом",
+            "sentiment": "positives",
+            "corrected": "развитием для корпорации трудом"
+        },
+        {
+            "answer": "способности",
+            "count": 1,
+            "cluster": "способности",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "телом",
+            "count": 1,
+            "cluster": "телом",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "трудом",
+            "count": 2,
+            "cluster": "трудом",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "узнавать и знакомиться",
+            "count": 1,
+            "cluster": "узнавать и знакомиться",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "хорошим настроением",
+            "count": 1,
+            "cluster": "хорошим настроением",
+            "sentiment": "positives"
+        }
+    ]
+}

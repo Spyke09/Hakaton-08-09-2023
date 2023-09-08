@@ -1,0 +1,204 @@
+{
+    "question": "Где волонтеру учиться?",
+    "id": 25707,
+    "answers": [
+        {
+            "answer": "dobro.ru",
+            "count": 1,
+            "cluster": "dobro ru",
+            "sentiment": "neutrals",
+            "corrected": "dobro ru"
+        },
+        {
+            "answer": "добро.ру",
+            "count": 1,
+            "cluster": "dobro ru",
+            "sentiment": "neutrals",
+            "corrected": "добро ру"
+        },
+        {
+            "answer": "в ближ окружении",
+            "count": 1,
+            "cluster": "в ближайшем окружении",
+            "sentiment": "neutrals",
+            "corrected": "в ближайшем окружении"
+        },
+        {
+            "answer": "у людей вокруг",
+            "count": 1,
+            "cluster": "у людей вокруг",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "в волонтерских организациях",
+            "count": 1,
+            "cluster": "в волонтерских организациях",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "в волонтёрских организациях",
+            "count": 1,
+            "cluster": "в волонтерских организациях",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "в спец.организациях",
+            "count": 1,
+            "cluster": "в волонтерских организациях",
+            "sentiment": "neutrals",
+            "corrected": "в специальных организациях"
+        },
+        {
+            "answer": "в вузе",
+            "count": 1,
+            "cluster": "в университете",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "в университете",
+            "count": 1,
+            "cluster": "в университете",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "в деятельности",
+            "count": 1,
+            "cluster": "на опыте",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "в проектах волонтёрства",
+            "count": 1,
+            "cluster": "в проектах волонтёрства",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "на опыте",
+            "count": 1,
+            "cluster": "на опыте",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "на практике",
+            "count": 1,
+            "cluster": "на опыте",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "опыт",
+            "count": 1,
+            "cluster": "на опыте",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "в жизни",
+            "count": 1,
+            "cluster": "на опыте",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "воспитывать в себе самому",
+            "count": 1,
+            "cluster": "воспитывать в себе самому",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "друг у друга",
+            "count": 1,
+            "cluster": "друг у друга",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "через единомышленников",
+            "count": 1,
+            "cluster": "через единомышленников",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "другое дело",
+            "count": 5,
+            "cluster": "другое дело",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мероприятия",
+            "count": 1,
+            "cluster": "мероприятия",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "на мероприятиях",
+            "count": 1,
+            "cluster": "мероприятия",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "на курсах",
+            "count": 1,
+            "cluster": "на курсах",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "на примере опытных наставников",
+            "count": 1,
+            "cluster": "у наставника",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "у наставника",
+            "count": 2,
+            "cluster": "у наставника",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нигде",
+            "count": 1,
+            "cluster": "нигде",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "питер",
+            "count": 1,
+            "cluster": "санкт-петербург",
+            "sentiment": "neutrals",
+            "corrected": "санкт-петербург"
+        },
+        {
+            "answer": "ресурсныйцентрдобровольчества",
+            "count": 1,
+            "cluster": "ресурсный центр добровольчества",
+            "sentiment": "neutrals",
+            "corrected": "ресурсный центр добровольчества"
+        },
+        {
+            "answer": "сайт доброволец рф",
+            "count": 1,
+            "cluster": "сайт доброволец рф",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "у меня",
+            "count": 1,
+            "cluster": "у людей вокруг",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "у своей совести",
+            "count": 1,
+            "cluster": "у своей совести",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "университет добро",
+            "count": 1,
+            "cluster": "университет добро",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "университет росатома",
+            "count": 1,
+            "cluster": "университет росатома",
+            "sentiment": "neutrals"
+        }
+    ]
+}

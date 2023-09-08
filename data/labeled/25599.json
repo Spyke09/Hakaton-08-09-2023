@@ -1,0 +1,230 @@
+{
+    "question": "Вопрос от Алексея Ягудина. Какое самое главное качество в наставнике?",
+    "id": 25599,
+    "answers": [
+        {
+            "answer": "быть проще",
+            "count": 2,
+            "cluster": "быть проще",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "быть проще и люди потянутся",
+            "count": 1,
+            "cluster": "быть проще",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "легкость",
+            "count": 1,
+            "cluster": "легкость",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "простота",
+            "count": 5,
+            "cluster": "простота",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "вдохновение",
+            "count": 1,
+            "cluster": "вдохновение",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "вера",
+            "count": 1,
+            "cluster": "вера",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "взаимность",
+            "count": 1,
+            "cluster": "взаимность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "внимание",
+            "count": 1,
+            "cluster": "внимание",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "вовлечённость",
+            "count": 1,
+            "cluster": "вовлечённость",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "выжимать по максимуму",
+            "count": 1,
+            "cluster": "выжимать по максимуму",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "готовность поддержать",
+            "count": 1,
+            "cluster": "готовность поддержать",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "готовность помочь",
+            "count": 1,
+            "cluster": "готовность поддержать",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "желание помочь",
+            "count": 1,
+            "cluster": "желание помочь",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "доверие",
+            "count": 1,
+            "cluster": "доверие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "желание развиваться постоянно",
+            "count": 1,
+            "cluster": "желание развиваться постоянно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "идейность",
+            "count": 1,
+            "cluster": "идейность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "искренность",
+            "count": 1,
+            "cluster": "искренность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "коммуникативность",
+            "count": 1,
+            "cluster": "коммуникативность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "мотивация",
+            "count": 1,
+            "cluster": "мотивация",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "умение вдохновлять",
+            "count": 1,
+            "cluster": "умение вдохновлять",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "не бояться что-то не знать",
+            "count": 1,
+            "cluster": "не бояться что то не знать",
+            "sentiment": "positives",
+            "corrected": "не бояться что то не знать"
+        },
+        {
+            "answer": "небезразличие",
+            "count": 1,
+            "cluster": "небезразличие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "оптимизм и чувство юмора",
+            "count": 1,
+            "cluster": "чувство юмора",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "чувство юмора",
+            "count": 2,
+            "cluster": "чувство юмора",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "юмор",
+            "count": 1,
+            "cluster": "чувство юмора",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "отзвычивость",
+            "count": 1,
+            "cluster": "отзывчивость",
+            "sentiment": "positives",
+            "corrected": "отзывчивость"
+        },
+        {
+            "answer": "открытость",
+            "count": 4,
+            "cluster": "открытость",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "открытость изменениям",
+            "count": 1,
+            "cluster": "открытость изменениям",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "понимание",
+            "count": 1,
+            "cluster": "понимание",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "саморазвитие",
+            "count": 1,
+            "cluster": "саморазвитие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "терпение",
+            "count": 1,
+            "cluster": "терпение",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "тройной тулуп",
+            "count": 1,
+            "cluster": "тройной тулуп",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "умение находить нужную волну",
+            "count": 1,
+            "cluster": "умение находить нужную волну",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "умеренность",
+            "count": 1,
+            "cluster": "умеренность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "человечность",
+            "count": 1,
+            "cluster": "человечность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "честность",
+            "count": 1,
+            "cluster": "честность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "честность открытость юмор",
+            "count": 1,
+            "cluster": "честность открытость юмор",
+            "sentiment": "positives"
+        }
+    ]
+}

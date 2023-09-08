@@ -1,0 +1,53 @@
+{
+    "question": "Какими качествами должен обладать человек в мире будущего?",
+    "id": 24693,
+    "answers": [
+        {
+            "answer": "гуманизм",
+            "count": 2,
+            "cluster": "гуманизм",
+            "sentiment": "context sentiment",
+            "corrected": "человечностью"
+        },
+        {
+            "answer": "гуманизмом",
+            "count": 3,
+            "cluster": "гуманизмом",
+            "sentiment": "context sentiment",
+            "corrected": "человечностью"
+        },
+        {
+            "answer": "духховность.",
+            "count": 1,
+            "cluster": "духовность",
+            "sentiment": "context sentiment",
+            "corrected": "духовность"
+        },
+        {
+            "answer": "инициативным",
+            "count": 1,
+            "cluster": "инициативным",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "образованный",
+            "count": 1,
+            "cluster": "образованный",
+            "sentiment": "context sentiment",
+            "corrected": "образованность"
+        },
+        {
+            "answer": "образованным",
+            "count": 2,
+            "cluster": "образованным",
+            "sentiment": "context sentiment",
+            "corrected": "образованность"
+        },
+        {
+            "answer": "разумность",
+            "count": 1,
+            "cluster": "разумность",
+            "sentiment": "context sentiment"
+        }
+    ]
+}

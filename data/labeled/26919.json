@@ -1,0 +1,930 @@
+{
+    "question": "Что для вас важно?",
+    "id": 26919,
+    "answers": [
+        {
+            "answer": "адекватность",
+            "count": 1,
+            "cluster": "адекватность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "активность",
+            "count": 1,
+            "cluster": "активность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "движуха",
+            "count": 1,
+            "cluster": "движение",
+            "sentiment": "neutrals",
+            "corrected": "движение"
+        },
+        {
+            "answer": "атмосфера в коллективе",
+            "count": 1,
+            "cluster": "атмосфера в коллективе",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "комфортный микроклимат в колле",
+            "count": 1,
+            "cluster": "атмосфера в коллективе",
+            "sentiment": "positives",
+            "corrected": "комфортный микроклимат в коллективе"
+        },
+        {
+            "answer": "атмосфера в семье",
+            "count": 1,
+            "cluster": "атмосфера в семье",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "баланс",
+            "count": 2,
+            "cluster": "баланс",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "баланс между работой и семьей",
+            "count": 1,
+            "cluster": "баланс между работой и семьей",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "баланс работа/жизнь",
+            "count": 1,
+            "cluster": "баланс между работой и семьей",
+            "sentiment": "positives",
+            "corrected": "баланс работа жизнь"
+        },
+        {
+            "answer": "баланс работы и личной жизни",
+            "count": 1,
+            "cluster": "баланс между работой и семьей",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "время на жизнь",
+            "count": 1,
+            "cluster": "баланс между работой и семьей",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "гармония между работой и домом",
+            "count": 1,
+            "cluster": "баланс между работой и семьей",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "равновесие",
+            "count": 1,
+            "cluster": "баланс",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "безопасность",
+            "count": 4,
+            "cluster": "безопасность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "безопасность которой пока нет",
+            "count": 1,
+            "cluster": "безопасность",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "защищенность",
+            "count": 1,
+            "cluster": "безопасность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "безопасность семьи",
+            "count": 1,
+            "cluster": "безопасность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "бесплатные обеды",
+            "count": 1,
+            "cluster": "бесплатные обеды",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "благополучие",
+            "count": 1,
+            "cluster": "благополучие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "благополучие семьи",
+            "count": 1,
+            "cluster": "благополучие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "будущее",
+            "count": 1,
+            "cluster": "перспективы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "быть нужным!",
+            "count": 1,
+            "cluster": "востребованность",
+            "sentiment": "neutrals",
+            "corrected": "быть нужным"
+        },
+        {
+            "answer": "востребованность",
+            "count": 1,
+            "cluster": "востребованность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "значимость труда",
+            "count": 1,
+            "cluster": "значимость труда",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нужность",
+            "count": 1,
+            "cluster": "востребованность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "быть полезным",
+            "count": 1,
+            "cluster": "быть полезным",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "возможность приносить пользу",
+            "count": 1,
+            "cluster": "быть полезным",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "бюстик при жизни",
+            "count": 1,
+            "cluster": "бюстик при жизни",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "верность. стабильность",
+            "count": 1,
+            "cluster": "верность стабильность",
+            "sentiment": "positives",
+            "corrected": "верность стабильность"
+        },
+        {
+            "answer": "внешний вид",
+            "count": 1,
+            "cluster": "внешний вид",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "внутреннее спокойствие",
+            "count": 1,
+            "cluster": "внутреннее спокойствие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "душевное равновесие",
+            "count": 1,
+            "cluster": "душевное равновесие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "спокойствие",
+            "count": 4,
+            "cluster": "внутреннее спокойствие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "внутренний рост",
+            "count": 1,
+            "cluster": "внутренний рост",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "вовремя пообедать",
+            "count": 1,
+            "cluster": "вовремя пообедать",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "вызов",
+            "count": 1,
+            "cluster": "вызов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "гармония",
+            "count": 1,
+            "cluster": "гармония",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "гармония во всем",
+            "count": 1,
+            "cluster": "гармония",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "гармония во всех аспектах жизн",
+            "count": 1,
+            "cluster": "гармония",
+            "sentiment": "positives",
+            "corrected": "гармония во всех аспектах жизни"
+        },
+        {
+            "answer": "движение вперед",
+            "count": 1,
+            "cluster": "движение вперёд",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "движение вперёд",
+            "count": 1,
+            "cluster": "движение вперёд",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "развитие",
+            "count": 4,
+            "cluster": "развитие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "развитие личное",
+            "count": 1,
+            "cluster": "развитие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "делать то что мне нравится",
+            "count": 1,
+            "cluster": "делать то что мне нравится",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "деньги",
+            "count": 9,
+            "cluster": "деньги",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "достаток",
+            "count": 7,
+            "cluster": "материальное благополучие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "доход",
+            "count": 1,
+            "cluster": "заработная плата",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "зар.плата",
+            "count": 1,
+            "cluster": "заработная плата",
+            "sentiment": "neutrals",
+            "corrected": "заработная плата"
+        },
+        {
+            "answer": "заработная плата",
+            "count": 1,
+            "cluster": "заработная плата",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "материальная составляющая",
+            "count": 1,
+            "cluster": "деньги",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "материальное благополучие",
+            "count": 1,
+            "cluster": "материальное благополучие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "дети",
+            "count": 3,
+            "cluster": "дети",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ребенок",
+            "count": 1,
+            "cluster": "дети",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "дисциплина",
+            "count": 1,
+            "cluster": "дисциплина",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "должность",
+            "count": 1,
+            "cluster": "должность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "дом",
+            "count": 2,
+            "cluster": "семья",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "достижение",
+            "count": 1,
+            "cluster": "достижения",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "достижения",
+            "count": 1,
+            "cluster": "достижения",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "победы",
+            "count": 1,
+            "cluster": "успех",
+            "sentiment": "positives",
+            "corrected": "победа"
+        },
+        {
+            "answer": "успех",
+            "count": 2,
+            "cluster": "успех",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "жизнь",
+            "count": 1,
+            "cluster": "жизнь",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "здоровый сон",
+            "count": 1,
+            "cluster": "сон",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "здоровье",
+            "count": 20,
+            "cluster": "здоровье",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "здоровье . успех",
+            "count": 1,
+            "cluster": "успех",
+            "sentiment": "positives",
+            "corrected": "здоровье успех"
+        },
+        {
+            "answer": "здоровье близких",
+            "count": 1,
+            "cluster": "здоровье семьи",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "здоровье семьи",
+            "count": 1,
+            "cluster": "здоровье семьи",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "идея",
+            "count": 1,
+            "cluster": "идея",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "интер работа",
+            "count": 1,
+            "cluster": "интересная работа",
+            "sentiment": "positives",
+            "corrected": "интересная работа"
+        },
+        {
+            "answer": "интересная работа",
+            "count": 1,
+            "cluster": "интересная работа",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "интерес",
+            "count": 2,
+            "cluster": "интерес",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "искренность во взаимоотношения",
+            "count": 1,
+            "cluster": "искренность во взаимоотношениях",
+            "sentiment": "positives",
+            "corrected": "искренность во взаимоотношениях"
+        },
+        {
+            "answer": "карьера",
+            "count": 2,
+            "cluster": "карьера",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "коллектив",
+            "count": 2,
+            "cluster": "коллектив",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мой коллектив",
+            "count": 1,
+            "cluster": "коллектив",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "комфорт",
+            "count": 8,
+            "cluster": "личный комфорт",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "личный комфорт",
+            "count": 1,
+            "cluster": "личный комфорт",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "красота",
+            "count": 1,
+            "cluster": "красота",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "личная свобода",
+            "count": 1,
+            "cluster": "свобода",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "независимость",
+            "count": 1,
+            "cluster": "свобода",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "свобода",
+            "count": 3,
+            "cluster": "свобода",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "любимый человек рядом",
+            "count": 1,
+            "cluster": "любимый человек рядом",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "любовь",
+            "count": 1,
+            "cluster": "любовь",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "мир",
+            "count": 5,
+            "cluster": "мир",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "мирное небо",
+            "count": 1,
+            "cluster": "мир",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "муж",
+            "count": 1,
+            "cluster": "муж",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "обстановка в мире",
+            "count": 1,
+            "cluster": "обстановка в мире",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "общение",
+            "count": 1,
+            "cluster": "общение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "оптимизм",
+            "count": 1,
+            "cluster": "оптимизм",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "ответственность",
+            "count": 2,
+            "cluster": "ответственность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "открытость",
+            "count": 1,
+            "cluster": "открытость",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "ощущение крутости",
+            "count": 1,
+            "cluster": "ощущение крутости",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "партнерство",
+            "count": 1,
+            "cluster": "партнерство",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "перспективы",
+            "count": 1,
+            "cluster": "перспективы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "погода в доме и на работе",
+            "count": 1,
+            "cluster": "погода в доме и на работе",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "поддержка идей",
+            "count": 1,
+            "cluster": "поддержка идей",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "подольше потоптать землю",
+            "count": 1,
+            "cluster": "подольше потоптать землю",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "понимание",
+            "count": 1,
+            "cluster": "понимание",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "понимание завтрашнего дня",
+            "count": 1,
+            "cluster": "понимание завтрашнего дня",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "право выбора",
+            "count": 1,
+            "cluster": "право выбора",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "признание",
+            "count": 8,
+            "cluster": "признание",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "что бы мой вклад оценивали",
+            "count": 1,
+            "cluster": "признание",
+            "sentiment": "positives",
+            "corrected": "чтобы мой вклад оценивали"
+        },
+        {
+            "answer": "простота",
+            "count": 1,
+            "cluster": "простота",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "процесс",
+            "count": 1,
+            "cluster": "процесс",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "работа",
+            "count": 2,
+            "cluster": "работа",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "рабта",
+            "count": 1,
+            "cluster": "работа",
+            "sentiment": "neutrals",
+            "corrected": "работа"
+        },
+        {
+            "answer": "работоспособность",
+            "count": 1,
+            "cluster": "работоспособность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "реализация",
+            "count": 1,
+            "cluster": "реализация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "реализовать потенциал",
+            "count": 1,
+            "cluster": "самореализация",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "реализовать себя",
+            "count": 1,
+            "cluster": "самореализация",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "самореализаци",
+            "count": 1,
+            "cluster": "самореализация",
+            "sentiment": "positives",
+            "corrected": "самореализация"
+        },
+        {
+            "answer": "результат",
+            "count": 6,
+            "cluster": "результат",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "результат проделанной работы",
+            "count": 1,
+            "cluster": "результат",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "результат работ",
+            "count": 1,
+            "cluster": "результат",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "род",
+            "count": 1,
+            "cluster": "род",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "родина",
+            "count": 5,
+            "cluster": "родина",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "рост и динамика",
+            "count": 1,
+            "cluster": "развитие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "секс",
+            "count": 1,
+            "cluster": "секс",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "семейное благопрлучие",
+            "count": 1,
+            "cluster": "семейное благополучие",
+            "sentiment": "positives",
+            "corrected": "семейное благополучие"
+        },
+        {
+            "answer": "семья",
+            "count": 67,
+            "cluster": "семья",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "семья и здоровье",
+            "count": 1,
+            "cluster": "семья",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "семья искреннось",
+            "count": 1,
+            "cluster": "семья",
+            "sentiment": "positives",
+            "corrected": "семья искренность"
+        },
+        {
+            "answer": "смысл",
+            "count": 1,
+            "cluster": "смысл",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "чтобы любое дело имело смысл",
+            "count": 1,
+            "cluster": "чтобы любое дело имело смысл",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "совесть",
+            "count": 1,
+            "cluster": "совесть",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сон",
+            "count": 1,
+            "cluster": "сон",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сотрудники",
+            "count": 1,
+            "cluster": "коллектив",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "спокойствие в семье",
+            "count": 1,
+            "cluster": "семейное благополучие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "справедливое отношение",
+            "count": 1,
+            "cluster": "справедливость",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "справедливость",
+            "count": 1,
+            "cluster": "справедливость",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "стабильность",
+            "count": 6,
+            "cluster": "стабильность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "стабильность везде",
+            "count": 1,
+            "cluster": "стабильность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "статус",
+            "count": 1,
+            "cluster": "статус",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "тест тест тест",
+            "count": 1,
+            "cluster": "тест тест тест",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "уважение",
+            "count": 8,
+            "cluster": "уважение",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "уверенность",
+            "count": 3,
+            "cluster": "уверенность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "уверенность в завтрашнем дне",
+            "count": 1,
+            "cluster": "уверенность в завтрашнем дне",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "удовлетворение от работы",
+            "count": 1,
+            "cluster": "чувство удовлетворенности",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "удовлетворенность",
+            "count": 1,
+            "cluster": "чувство удовлетворенности",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "чувство удовлетворенности",
+            "count": 1,
+            "cluster": "чувство удовлетворенности",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "удовольствие от сделаного",
+            "count": 1,
+            "cluster": "чувство удовлетворенности",
+            "sentiment": "positives",
+            "corrected": "удовольствие от сделанного"
+        },
+        {
+            "answer": "ум",
+            "count": 1,
+            "cluster": "ум",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "универсальность",
+            "count": 1,
+            "cluster": "универсальность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "хобби",
+            "count": 2,
+            "cluster": "хобби",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "цель",
+            "count": 1,
+            "cluster": "цель",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "человечность",
+            "count": 1,
+            "cluster": "человечность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "честность",
+            "count": 7,
+            "cluster": "честность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "чувсствовать свою важность",
+            "count": 1,
+            "cluster": "значимость труда",
+            "sentiment": "positives",
+            "corrected": "чувствовать свою важность"
+        },
+        {
+            "answer": "энергия",
+            "count": 1,
+            "cluster": "энергия",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "эстетика",
+            "count": 1,
+            "cluster": "красота",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "я",
+            "count": 1,
+            "cluster": "я",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ясность цели",
+            "count": 1,
+            "cluster": "ясность цели",
+            "sentiment": "positives"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "question": "Как проверить практические навыки?",
+    "id": 27543,
+    "answers": [
+        {
+            "answer": "выполнением определеных поруче",
+            "count": 1,
+            "cluster": "практические задания",
+            "sentiment": "neutrals",
+            "corrected": "выполнением определенных поручений"
+        },
+        {
+            "answer": "дать практическое задание",
+            "count": 1,
+            "cluster": "практические задания",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "практические задания",
+            "count": 1,
+            "cluster": "практические задания",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "через  практику",
+            "count": 1,
+            "cluster": "практические задания",
+            "sentiment": "neutrals",
+            "corrected": "через практику"
+        },
+        {
+            "answer": "дэ",
+            "count": 1,
+            "cluster": "да",
+            "sentiment": "neutrals",
+            "corrected": "да"
+        },
+        {
+            "answer": "кейс",
+            "count": 1,
+            "cluster": "кейс",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "собеседование",
+            "count": 1,
+            "cluster": "собеседование",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "через смуляторы и тренажёры",
+            "count": 1,
+            "cluster": "через симуляторы и тренажёры",
+            "sentiment": "neutrals",
+            "corrected": "через симуляторы и тренажёры"
+        }
+    ]
+}

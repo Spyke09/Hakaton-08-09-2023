@@ -1,0 +1,32 @@
+{
+    "question": "Ваш настрой на два дня конференции одним словом",
+    "id": 26607,
+    "answers": [
+        {
+            "answer": "зажечь",
+            "count": 1,
+            "cluster": "зажечь",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "вдохновляться",
+            "count": 1,
+            "cluster": "вдохновляться",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "заинтересован",
+            "count": 1,
+            "cluster": "заинтересован",
+            "sentiment": "context sentiment",
+            "corrected": "заинтересованность"
+        },
+        {
+            "answer": "максимальный",
+            "count": 1,
+            "cluster": "максимальный",
+            "sentiment": "context cluster",
+            "corrected": "полная отдача"
+        }
+    ]
+}

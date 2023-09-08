@@ -1,0 +1,49 @@
+{
+    "question": "С чем у Вас ассоциируется прошедшая сессия?",
+    "id": 21571,
+    "answers": [
+        {
+            "answer": "функционал",
+            "count": 1,
+            "cluster": "функционал",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "хорошей возможностью подумать",
+            "count": 1,
+            "cluster": "хорошей возможностью подумать",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "цели",
+            "count": 1,
+            "cluster": "цели",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "цель",
+            "count": 1,
+            "cluster": "цели",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "шан на движение вперед",
+            "count": 1,
+            "cluster": "шанс на движение вперед",
+            "sentiment": "positives",
+            "corrected": "шанс на движение вперед"
+        },
+        {
+            "answer": "напряжение",
+            "count": 1,
+            "cluster": "напряжение",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "удобство",
+            "count": 1,
+            "cluster": "удобство",
+            "sentiment": "positives"
+        }
+    ]
+}

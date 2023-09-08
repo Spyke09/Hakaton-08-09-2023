@@ -1,0 +1,349 @@
+{
+    "question": "На каких еще языках кроме английского вы бы хотели учиться?",
+    "id": 24829,
+    "answers": [
+        {
+            "answer": "deutsch",
+            "count": 2,
+            "cluster": "немецком",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "на немецком языке",
+            "count": 1,
+            "cluster": "немецком",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "немецкий",
+            "count": 22,
+            "cluster": "немецком",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "немецком",
+            "count": 2,
+            "cluster": "немецком",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "немецский",
+            "count": 1,
+            "cluster": "немецком",
+            "sentiment": "neutrals",
+            "corrected": "немецкий"
+        },
+        {
+            "answer": "español",
+            "count": 2,
+            "cluster": "испанском",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "испанский",
+            "count": 32,
+            "cluster": "испанском",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "испанском",
+            "count": 1,
+            "cluster": "испанском",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "francais",
+            "count": 1,
+            "cluster": "французский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "franch",
+            "count": 1,
+            "cluster": "французский",
+            "sentiment": "neutrals",
+            "corrected": "french"
+        },
+        {
+            "answer": "французский",
+            "count": 21,
+            "cluster": "французский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "французского",
+            "count": 1,
+            "cluster": "французский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "францусзкий",
+            "count": 1,
+            "cluster": "французский",
+            "sentiment": "neutrals",
+            "corrected": "французский"
+        },
+        {
+            "answer": "no",
+            "count": 1,
+            "cluster": "никаких",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "none",
+            "count": 1,
+            "cluster": "никаких",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "достаточно английского",
+            "count": 1,
+            "cluster": "только английский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "достаточно русского и английск",
+            "count": 1,
+            "cluster": "русский и английский",
+            "sentiment": "neutrals",
+            "corrected": "достаточно русского и английского"
+        },
+        {
+            "answer": "нет",
+            "count": 2,
+            "cluster": "никаких",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нет таких",
+            "count": 1,
+            "cluster": "никаких",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ни на каких",
+            "count": 2,
+            "cluster": "никаких",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "никакие",
+            "count": 1,
+            "cluster": "никаких",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "никаких",
+            "count": 3,
+            "cluster": "никаких",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "русский и английский",
+            "count": 1,
+            "cluster": "русский и английский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "только английский",
+            "count": 3,
+            "cluster": "только английский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "только английский спасибо",
+            "count": 1,
+            "cluster": "только английский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "только на английском",
+            "count": 1,
+            "cluster": "только английский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "английский язык",
+            "count": 1,
+            "cluster": "только английский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "арабский",
+            "count": 3,
+            "cluster": "арабский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "болгарский",
+            "count": 1,
+            "cluster": "болгарский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "венгерский",
+            "count": 2,
+            "cluster": "венгерский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "все равно",
+            "count": 1,
+            "cluster": "все равно",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "других языков я не знаю.",
+            "count": 1,
+            "cluster": "других языков я не знаю",
+            "sentiment": "neutrals",
+            "corrected": "других языков я не знаю"
+        },
+        {
+            "answer": "ирландский",
+            "count": 1,
+            "cluster": "ирландский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "итальянский",
+            "count": 17,
+            "cluster": "итальянский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "хочу учить итальянский язык",
+            "count": 1,
+            "cluster": "итальянский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "итальянский и французский",
+            "count": 1,
+            "cluster": "французский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "китайский",
+            "count": 28,
+            "cluster": "китайский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "китайскиц",
+            "count": 1,
+            "cluster": "китайский",
+            "sentiment": "neutrals",
+            "corrected": "китайский"
+        },
+        {
+            "answer": "китайский и немецкий",
+            "count": 1,
+            "cluster": "китайский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "немецком и китайском",
+            "count": 1,
+            "cluster": "китайский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "корейский",
+            "count": 1,
+            "cluster": "корейский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "латинский",
+            "count": 1,
+            "cluster": "латинский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "латынь",
+            "count": 1,
+            "cluster": "латинский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "монгольский",
+            "count": 1,
+            "cluster": "монгольский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "на любых если есть англ сабы",
+            "count": 1,
+            "cluster": "на любых если есть английские субтитры",
+            "sentiment": "neutrals",
+            "corrected": "на любых если есть английские субтитры"
+        },
+        {
+            "answer": "на русском",
+            "count": 2,
+            "cluster": "русский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "русский",
+            "count": 7,
+            "cluster": "русский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "польский",
+            "count": 2,
+            "cluster": "польский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "португальский",
+            "count": 2,
+            "cluster": "португальский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "санскрит",
+            "count": 1,
+            "cluster": "санскрит",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "турецкий",
+            "count": 10,
+            "cluster": "турецкий",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "узбекский",
+            "count": 1,
+            "cluster": "узбекский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "финский",
+            "count": 2,
+            "cluster": "финский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "чешский",
+            "count": 3,
+            "cluster": "чешский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "эсперанто",
+            "count": 1,
+            "cluster": "эсперанто",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "японский",
+            "count": 4,
+            "cluster": "японский",
+            "sentiment": "neutrals"
+        }
+    ]
+}

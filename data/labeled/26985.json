@@ -1,0 +1,123 @@
+{
+    "question": "Определите рентабельность производства (1) и рентабельность продаж (2) химического предприятия.",
+    "id": 26985,
+    "answers": [
+        {
+            "answer": "13% рентабельность производ",
+            "count": 1,
+            "cluster": "13 рентабельность производства",
+            "sentiment": "neutrals",
+            "corrected": "13 рентабельность производства"
+        },
+        {
+            "answer": "79% рентабельность продаж",
+            "count": 1,
+            "cluster": "79 рентабельность продаж",
+            "sentiment": "neutrals",
+            "corrected": "79 рентабельность продаж"
+        },
+        {
+            "answer": "ао \"промсинтез\" 1",
+            "count": 1,
+            "cluster": "акционерное общество промсинтез 1",
+            "sentiment": "neutrals",
+            "corrected": "акционерное общество промсинтез 1"
+        },
+        {
+            "answer": "оао \"минудобрения\"",
+            "count": 1,
+            "cluster": "оао минудобрения",
+            "sentiment": "neutrals",
+            "corrected": "оао минудобрения"
+        },
+        {
+            "answer": "оао «химволокно» 7",
+            "count": 1,
+            "cluster": "оао химволокно 7",
+            "sentiment": "neutrals",
+            "corrected": "оао химволокно 7"
+        },
+        {
+            "answer": "ооо «альфа»",
+            "count": 1,
+            "cluster": "ооо альфа",
+            "sentiment": "neutrals",
+            "corrected": "ооо альфа"
+        },
+        {
+            "answer": "ооо«гамма» 19.8% и 15.5%",
+            "count": 1,
+            "cluster": "ооо гамма 19 8 и 15 5",
+            "sentiment": "neutrals",
+            "corrected": "ооо гамма 19 8 и 15 5"
+        },
+        {
+            "answer": "пао «куйбашевазот»",
+            "count": 1,
+            "cluster": "пао куйбашевазот",
+            "sentiment": "neutrals",
+            "corrected": "пао куйбашевазот"
+        },
+        {
+            "answer": "пао «куйбашевазот» 5",
+            "count": 1,
+            "cluster": "пао куйбашевазот",
+            "sentiment": "neutrals",
+            "corrected": "пао куйбашевазот 5"
+        },
+        {
+            "answer": "пао «химпром»",
+            "count": 1,
+            "cluster": "пао химпром",
+            "sentiment": "neutrals",
+            "corrected": "пао химпром"
+        },
+        {
+            "answer": "пао владимирангидрид",
+            "count": 1,
+            "cluster": "пао владимирангидрид",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "пао нц \"малотоннажная химия\"",
+            "count": 1,
+            "cluster": "пао нц малотоннажная химия",
+            "sentiment": "neutrals",
+            "corrected": "пао нц малотоннажная химия"
+        },
+        {
+            "answer": "пар\"сибур холдинг\" 15",
+            "count": 1,
+            "cluster": "пао сибур холдинг 15",
+            "sentiment": "neutrals",
+            "corrected": "пао сибур холдинг 15"
+        },
+        {
+            "answer": "продаж 8.8",
+            "count": 1,
+            "cluster": "продаж 9 24",
+            "sentiment": "neutrals",
+            "corrected": "продаж 8 8"
+        },
+        {
+            "answer": "продаж 9.24",
+            "count": 1,
+            "cluster": "продаж 9 24",
+            "sentiment": "neutrals",
+            "corrected": "продаж 9 24"
+        },
+        {
+            "answer": "производства 6.9",
+            "count": 1,
+            "cluster": "производства 6 9",
+            "sentiment": "neutrals",
+            "corrected": "производства 6 9"
+        },
+        {
+            "answer": "рентабельность 11",
+            "count": 1,
+            "cluster": "рентабельность 11",
+            "sentiment": "neutrals"
+        }
+    ]
+}

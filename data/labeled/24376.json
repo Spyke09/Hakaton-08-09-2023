@@ -1,0 +1,171 @@
+{
+    "question": "Напишите ощущения от последних переговорах с Заказчиком, в которых вы участвовали?",
+    "id": 24376,
+    "answers": [
+        {
+            "answer": "вина",
+            "count": 1,
+            "cluster": "вина",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "все получилось!",
+            "count": 1,
+            "cluster": "все получилось",
+            "sentiment": "positives",
+            "corrected": "все получилось"
+        },
+        {
+            "answer": "успешный успех",
+            "count": 1,
+            "cluster": "все получилось",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "эффективно",
+            "count": 1,
+            "cluster": "плодотворные",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "драйв",
+            "count": 1,
+            "cluster": "драйв",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "напряжение",
+            "count": 1,
+            "cluster": "напряжение",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "напряжённые",
+            "count": 1,
+            "cluster": "напряжение",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "не было таких",
+            "count": 1,
+            "cluster": "не было таких",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "не мытьем так катанием",
+            "count": 1,
+            "cluster": "не мытьем так катанием",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "недоумение",
+            "count": 1,
+            "cluster": "недоумение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "партнерство",
+            "count": 1,
+            "cluster": "партнерство",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "плодотворные",
+            "count": 1,
+            "cluster": "плодотворные",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "работа на вин-вин",
+            "count": 1,
+            "cluster": "работа на вин вин",
+            "sentiment": "neutrals",
+            "corrected": "работа на вин вин"
+        },
+        {
+            "answer": "раздражение и усталость",
+            "count": 1,
+            "cluster": "раздражительность",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "раздражительность",
+            "count": 1,
+            "cluster": "раздражительность",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "раскалывают структуру",
+            "count": 1,
+            "cluster": "раскалывают структуру",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "странная оценка",
+            "count": 1,
+            "cluster": "странная оценка",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "уверенность",
+            "count": 1,
+            "cluster": "уверенность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "удивление",
+            "count": 1,
+            "cluster": "удивление",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "удовлетворение",
+            "count": 1,
+            "cluster": "удовлетворительное",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "удовлетворение и усталость",
+            "count": 1,
+            "cluster": "удовлетворительное",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "удовлетворительное",
+            "count": 1,
+            "cluster": "удовлетворительное",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "упрямось терпение настойчивост",
+            "count": 1,
+            "cluster": "упрямость терпение настойчивость",
+            "sentiment": "positives",
+            "corrected": "упрямость терпение настойчивость"
+        },
+        {
+            "answer": "упрямый заказчик",
+            "count": 1,
+            "cluster": "упрямый заказчик",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "усталость",
+            "count": 1,
+            "cluster": "усталость",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "хорошие",
+            "count": 1,
+            "cluster": "хорошие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "я играл на них мебель",
+            "count": 1,
+            "cluster": "я играл на них мебель",
+            "sentiment": "neutrals"
+        }
+    ]
+}

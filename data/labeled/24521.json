@@ -1,0 +1,334 @@
+{
+    "question": "Какие проекты за рамками обозначенных направлений сейчас актуальны для молодежи?",
+    "id": 24521,
+    "answers": [
+        {
+            "answer": "адаптация",
+            "count": 2,
+            "cluster": "адаптация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "баланс работы и личной жизни",
+            "count": 1,
+            "cluster": "баланс работы и личной жизни",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "безопасность",
+            "count": 3,
+            "cluster": "безопасность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "безопасность нам её развивать",
+            "count": 1,
+            "cluster": "безопасность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "культура безопасности",
+            "count": 1,
+            "cluster": "безопасность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "бренд работодателя",
+            "count": 1,
+            "cluster": "бренд работодателя",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "в связи с утечкой мозгов",
+            "count": 1,
+            "cluster": "в связи с утечкой мозгов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "вовлечение в спорт",
+            "count": 1,
+            "cluster": "спорт",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "корпоративный спорт",
+            "count": 1,
+            "cluster": "спорт",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "спорт",
+            "count": 4,
+            "cluster": "спорт",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "вовлеченность",
+            "count": 1,
+            "cluster": "вовлеченность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "волонтёрстао",
+            "count": 1,
+            "cluster": "волонтёрство",
+            "sentiment": "neutrals",
+            "corrected": "волонтёрство"
+        },
+        {
+            "answer": "волонтерство",
+            "count": 4,
+            "cluster": "волонтёрство",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "волонтёрство",
+            "count": 1,
+            "cluster": "волонтёрство",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "дебюрократизация",
+            "count": 1,
+            "cluster": "дебюрократизация",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "длительный туризм",
+            "count": 1,
+            "cluster": "длительный туризм",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "донорство",
+            "count": 1,
+            "cluster": "донорство",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "изучение иностранных языков",
+            "count": 1,
+            "cluster": "изучение иностранных языков",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "информирование",
+            "count": 4,
+            "cluster": "информирование",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "карьерный рост",
+            "count": 2,
+            "cluster": "карьерный рост",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "кейс развития компетенций",
+            "count": 1,
+            "cluster": "профессиональное развитие",
+            "sentiment": "positives",
+            "corrected": "решение развития компетенций"
+        },
+        {
+            "answer": "киберспорт",
+            "count": 1,
+            "cluster": "киберспорт",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "криптовал",
+            "count": 1,
+            "cluster": "криптовалюта",
+            "sentiment": "neutrals",
+            "corrected": "криптовалюта"
+        },
+        {
+            "answer": "лидерство",
+            "count": 1,
+            "cluster": "лидерство",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "личностное развитие",
+            "count": 1,
+            "cluster": "личностное развитие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "логистика в отрасли",
+            "count": 1,
+            "cluster": "логистика в отрасли",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "люди и города",
+            "count": 1,
+            "cluster": "люди и города",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "медицина",
+            "count": 2,
+            "cluster": "медицина",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "не знаю",
+            "count": 1,
+            "cluster": "не знаю",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нет",
+            "count": 1,
+            "cluster": "нет",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новые продукты",
+            "count": 1,
+            "cluster": "новые продукты",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "обучение навыкам вп",
+            "count": 1,
+            "cluster": "обучение навыкам вп",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "оказание первой помощи",
+            "count": 1,
+            "cluster": "оказание первой помощи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "охрана труда и тб",
+            "count": 1,
+            "cluster": "охрана труда и техника безопасности",
+            "sentiment": "neutrals",
+            "corrected": "охрана труда и техника безопасности"
+        },
+        {
+            "answer": "поиск новых сотрудников",
+            "count": 1,
+            "cluster": "поиск новых сотрудников",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "помощь",
+            "count": 1,
+            "cluster": "помощь",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "приоритет семьи",
+            "count": 1,
+            "cluster": "приоритет семьи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "профессиональное развитие",
+            "count": 1,
+            "cluster": "профессиональное развитие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "профориентация",
+            "count": 1,
+            "cluster": "профориентация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "психологическая поддержка",
+            "count": 1,
+            "cluster": "психологическая поддержка",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "психологическая устойчивость",
+            "count": 1,
+            "cluster": "психологическая устойчивость",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "психология управления",
+            "count": 1,
+            "cluster": "психология управления",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "раскрытие потенциала",
+            "count": 2,
+            "cluster": "раскрытие потенциала",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "с людьми нужно больше говорить",
+            "count": 1,
+            "cluster": "с людьми нужно больше говорить",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "смена гражданства",
+            "count": 1,
+            "cluster": "смена гражданства",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "снижение переработки",
+            "count": 1,
+            "cluster": "снижение переработки",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "тематические конференции",
+            "count": 1,
+            "cluster": "тематические конференции",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "технологический суверенитет",
+            "count": 1,
+            "cluster": "технологический суверенитет",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "устойчивое развитие",
+            "count": 1,
+            "cluster": "устойчивое развитие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "финансы",
+            "count": 1,
+            "cluster": "финансы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "форум энергия",
+            "count": 1,
+            "cluster": "форум энергия",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "цифровизация",
+            "count": 1,
+            "cluster": "цифровизация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "экологичные",
+            "count": 1,
+            "cluster": "экология",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "экология",
+            "count": 2,
+            "cluster": "экология",
+            "sentiment": "neutrals"
+        }
+    ]
+}

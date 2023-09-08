@@ -1,0 +1,79 @@
+{
+    "question": "Каким словом можно описать состояние молодежи вашего предприятия сегодня?",
+    "id": 27598,
+    "answers": [
+        {
+            "answer": "активность",
+            "count": 1,
+            "cluster": "активность",
+            "sentiment": "context sentiment",
+            "corrected": "активная"
+        },
+        {
+            "answer": "мертвая",
+            "count": 2,
+            "cluster": "мертвая",
+            "sentiment": "context sentiment",
+            "corrected": "пассивная"
+        },
+        {
+            "answer": "пассивная",
+            "count": 1,
+            "cluster": "пассивная",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "пассивное",
+            "count": 1,
+            "cluster": "пассивное",
+            "sentiment": "context sentiment",
+            "corrected": "пассивная"
+        },
+        {
+            "answer": "не мотивированность",
+            "count": 1,
+            "cluster": "немотивированность",
+            "sentiment": "context sentiment",
+            "corrected": "демотивированное"
+        },
+        {
+            "answer": "незаинтересована",
+            "count": 1,
+            "cluster": "не заинтересована",
+            "sentiment": "context sentiment",
+            "corrected": "незаинтересованная"
+        },
+        {
+            "answer": "незаинтересованная",
+            "count": 1,
+            "cluster": "незаинтересованная",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "равнодушная",
+            "count": 1,
+            "cluster": "равнодушная",
+            "sentiment": "context sentiment",
+            "corrected": "незаинтересованная"
+        },
+        {
+            "answer": "неопределенность",
+            "count": 5,
+            "cluster": "неопределенность",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "разрозненность",
+            "count": 1,
+            "cluster": "разрозненность",
+            "sentiment": "context sentiment",
+            "corrected": "разобщенность"
+        },
+        {
+            "answer": "расцвет",
+            "count": 1,
+            "cluster": "расцвет",
+            "sentiment": "context sentiment"
+        }
+    ]
+}

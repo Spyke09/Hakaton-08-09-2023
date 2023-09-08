@@ -1,0 +1,149 @@
+{
+    "question": "Чего не хватает в проведении переговоров с Заказчиками?",
+    "id": 24377,
+    "answers": [
+        {
+            "answer": "взаимопонимания",
+            "count": 2,
+            "cluster": "взаимопонимания",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "времени",
+            "count": 2,
+            "cluster": "времени",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "времени!",
+            "count": 1,
+            "cluster": "времени",
+            "sentiment": "neutrals",
+            "corrected": "времени"
+        },
+        {
+            "answer": "гибкости",
+            "count": 1,
+            "cluster": "гибкости",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "граммотного перевода",
+            "count": 1,
+            "cluster": "грамотного перевода",
+            "sentiment": "positives",
+            "corrected": "грамотного перевода"
+        },
+        {
+            "answer": "документов",
+            "count": 1,
+            "cluster": "документов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "дополнительной информации",
+            "count": 1,
+            "cluster": "дополнительной информации",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "заказчиков (нужно больше)",
+            "count": 1,
+            "cluster": "заказчиков нужно больше",
+            "sentiment": "neutrals",
+            "corrected": "заказчиков нужно больше"
+        },
+        {
+            "answer": "квалификации заказчика",
+            "count": 1,
+            "cluster": "квалификации заказчика",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "компетенциий",
+            "count": 1,
+            "cluster": "компетенции",
+            "sentiment": "neutrals",
+            "corrected": "компетенции"
+        },
+        {
+            "answer": "компетенций заказчика",
+            "count": 1,
+            "cluster": "квалификации заказчика",
+            "sentiment": "neutrals",
+            "corrected": "компетенции заказчика"
+        },
+        {
+            "answer": "культурная программа",
+            "count": 1,
+            "cluster": "культурная программа",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "личного общения",
+            "count": 1,
+            "cluster": "личного общения",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "навыков ведения переговоров",
+            "count": 1,
+            "cluster": "компетенции",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "опыта",
+            "count": 3,
+            "cluster": "опыта",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "подготовки",
+            "count": 2,
+            "cluster": "подготовки",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "понимания желания заказчика",
+            "count": 1,
+            "cluster": "взаимопонимания",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "понимания процесса переговоров",
+            "count": 1,
+            "cluster": "понимания процесса переговоров",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "стремления договориться",
+            "count": 1,
+            "cluster": "стремления договориться",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "терпения",
+            "count": 1,
+            "cluster": "терпения",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "уверенности",
+            "count": 2,
+            "cluster": "уверенности",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "уверенности в себе",
+            "count": 1,
+            "cluster": "уверенности",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "четкости позиции команды",
+            "count": 1,
+            "cluster": "четкости позиции команды",
+            "sentiment": "positives"
+        }
+    ]
+}

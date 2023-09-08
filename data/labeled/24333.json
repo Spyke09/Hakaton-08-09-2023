@@ -1,0 +1,128 @@
+{
+    "question": "Что бизнес (компании участники) сейчас получают от чемпионатов?",
+    "id": 24333,
+    "answers": [
+        {
+            "answer": "pr",
+            "count": 1,
+            "cluster": "пиар",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "пиар",
+            "count": 1,
+            "cluster": "пиар",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "свою рекламу",
+            "count": 1,
+            "cluster": "пиар",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "баллы на конкурсе \"лучшая аэс\"",
+            "count": 1,
+            "cluster": "баллы на конкурсе лучшая аэс",
+            "sentiment": "neutrals",
+            "corrected": "баллы на конкурсе лучшая аэс"
+        },
+        {
+            "answer": "вовлеченность персонала",
+            "count": 1,
+            "cluster": "вовлечённость персонала",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "вовлечённость персонала",
+            "count": 1,
+            "cluster": "вовлечённость персонала",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "использование стандарта",
+            "count": 1,
+            "cluster": "использование стандарта",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "кадры",
+            "count": 2,
+            "cluster": "кадры",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новые коммуникации",
+            "count": 1,
+            "cluster": "новые коммуникации",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "обновление стандартов",
+            "count": 1,
+            "cluster": "обновление стандартов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "квалификацию",
+            "count": 1,
+            "cluster": "рост квалификации сотрудников",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "повыш. профф-ма сотрудников",
+            "count": 1,
+            "cluster": "рост квалификации сотрудников",
+            "sentiment": "positives",
+            "corrected": "повышение профессионализма сотрудников"
+        },
+        {
+            "answer": "повышение квалификации",
+            "count": 1,
+            "cluster": "рост квалификации сотрудников",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "развитие навыков",
+            "count": 1,
+            "cluster": "рост квалификации сотрудников",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "развитие персонала",
+            "count": 1,
+            "cluster": "рост квалификации сотрудников",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "рост квалификации сотрудников",
+            "count": 1,
+            "cluster": "рост квалификации сотрудников",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "престиж",
+            "count": 1,
+            "cluster": "престиж",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "расходы",
+            "count": 1,
+            "cluster": "расходы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ресурс",
+            "count": 1,
+            "cluster": "ресурс",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "технологии",
+            "count": 1,
+            "cluster": "технологии",
+            "sentiment": "neutrals"
+        }
+    ]
+}

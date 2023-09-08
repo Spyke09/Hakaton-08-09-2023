@@ -1,0 +1,848 @@
+{
+    "question": "Яркий лидер прошлого это...",
+    "id": 27510,
+    "answers": [
+        {
+            "answer": "а. е. лихачев",
+            "count": 1,
+            "cluster": "а е лихачев",
+            "sentiment": "neutrals",
+            "corrected": "а е лихачев"
+        },
+        {
+            "answer": "адольф гитлер",
+            "count": 1,
+            "cluster": "гитлер",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "гитлер",
+            "count": 9,
+            "cluster": "гитлер",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "александр 2",
+            "count": 1,
+            "cluster": "александр 2",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "александр iii",
+            "count": 1,
+            "cluster": "александр iii",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "александр горбатов",
+            "count": 1,
+            "cluster": "александр горбатов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "александр македонский",
+            "count": 6,
+            "cluster": "александр македонский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "алексеев",
+            "count": 1,
+            "cluster": "алексеев",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "алиночка костягина",
+            "count": 1,
+            "cluster": "алиночка костягина",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "антон шипулин",
+            "count": 1,
+            "cluster": "антон шипулин",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "берия",
+            "count": 2,
+            "cluster": "берия",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "билл гейтс",
+            "count": 1,
+            "cluster": "билл гейтс",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "бисмарк",
+            "count": 2,
+            "cluster": "бисмарк",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "богдан хмельницький",
+            "count": 1,
+            "cluster": "богдан хмельницкий",
+            "sentiment": "neutrals",
+            "corrected": "богдан хмельницкий"
+        },
+        {
+            "answer": "вилли брандт",
+            "count": 1,
+            "cluster": "вилли брандт",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "витте",
+            "count": 1,
+            "cluster": "витте",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "владимир ильич ленин",
+            "count": 1,
+            "cluster": "ленин владимир ильич",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "владимир ленин",
+            "count": 1,
+            "cluster": "ленин владимир ильич",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ленин",
+            "count": 50,
+            "cluster": "ленин владимир ильич",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ленин владимир ильич",
+            "count": 1,
+            "cluster": "ленин владимир ильич",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "володин константин арсеньевич",
+            "count": 1,
+            "cluster": "володин константин арсеньевич",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "гагарин",
+            "count": 3,
+            "cluster": "юрий гагарин",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "юрий алексеевич",
+            "count": 1,
+            "cluster": "юрий гагарин",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "юрий гагарин",
+            "count": 1,
+            "cluster": "юрий гагарин",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "генри форд",
+            "count": 6,
+            "cluster": "генри форд",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "гермес трисмегист",
+            "count": 1,
+            "cluster": "гермес трисмегист",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "горбачев",
+            "count": 1,
+            "cluster": "горбачев",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "грозный",
+            "count": 1,
+            "cluster": "иван грозный",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "иван грозный",
+            "count": 2,
+            "cluster": "иван грозный",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "гус хиддинг",
+            "count": 1,
+            "cluster": "гус хиддинг",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "д'артаньян",
+            "count": 1,
+            "cluster": "д артаньян",
+            "sentiment": "neutrals",
+            "corrected": "д артаньян"
+        },
+        {
+            "answer": "джон фитцджеральд кеннеди",
+            "count": 1,
+            "cluster": "джон фитцджеральд кеннеди",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "кеннеди",
+            "count": 2,
+            "cluster": "джон фитцджеральд кеннеди",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "диктатор",
+            "count": 1,
+            "cluster": "диктатор",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "династия романовых",
+            "count": 1,
+            "cluster": "династия романовых",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "доктор лиза",
+            "count": 1,
+            "cluster": "доктор лиза",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "екатерина 2",
+            "count": 1,
+            "cluster": "екатерина 2",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "екатерина ii",
+            "count": 1,
+            "cluster": "екатерина 2",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "елена якуничкина",
+            "count": 1,
+            "cluster": "елена якуничкина",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "елизавета 2",
+            "count": 1,
+            "cluster": "елизавета 2",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "жанна дарк",
+            "count": 1,
+            "cluster": "жанна дарк",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "железный человек",
+            "count": 1,
+            "cluster": "железный человек",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "жириновский",
+            "count": 1,
+            "cluster": "жириновский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "застой",
+            "count": 1,
+            "cluster": "застой",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "и.а.винер",
+            "count": 1,
+            "cluster": "и а винер",
+            "sentiment": "neutrals",
+            "corrected": "и а винер"
+        },
+        {
+            "answer": "и.в сталин",
+            "count": 1,
+            "cluster": "и в сталин",
+            "sentiment": "neutrals",
+            "corrected": "и в сталин"
+        },
+        {
+            "answer": "и.в. сталин",
+            "count": 1,
+            "cluster": "и в сталин",
+            "sentiment": "neutrals",
+            "corrected": "и в сталин"
+        },
+        {
+            "answer": "иосиф джугашвили",
+            "count": 1,
+            "cluster": "и в сталин",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "иосиф сталин",
+            "count": 6,
+            "cluster": "и в сталин",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сталин",
+            "count": 85,
+            "cluster": "и в сталин",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "тов. сталин",
+            "count": 1,
+            "cluster": "и в сталин",
+            "sentiment": "neutrals",
+            "corrected": "товарищ сталин"
+        },
+        {
+            "answer": "товарищ сталин",
+            "count": 1,
+            "cluster": "и в сталин",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "иисус",
+            "count": 2,
+            "cluster": "иисус",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "иисус люди грешны",
+            "count": 1,
+            "cluster": "иисус",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "илон маск",
+            "count": 1,
+            "cluster": "илон маск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "капица",
+            "count": 1,
+            "cluster": "капица",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "кириенко",
+            "count": 2,
+            "cluster": "кириенко",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "китами масао",
+            "count": 1,
+            "cluster": "китами масао",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "коко шанель",
+            "count": 1,
+            "cluster": "коко шанель",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "колчак",
+            "count": 1,
+            "cluster": "колчак",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "королев",
+            "count": 4,
+            "cluster": "сергей королёв",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сергей королёв",
+            "count": 1,
+            "cluster": "сергей королёв",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сергей павлович королёв",
+            "count": 1,
+            "cluster": "сергей королёв",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "который передал свои знания и",
+            "count": 1,
+            "cluster": "который передал свои знания и",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "кузьма минин",
+            "count": 1,
+            "cluster": "кузьма минин",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "курчатов",
+            "count": 23,
+            "cluster": "курчатов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "кутузов",
+            "count": 4,
+            "cluster": "кутузов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "легенда",
+            "count": 1,
+            "cluster": "легенда",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ленских андрей",
+            "count": 1,
+            "cluster": "ленских андрей",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "леонардо да винчи",
+            "count": 1,
+            "cluster": "леонардо да винчи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "лидер",
+            "count": 1,
+            "cluster": "лидер",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "лидер который не выгорел!",
+            "count": 1,
+            "cluster": "лидер который не выгорел",
+            "sentiment": "positives",
+            "corrected": "лидер который не выгорел"
+        },
+        {
+            "answer": "линкольн",
+            "count": 1,
+            "cluster": "линкольн",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мавроди",
+            "count": 1,
+            "cluster": "мавроди",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "майк тайсон",
+            "count": 1,
+            "cluster": "майк тайсон",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "майкл джексон",
+            "count": 1,
+            "cluster": "майкл джексон",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "македонский",
+            "count": 1,
+            "cluster": "александр македонский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "максвелл",
+            "count": 1,
+            "cluster": "максвелл",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "манделла",
+            "count": 1,
+            "cluster": "манделла",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мао цзэдун",
+            "count": 1,
+            "cluster": "мао цзэдун",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мария кюри",
+            "count": 1,
+            "cluster": "мария кюри",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мартин лютер кинг",
+            "count": 1,
+            "cluster": "мартин лютер кинг",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "маршал жуков",
+            "count": 1,
+            "cluster": "маршал жуков",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мой руководитель",
+            "count": 1,
+            "cluster": "мой руководитель",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "навальный",
+            "count": 1,
+            "cluster": "навальный",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "наполеон",
+            "count": 4,
+            "cluster": "наполеон",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "наталья владимировна",
+            "count": 3,
+            "cluster": "наталья владимировна",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "не знаю",
+            "count": 2,
+            "cluster": "не знаю",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "не определилась",
+            "count": 1,
+            "cluster": "не знаю",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "немцов",
+            "count": 1,
+            "cluster": "немцов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "николай 2",
+            "count": 1,
+            "cluster": "николай 2",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "обама",
+            "count": 1,
+            "cluster": "обама",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "оленин ю. а.",
+            "count": 1,
+            "cluster": "оленин ю а",
+            "sentiment": "neutrals",
+            "corrected": "оленин ю а"
+        },
+        {
+            "answer": "оленин ю.а.",
+            "count": 2,
+            "cluster": "оленин ю а",
+            "sentiment": "neutrals",
+            "corrected": "оленин ю а"
+        },
+        {
+            "answer": "петр",
+            "count": 1,
+            "cluster": "петр i",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "петр 1",
+            "count": 9,
+            "cluster": "петр i",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "пётр 1",
+            "count": 8,
+            "cluster": "петр i",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "петр i",
+            "count": 4,
+            "cluster": "петр i",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "петр первый",
+            "count": 2,
+            "cluster": "петр i",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "пётр первый",
+            "count": 2,
+            "cluster": "петр i",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "петр1",
+            "count": 1,
+            "cluster": "петр i",
+            "sentiment": "neutrals",
+            "corrected": "петр 1"
+        },
+        {
+            "answer": "пифагор",
+            "count": 1,
+            "cluster": "пифагор",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "пример подражания",
+            "count": 1,
+            "cluster": "пример подражания",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "путин",
+            "count": 5,
+            "cluster": "путин в в",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "путин в.в.",
+            "count": 1,
+            "cluster": "путин в в",
+            "sentiment": "neutrals",
+            "corrected": "путин в в"
+        },
+        {
+            "answer": "пушкин",
+            "count": 1,
+            "cluster": "пушкин",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "распад ссср",
+            "count": 1,
+            "cluster": "распад ссср",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "рузвельт",
+            "count": 1,
+            "cluster": "рузвельт",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сахаров",
+            "count": 2,
+            "cluster": "сахаров",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "славский",
+            "count": 1,
+            "cluster": "славский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "спартак",
+            "count": 1,
+            "cluster": "спартак",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "стабильность",
+            "count": 1,
+            "cluster": "стабильность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "степан осипович макаров",
+            "count": 1,
+            "cluster": "степан осипович макаров",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "стив джобс",
+            "count": 10,
+            "cluster": "стив джобс",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "столыпин",
+            "count": 1,
+            "cluster": "столыпин",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "суворов",
+            "count": 4,
+            "cluster": "суворов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "тарас шевченко",
+            "count": 1,
+            "cluster": "тарас шевченко",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "тим кук",
+            "count": 1,
+            "cluster": "тим кук",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "томас эдисон",
+            "count": 1,
+            "cluster": "томас эдисон",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "тот кого приводят в пример",
+            "count": 1,
+            "cluster": "тот кого приводят в пример",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "троцкий",
+            "count": 1,
+            "cluster": "троцкий",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "уже история",
+            "count": 1,
+            "cluster": "уже история",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "федель кастро",
+            "count": 1,
+            "cluster": "фидель кастро",
+            "sentiment": "neutrals",
+            "corrected": "фидель кастро"
+        },
+        {
+            "answer": "фидель кастро",
+            "count": 1,
+            "cluster": "фидель кастро",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "хакамада",
+            "count": 1,
+            "cluster": "хакамада",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "царь давид",
+            "count": 1,
+            "cluster": "царь давид",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "цезарь",
+            "count": 2,
+            "cluster": "цезарь",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "юлий цезарь",
+            "count": 4,
+            "cluster": "цезарь",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "че",
+            "count": 1,
+            "cluster": "че гевара",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "че гевара",
+            "count": 3,
+            "cluster": "че гевара",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "чезаре борджиа",
+            "count": 1,
+            "cluster": "чезаре борджиа",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "человек идеи и реализации",
+            "count": 1,
+            "cluster": "человек идеи и реализации",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "человек которого знают",
+            "count": 1,
+            "cluster": "человек которого знают",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "черчилль",
+            "count": 2,
+            "cluster": "черчилль",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "черчиль",
+            "count": 4,
+            "cluster": "черчилль",
+            "sentiment": "neutrals",
+            "corrected": "черчилль"
+        },
+        {
+            "answer": "чичерин",
+            "count": 1,
+            "cluster": "чичерин",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "шмидт",
+            "count": 1,
+            "cluster": "шмидт",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "элвис пресли",
+            "count": 1,
+            "cluster": "элвис пресли",
+            "sentiment": "neutrals"
+        }
+    ]
+}

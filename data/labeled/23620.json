@@ -1,0 +1,78 @@
+{
+    "question": "Как вас зовут?",
+    "id": 23620,
+    "answers": [
+        {
+            "answer": "вася",
+            "count": 1,
+            "cluster": "вася",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "елена",
+            "count": 1,
+            "cluster": "елена",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "иван",
+            "count": 1,
+            "cluster": "иван",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ирина",
+            "count": 1,
+            "cluster": "ирина",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "лена",
+            "count": 3,
+            "cluster": "елена",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "надежда",
+            "count": 1,
+            "cluster": "надежда",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "никодим",
+            "count": 1,
+            "cluster": "никодим",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "петр",
+            "count": 1,
+            "cluster": "петр",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "петя",
+            "count": 1,
+            "cluster": "петр",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сергей",
+            "count": 1,
+            "cluster": "сергей",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "татьяна",
+            "count": 1,
+            "cluster": "татьяна",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "эсмеральда",
+            "count": 1,
+            "cluster": "эсмеральда",
+            "sentiment": "neutrals"
+        }
+    ]
+}

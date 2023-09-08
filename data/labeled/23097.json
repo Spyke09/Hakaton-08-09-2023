@@ -1,0 +1,480 @@
+{
+    "question": "Напишите свою ассоциацию со словом \"бюрократ\"",
+    "id": 23097,
+    "answers": [
+        {
+            "answer": "сразунеподписывающий",
+            "count": 1,
+            "cluster": "сразу не подписывающий",
+            "sentiment": "neutrals",
+            "corrected": "сразу не подписывающий"
+        },
+        {
+            "answer": "срок",
+            "count": 1,
+            "cluster": "сроки",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сроки",
+            "count": 1,
+            "cluster": "сроки",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "стабильный",
+            "count": 1,
+            "cluster": "стабильный",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "стандарт",
+            "count": 1,
+            "cluster": "стандарт",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "стандартизация",
+            "count": 1,
+            "cluster": "стандарт",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "стена",
+            "count": 1,
+            "cluster": "стена",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "стиль жизни",
+            "count": 1,
+            "cluster": "стиль жизни",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "стол",
+            "count": 1,
+            "cluster": "стол",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "столодержатель",
+            "count": 3,
+            "cluster": "столодержатель",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "страх",
+            "count": 3,
+            "cluster": "страх",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "трус",
+            "count": 3,
+            "cluster": "трус",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "трусость",
+            "count": 1,
+            "cluster": "трус",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "трусишка",
+            "count": 1,
+            "cluster": "трус",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "суета",
+            "count": 2,
+            "cluster": "суета",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "тугодум",
+            "count": 2,
+            "cluster": "тугодум",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "существование",
+            "count": 1,
+            "cluster": "существование",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "тщетный",
+            "count": 1,
+            "cluster": "тщетный",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "табличка",
+            "count": 1,
+            "cluster": "табличка",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "удовлетворение своих желаний",
+            "count": 1,
+            "cluster": "удовлетворение своих желаний",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "типичный",
+            "count": 1,
+            "cluster": "типичный",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "узколобость",
+            "count": 1,
+            "cluster": "узколобый",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "узколобый",
+            "count": 1,
+            "cluster": "узколобый",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "тиран",
+            "count": 1,
+            "cluster": "тиран",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "узп",
+            "count": 1,
+            "cluster": "узп",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "товарищ дынин (из фильма)",
+            "count": 1,
+            "cluster": "товарищ дынин из фильма",
+            "sentiment": "neutrals",
+            "corrected": "товарищ дынин из фильма"
+        },
+        {
+            "answer": "уклонист",
+            "count": 1,
+            "cluster": "уклонист",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "толстолобый",
+            "count": 1,
+            "cluster": "толстолобый",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "умник",
+            "count": 1,
+            "cluster": "умник",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "топ-менеджмент",
+            "count": 1,
+            "cluster": "топ менеджмент",
+            "sentiment": "neutrals",
+            "corrected": "топ менеджмент"
+        },
+        {
+            "answer": "усложнение",
+            "count": 10,
+            "cluster": "усложняющий",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "усложнение своей работы и друг",
+            "count": 1,
+            "cluster": "усложняющий",
+            "sentiment": "negatives",
+            "corrected": "усложнение своей работы и других"
+        },
+        {
+            "answer": "усложнитель",
+            "count": 4,
+            "cluster": "усложняющий",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "усложняющий",
+            "count": 3,
+            "cluster": "усложняющий",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "усложняющий простые процессы",
+            "count": 1,
+            "cluster": "усложняющий",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "человек усложняющий всем жизнь",
+            "count": 1,
+            "cluster": "усложняющий",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "трудозатратный",
+            "count": 1,
+            "cluster": "трудозатраты",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "трудозатраты",
+            "count": 1,
+            "cluster": "трудозатраты",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "усталость",
+            "count": 1,
+            "cluster": "усталость",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "утомительный",
+            "count": 2,
+            "cluster": "усталость",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "чрезмерные трудозатраты",
+            "count": 1,
+            "cluster": "трудозатраты",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "энергозатратность",
+            "count": 1,
+            "cluster": "трудозатраты",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "утопия",
+            "count": 1,
+            "cluster": "утопия",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "утративший цель",
+            "count": 1,
+            "cluster": "утративший цель",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ущерб",
+            "count": 1,
+            "cluster": "ущерб",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "ущерб дела",
+            "count": 1,
+            "cluster": "ущерб",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "фаервол",
+            "count": 1,
+            "cluster": "фаервол",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "фарфуркис - сказка о тройке",
+            "count": 1,
+            "cluster": "фарфуркис сказка о тройке",
+            "sentiment": "neutrals",
+            "corrected": "фарфуркис сказка о тройке"
+        },
+        {
+            "answer": "фильтр",
+            "count": 1,
+            "cluster": "фильтр",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "функция",
+            "count": 1,
+            "cluster": "функция",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "функционер",
+            "count": 3,
+            "cluster": "функционер",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "футболист",
+            "count": 1,
+            "cluster": "футболист",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ханжество",
+            "count": 1,
+            "cluster": "ханжество",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "цепкий",
+            "count": 1,
+            "cluster": "цепкий",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "человек",
+            "count": 7,
+            "cluster": "человек",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "человек в футляре",
+            "count": 1,
+            "cluster": "человек в футляре",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "человек с раздутым эго",
+            "count": 1,
+            "cluster": "человек с раздутым эго",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "эгоист",
+            "count": 1,
+            "cluster": "эгоист",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "червь",
+            "count": 1,
+            "cluster": "червь",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "чин",
+            "count": 1,
+            "cluster": "чин",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "чинопочитание",
+            "count": 1,
+            "cluster": "чинопочитание",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "чопорный",
+            "count": 2,
+            "cluster": "чопорный",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "швондер",
+            "count": 4,
+            "cluster": "швондер",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "щелкопер",
+            "count": 1,
+            "cluster": "щелкопер",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "энергосос",
+            "count": 1,
+            "cluster": "энергосос",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "энтропия",
+            "count": 1,
+            "cluster": "энтропия",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "юридическая безопасность",
+            "count": 1,
+            "cluster": "юридическая безопасность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "юристы",
+            "count": 1,
+            "cluster": "юристы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "якорь",
+            "count": 5,
+            "cluster": "якорь",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "бурная деятельность",
+            "count": 1,
+            "cluster": "бурная деятельность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "бракодел",
+            "count": 1,
+            "cluster": "бракодел",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "бредятинан",
+            "count": 1,
+            "cluster": "бредятина",
+            "sentiment": "negatives",
+            "corrected": "бредятина"
+        },
+        {
+            "answer": "графики",
+            "count": 1,
+            "cluster": "графики",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "москва",
+            "count": 1,
+            "cluster": "москва",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "муниципалы",
+            "count": 1,
+            "cluster": "муниципалы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "осторожность",
+            "count": 1,
+            "cluster": "осторожность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "смысл",
+            "count": 1,
+            "cluster": "смысл",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "тщательность",
+            "count": 1,
+            "cluster": "тщательность",
+            "sentiment": "positives"
+        }
+    ]
+}

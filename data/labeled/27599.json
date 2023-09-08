@@ -1,0 +1,59 @@
+{
+    "question": "Какие 3 информационные темы актуальны для молодежи Росатома сегодня?",
+    "id": 27599,
+    "answers": [
+        {
+            "answer": "активность",
+            "count": 1,
+            "cluster": "активность",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "заинтересованная",
+            "count": 1,
+            "cluster": "заинтересованная",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "интересующаяся",
+            "count": 1,
+            "cluster": "интересующаяся",
+            "sentiment": "context sentiment",
+            "corrected": "заинтересованная"
+        },
+        {
+            "answer": "мотивация",
+            "count": 8,
+            "cluster": "мотивация",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "мотивация труда",
+            "count": 2,
+            "cluster": "мотивация труда",
+            "sentiment": "context sentiment",
+            "corrected": "мотивация"
+        },
+        {
+            "answer": "система мотивации",
+            "count": 1,
+            "cluster": "система мотивации",
+            "sentiment": "context sentiment",
+            "corrected": "мотивация"
+        },
+        {
+            "answer": "мотивация инициатив",
+            "count": 1,
+            "cluster": "мотивация инициатив",
+            "sentiment": "context sentiment",
+            "corrected": "мотивация"
+        },
+        {
+            "answer": "непрозрачность карьерного план",
+            "count": 1,
+            "cluster": "непрозрачность карьерного плана",
+            "sentiment": "context cluster",
+            "corrected": "прозрачная карьерная лестница"
+        }
+    ]
+}

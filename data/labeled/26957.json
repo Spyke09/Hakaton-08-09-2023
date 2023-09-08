@@ -1,0 +1,530 @@
+{
+    "question": "Какие формы обучения самые эффективные / желанные?",
+    "id": 26957,
+    "answers": [
+        {
+            "answer": "аккредитация в системе росатом",
+            "count": 1,
+            "cluster": "аккредитация в системе росатом",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "аудиокнига",
+            "count": 1,
+            "cluster": "аудиокнига",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "больше встреч",
+            "count": 1,
+            "cluster": "встречи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "встречи",
+            "count": 1,
+            "cluster": "встречи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "в тикток",
+            "count": 1,
+            "cluster": "в тикток",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "вебинар",
+            "count": 1,
+            "cluster": "семинар",
+            "sentiment": "neutrals",
+            "corrected": "семинар"
+        },
+        {
+            "answer": "вебинар в записи",
+            "count": 1,
+            "cluster": "семинар",
+            "sentiment": "neutrals",
+            "corrected": "семинар в записи"
+        },
+        {
+            "answer": "видео",
+            "count": 1,
+            "cluster": "видео",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "всё формы важны",
+            "count": 1,
+            "cluster": "все формы важны",
+            "sentiment": "neutrals",
+            "corrected": "все формы важны"
+        },
+        {
+            "answer": "выездное обучение",
+            "count": 1,
+            "cluster": "выездное обучение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "выездные сессии",
+            "count": 1,
+            "cluster": "выездное обучение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "геймофикация",
+            "count": 2,
+            "cluster": "геймификация",
+            "sentiment": "neutrals",
+            "corrected": "геймификация"
+        },
+        {
+            "answer": "групповой коучинг",
+            "count": 1,
+            "cluster": "групповой коучинг",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "диалоги",
+            "count": 1,
+            "cluster": "диалоги",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "живое общение",
+            "count": 1,
+            "cluster": "очное",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "живые кейсы",
+            "count": 1,
+            "cluster": "живые практики",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "кейсы",
+            "count": 1,
+            "cluster": "кейсы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "разборы кейсов",
+            "count": 1,
+            "cluster": "кейсы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "решение кейсов",
+            "count": 1,
+            "cluster": "кейсы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "живые практики",
+            "count": 1,
+            "cluster": "живые практики",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "игры",
+            "count": 1,
+            "cluster": "игры",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "интерактивная",
+            "count": 1,
+            "cluster": "интерактивные занятия",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "интерактивные занятия",
+            "count": 1,
+            "cluster": "интерактивные занятия",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "коллоборации с обр.учреждениям",
+            "count": 1,
+            "cluster": "коллаборации с образовательными учреждениями",
+            "sentiment": "neutrals",
+            "corrected": "коллаборации с образовательными учреждениями"
+        },
+        {
+            "answer": "комиксы",
+            "count": 1,
+            "cluster": "комиксы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "конференции",
+            "count": 1,
+            "cluster": "конференции",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "конференция",
+            "count": 2,
+            "cluster": "конференции",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "конференции в очном формате",
+            "count": 1,
+            "cluster": "конференция очная",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "конференция очная",
+            "count": 1,
+            "cluster": "конференция очная",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "лекция",
+            "count": 1,
+            "cluster": "лекция",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мастерклассы",
+            "count": 1,
+            "cluster": "мастер классы",
+            "sentiment": "neutrals",
+            "corrected": "мастер классы"
+        },
+        {
+            "answer": "мастермайнд",
+            "count": 1,
+            "cluster": "мастермайнд",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "наглядные",
+            "count": 1,
+            "cluster": "наглядные",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "небольшими группами",
+            "count": 1,
+            "cluster": "небольшими группами",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "некие скайп беседы",
+            "count": 1,
+            "cluster": "некие скайп беседы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нужна теория и проверка знаний",
+            "count": 1,
+            "cluster": "нужна теория и проверка знаний",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "обмен опытом",
+            "count": 4,
+            "cluster": "обмен опытом",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "обучение-практика",
+            "count": 1,
+            "cluster": "практикумы",
+            "sentiment": "neutrals",
+            "corrected": "обучение практика"
+        },
+        {
+            "answer": "практика",
+            "count": 4,
+            "cluster": "практикумы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "практикум",
+            "count": 1,
+            "cluster": "практикумы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "практикумы",
+            "count": 6,
+            "cluster": "практикумы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "практические",
+            "count": 1,
+            "cluster": "практикумы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "практические занятия",
+            "count": 1,
+            "cluster": "практикумы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "с практикой",
+            "count": 1,
+            "cluster": "практикумы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "эмпирические",
+            "count": 1,
+            "cluster": "практикумы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "он лайн обучение",
+            "count": 1,
+            "cluster": "онлайн",
+            "sentiment": "neutrals",
+            "corrected": "онлайн обучение"
+        },
+        {
+            "answer": "онлайн",
+            "count": 1,
+            "cluster": "онлайн",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "офлайн",
+            "count": 1,
+            "cluster": "очное",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "очная",
+            "count": 7,
+            "cluster": "очное",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "очная форма",
+            "count": 1,
+            "cluster": "очное",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "очно",
+            "count": 1,
+            "cluster": "очное",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "очное",
+            "count": 2,
+            "cluster": "очное",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "очное живое общение",
+            "count": 1,
+            "cluster": "очное",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "очное обучение",
+            "count": 3,
+            "cluster": "очное",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "очное участие с отработкой нав",
+            "count": 1,
+            "cluster": "очные практикумы",
+            "sentiment": "neutrals",
+            "corrected": "очное участие с отработкой навыков"
+        },
+        {
+            "answer": "очное!!!!! /",
+            "count": 1,
+            "cluster": "очное",
+            "sentiment": "neutrals",
+            "corrected": "очное"
+        },
+        {
+            "answer": "очные",
+            "count": 12,
+            "cluster": "очное",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "очные встречи",
+            "count": 3,
+            "cluster": "очное",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "очные обучения глаза в глаза",
+            "count": 1,
+            "cluster": "очное",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "очные практикумы",
+            "count": 1,
+            "cluster": "очные практикумы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "очные с мастер - классами",
+            "count": 1,
+            "cluster": "очные с мастер классами",
+            "sentiment": "neutrals",
+            "corrected": "очные с мастер классами"
+        },
+        {
+            "answer": "очные с практическими примерам",
+            "count": 1,
+            "cluster": "очные практикумы",
+            "sentiment": "neutrals",
+            "corrected": "очные с практическими примерами"
+        },
+        {
+            "answer": "очные семинары",
+            "count": 1,
+            "cluster": "очные семинары",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "очные сессии вне раб. места",
+            "count": 1,
+            "cluster": "очные сессии вне рабочего места",
+            "sentiment": "neutrals",
+            "corrected": "очные сессии вне рабочего места"
+        },
+        {
+            "answer": "очные тренинги",
+            "count": 1,
+            "cluster": "очные практикумы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "очные/неформальные",
+            "count": 1,
+            "cluster": "очные неформальные",
+            "sentiment": "neutrals",
+            "corrected": "очные неформальные"
+        },
+        {
+            "answer": "очно-заочные",
+            "count": 1,
+            "cluster": "очно заочные",
+            "sentiment": "neutrals",
+            "corrected": "очно заочные"
+        },
+        {
+            "answer": "очные в малых группах с кейсам",
+            "count": 1,
+            "cluster": "очные в малых группах с кейсами",
+            "sentiment": "neutrals",
+            "corrected": "очные в малых группах с кейсами"
+        },
+        {
+            "answer": "поведенческий практикум",
+            "count": 1,
+            "cluster": "поведенческий практикум",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "полное зам-е рук-ля во время е",
+            "count": 1,
+            "cluster": "полное замещение руководителя во время е",
+            "sentiment": "neutrals",
+            "corrected": "полное замещение руководителя во время е"
+        },
+        {
+            "answer": "презентация",
+            "count": 1,
+            "cluster": "презентация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "применят ит и ии",
+            "count": 1,
+            "cluster": "применят информационные технологии и искусственный интеллект",
+            "sentiment": "neutrals",
+            "corrected": "применят информационные технологии и искусственный интеллект"
+        },
+        {
+            "answer": "работа на площадке",
+            "count": 1,
+            "cluster": "работа на площадке",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "рекорд",
+            "count": 1,
+            "cluster": "рекорд",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "решения проблем лр",
+            "count": 1,
+            "cluster": "решения проблем лр",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "свободная",
+            "count": 1,
+            "cluster": "свободная",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сенимары",
+            "count": 1,
+            "cluster": "семинар",
+            "sentiment": "neutrals",
+            "corrected": "семинары"
+        },
+        {
+            "answer": "смешанные",
+            "count": 1,
+            "cluster": "смешанные",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "тесты с рандомными ответами",
+            "count": 1,
+            "cluster": "тесты с рандомными ответами",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "тренинг",
+            "count": 1,
+            "cluster": "практикумы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "тренинги",
+            "count": 3,
+            "cluster": "практикумы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "факультативные проекты",
+            "count": 1,
+            "cluster": "факультативные проекты",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "фокус группы.",
+            "count": 1,
+            "cluster": "фокус группы",
+            "sentiment": "neutrals",
+            "corrected": "фокус группы"
+        },
+        {
+            "answer": "форумы",
+            "count": 1,
+            "cluster": "форумы",
+            "sentiment": "neutrals"
+        }
+    ]
+}

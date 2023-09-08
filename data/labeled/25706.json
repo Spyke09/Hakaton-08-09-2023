@@ -1,0 +1,201 @@
+{
+    "question": "Кто такой волонтер?",
+    "id": 25706,
+    "answers": [
+        {
+            "answer": "активный участник общества",
+            "count": 1,
+            "cluster": "активный участник общества",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "бескорыстный",
+            "count": 1,
+            "cluster": "бескорыстный человек",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "бескорыстный человек",
+            "count": 1,
+            "cluster": "бескорыстный человек",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "готов помогать безвозмездно",
+            "count": 1,
+            "cluster": "бескорыстный человек",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "бесплатная рабочая сила",
+            "count": 1,
+            "cluster": "бесплатная рабочая сила",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "бесплатный идейный труженик",
+            "count": 1,
+            "cluster": "бесплатный идейный труженик",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "даритель",
+            "count": 1,
+            "cluster": "даритель",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "доброволец",
+            "count": 4,
+            "cluster": "доброволец",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "добровольная помощь людям",
+            "count": 1,
+            "cluster": "добровольная помощь людям",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "добровольный помощник",
+            "count": 1,
+            "cluster": "добровольная помощь людям",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "добродел",
+            "count": 1,
+            "cluster": "добродел",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "добрые дела без корысти",
+            "count": 1,
+            "cluster": "бескорыстный человек",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "добрый человек",
+            "count": 1,
+            "cluster": "добрый человек",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "человек транслирующий добро",
+            "count": 1,
+            "cluster": "человек транслирующий добро",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "заинтересованный человек",
+            "count": 1,
+            "cluster": "заинтересованный человек",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "любой помоготар не только себе",
+            "count": 1,
+            "cluster": "помощник",
+            "sentiment": "neutrals",
+            "corrected": "любой помогатор не только себе"
+        },
+        {
+            "answer": "помощник",
+            "count": 3,
+            "cluster": "помощник",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "тот кто безвозмездно помогает",
+            "count": 1,
+            "cluster": "бескорыстный человек",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "человек бескорыстно пом.другим",
+            "count": 1,
+            "cluster": "бескорыстный человек",
+            "sentiment": "positives",
+            "corrected": "человек бескорыстно помогающий другим"
+        },
+        {
+            "answer": "человек помогающий",
+            "count": 1,
+            "cluster": "помощник",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "неравнодушный",
+            "count": 1,
+            "cluster": "неравнодушный",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "неугомонный творец",
+            "count": 1,
+            "cluster": "неугомонный творец",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "огонь",
+            "count": 1,
+            "cluster": "огонь",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "отзывчивый человек",
+            "count": 1,
+            "cluster": "отзывчивый человек",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "сильный человек",
+            "count": 1,
+            "cluster": "сильный человек",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "спасатель",
+            "count": 1,
+            "cluster": "спасатель",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "тот кто хочет принести пользу",
+            "count": 1,
+            "cluster": "тот кто хочет принести пользу",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "чел-к с внутр потреб помогать",
+            "count": 1,
+            "cluster": "человек с внутренней потребностью помогать",
+            "sentiment": "neutrals",
+            "corrected": "человек с внутренней потребностью помогать"
+        },
+        {
+            "answer": "умеющий человек",
+            "count": 1,
+            "cluster": "умеющий человек",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "человек с большим сердцем",
+            "count": 1,
+            "cluster": "человек с большим сердцем",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "человечный",
+            "count": 1,
+            "cluster": "человечный",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "я",
+            "count": 2,
+            "cluster": "я",
+            "sentiment": "neutrals"
+        }
+    ]
+}

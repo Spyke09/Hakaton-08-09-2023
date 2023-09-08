@@ -1,0 +1,61 @@
+{
+    "question": "What countries are major investors abroad?",
+    "id": 20397,
+    "answers": [
+        {
+            "answer": "kazakhstan",
+            "count": 1,
+            "cluster": "kazakhstan",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "netherlands",
+            "count": 7,
+            "cluster": "netherlands",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "qatar",
+            "count": 6,
+            "cluster": "qatar",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "quatar",
+            "count": 1,
+            "cluster": "qatar",
+            "sentiment": "neutrals",
+            "corrected": "qatar"
+        },
+        {
+            "answer": "russia",
+            "count": 1,
+            "cluster": "russia",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "uk",
+            "count": 5,
+            "cluster": "uk",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "vv",
+            "count": 1,
+            "cluster": "vv",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ireland",
+            "count": 1,
+            "cluster": "ireland",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "luxembourg",
+            "count": 1,
+            "cluster": "luxembourg",
+            "sentiment": "neutrals"
+        }
+    ]
+}

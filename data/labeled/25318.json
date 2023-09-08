@@ -1,0 +1,63 @@
+{
+    "question": "Ваши открытия за время обучения на модуле",
+    "id": 25318,
+    "answers": [
+        {
+            "answer": "все как в реальной жизни",
+            "count": 1,
+            "cluster": "все как в реальной жизни",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "научился цифровизировать проек",
+            "count": 1,
+            "cluster": "научился цифровизировать проект",
+            "sentiment": "neutrals",
+            "corrected": "научился цифровизировать проект"
+        },
+        {
+            "answer": "нет",
+            "count": 2,
+            "cluster": "нет",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новые горизонты планирования",
+            "count": 1,
+            "cluster": "новые горизонты планирования",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "пока не ясно",
+            "count": 1,
+            "cluster": "пока не ясно",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "понял что такое цифровизация",
+            "count": 1,
+            "cluster": "цифровизация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "цифровизация",
+            "count": 2,
+            "cluster": "цифровизация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "принятия совместных решений",
+            "count": 1,
+            "cluster": "принятие совместных решений",
+            "sentiment": "neutrals",
+            "corrected": "принятие совместных решений"
+        },
+        {
+            "answer": "трансформация идёт снизу и све",
+            "count": 1,
+            "cluster": "трансформация идёт снизу и сверху",
+            "sentiment": "neutrals",
+            "corrected": "трансформация идёт снизу и сверху"
+        }
+    ]
+}

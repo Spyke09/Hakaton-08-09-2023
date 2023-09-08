@@ -1,0 +1,359 @@
+{
+    "question": "Для меня самое важное до конца года...",
+    "id": 23769,
+    "answers": [
+        {
+            "answer": "безопасносиь",
+            "count": 1,
+            "cluster": "безопасность",
+            "sentiment": "positives",
+            "corrected": "безопасность"
+        },
+        {
+            "answer": "быть нужным компании",
+            "count": 1,
+            "cluster": "быть нужным компании",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "бюджет",
+            "count": 1,
+            "cluster": "бюджет",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "для дит - сбаланс-анный бюд",
+            "count": 1,
+            "cluster": "бюджет",
+            "sentiment": "positives",
+            "corrected": "для дит сбалансированный бюджет"
+        },
+        {
+            "answer": "закрыть бюджет текущего года",
+            "count": 1,
+            "cluster": "бюджет",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "исполнение бюджета",
+            "count": 1,
+            "cluster": "бюджет",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "свести финансы по отделу",
+            "count": 1,
+            "cluster": "свести финансы по отделу",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "бюджет-ок закупки - старт.",
+            "count": 1,
+            "cluster": "бюджет нормально закупки старт",
+            "sentiment": "neutrals",
+            "corrected": "бюджет нормально закупки старт"
+        },
+        {
+            "answer": "всё успеть",
+            "count": 1,
+            "cluster": "всё успеть",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "выжить бы",
+            "count": 1,
+            "cluster": "дожить",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "дожить",
+            "count": 4,
+            "cluster": "дожить",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "жизнь",
+            "count": 1,
+            "cluster": "дожить",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "жить",
+            "count": 1,
+            "cluster": "дожить",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "не погибнуть))",
+            "count": 1,
+            "cluster": "дожить",
+            "sentiment": "positives",
+            "corrected": "не погибнуть"
+        },
+        {
+            "answer": "выполнить план",
+            "count": 1,
+            "cluster": "закрыть все задачи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "выполнить поставленные задачи",
+            "count": 1,
+            "cluster": "закрыть все задачи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "выполнить поставленные цели",
+            "count": 1,
+            "cluster": "закрыть все задачи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "закрыть важные задачи",
+            "count": 1,
+            "cluster": "закрыть все задачи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "закрыть все задачи",
+            "count": 1,
+            "cluster": "закрыть все задачи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "закрыть задачи",
+            "count": 3,
+            "cluster": "закрыть все задачи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "выполнить проект",
+            "count": 1,
+            "cluster": "реализация проектов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "реализация проектов",
+            "count": 1,
+            "cluster": "реализация проектов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "успешно сдать проекты",
+            "count": 1,
+            "cluster": "реализация проектов",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "успешное завершение проектов",
+            "count": 1,
+            "cluster": "реализация проектов",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "выполнить работу",
+            "count": 1,
+            "cluster": "выполнить работу",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "глобально - мир на украине",
+            "count": 1,
+            "cluster": "конец войне",
+            "sentiment": "positives",
+            "corrected": "глобально мир на украине"
+        },
+        {
+            "answer": "закончилась сво",
+            "count": 1,
+            "cluster": "конец войне",
+            "sentiment": "neutrals",
+            "corrected": "закончилась специальная военная операция"
+        },
+        {
+            "answer": "конец войне",
+            "count": 2,
+            "cluster": "конец войне",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "завершить цзп текущего года",
+            "count": 1,
+            "cluster": "завершить цзп текущего года",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "закончить год позитивно",
+            "count": 1,
+            "cluster": "закончить год позитивно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "закрепить результаты",
+            "count": 1,
+            "cluster": "закрепить результаты",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "закрытие гпр",
+            "count": 1,
+            "cluster": "закрытие гпр",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "закрыть все закупки",
+            "count": 1,
+            "cluster": "закрыть все закупки",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "закрыть долги по кпэ",
+            "count": 1,
+            "cluster": "кпэ",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "кпэ",
+            "count": 2,
+            "cluster": "кпэ",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "закрыть хвосты",
+            "count": 1,
+            "cluster": "закрыть хвосты",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "подбить хвосты по направлениям",
+            "count": 1,
+            "cluster": "закрыть хвосты",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "импортозамещение",
+            "count": 1,
+            "cluster": "импортозамещение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "коллектив!",
+            "count": 1,
+            "cluster": "коллектив",
+            "sentiment": "neutrals",
+            "corrected": "коллектив"
+        },
+        {
+            "answer": "остаться командой",
+            "count": 1,
+            "cluster": "коллектив",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "курс 2.0",
+            "count": 2,
+            "cluster": "курс 2 0",
+            "sentiment": "neutrals",
+            "corrected": "курс 2 0"
+        },
+        {
+            "answer": "не перегореть",
+            "count": 1,
+            "cluster": "не перегореть",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "не порваться",
+            "count": 1,
+            "cluster": "не перегореть",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "не переругаться",
+            "count": 1,
+            "cluster": "не переругаться",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "не подвести коллег",
+            "count": 2,
+            "cluster": "не подвести коллег",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "не призываться",
+            "count": 1,
+            "cluster": "не призываться",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "чтобы не мобилизовали",
+            "count": 2,
+            "cluster": "не призываться",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "не слечь с нервным срывов",
+            "count": 1,
+            "cluster": "психологическое здоровье",
+            "sentiment": "positives",
+            "corrected": "не слечь с нервным срывом"
+        },
+        {
+            "answer": "психологическое здоровье",
+            "count": 1,
+            "cluster": "психологическое здоровье",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "переход на вкс iva",
+            "count": 1,
+            "cluster": "переход на видеоконференцсвязь iva",
+            "sentiment": "neutrals",
+            "corrected": "переход на видеоконференцсвязь iva"
+        },
+        {
+            "answer": "равновесие обрести",
+            "count": 1,
+            "cluster": "равновесие обрести",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "сохранить баланс",
+            "count": 1,
+            "cluster": "сохранить спокойствие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "сохранить спокойствие",
+            "count": 1,
+            "cluster": "сохранить спокойствие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "спокойствие",
+            "count": 2,
+            "cluster": "сохранить спокойствие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "сохранить темп",
+            "count": 1,
+            "cluster": "сохранить темп",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "стабильность",
+            "count": 1,
+            "cluster": "стабильность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "тз сапэд",
+            "count": 1,
+            "cluster": "техническое задание сапэд",
+            "sentiment": "neutrals",
+            "corrected": "техническое задание сапэд"
+        }
+    ]
+}

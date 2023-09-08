@@ -1,0 +1,176 @@
+{
+    "question": "Три слова про мое настроение на 8 модуле:",
+    "id": 26196,
+    "answers": [
+        {
+            "answer": "в ожидании",
+            "count": 1,
+            "cluster": "в ожидании",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "воодушевлённое",
+            "count": 1,
+            "cluster": "воодушевлённое",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "всё просто супер",
+            "count": 1,
+            "cluster": "отлично",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "классное!",
+            "count": 1,
+            "cluster": "отлично",
+            "sentiment": "positives",
+            "corrected": "классное"
+        },
+        {
+            "answer": "отлично!",
+            "count": 2,
+            "cluster": "отлично",
+            "sentiment": "positives",
+            "corrected": "отлично"
+        },
+        {
+            "answer": "отлично!!!",
+            "count": 1,
+            "cluster": "отлично",
+            "sentiment": "positives",
+            "corrected": "отлично"
+        },
+        {
+            "answer": "прекрасно",
+            "count": 1,
+            "cluster": "отлично",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "супер",
+            "count": 1,
+            "cluster": "отлично",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "грустно",
+            "count": 1,
+            "cluster": "грустно",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "грустно что конец",
+            "count": 1,
+            "cluster": "грустно",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "грустное",
+            "count": 1,
+            "cluster": "грустно",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "дит лучший",
+            "count": 1,
+            "cluster": "дит лучший",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "жаль",
+            "count": 1,
+            "cluster": "жаль",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "кайф усталость тревожность",
+            "count": 1,
+            "cluster": "кайф усталость тревожность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "ок",
+            "count": 1,
+            "cluster": "нормально",
+            "sentiment": "neutrals",
+            "corrected": "нормально"
+        },
+        {
+            "answer": "охлопков",
+            "count": 1,
+            "cluster": "охлопков",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "охлопково",
+            "count": 1,
+            "cluster": "охлопков",
+            "sentiment": "neutrals",
+            "corrected": "охлопков"
+        },
+        {
+            "answer": "очень хочется спать",
+            "count": 1,
+            "cluster": "очень хочется спать",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "позитивное",
+            "count": 1,
+            "cluster": "позитивное",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "потрясающие люди",
+            "count": 1,
+            "cluster": "потрясающие люди",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "развалины...",
+            "count": 1,
+            "cluster": "развалины",
+            "sentiment": "neutrals",
+            "corrected": "развалины"
+        },
+        {
+            "answer": "семья",
+            "count": 1,
+            "cluster": "семья",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "устал",
+            "count": 1,
+            "cluster": "устал",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "финал",
+            "count": 1,
+            "cluster": "финал",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "халидно",
+            "count": 1,
+            "cluster": "холодно",
+            "sentiment": "neutrals",
+            "corrected": "холодно"
+        },
+        {
+            "answer": "холодно",
+            "count": 1,
+            "cluster": "холодно",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ципорин рулит!",
+            "count": 1,
+            "cluster": "ципорин рулит",
+            "sentiment": "neutrals",
+            "corrected": "ципорин рулит"
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "question": "Кто для вас является самой вдохновляющей личностью из истории атомной отрасли? (укажите фамилию)",
+    "id": 27855,
+    "answers": [
+        {
+            "answer": "африкантов",
+            "count": 1,
+            "cluster": "африкантов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "берия",
+            "count": 4,
+            "cluster": "берия",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "бочвар",
+            "count": 15,
+            "cluster": "бочвар",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "бочвара",
+            "count": 1,
+            "cluster": "бочвар",
+            "sentiment": "neutrals",
+            "corrected": "бочвар"
+        },
+        {
+            "answer": "бриш",
+            "count": 1,
+            "cluster": "бриш",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "вернадский",
+            "count": 1,
+            "cluster": "вернадский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "володин",
+            "count": 1,
+            "cluster": "володин",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "доллежаль",
+            "count": 1,
+            "cluster": "доллежаль",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "игнатенко",
+            "count": 1,
+            "cluster": "игнатенко",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "карпов",
+            "count": 1,
+            "cluster": "карпов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "киндер сюрприз",
+            "count": 1,
+            "cluster": "киндер сюрприз",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "кириенко",
+            "count": 2,
+            "cluster": "кириенко",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "курчатов",
+            "count": 48,
+            "cluster": "курчатов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "кюри",
+            "count": 4,
+            "cluster": "кюри",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ландау",
+            "count": 2,
+            "cluster": "ландау",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "лихачёв",
+            "count": 2,
+            "cluster": "лихачёв",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "маргулова",
+            "count": 1,
+            "cluster": "маргулова",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "никипелова",
+            "count": 1,
+            "cluster": "никипелова",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новокшенов",
+            "count": 1,
+            "cluster": "новокшенов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "опенгеймер",
+            "count": 1,
+            "cluster": "опенгеймер",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "савченко",
+            "count": 1,
+            "cluster": "савченко",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сахаров",
+            "count": 5,
+            "cluster": "сахаров",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сахоров",
+            "count": 1,
+            "cluster": "сахаров",
+            "sentiment": "neutrals",
+            "corrected": "сахаров"
+        },
+        {
+            "answer": "семенов",
+            "count": 1,
+            "cluster": "семенов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сидоренко",
+            "count": 1,
+            "cluster": "сидоренко",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "славский",
+            "count": 7,
+            "cluster": "славский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "спасский",
+            "count": 1,
+            "cluster": "спасский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "терентьева",
+            "count": 2,
+            "cluster": "терентьева",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "щёлкин",
+            "count": 1,
+            "cluster": "щёлкин",
+            "sentiment": "neutrals"
+        }
+    ]
+}

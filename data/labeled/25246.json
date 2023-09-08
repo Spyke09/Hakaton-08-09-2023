@@ -1,0 +1,72 @@
+{
+    "question": "Что Вам важнее всего в обучении?",
+    "id": 25246,
+    "answers": [
+        {
+            "answer": "длительность",
+            "count": 1,
+            "cluster": "длительность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "знания",
+            "count": 1,
+            "cluster": "знания",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "интерактивность",
+            "count": 1,
+            "cluster": "интерактивность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "кейсы",
+            "count": 1,
+            "cluster": "кейсы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "краткость и польза",
+            "count": 1,
+            "cluster": "польза",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "польза",
+            "count": 2,
+            "cluster": "польза",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "польза и практика",
+            "count": 1,
+            "cluster": "польза",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "практика",
+            "count": 1,
+            "cluster": "практичность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "практичность",
+            "count": 1,
+            "cluster": "практичность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "простота восприятия",
+            "count": 1,
+            "cluster": "простота восприятия",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "простота изложения материала",
+            "count": 1,
+            "cluster": "простота восприятия",
+            "sentiment": "positives"
+        }
+    ]
+}

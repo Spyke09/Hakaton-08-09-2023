@@ -1,0 +1,170 @@
+{
+    "question": "Опишите своё эмоциональное состояние в данный момент (одним словом)",
+    "id": 24362,
+    "answers": [
+        {
+            "answer": "боевое",
+            "count": 3,
+            "cluster": "боевое",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "готова к приключениям",
+            "count": 1,
+            "cluster": "боевое",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "в радостном предвкушении",
+            "count": 1,
+            "cluster": "в радостном предвкушении",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "предвкушение",
+            "count": 4,
+            "cluster": "в радостном предвкушении",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "веселое",
+            "count": 1,
+            "cluster": "настроение на позитиве",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "настроение на позитиве",
+            "count": 1,
+            "cluster": "настроение на позитиве",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "позитив",
+            "count": 1,
+            "cluster": "настроение на позитиве",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "позитивный настрой",
+            "count": 1,
+            "cluster": "настроение на позитиве",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "радость",
+            "count": 1,
+            "cluster": "радость",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "волнение",
+            "count": 1,
+            "cluster": "волнение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "волнительное",
+            "count": 1,
+            "cluster": "волнение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "приятное волнение",
+            "count": 1,
+            "cluster": "приятное волнение",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "воодушевлена",
+            "count": 1,
+            "cluster": "воодушевлена",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "заинтригован",
+            "count": 1,
+            "cluster": "заинтригован",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "заряжен",
+            "count": 1,
+            "cluster": "заряженное",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "заряженное",
+            "count": 1,
+            "cluster": "заряженное",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "мирное",
+            "count": 1,
+            "cluster": "мирное",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "неопределённость",
+            "count": 1,
+            "cluster": "неопределённость",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "нормальное",
+            "count": 1,
+            "cluster": "нормальное",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "спокойное",
+            "count": 1,
+            "cluster": "мирное",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "огонь",
+            "count": 1,
+            "cluster": "отлично",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "отлично",
+            "count": 1,
+            "cluster": "отлично",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "приподнятое",
+            "count": 1,
+            "cluster": "отлично",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "супер-пупер-отличное)",
+            "count": 1,
+            "cluster": "отлично",
+            "sentiment": "positives",
+            "corrected": "супер пупер отличное"
+        },
+        {
+            "answer": "просыпаюсь)",
+            "count": 1,
+            "cluster": "просыпаюсь",
+            "sentiment": "neutrals",
+            "corrected": "просыпаюсь"
+        },
+        {
+            "answer": "сонливость",
+            "count": 1,
+            "cluster": "сонливость",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сосредоточен",
+            "count": 1,
+            "cluster": "сосредоточен",
+            "sentiment": "neutrals"
+        }
+    ]
+}

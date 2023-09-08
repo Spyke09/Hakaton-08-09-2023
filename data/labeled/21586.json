@@ -1,0 +1,31 @@
+{
+    "question": "1. Топ 3 дефицита компетенций по безопасности у молодых сотрудников, которые приходят в отрасль? / Top 3 safety competencies gaps among young employees entering the industry?",
+    "id": 21586,
+    "answers": [
+        {
+            "answer": "понимание своего влияния",
+            "count": 1,
+            "cluster": "понимание своего влияния",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "практические навыки",
+            "count": 1,
+            "cluster": "практические навыки",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "психологич",
+            "count": 1,
+            "cluster": "психологические",
+            "sentiment": "neutrals",
+            "corrected": "психологические"
+        },
+        {
+            "answer": "чф",
+            "count": 1,
+            "cluster": "чф",
+            "sentiment": "neutrals"
+        }
+    ]
+}

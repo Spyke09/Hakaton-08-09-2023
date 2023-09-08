@@ -1,0 +1,187 @@
+{
+    "question": "Росатом - это.... ( продолжи)",
+    "id": 27374,
+    "answers": [
+        {
+            "answer": "атомная компания",
+            "count": 2,
+            "cluster": "атомная компания",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "атомная корпорация",
+            "count": 1,
+            "cluster": "атомная компания",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ну компания по атомной энерги",
+            "count": 1,
+            "cluster": "атомная компания",
+            "sentiment": "neutrals",
+            "corrected": "ну компания по атомной энергии"
+        },
+        {
+            "answer": "атомная отрасль",
+            "count": 1,
+            "cluster": "атомная отрасль",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "атомная отрсль",
+            "count": 1,
+            "cluster": "атомная отрасль",
+            "sentiment": "neutrals",
+            "corrected": "атомная отрасль"
+        },
+        {
+            "answer": "всем добра!",
+            "count": 1,
+            "cluster": "всем добра",
+            "sentiment": "positives",
+            "corrected": "всем добра"
+        },
+        {
+            "answer": "всероссийская корпорация",
+            "count": 1,
+            "cluster": "всероссийская корпорация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "госкорпорация",
+            "count": 2,
+            "cluster": "госкорпорация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "государственная компания",
+            "count": 1,
+            "cluster": "госкорпорация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "государственная корпорация",
+            "count": 3,
+            "cluster": "госкорпорация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "рф государственный холдинг",
+            "count": 1,
+            "cluster": "госкорпорация",
+            "sentiment": "neutrals",
+            "corrected": "российская федерация государственный холдинг"
+        },
+        {
+            "answer": "группа которая делает проекты",
+            "count": 2,
+            "cluster": "группа которая делает проекты",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "здорово",
+            "count": 1,
+            "cluster": "круто",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "интересно",
+            "count": 1,
+            "cluster": "интересно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "круто",
+            "count": 1,
+            "cluster": "круто",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "компания",
+            "count": 4,
+            "cluster": "компания",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "компания мечты",
+            "count": 1,
+            "cluster": "компания мечты",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "корпорация возможностей",
+            "count": 1,
+            "cluster": "корпорация возможностей",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "крупная компания",
+            "count": 1,
+            "cluster": "компания",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "многопрофильная компания",
+            "count": 1,
+            "cluster": "многопрофильная компания",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "многопрофильная организация",
+            "count": 1,
+            "cluster": "многопрофильная компания",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "наука",
+            "count": 1,
+            "cluster": "наука",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "не знаю",
+            "count": 1,
+            "cluster": "не знаю",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "хз",
+            "count": 1,
+            "cluster": "не знаю",
+            "sentiment": "neutrals",
+            "corrected": "не знаю"
+        },
+        {
+            "answer": "что-то что я ещё не знаю",
+            "count": 1,
+            "cluster": "не знаю",
+            "sentiment": "neutrals",
+            "corrected": "что то что я ещё не знаю"
+        },
+        {
+            "answer": "прогресс в усолье",
+            "count": 1,
+            "cluster": "прогресс в усолье",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "продвижение в будущее",
+            "count": 1,
+            "cluster": "продвижение в будущее",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "ролтон",
+            "count": 1,
+            "cluster": "роллтон",
+            "sentiment": "neutrals",
+            "corrected": "роллтон"
+        },
+        {
+            "answer": "росатом",
+            "count": 1,
+            "cluster": "росатом",
+            "sentiment": "neutrals"
+        }
+    ]
+}

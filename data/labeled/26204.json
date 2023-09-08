@@ -1,0 +1,671 @@
+{
+    "question": "Что бы вы хотели пожелать другим резервистам?",
+    "id": 26204,
+    "answers": [
+        {
+            "answer": "баланса и только вперёд!",
+            "count": 1,
+            "cluster": "только вперед",
+            "sentiment": "positives",
+            "corrected": "баланса и только вперёд"
+        },
+        {
+            "answer": "бегите глупцы! шутка.",
+            "count": 1,
+            "cluster": "бегите глупцы шутка",
+            "sentiment": "negatives",
+            "corrected": "бегите глупцы шутка"
+        },
+        {
+            "answer": "благодарность за их смелость",
+            "count": 1,
+            "cluster": "благодарность за их смелость",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "брать от программы все!",
+            "count": 1,
+            "cluster": "брать от укр максимум",
+            "sentiment": "neutrals",
+            "corrected": "брать от программы все"
+        },
+        {
+            "answer": "брать от укр максимум",
+            "count": 1,
+            "cluster": "брать от укр максимум",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "быть очно",
+            "count": 1,
+            "cluster": "быть очно",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "быть упорными",
+            "count": 1,
+            "cluster": "быть упорными",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "упорства",
+            "count": 3,
+            "cluster": "быть упорными",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "быть честным",
+            "count": 1,
+            "cluster": "быть честным",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "верить",
+            "count": 1,
+            "cluster": "верить",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "верить в себя",
+            "count": 1,
+            "cluster": "верить в себя",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "войти в топ 10",
+            "count": 1,
+            "cluster": "войти в топ 10",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "попасть в топ 10",
+            "count": 2,
+            "cluster": "войти в топ 10",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "все мы люди оставайтесь собой",
+            "count": 1,
+            "cluster": "все мы люди оставайтесь собой",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "всем удачи и всем в топ",
+            "count": 1,
+            "cluster": "всем удачи и всем в топ",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "делать всё вовремя",
+            "count": 1,
+            "cluster": "делать всё вовремя",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "добиться поставленных целей",
+            "count": 2,
+            "cluster": "достижение поставленных целей",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "достижение поставленных целей",
+            "count": 1,
+            "cluster": "достижение поставленных целей",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "достижения поставленных целей",
+            "count": 1,
+            "cluster": "достижение поставленных целей",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "достижения целей",
+            "count": 1,
+            "cluster": "достижение поставленных целей",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "дойти до конца обучения",
+            "count": 1,
+            "cluster": "успешно закончить курсы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "успешно дойти до конца учебы",
+            "count": 1,
+            "cluster": "успешно закончить курсы",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "успешно закончить курсы",
+            "count": 1,
+            "cluster": "успешно закончить курсы",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "дружить",
+            "count": 1,
+            "cluster": "дружить",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "жажду знаний",
+            "count": 1,
+            "cluster": "жажду знаний",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "желаю здоровья",
+            "count": 1,
+            "cluster": "здоровья",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "здоровья",
+            "count": 2,
+            "cluster": "здоровья",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "знаний! удачи!",
+            "count": 1,
+            "cluster": "знаний удачи",
+            "sentiment": "positives",
+            "corrected": "знаний удачи"
+        },
+        {
+            "answer": "интересных и нужных проектов",
+            "count": 1,
+            "cluster": "интересных проектов",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "интересных проектов",
+            "count": 1,
+            "cluster": "интересных проектов",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "использовать возможность",
+            "count": 1,
+            "cluster": "использовать возможность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "карьерного роста",
+            "count": 1,
+            "cluster": "карьерного роста",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "новых назначений",
+            "count": 1,
+            "cluster": "карьерного роста",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "максимума вовлечённости",
+            "count": 1,
+            "cluster": "максимума вовлечённости",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "не бойтесь!!! пробуйте новое!!",
+            "count": 1,
+            "cluster": "не бойтесь пробуйте новое",
+            "sentiment": "neutrals",
+            "corrected": "не бойтесь пробуйте новое"
+        },
+        {
+            "answer": "не бояться и идти вперед",
+            "count": 1,
+            "cluster": "не бояться и идти вперед",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "только вперед!",
+            "count": 1,
+            "cluster": "только вперед",
+            "sentiment": "positives",
+            "corrected": "только вперед"
+        },
+        {
+            "answer": "успешного прохождения укр-пути",
+            "count": 1,
+            "cluster": "успешного обучения",
+            "sentiment": "positives",
+            "corrected": "успешного прохождения укр пути"
+        },
+        {
+            "answer": "не бояться своих идей",
+            "count": 1,
+            "cluster": "не бояться своих идей",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "не выгорать",
+            "count": 1,
+            "cluster": "не выгорать",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "не опускать руки",
+            "count": 1,
+            "cluster": "не сдаваться",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "не сдаваться",
+            "count": 2,
+            "cluster": "не сдаваться",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "не терять мотивации",
+            "count": 1,
+            "cluster": "не терять мотивации",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "новых свершений",
+            "count": 1,
+            "cluster": "новых свершений",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "оптимизма",
+            "count": 1,
+            "cluster": "оптимизма и позитива",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "оптимизма и позитива",
+            "count": 1,
+            "cluster": "оптимизма и позитива",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "позитива",
+            "count": 1,
+            "cluster": "оптимизма и позитива",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "позитива!!!",
+            "count": 1,
+            "cluster": "оптимизма и позитива",
+            "sentiment": "positives",
+            "corrected": "позитива"
+        },
+        {
+            "answer": "отдыхать",
+            "count": 1,
+            "cluster": "отдыхать",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "побед",
+            "count": 2,
+            "cluster": "побед",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "победы и дойти до конца проект",
+            "count": 1,
+            "cluster": "побед",
+            "sentiment": "positives",
+            "corrected": "победа и дойти до конца проекта"
+        },
+        {
+            "answer": "позитивного настроения и веры",
+            "count": 1,
+            "cluster": "хорошего настроения",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "положительных эмоций",
+            "count": 1,
+            "cluster": "хорошего настроения",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "получить удовольствие от обще",
+            "count": 1,
+            "cluster": "получить удовольствие от общения",
+            "sentiment": "positives",
+            "corrected": "получить удовольствие от общения"
+        },
+        {
+            "answer": "проактивности",
+            "count": 1,
+            "cluster": "проактивности",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "продуктивной работы",
+            "count": 1,
+            "cluster": "успешного обучения",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "пройти удачно обучение",
+            "count": 1,
+            "cluster": "успешного обучения",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "развития и успехов",
+            "count": 1,
+            "cluster": "развития и успехов",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "развития нашей госкорпорации",
+            "count": 1,
+            "cluster": "развития нашей госкорпорации",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "серьезно подойти к процессу",
+            "count": 1,
+            "cluster": "серьезно подойти к процессу",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сил",
+            "count": 3,
+            "cluster": "энергии",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "энергии",
+            "count": 1,
+            "cluster": "энергии",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "сил и терпения",
+            "count": 2,
+            "cluster": "энергии",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "слушать себя и окружающих люде",
+            "count": 1,
+            "cluster": "слушать себя и окружающих людей",
+            "sentiment": "neutrals",
+            "corrected": "слушать себя и окружающих людей"
+        },
+        {
+            "answer": "смелости",
+            "count": 4,
+            "cluster": "смелости",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "ставить амбициозные цели",
+            "count": 1,
+            "cluster": "ставить амбициозные цели",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "стрессоустойчивости",
+            "count": 1,
+            "cluster": "стрессоустойчивости",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "счастья",
+            "count": 1,
+            "cluster": "счастья",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "терпения",
+            "count": 12,
+            "cluster": "терпения",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "терпения и наличия времен",
+            "count": 1,
+            "cluster": "терпения и наличия времени",
+            "sentiment": "positives",
+            "corrected": "терпения и наличия времени"
+        },
+        {
+            "answer": "терпения и настойчивости",
+            "count": 1,
+            "cluster": "терпения и настойчивости",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "трудитесь",
+            "count": 1,
+            "cluster": "трудитесь",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "трудолюбие и терпения",
+            "count": 1,
+            "cluster": "трудолюбия и терпения",
+            "sentiment": "positives",
+            "corrected": "трудолюбия и терпения"
+        },
+        {
+            "answer": "уверенности",
+            "count": 1,
+            "cluster": "уверенности",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "учеренности",
+            "count": 1,
+            "cluster": "уверенности",
+            "sentiment": "positives",
+            "corrected": "уверенности"
+        },
+        {
+            "answer": "увлеченность",
+            "count": 1,
+            "cluster": "увлеченность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "удачи",
+            "count": 25,
+            "cluster": "удачи",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "удачи в карьере",
+            "count": 1,
+            "cluster": "удачи в карьере",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "удачи в реализации",
+            "count": 1,
+            "cluster": "удачи в реализации",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "удачи в учебе и роста",
+            "count": 1,
+            "cluster": "удачи в учебе и роста",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "удачи всех победим!",
+            "count": 1,
+            "cluster": "удачи",
+            "sentiment": "positives",
+            "corrected": "удачи всех победим"
+        },
+        {
+            "answer": "удачи!",
+            "count": 6,
+            "cluster": "удачи",
+            "sentiment": "positives",
+            "corrected": "удачи"
+        },
+        {
+            "answer": "удачи! в добрый путь!)",
+            "count": 1,
+            "cluster": "удачи",
+            "sentiment": "positives",
+            "corrected": "удачи в добрый путь"
+        },
+        {
+            "answer": "удачи! погнали!!!",
+            "count": 1,
+            "cluster": "удачи",
+            "sentiment": "positives",
+            "corrected": "удачи погнали"
+        },
+        {
+            "answer": "удачи",
+            "count": 1,
+            "cluster": "удачи",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "удачи и достижения поставленых",
+            "count": 1,
+            "cluster": "достижение поставленных целей",
+            "sentiment": "positives",
+            "corrected": "удачи и достижения поставленных"
+        },
+        {
+            "answer": "удачи и нам все поплечу",
+            "count": 1,
+            "cluster": "удачи",
+            "sentiment": "positives",
+            "corrected": "удачи и нам все по плечу"
+        },
+        {
+            "answer": "удачи и самоотдачи",
+            "count": 1,
+            "cluster": "удачи и самоотдачи",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "удачи и сил",
+            "count": 1,
+            "cluster": "удачи и сил",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "удачи и терпения",
+            "count": 1,
+            "cluster": "удачи и терпения",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "успеха",
+            "count": 2,
+            "cluster": "успеха",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "успеха!",
+            "count": 1,
+            "cluster": "успеха",
+            "sentiment": "positives",
+            "corrected": "успеха"
+        },
+        {
+            "answer": "успехов",
+            "count": 10,
+            "cluster": "успеха",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "успехов в работе",
+            "count": 1,
+            "cluster": "успехов в работе",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "успехов в решении задача",
+            "count": 1,
+            "cluster": "успехов в решении задач",
+            "sentiment": "positives",
+            "corrected": "успехов в решении задач"
+        },
+        {
+            "answer": "успехов во всех начинаниях",
+            "count": 1,
+            "cluster": "успеха",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "успехов!",
+            "count": 2,
+            "cluster": "успеха",
+            "sentiment": "positives",
+            "corrected": "успехов"
+        },
+        {
+            "answer": "успехов и вдохновения",
+            "count": 1,
+            "cluster": "успехов и вдохновения",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "успехов и ничего не бояться",
+            "count": 1,
+            "cluster": "успехов и ничего не бояться",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "успехов и понимания коллег",
+            "count": 1,
+            "cluster": "успехов и понимания коллег",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "успехов и сохранения мотивации",
+            "count": 1,
+            "cluster": "успехов и сохранения мотивации",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "успехов и стойкости",
+            "count": 1,
+            "cluster": "успехов и стойкости",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "успехов и терпения",
+            "count": 1,
+            "cluster": "успехов и терпения",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "успехов и удачи",
+            "count": 1,
+            "cluster": "успехов и удачи",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "успешного обучения",
+            "count": 2,
+            "cluster": "успешного обучения",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "учиться",
+            "count": 1,
+            "cluster": "учиться",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "хорошего настроения",
+            "count": 2,
+            "cluster": "хорошего настроения",
+            "sentiment": "positives"
+        }
+    ]
+}

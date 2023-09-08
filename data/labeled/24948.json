@@ -1,0 +1,36 @@
+{
+    "question": "Что планируете применять из пройденного обучения в ближайшее время?",
+    "id": 24948,
+    "answers": [
+        {
+            "answer": "все составляющие",
+            "count": 1,
+            "cluster": "все составляющие",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "затрудняюсь ответить",
+            "count": 1,
+            "cluster": "затрудняюсь ответить",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "знания по цифровым продуктам",
+            "count": 1,
+            "cluster": "знания по цифровым продуктам",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "контакты",
+            "count": 1,
+            "cluster": "контакты",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "не планирую",
+            "count": 1,
+            "cluster": "не планирую",
+            "sentiment": "neutrals"
+        }
+    ]
+}
