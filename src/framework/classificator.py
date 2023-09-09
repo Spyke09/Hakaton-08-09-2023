@@ -60,7 +60,7 @@ class Clusterizator:
         e_answers = q_model.encode(self._instance.answers)
         pca_15 = PCA(n_components=15, random_state=42)
         q_emb_15d = pca_15.fit_transform(e_answers)
-        answers_clustering = AgglomerativeClustering(n_clusters=None, distance_threshold=0.6, affinity='cosine',
+        answers_clustering = AgglomerativeClustering(n_clusters=None, distance_threshold=0.6, metric='cosine',
                                                      linkage='average').fit(q_emb_15d)
         e_answers = pd.DataFrame(e_answers)
         e_answers['label'] = answers_clustering.labels_
