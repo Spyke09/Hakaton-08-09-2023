@@ -1,0 +1,1368 @@
+{
+    "question": "Какие большие примеры вас сейчас вдохновляют?",
+    "id": 27501,
+    "answers": [
+        {
+            "answer": "#трудкрут",
+            "count": 1,
+            "cluster": "трудкрут",
+            "sentiment": "positives",
+            "corrected": "трудкрут"
+        },
+        {
+            "answer": "astra",
+            "count": 1,
+            "cluster": "astra",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "atomic heart",
+            "count": 1,
+            "cluster": "atomic heart",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "atomskills",
+            "count": 1,
+            "cluster": "atomskills",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "gigachad",
+            "count": 1,
+            "cluster": "gigachad",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "one piece",
+            "count": 1,
+            "cluster": "one piece",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "абмассадоры росатома",
+            "count": 1,
+            "cluster": "юниоры росатома",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "амбасадоры росатома",
+            "count": 1,
+            "cluster": "люди росатома",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "амбассадоры",
+            "count": 1,
+            "cluster": "амбассадоры",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "амбассадоры росатома",
+            "count": 19,
+            "cluster": "амбассадоры",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "алексей евгеньевич",
+            "count": 3,
+            "cluster": "лихачев алексей евгеньевич",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "алексей евгеньевич лихачев",
+            "count": 2,
+            "cluster": "лихачев алексей евгеньевич",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "генеральный директор",
+            "count": 1,
+            "cluster": "генеральный директор",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "лихаев а.е.",
+            "count": 1,
+            "cluster": "лишаев а е",
+            "sentiment": "neutrals",
+            "corrected": "лишаев а е"
+        },
+        {
+            "answer": "лихачев",
+            "count": 11,
+            "cluster": "лихачёв а е",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "лихачёв",
+            "count": 4,
+            "cluster": "лихачёв а е",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "лихачёв а.е.",
+            "count": 1,
+            "cluster": "лихачёв а е",
+            "sentiment": "neutrals",
+            "corrected": "лихачёв а е"
+        },
+        {
+            "answer": "лихачев алексей евгеньевич",
+            "count": 5,
+            "cluster": "лихачев алексей евгеньевич",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "лихачёв алексей евгеньевич",
+            "count": 1,
+            "cluster": "лихачёв а е",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "алексей тонкошкуров",
+            "count": 1,
+            "cluster": "алексей тонкошкуров",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "аллах",
+            "count": 3,
+            "cluster": "аллах",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "бог",
+            "count": 1,
+            "cluster": "бог",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "аллочка шишкина",
+            "count": 1,
+            "cluster": "аллочка шишкина",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "анищук",
+            "count": 1,
+            "cluster": "анищук",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "арктика",
+            "count": 1,
+            "cluster": "арктика",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "асмолов",
+            "count": 1,
+            "cluster": "асмолов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "атомные спецы",
+            "count": 1,
+            "cluster": "физики ядерный физик",
+            "sentiment": "neutrals",
+            "corrected": "атомные специалисты"
+        },
+        {
+            "answer": "атомный ледокол",
+            "count": 1,
+            "cluster": "стройка атомного ледокола",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "атомный проект",
+            "count": 1,
+            "cluster": "стройка атомного ледокола",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "бпшники",
+            "count": 1,
+            "cluster": "паники",
+            "sentiment": "negatives",
+            "corrected": "паники"
+        },
+        {
+            "answer": "бьорндален",
+            "count": 1,
+            "cluster": "бьорндален",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "в любом примере вдохновление",
+            "count": 1,
+            "cluster": "в любом примере вдохновение",
+            "sentiment": "positives",
+            "corrected": "в любом примере вдохновение"
+        },
+        {
+            "answer": "ваня дмитриенко",
+            "count": 1,
+            "cluster": "ваня дмитриенко",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "верховцев в.н.",
+            "count": 1,
+            "cluster": "верховцев в н",
+            "sentiment": "neutrals",
+            "corrected": "верховцев в н"
+        },
+        {
+            "answer": "виктор боярский",
+            "count": 1,
+            "cluster": "виктор боярский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "владимир владимирович путин",
+            "count": 1,
+            "cluster": "путин владимир владимирович",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "владимир путин",
+            "count": 9,
+            "cluster": "путин",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мудрость владимира путина",
+            "count": 1,
+            "cluster": "путин владимир владимирович",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "путин",
+            "count": 7,
+            "cluster": "путин",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "путин владимир владимирович",
+            "count": 1,
+            "cluster": "путин владимир владимирович",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "волонтеры",
+            "count": 2,
+            "cluster": "волонтеры",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "вызовы страны",
+            "count": 1,
+            "cluster": "вызовы страны",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "галя баранова",
+            "count": 1,
+            "cluster": "галя баранова",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "герои книг",
+            "count": 1,
+            "cluster": "герои фильмов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "литературные герои",
+            "count": 1,
+            "cluster": "литературные герои",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "герои фильмов",
+            "count": 1,
+            "cluster": "герои фильмов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "гигабайты данных",
+            "count": 1,
+            "cluster": "гигабайты данных",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "да",
+            "count": 1,
+            "cluster": "стивен кинг",
+            "sentiment": "neutrals",
+            "corrected": "стивен кинг"
+        },
+        {
+            "answer": "данилов сергей альбертович",
+            "count": 1,
+            "cluster": "данилов сергей альбертович",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "дети росатома",
+            "count": 1,
+            "cluster": "дети росатома",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "директор окбм африкантов",
+            "count": 1,
+            "cluster": "директор км африкантов",
+            "sentiment": "neutrals",
+            "corrected": "директор км африкантов"
+        },
+        {
+            "answer": "дмитрий юрьевич пучков",
+            "count": 1,
+            "cluster": "дмитрий юрьевич пучков",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "дрожжина",
+            "count": 1,
+            "cluster": "дрожжина",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "друзья",
+            "count": 2,
+            "cluster": "коллеги",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "евгений",
+            "count": 1,
+            "cluster": "женя и елена",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "евгений герасимов",
+            "count": 2,
+            "cluster": "евгений герасимов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "женя",
+            "count": 7,
+            "cluster": "женя и елена",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "егор",
+            "count": 14,
+            "cluster": "егор",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "егорй",
+            "count": 1,
+            "cluster": "гор",
+            "sentiment": "neutrals",
+            "corrected": "гор"
+        },
+        {
+            "answer": "елена",
+            "count": 7,
+            "cluster": "лена",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "елена якуничкина",
+            "count": 2,
+            "cluster": "елена якуничкина",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "лена",
+            "count": 2,
+            "cluster": "лена",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "женщины \"атомфлота\"",
+            "count": 1,
+            "cluster": "женщины атомфлота",
+            "sentiment": "neutrals",
+            "corrected": "женщины атомфлота"
+        },
+        {
+            "answer": "женщины атомного флота",
+            "count": 1,
+            "cluster": "женщины атомного флота",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "женщины атомногофлота",
+            "count": 1,
+            "cluster": "женщины атомного флота",
+            "sentiment": "neutrals",
+            "corrected": "женщины атомного флота"
+        },
+        {
+            "answer": "личны",
+            "count": 1,
+            "cluster": "личный рост",
+            "sentiment": "neutrals",
+            "corrected": "лично"
+        },
+        {
+            "answer": "сам себя",
+            "count": 1,
+            "cluster": "сам себя",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "я",
+            "count": 2,
+            "cluster": "я",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "женщины атомной отрасли",
+            "count": 1,
+            "cluster": "женщины атомфлота",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "личный рост",
+            "count": 1,
+            "cluster": "личный рост",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "женя и елена",
+            "count": 1,
+            "cluster": "женя и елена",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "локшин а.м",
+            "count": 1,
+            "cluster": "локшин км",
+            "sentiment": "neutrals",
+            "corrected": "локшин а м"
+        },
+        {
+            "answer": "локшин ам",
+            "count": 1,
+            "cluster": "локшин км",
+            "sentiment": "neutrals",
+            "corrected": "локшин км"
+        },
+        {
+            "answer": "заведующий лаборатории",
+            "count": 1,
+            "cluster": "заведующий лаборатории",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ломоносов",
+            "count": 1,
+            "cluster": "ломоносов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "зарубежные проекты",
+            "count": 3,
+            "cluster": "атомный проект",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "люди",
+            "count": 3,
+            "cluster": "люди",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "люди вокруг",
+            "count": 1,
+            "cluster": "люди",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "зеленский",
+            "count": 1,
+            "cluster": "зеленский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "люди и города",
+            "count": 1,
+            "cluster": "люди",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "игорь 9 стол",
+            "count": 3,
+            "cluster": "столик 28",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "люди любящие свою работу",
+            "count": 1,
+            "cluster": "люди",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "илон маск",
+            "count": 12,
+            "cluster": "илон маск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "интегралы",
+            "count": 1,
+            "cluster": "интегралы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "макс гревцев",
+            "count": 3,
+            "cluster": "максим гревцев",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "максим гревцев",
+            "count": 33,
+            "cluster": "максим гревцев",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "камиля юнусова",
+            "count": 2,
+            "cluster": "камиля юнусова",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "максим михайлов",
+            "count": 1,
+            "cluster": "максим гревцев",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "карьерный рост коллеги",
+            "count": 1,
+            "cluster": "коллеги",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "максим",
+            "count": 7,
+            "cluster": "максим",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "кипящий реактор",
+            "count": 1,
+            "cluster": "кипящий реактор",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мама",
+            "count": 4,
+            "cluster": "отец отец отец",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "моя мама",
+            "count": 3,
+            "cluster": "моя мама",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "китай",
+            "count": 1,
+            "cluster": "китай",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мандрова",
+            "count": 1,
+            "cluster": "мандрова",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "княгиня ольга",
+            "count": 1,
+            "cluster": "женщины атомфлота",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "маресьев",
+            "count": 1,
+            "cluster": "маресьев",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "коллеги",
+            "count": 1,
+            "cluster": "коллеги",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мари кюри",
+            "count": 3,
+            "cluster": "мари кюри",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мария кюри",
+            "count": 1,
+            "cluster": "мария кюри",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мария склодовская-кюри",
+            "count": 1,
+            "cluster": "мари кюри",
+            "sentiment": "neutrals",
+            "corrected": "мария склодовская кюри"
+        },
+        {
+            "answer": "команда дебюр",
+            "count": 1,
+            "cluster": "команда дебюрократизация",
+            "sentiment": "positives",
+            "corrected": "команда дебюрократизация"
+        },
+        {
+            "answer": "маша зотова",
+            "count": 1,
+            "cluster": "мария кюри",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "команда молодежных лидеров яок",
+            "count": 1,
+            "cluster": "команда молодежных лидеров ядерный оружейный комплекс",
+            "sentiment": "positives",
+            "corrected": "команда молодежных лидеров ядерный оружейный комплекс"
+        },
+        {
+            "answer": "медики в пандемию",
+            "count": 1,
+            "cluster": "медики в пандемию",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "конрад цузе",
+            "count": 1,
+            "cluster": "конрад вузе",
+            "sentiment": "neutrals",
+            "corrected": "конрад вузе"
+        },
+        {
+            "answer": "михаил корельский",
+            "count": 1,
+            "cluster": "михаил корельский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "королев",
+            "count": 1,
+            "cluster": "королев",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "михаил семьянинов",
+            "count": 3,
+            "cluster": "михаил семьянинов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "корпоративная культура росатом",
+            "count": 1,
+            "cluster": "корпоративная культура росатом",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "многочлен",
+            "count": 2,
+            "cluster": "многочлен",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "кпи",
+            "count": 1,
+            "cluster": "ключевые показатели эффективности",
+            "sentiment": "positives",
+            "corrected": "ключевые показатели эффективности"
+        },
+        {
+            "answer": "мой папа ❤️❤️❤️",
+            "count": 1,
+            "cluster": "моя мама",
+            "sentiment": "positives",
+            "corrected": "мой папа"
+        },
+        {
+            "answer": "отец",
+            "count": 1,
+            "cluster": "мой папа",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "отец отец отец",
+            "count": 1,
+            "cluster": "мой папа",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "папа",
+            "count": 4,
+            "cluster": "мой папа",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "красная плесень",
+            "count": 1,
+            "cluster": "красная плесень",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "мой парень",
+            "count": 1,
+            "cluster": "мой парень",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "кредит",
+            "count": 1,
+            "cluster": "кредит",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мой руководитель",
+            "count": 1,
+            "cluster": "наставники юниоров росатома",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "наставник",
+            "count": 2,
+            "cluster": "наставники юниоров росатома",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "курчатов",
+            "count": 2,
+            "cluster": "курчатов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мой сын",
+            "count": 1,
+            "cluster": "моя мама",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ландау",
+            "count": 1,
+            "cluster": "ландау",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "молодёжь росатома",
+            "count": 1,
+            "cluster": "дети росатома",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ледокол открытий 2022",
+            "count": 5,
+            "cluster": "ледокол открытий 2022",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "муж",
+            "count": 2,
+            "cluster": "муж",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мэй маск",
+            "count": 1,
+            "cluster": "илон маск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "наставники юниоров росатома",
+            "count": 5,
+            "cluster": "юниоры росатома",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "наставники юниоров росатома ❤️",
+            "count": 2,
+            "cluster": "юниоры росатома",
+            "sentiment": "neutrals",
+            "corrected": "наставники юниоров росатома"
+        },
+        {
+            "answer": "наталья владимировна",
+            "count": 36,
+            "cluster": "наталья владимировна",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "научные исследования",
+            "count": 1,
+            "cluster": "научные исследования",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "научный руководитель",
+            "count": 1,
+            "cluster": "наставники юниоров росатома",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "не у меня одного проблемы",
+            "count": 1,
+            "cluster": "теоремы коши",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "ник вуйчич",
+            "count": 1,
+            "cluster": "ник вуйчич",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "никипелов ав",
+            "count": 1,
+            "cluster": "никипелов аватар",
+            "sentiment": "neutrals",
+            "corrected": "никипелов аватар"
+        },
+        {
+            "answer": "никола тесла",
+            "count": 1,
+            "cluster": "никола тесла",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нил тг яэу",
+            "count": 1,
+            "cluster": "нил г э",
+            "sentiment": "neutrals",
+            "corrected": "нил г э"
+        },
+        {
+            "answer": "отвага наших ребят в сво",
+            "count": 1,
+            "cluster": "отвага наших ребят в специальная военная операция",
+            "sentiment": "positives",
+            "corrected": "отвага наших ребят в специальная военная операция"
+        },
+        {
+            "answer": "павел дуров",
+            "count": 1,
+            "cluster": "павел дуров",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "павел немков",
+            "count": 11,
+            "cluster": "павел дуров",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "патэс",
+            "count": 1,
+            "cluster": "патэс",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "паша",
+            "count": 3,
+            "cluster": "паша",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "перспективы развития",
+            "count": 1,
+            "cluster": "перспективы развития",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "победы коллег",
+            "count": 1,
+            "cluster": "коллеги",
+            "sentiment": "positives",
+            "corrected": "победа коллег"
+        },
+        {
+            "answer": "позитивный настрой",
+            "count": 1,
+            "cluster": "позитивный настрой",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "посмотри на меня",
+            "count": 1,
+            "cluster": "посмотри на меня",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "поступки людей",
+            "count": 1,
+            "cluster": "люди",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "преподаватели",
+            "count": 1,
+            "cluster": "наставники юниоров росатома",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "проектировщики аэс",
+            "count": 1,
+            "cluster": "проектировщики аэс",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "психически устойчивые люди!",
+            "count": 1,
+            "cluster": "психически устойчивые люди",
+            "sentiment": "positives",
+            "corrected": "психически устойчивые люди"
+        },
+        {
+            "answer": "путешествия",
+            "count": 1,
+            "cluster": "путешествия",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "рабочие производства",
+            "count": 1,
+            "cluster": "рабочие производства",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "развитие метро москвы",
+            "count": 1,
+            "cluster": "развитие метро москвы",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "рамзан кадыров",
+            "count": 1,
+            "cluster": "рамзан кадыров",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "рбмк 1000",
+            "count": 1,
+            "cluster": "рек 1000",
+            "sentiment": "neutrals",
+            "corrected": "рек 1000"
+        },
+        {
+            "answer": "ребята из моей команды",
+            "count": 1,
+            "cluster": "ребята из моей команды",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ритм-400",
+            "count": 1,
+            "cluster": "ритм 400",
+            "sentiment": "neutrals",
+            "corrected": "ритм 400"
+        },
+        {
+            "answer": "родители",
+            "count": 4,
+            "cluster": "отец отец отец",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "росатом",
+            "count": 10,
+            "cluster": "росатом",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "росатом лучший",
+            "count": 1,
+            "cluster": "росатом",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "российский народ",
+            "count": 1,
+            "cluster": "российский народ",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "руаль амундсен",
+            "count": 1,
+            "cluster": "рубль амундсен",
+            "sentiment": "neutrals",
+            "corrected": "рубль амундсен"
+        },
+        {
+            "answer": "рудник #6",
+            "count": 1,
+            "cluster": "рудник 6",
+            "sentiment": "neutrals",
+            "corrected": "рудник 6"
+        },
+        {
+            "answer": "руководство",
+            "count": 1,
+            "cluster": "руководство",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "руководство отрасли",
+            "count": 1,
+            "cluster": "руководство",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "руслан",
+            "count": 2,
+            "cluster": "руслан",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "я в прошлом",
+            "count": 1,
+            "cluster": "я в прошлом",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сахаров",
+            "count": 1,
+            "cluster": "сахаров",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "свой прогресс",
+            "count": 1,
+            "cluster": "российский народ",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "семья",
+            "count": 3,
+            "cluster": "семья",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сильвестр сталлоне",
+            "count": 1,
+            "cluster": "сильвестр стадионе",
+            "sentiment": "neutrals",
+            "corrected": "сильвестр стадионе"
+        },
+        {
+            "answer": "слободчук",
+            "count": 1,
+            "cluster": "слободчук",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "собственные ошибки",
+            "count": 1,
+            "cluster": "личный рост",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "создатели ремикс-топливп",
+            "count": 1,
+            "cluster": "создатели ремикс топлива",
+            "sentiment": "neutrals",
+            "corrected": "создатели ремикс топлива"
+        },
+        {
+            "answer": "сопромат",
+            "count": 1,
+            "cluster": "сопромат",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "стандартная модель",
+            "count": 14,
+            "cluster": "стандартная модель",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "старики отрядов политеха",
+            "count": 6,
+            "cluster": "старики студенческих отрядов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "старики ссо",
+            "count": 1,
+            "cluster": "старики студенческих отрядов",
+            "sentiment": "neutrals",
+            "corrected": "старики студенческий строительный отряд"
+        },
+        {
+            "answer": "старики студенческих отрядов",
+            "count": 1,
+            "cluster": "старики студенческих отрядов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "старшая сестра",
+            "count": 1,
+            "cluster": "старшая сестра",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "старший брат",
+            "count": 1,
+            "cluster": "старшая сестра",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "стас асафьев",
+            "count": 1,
+            "cluster": "стас асафьев",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "стив джобс",
+            "count": 1,
+            "cluster": "стив джобс",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "стивен кинг",
+            "count": 1,
+            "cluster": "стивен кинг",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "стивен хокинг",
+            "count": 2,
+            "cluster": "стивен кинг",
+            "sentiment": "neutrals",
+            "corrected": "стивен холдинг"
+        },
+        {
+            "answer": "столик 28",
+            "count": 2,
+            "cluster": "столик 28",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "строительство зарубежных аэс",
+            "count": 1,
+            "cluster": "атомный проект",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "строительство ледокола",
+            "count": 1,
+            "cluster": "стройка атомного ледокола",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "стройка атомного ледокола",
+            "count": 1,
+            "cluster": "стройка атомного ледокола",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "темченко",
+            "count": 1,
+            "cluster": "темченко",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "теоремы коши",
+            "count": 1,
+            "cluster": "теоремы коши",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "терентьева",
+            "count": 1,
+            "cluster": "терентьева",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "терентьева татьяна анатольевна",
+            "count": 1,
+            "cluster": "терентьева татьяна анатольевна",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "тереньтева татьяна анатольевна",
+            "count": 1,
+            "cluster": "терентьева татьяна анатольевна",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "тимофей",
+            "count": 2,
+            "cluster": "тимофей станислав",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "тимофей ермаков",
+            "count": 2,
+            "cluster": "тимофей станислав",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "тимофей и станислав",
+            "count": 7,
+            "cluster": "тимофей станислав",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "тимофей-станислав",
+            "count": 1,
+            "cluster": "тимофей станислав",
+            "sentiment": "positives",
+            "corrected": "тимофей станислав"
+        },
+        {
+            "answer": "тригонометрия",
+            "count": 10,
+            "cluster": "тригонометрия",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "умные люди",
+            "count": 1,
+            "cluster": "люди",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "успешный человек в бизнесе",
+            "count": 1,
+            "cluster": "люди",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "участники \"большой перемены\"",
+            "count": 1,
+            "cluster": "участники большой перемены",
+            "sentiment": "neutrals",
+            "corrected": "участники большой перемены"
+        },
+        {
+            "answer": "федоров евгений юрьевич",
+            "count": 3,
+            "cluster": "федоров евгений юрьевич",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "физики-ядерщики",
+            "count": 1,
+            "cluster": "женщины атомного флота",
+            "sentiment": "neutrals",
+            "corrected": "физики ядерный физик"
+        },
+        {
+            "answer": "финалисты прошлого года",
+            "count": 2,
+            "cluster": "финалисты прошлого года",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "целеустремленные",
+            "count": 1,
+            "cluster": "целеустремленные",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "человек года (попкова❤️)",
+            "count": 1,
+            "cluster": "люди",
+            "sentiment": "neutrals",
+            "corrected": "человек года попкова"
+        },
+        {
+            "answer": "человек играющий на органе",
+            "count": 1,
+            "cluster": "люди",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "чистая_арктика",
+            "count": 1,
+            "cluster": "арктика",
+            "sentiment": "positives",
+            "corrected": "чистая арктика"
+        },
+        {
+            "answer": "шаманский в.а. згибн",
+            "count": 1,
+            "cluster": "шаманский в а гимн",
+            "sentiment": "neutrals",
+            "corrected": "шаманский в а гимн"
+        },
+        {
+            "answer": "эльвира марковцева",
+            "count": 1,
+            "cluster": "эльвира марковцева",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "эля марковцева",
+            "count": 4,
+            "cluster": "эльвира марковцева",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "эльдабаа",
+            "count": 1,
+            "cluster": "эльдабаа",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "юлия дрожина",
+            "count": 2,
+            "cluster": "юлия дрожина",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "юниоры",
+            "count": 1,
+            "cluster": "юниоры",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "юниоры росатома",
+            "count": 7,
+            "cluster": "юниоры росатома",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "юниорыросатома",
+            "count": 1,
+            "cluster": "юниоры росатома",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "японские болельщики на чм",
+            "count": 3,
+            "cluster": "японские болельщики на км",
+            "sentiment": "neutrals",
+            "corrected": "японские болельщики на км"
+        },
+        {
+            "answer": "ярослав брин",
+            "count": 1,
+            "cluster": "ярослав брин",
+            "sentiment": "neutrals"
+        }
+    ]
+}

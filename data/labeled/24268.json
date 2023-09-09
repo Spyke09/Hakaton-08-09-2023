@@ -1,0 +1,763 @@
+{
+    "question": "Что ожидаете от сегодняшнего дня",
+    "id": 24268,
+    "answers": [
+        {
+            "answer": "бодрое",
+            "count": 1,
+            "cluster": "бодрое",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "больше знакомств!",
+            "count": 1,
+            "cluster": "знакомства",
+            "sentiment": "neutrals",
+            "corrected": "больше знакомств"
+        },
+        {
+            "answer": "знакомства",
+            "count": 3,
+            "cluster": "знакомства",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "знакомство с интересными людьм",
+            "count": 1,
+            "cluster": "знакомства",
+            "sentiment": "positives",
+            "corrected": "знакомство с интересными людьми"
+        },
+        {
+            "answer": "интересных знакомств",
+            "count": 1,
+            "cluster": "знакомства",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "контакты",
+            "count": 1,
+            "cluster": "новые контакты",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "личное знакомство",
+            "count": 1,
+            "cluster": "знакомства",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нетворкинг",
+            "count": 3,
+            "cluster": "новые контакты",
+            "sentiment": "positives",
+            "corrected": "окружение специалистов определенной сферы"
+        },
+        {
+            "answer": "новые деловые контакты",
+            "count": 1,
+            "cluster": "новые контакты",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новые знакомства",
+            "count": 8,
+            "cluster": "знакомства",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новые контакты",
+            "count": 1,
+            "cluster": "новые контакты",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новые контакты и знакомства",
+            "count": 1,
+            "cluster": "новые контакты",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новые отношения",
+            "count": 1,
+            "cluster": "новые контакты",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новые связи",
+            "count": 1,
+            "cluster": "новые контакты",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новых друзей",
+            "count": 1,
+            "cluster": "знакомства",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "новых знакомств",
+            "count": 1,
+            "cluster": "знакомства",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "познакомиться",
+            "count": 1,
+            "cluster": "знакомства",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "познакомиться с",
+            "count": 1,
+            "cluster": "знакомства",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "полезные контакты",
+            "count": 1,
+            "cluster": "новые контакты",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "полезных знакомств",
+            "count": 1,
+            "cluster": "знакомства",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "установка контактов",
+            "count": 1,
+            "cluster": "новые контакты",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "вакансию",
+            "count": 1,
+            "cluster": "вакансию",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "вдохновение",
+            "count": 1,
+            "cluster": "вдохновение",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "веселье",
+            "count": 1,
+            "cluster": "веселье",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "хорошо провести время",
+            "count": 1,
+            "cluster": "хорошо провести время",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "вкусняшек:*",
+            "count": 1,
+            "cluster": "еда",
+            "sentiment": "positives",
+            "corrected": "вкусняшек"
+        },
+        {
+            "answer": "еда",
+            "count": 1,
+            "cluster": "еда",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "еду",
+            "count": 1,
+            "cluster": "еда",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "встречи с друзьями",
+            "count": 4,
+            "cluster": "встречи с друзьями",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "знакомства обменяться опытом",
+            "count": 1,
+            "cluster": "знакомства",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "знаний",
+            "count": 3,
+            "cluster": "знания",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "знания",
+            "count": 5,
+            "cluster": "знания",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "знания",
+            "count": 1,
+            "cluster": "знания",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "информацию",
+            "count": 1,
+            "cluster": "информация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "информация",
+            "count": 2,
+            "cluster": "информация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новые актуальные знания",
+            "count": 1,
+            "cluster": "знания",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "новые знания",
+            "count": 5,
+            "cluster": "знания",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "новые знания и возможности",
+            "count": 1,
+            "cluster": "знания",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "новых знаний",
+            "count": 4,
+            "cluster": "знания",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "познавательную информацию",
+            "count": 1,
+            "cluster": "информация",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "полезная информация",
+            "count": 2,
+            "cluster": "информация",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "полезного",
+            "count": 1,
+            "cluster": "полезного",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "узнать новое",
+            "count": 3,
+            "cluster": "новое",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "знания и знакомства",
+            "count": 1,
+            "cluster": "знания",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "изменения",
+            "count": 1,
+            "cluster": "изменения",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "иной взгляд",
+            "count": 1,
+            "cluster": "иной взгляд",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "инсайт",
+            "count": 1,
+            "cluster": "озарение",
+            "sentiment": "positives",
+            "corrected": "озарение"
+        },
+        {
+            "answer": "инсайты",
+            "count": 1,
+            "cluster": "озарение",
+            "sentiment": "positives",
+            "corrected": "озарение"
+        },
+        {
+            "answer": "много инсайтов",
+            "count": 1,
+            "cluster": "озарение",
+            "sentiment": "positives",
+            "corrected": "много озарение"
+        },
+        {
+            "answer": "интересной информации",
+            "count": 1,
+            "cluster": "информация",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "интересности",
+            "count": 1,
+            "cluster": "интересности",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "интересные идеи",
+            "count": 1,
+            "cluster": "интересных идей",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "интересных идей",
+            "count": 1,
+            "cluster": "интересных идей",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "новые идеи",
+            "count": 1,
+            "cluster": "интересных идей",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "новых идей",
+            "count": 1,
+            "cluster": "интересных идей",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "интересные коммуникации",
+            "count": 1,
+            "cluster": "общение",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "интересных впечатлений",
+            "count": 1,
+            "cluster": "интересных впечатлений",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "кайф",
+            "count": 1,
+            "cluster": "кайф",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "карьерное развитие",
+            "count": 1,
+            "cluster": "карьерное развитие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "левел ап",
+            "count": 1,
+            "cluster": "уровень ап",
+            "sentiment": "neutrals",
+            "corrected": "уровень ап"
+        },
+        {
+            "answer": "касперская",
+            "count": 1,
+            "cluster": "касперская",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "конкретики",
+            "count": 1,
+            "cluster": "конкретики",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "конструктив",
+            "count": 1,
+            "cluster": "конструктив",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "конструктива",
+            "count": 1,
+            "cluster": "конструктив",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "легочела (кто понял тот понял)",
+            "count": 1,
+            "cluster": "легочела кто понял тот понял",
+            "sentiment": "neutrals",
+            "corrected": "легочела кто понял тот понял"
+        },
+        {
+            "answer": "мерч",
+            "count": 2,
+            "cluster": "символика товара",
+            "sentiment": "neutrals",
+            "corrected": "символика товара"
+        },
+        {
+            "answer": "толстовку",
+            "count": 2,
+            "cluster": "символика товара",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "футболку хочу",
+            "count": 1,
+            "cluster": "символика товара",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мерч и еда и поспать",
+            "count": 1,
+            "cluster": "символика товара",
+            "sentiment": "neutrals",
+            "corrected": "символика товара и еда и поспать"
+        },
+        {
+            "answer": "мотивация",
+            "count": 3,
+            "cluster": "мотивация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "навыки",
+            "count": 1,
+            "cluster": "новые навыки",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "найти себя",
+            "count": 1,
+            "cluster": "найти себя",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "найти сотрудников",
+            "count": 1,
+            "cluster": "найти сотрудников",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "направление развития",
+            "count": 1,
+            "cluster": "направления для развития",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "направления для развития",
+            "count": 1,
+            "cluster": "направления для развития",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "научиться чему-нибудь новому",
+            "count": 1,
+            "cluster": "новые навыки",
+            "sentiment": "neutrals",
+            "corrected": "научиться чему нибудь новому"
+        },
+        {
+            "answer": "новые навыки",
+            "count": 2,
+            "cluster": "новые навыки",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "не знаю",
+            "count": 1,
+            "cluster": "не знаю",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новые тенденции",
+            "count": 1,
+            "cluster": "новые тенденции",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новых трендов",
+            "count": 1,
+            "cluster": "новые тенденции",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "список ит- трендов",
+            "count": 1,
+            "cluster": "новые тенденции",
+            "sentiment": "neutrals",
+            "corrected": "список информационные технологии трендов"
+        },
+        {
+            "answer": "тренды",
+            "count": 1,
+            "cluster": "новые тенденции",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нового",
+            "count": 1,
+            "cluster": "новое",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новое",
+            "count": 1,
+            "cluster": "новое",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новые технологии",
+            "count": 1,
+            "cluster": "новые технологии",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "что-то новое",
+            "count": 1,
+            "cluster": "новое",
+            "sentiment": "neutrals",
+            "corrected": "что то новое"
+        },
+        {
+            "answer": "новые возможности",
+            "count": 2,
+            "cluster": "новых возможностей",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "новые возможности и участие",
+            "count": 1,
+            "cluster": "новых возможностей",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "новых возможностей",
+            "count": 1,
+            "cluster": "новых возможностей",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "новых встреч",
+            "count": 2,
+            "cluster": "новых встреч",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новых открытий",
+            "count": 1,
+            "cluster": "новых открытий",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "обмен опытом",
+            "count": 1,
+            "cluster": "обмен опытом",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "общение",
+            "count": 6,
+            "cluster": "общение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "общение в живую",
+            "count": 1,
+            "cluster": "общение",
+            "sentiment": "neutrals",
+            "corrected": "общение вживую"
+        },
+        {
+            "answer": "общения",
+            "count": 1,
+            "cluster": "общение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "общения с професионалами",
+            "count": 1,
+            "cluster": "общения с профессионалами",
+            "sentiment": "positives",
+            "corrected": "общения с профессионалами"
+        },
+        {
+            "answer": "опыт",
+            "count": 3,
+            "cluster": "получение опыта",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "получение опыта",
+            "count": 1,
+            "cluster": "получение опыта",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "переосмысление",
+            "count": 1,
+            "cluster": "переосмысление",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "перспективу",
+            "count": 1,
+            "cluster": "новых возможностей",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "позитивное настроение",
+            "count": 1,
+            "cluster": "позитивное настроение",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "с позитивным настроением",
+            "count": 1,
+            "cluster": "позитивное настроение",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "хорошее настроение",
+            "count": 1,
+            "cluster": "позитивное настроение",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "полезные кейсы",
+            "count": 2,
+            "cluster": "полезные решение",
+            "sentiment": "positives",
+            "corrected": "полезные решение"
+        },
+        {
+            "answer": "преисполниться",
+            "count": 1,
+            "cluster": "преисполниться",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "премия",
+            "count": 1,
+            "cluster": "премия",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "призов",
+            "count": 1,
+            "cluster": "призов",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "просветления",
+            "count": 1,
+            "cluster": "озарение",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "работа",
+            "count": 1,
+            "cluster": "работа",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "расширение кругозора",
+            "count": 1,
+            "cluster": "расширение кругозора",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "революцию",
+            "count": 1,
+            "cluster": "революцию",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "самые лучшие эмоции",
+            "count": 1,
+            "cluster": "эмоций",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "сил и уверенности",
+            "count": 1,
+            "cluster": "сил и уверенности",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "сотрудничество",
+            "count": 1,
+            "cluster": "сотрудничество",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "старые навыки",
+            "count": 1,
+            "cluster": "старые навыки",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "студентов",
+            "count": 1,
+            "cluster": "студентов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "счастье",
+            "count": 1,
+            "cluster": "счастье",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "счастья знаний",
+            "count": 1,
+            "cluster": "счастье",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "чёрную икру",
+            "count": 1,
+            "cluster": "чёрную икру",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "чуда",
+            "count": 1,
+            "cluster": "чуда",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "эмоций!!!!!!!!!!!!!!!!!!!!!!!!",
+            "count": 1,
+            "cluster": "эмоций",
+            "sentiment": "neutrals",
+            "corrected": "эмоций"
+        },
+        {
+            "answer": "яркие эмоции",
+            "count": 1,
+            "cluster": "эмоций",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "я хочу больше узнать об it",
+            "count": 1,
+            "cluster": "я хочу больше узнать об информационные технологии",
+            "sentiment": "neutrals",
+            "corrected": "я хочу больше узнать об информационные технологии"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "question": "Что такое конфликт? Ваши ассоциации",
+    "id": 25684,
+    "answers": [
+        {
+            "answer": "поколений",
+            "count": 1,
+            "cluster": "поколений",
+            "sentiment": "context cluster",
+            "corrected": "отцы и дети"
+        },
+        {
+            "answer": "интерес",
+            "count": 2,
+            "cluster": "интерес",
+            "sentiment": "context cluster"
+        },
+        {
+            "answer": "интересов",
+            "count": 1,
+            "cluster": "интересов",
+            "sentiment": "context cluster",
+            "corrected": "интерес"
+        },
+        {
+            "answer": "интересы",
+            "count": 2,
+            "cluster": "интересы",
+            "sentiment": "context cluster",
+            "corrected": "интерес"
+        },
+        {
+            "answer": "столкновение интересов",
+            "count": 1,
+            "cluster": "столкновение интересов",
+            "sentiment": "context cluster",
+            "corrected": "интерес"
+        },
+        {
+            "answer": "разрешение",
+            "count": 1,
+            "cluster": "разрешение",
+            "sentiment": "context cluster",
+            "corrected": "урегулирование"
+        },
+        {
+            "answer": "решение",
+            "count": 2,
+            "cluster": "решение",
+            "sentiment": "context cluster",
+            "corrected": "урегулирование"
+        }
+    ]
+}

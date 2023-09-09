@@ -1,0 +1,397 @@
+{
+    "question": "Как вас зовут?",
+    "id": 27180,
+    "answers": [
+        {
+            "answer": "айгуль",
+            "count": 1,
+            "cluster": "айгуль",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "александр",
+            "count": 4,
+            "cluster": "александр",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "александра",
+            "count": 1,
+            "cluster": "александра",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "алексей",
+            "count": 1,
+            "cluster": "алексей",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "альбина",
+            "count": 1,
+            "cluster": "альбина",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "анастасия",
+            "count": 2,
+            "cluster": "анастасия",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "андрей",
+            "count": 1,
+            "cluster": "андрей",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "анна",
+            "count": 1,
+            "cluster": "анна",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "антон",
+            "count": 1,
+            "cluster": "антон",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "арина",
+            "count": 1,
+            "cluster": "арина",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "артём",
+            "count": 1,
+            "cluster": "артём",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "божена александровна",
+            "count": 1,
+            "cluster": "божена александровна",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "виктория",
+            "count": 1,
+            "cluster": "виктория",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "галина",
+            "count": 2,
+            "cluster": "галина",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "динар",
+            "count": 1,
+            "cluster": "динар",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "дмитрий",
+            "count": 1,
+            "cluster": "дмитрий",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "дмитрий огнев",
+            "count": 1,
+            "cluster": "дмитрий",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "евгений",
+            "count": 2,
+            "cluster": "евгений",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "евгения",
+            "count": 1,
+            "cluster": "евгения",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "екатерина",
+            "count": 2,
+            "cluster": "екатерина",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "екатерина нестеренко",
+            "count": 1,
+            "cluster": "екатерина",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "елена",
+            "count": 6,
+            "cluster": "елена",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "елена баранова",
+            "count": 1,
+            "cluster": "елена",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "семёнова елена",
+            "count": 1,
+            "cluster": "елена",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ермакова татьяна",
+            "count": 1,
+            "cluster": "татьяна",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "татьяна",
+            "count": 5,
+            "cluster": "татьяна",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "жанна",
+            "count": 1,
+            "cluster": "жанна",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "замира",
+            "count": 1,
+            "cluster": "замира",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "зифа",
+            "count": 1,
+            "cluster": "зифа",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ильсияр",
+            "count": 1,
+            "cluster": "ильсияр",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "инна",
+            "count": 1,
+            "cluster": "инна",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ирина болдарь",
+            "count": 1,
+            "cluster": "ирина бондарь",
+            "sentiment": "neutrals",
+            "corrected": "ирина бондарь"
+        },
+        {
+            "answer": "лидия",
+            "count": 1,
+            "cluster": "лидия",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "лилиана",
+            "count": 1,
+            "cluster": "лилиана",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "любовь",
+            "count": 1,
+            "cluster": "любовь",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "людмила",
+            "count": 3,
+            "cluster": "людмила",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "майя",
+            "count": 1,
+            "cluster": "майя",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "марина",
+            "count": 1,
+            "cluster": "марина",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мария",
+            "count": 2,
+            "cluster": "мария",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "рочева мария николаевна",
+            "count": 1,
+            "cluster": "мария",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "михаил",
+            "count": 2,
+            "cluster": "михаил",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "наталия",
+            "count": 2,
+            "cluster": "наталия",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "наталья",
+            "count": 6,
+            "cluster": "наталья",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новикова наталья",
+            "count": 1,
+            "cluster": "наталья",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нафися",
+            "count": 1,
+            "cluster": "нафися",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нина",
+            "count": 1,
+            "cluster": "нина",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "оксана",
+            "count": 2,
+            "cluster": "оксана",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "оксана валерьевна",
+            "count": 1,
+            "cluster": "оксана",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "олег казанцев",
+            "count": 1,
+            "cluster": "олег казанцев",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "олеся",
+            "count": 1,
+            "cluster": "олеся",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ольга",
+            "count": 8,
+            "cluster": "ольга",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "полина",
+            "count": 1,
+            "cluster": "полина",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "равиль",
+            "count": 1,
+            "cluster": "равиль",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "рамиль",
+            "count": 1,
+            "cluster": "рамиль",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ринат",
+            "count": 1,
+            "cluster": "ринат",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ришат",
+            "count": 1,
+            "cluster": "ришат",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "руслана",
+            "count": 1,
+            "cluster": "руслана",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сабур",
+            "count": 1,
+            "cluster": "сабур",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "саглара",
+            "count": 1,
+            "cluster": "саглара",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "света",
+            "count": 1,
+            "cluster": "светлана",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "светлана",
+            "count": 5,
+            "cluster": "светлана",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сергей",
+            "count": 1,
+            "cluster": "сергей",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ужанна",
+            "count": 1,
+            "cluster": "ужанна",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "юрий",
+            "count": 1,
+            "cluster": "юрий",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "яна",
+            "count": 1,
+            "cluster": "яна",
+            "sentiment": "neutrals"
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "question": "Какие цели вы поставили себе на Школу тренеров?",
+    "id": 20139,
+    "answers": [
+        {
+            "answer": "прокачать тренерские знания",
+            "count": 1,
+            "cluster": "улучшить тренерские знания",
+            "sentiment": "positives",
+            "corrected": "улучшить тренерские знания"
+        },
+        {
+            "answer": "прокачать тренерские компетенц",
+            "count": 1,
+            "cluster": "улучшить тренерские знания",
+            "sentiment": "positives",
+            "corrected": "улучшить тренерские компетенции"
+        },
+        {
+            "answer": "прокачать тренерские навыки",
+            "count": 1,
+            "cluster": "улучшить тренерские знания",
+            "sentiment": "positives",
+            "corrected": "улучшить тренерские навыки"
+        },
+        {
+            "answer": "совершенствоваться",
+            "count": 1,
+            "cluster": "совершенствоваться",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "повышение производительности",
+            "count": 1,
+            "cluster": "повышение производительности",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "получить ответы на вопросы",
+            "count": 1,
+            "cluster": "решение вопросов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "узнать ответы на интерес. вопр",
+            "count": 1,
+            "cluster": "решение вопросов",
+            "sentiment": "neutrals",
+            "corrected": "узнать ответы на интересующие вопросы"
+        },
+        {
+            "answer": "решение вопросов",
+            "count": 1,
+            "cluster": "решение вопросов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "понять дальнейшие действия",
+            "count": 1,
+            "cluster": "понять дальнейшие действия",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "понять управление персоналом",
+            "count": 1,
+            "cluster": "управление проектами",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "посетить мастер-классы по инте",
+            "count": 1,
+            "cluster": "прохождение мастер классов",
+            "sentiment": "neutrals",
+            "corrected": "посетить мастер классы по инте"
+        },
+        {
+            "answer": "прохождение мастер-классов",
+            "count": 1,
+            "cluster": "прохождение мастер классов",
+            "sentiment": "neutrals",
+            "corrected": "прохождение мастер классов"
+        },
+        {
+            "answer": "применять",
+            "count": 1,
+            "cluster": "применять",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "применять знания на своём пр-е",
+            "count": 1,
+            "cluster": "применять знания на своём проекте",
+            "sentiment": "neutrals",
+            "corrected": "применять знания на своём проекте"
+        },
+        {
+            "answer": "примеры реализованных проектов",
+            "count": 1,
+            "cluster": "примеры реализованных проектов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "проверить свои знания",
+            "count": 1,
+            "cluster": "проверить свои знания",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "проектная деятельность",
+            "count": 1,
+            "cluster": "проектная деятельность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "управление проектами",
+            "count": 1,
+            "cluster": "управление проектами",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "стать тренером фцк",
+            "count": 1,
+            "cluster": "стать тренером фцк",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "рассказать стране о шт",
+            "count": 1,
+            "cluster": "рассказать стране о шт",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "расширение творческих границ",
+            "count": 1,
+            "cluster": "расширение творческих границ",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "систематизация",
+            "count": 1,
+            "cluster": "систематизация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "стать продуктивнее в работе",
+            "count": 1,
+            "cluster": "стать продуктивнее в работе",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "обучай. применяйте. соверш.",
+            "count": 1,
+            "cluster": "применяй обучай совершенствуй",
+            "sentiment": "neutrals",
+            "corrected": "обучай применяйте совершенствуй"
+        },
+        {
+            "answer": "применяй обучай совершенствуй",
+            "count": 1,
+            "cluster": "применяй обучай совершенствуй",
+            "sentiment": "neutrals"
+        }
+    ]
+}

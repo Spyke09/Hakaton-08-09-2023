@@ -1,0 +1,136 @@
+{
+    "question": "Как настроение?",
+    "id": 23379,
+    "answers": [
+        {
+            "answer": "бодрое морозное",
+            "count": 1,
+            "cluster": "бодрое морозное",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "всё клубнично как обычно",
+            "count": 1,
+            "cluster": "прекрасно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "замечательно",
+            "count": 1,
+            "cluster": "прекрасно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "замечательное",
+            "count": 1,
+            "cluster": "прекрасно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "круто",
+            "count": 1,
+            "cluster": "прекрасно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "кул",
+            "count": 1,
+            "cluster": "прекрасно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "лучше всех!",
+            "count": 1,
+            "cluster": "прекрасно",
+            "sentiment": "positives",
+            "corrected": "лучше всех"
+        },
+        {
+            "answer": "огонь",
+            "count": 1,
+            "cluster": "прекрасно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "огонь🔥",
+            "count": 1,
+            "cluster": "прекрасно",
+            "sentiment": "positives",
+            "corrected": "огонь"
+        },
+        {
+            "answer": "отлично",
+            "count": 2,
+            "cluster": "прекрасно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "отличное",
+            "count": 9,
+            "cluster": "прекрасно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "прекрасно",
+            "count": 1,
+            "cluster": "прекрасно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "радостное",
+            "count": 1,
+            "cluster": "радостное",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "супер",
+            "count": 4,
+            "cluster": "прекрасно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "до объявления пароля не очень",
+            "count": 1,
+            "cluster": "до объявления пароля не очень",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "норм",
+            "count": 2,
+            "cluster": "нормально",
+            "sentiment": "neutrals",
+            "corrected": "нормально"
+        },
+        {
+            "answer": "нормально",
+            "count": 2,
+            "cluster": "нормально",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "хороше",
+            "count": 1,
+            "cluster": "хорошее",
+            "sentiment": "positives",
+            "corrected": "хорошее"
+        },
+        {
+            "answer": "хорошее",
+            "count": 7,
+            "cluster": "хорошее",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "хорошо",
+            "count": 2,
+            "cluster": "хорошее",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "хочется кушать и спать",
+            "count": 1,
+            "cluster": "хочется кушать и спать",
+            "sentiment": "neutrals"
+        }
+    ]
+}

@@ -1,0 +1,266 @@
+{
+    "question": "Какие главные посылы, актуальные для молодежи, вы услышали на Дне информировании?",
+    "id": 24627,
+    "answers": [
+        {
+            "answer": "\"все лучше чем мы ожидали\"",
+            "count": 1,
+            "cluster": "все лучше чем мы ожидали",
+            "sentiment": "positives",
+            "corrected": "все лучше чем мы ожидали"
+        },
+        {
+            "answer": "1- строительство бн1200",
+            "count": 1,
+            "cluster": "реактор на быстрых нейтронах 1200",
+            "sentiment": "neutrals",
+            "corrected": "1 строительство бн1200"
+        },
+        {
+            "answer": "бн1200",
+            "count": 1,
+            "cluster": "реактор на быстрых нейтронах 1200",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "бн-1200",
+            "count": 2,
+            "cluster": "реактор на быстрых нейтронах 1200",
+            "sentiment": "neutrals",
+            "corrected": "реактор на быстрых нейтронах 1200"
+        },
+        {
+            "answer": "строительство бн-1200",
+            "count": 1,
+            "cluster": "реактор на быстрых нейтронах 1200",
+            "sentiment": "neutrals",
+            "corrected": "строительство реактор на быстрых нейтронах 1200"
+        },
+        {
+            "answer": "2- присоединение зап.аэс",
+            "count": 1,
+            "cluster": "2 присоединение зап аэс",
+            "sentiment": "neutrals",
+            "corrected": "2 присоединение зап аэс"
+        },
+        {
+            "answer": "3- развитие потен-ла молодежи",
+            "count": 1,
+            "cluster": "3 развитие потенциала молодежи",
+            "sentiment": "positives",
+            "corrected": "3 развитие потенциала молодежи"
+        },
+        {
+            "answer": "раскрытие потенциала человека",
+            "count": 2,
+            "cluster": "раскрытие потенциала человека",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "баэс",
+            "count": 1,
+            "cluster": "баэс",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "безопасность",
+            "count": 9,
+            "cluster": "безопасность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "безопасность",
+            "count": 1,
+            "cluster": "безопасность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "видение 2030",
+            "count": 1,
+            "cluster": "видение 2030",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "достижение видения 2030",
+            "count": 1,
+            "cluster": "видение 2030",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "внимание к молодежи",
+            "count": 1,
+            "cluster": "внимание к молодежи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "выполнение планов",
+            "count": 1,
+            "cluster": "выполнение планов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "единство",
+            "count": 1,
+            "cluster": "объединение",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "объединение",
+            "count": 1,
+            "cluster": "объединение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "заинтересованность в каждом",
+            "count": 1,
+            "cluster": "заинтересованность в каждом",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "запорожская аэс",
+            "count": 1,
+            "cluster": "запорожская аэс",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "зил под",
+            "count": 1,
+            "cluster": "зил под",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "кбп",
+            "count": 1,
+            "cluster": "кбп",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "команда",
+            "count": 1,
+            "cluster": "команда",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "культура безопасности",
+            "count": 7,
+            "cluster": "безопасность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "причастность к безопасности",
+            "count": 1,
+            "cluster": "безопасность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "лидерство в стране и мире",
+            "count": 1,
+            "cluster": "лидерство в стране и мире",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "лидер изменений",
+            "count": 1,
+            "cluster": "лидер изменений",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "люди и города",
+            "count": 3,
+            "cluster": "люди и города",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мобилизация",
+            "count": 2,
+            "cluster": "мобилизация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новые возможности",
+            "count": 1,
+            "cluster": "новые возможности",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "охрана труда",
+            "count": 1,
+            "cluster": "охрана труда",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "подорожание жилья",
+            "count": 1,
+            "cluster": "подорожание жилья",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "помощь",
+            "count": 1,
+            "cluster": "помощь",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "потенциал - человек",
+            "count": 1,
+            "cluster": "раскрытие потенциала человека",
+            "sentiment": "neutrals",
+            "corrected": "потенциал человек"
+        },
+        {
+            "answer": "развитие",
+            "count": 2,
+            "cluster": "развитие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "развитие иработа над проектами",
+            "count": 1,
+            "cluster": "развитие и работа над проектами",
+            "sentiment": "positives",
+            "corrected": "развитие и работа над проектами"
+        },
+        {
+            "answer": "расширение кадров",
+            "count": 1,
+            "cluster": "расширение кадров",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "реализация себя",
+            "count": 1,
+            "cluster": "реализация себя",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "севморпуть",
+            "count": 1,
+            "cluster": "севморпуть",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "семья",
+            "count": 1,
+            "cluster": "семья",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "стратегия",
+            "count": 1,
+            "cluster": "стратегия",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "строительство 5 блока",
+            "count": 1,
+            "cluster": "строительство 5 блока",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "уверенность в завтрашнем дне",
+            "count": 1,
+            "cluster": "уверенность в завтрашнем дне",
+            "sentiment": "positives"
+        }
+    ]
+}

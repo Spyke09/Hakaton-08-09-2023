@@ -1,0 +1,60 @@
+{
+    "question": "What countries are major recipients of FDI?",
+    "id": 20398,
+    "answers": [
+        {
+            "answer": "singapore",
+            "count": 4,
+            "cluster": "singapore",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "south america",
+            "count": 1,
+            "cluster": "south america",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "swiss",
+            "count": 1,
+            "cluster": "swiss",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "thailand",
+            "count": 1,
+            "cluster": "thailand",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "turkey",
+            "count": 1,
+            "cluster": "turkey",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "uae",
+            "count": 2,
+            "cluster": "uae",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "uk",
+            "count": 3,
+            "cluster": "united kingdom",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "united kingdom",
+            "count": 1,
+            "cluster": "united kingdom",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "vietnam",
+            "count": 1,
+            "cluster": "vietnam",
+            "sentiment": "neutrals"
+        }
+    ]
+}

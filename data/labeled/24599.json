@@ -1,0 +1,253 @@
+{
+    "question": "Как вы понимаете определение корпоративная культура?",
+    "id": 24599,
+    "answers": [
+        {
+            "answer": "баланс",
+            "count": 1,
+            "cluster": "баланс",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "бережное отношение",
+            "count": 1,
+            "cluster": "бережное отношение",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "взаимовежливость",
+            "count": 1,
+            "cluster": "взаимовежливость",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "взаимоуважение",
+            "count": 1,
+            "cluster": "взаимоуважение",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "уважение",
+            "count": 2,
+            "cluster": "взаимоуважение",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "грамотная речь",
+            "count": 1,
+            "cluster": "грамотная речь",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "грамотное общение",
+            "count": 1,
+            "cluster": "грамотное общение",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "умение культурно общаться",
+            "count": 1,
+            "cluster": "культура общения",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "дисциплин",
+            "count": 1,
+            "cluster": "дисциплина",
+            "sentiment": "neutrals",
+            "corrected": "дисциплина"
+        },
+        {
+            "answer": "единая миссия",
+            "count": 1,
+            "cluster": "единая миссия",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "компания и сотрудники",
+            "count": 1,
+            "cluster": "компания и сотрудники",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "культура в общение сотрудников",
+            "count": 1,
+            "cluster": "культура общения",
+            "sentiment": "neutrals",
+            "corrected": "культура в общении сотрудников"
+        },
+        {
+            "answer": "культура общения",
+            "count": 1,
+            "cluster": "культура общения",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "отношения сотрудников",
+            "count": 1,
+            "cluster": "отношения сотрудников",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "культура отношения в едином ст",
+            "count": 1,
+            "cluster": "культура отношения в едином ст",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "культурное поведение в обще",
+            "count": 1,
+            "cluster": "поведение в коллективе",
+            "sentiment": "positives",
+            "corrected": "культурное поведение в обществе"
+        },
+        {
+            "answer": "правила поведения в обществе",
+            "count": 1,
+            "cluster": "нормы поведения",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "культурные особенности орг-ии",
+            "count": 1,
+            "cluster": "культурные особенности организации",
+            "sentiment": "positives",
+            "corrected": "культурные особенности организации"
+        },
+        {
+            "answer": "модели взаимодействия",
+            "count": 1,
+            "cluster": "модели взаимодействия",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "настроенность на результат",
+            "count": 1,
+            "cluster": "настроенность на результат",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "норма поведения в организации",
+            "count": 1,
+            "cluster": "нормы поведения",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нормы и образцы поведения",
+            "count": 1,
+            "cluster": "нормы поведения",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нормы поведения",
+            "count": 1,
+            "cluster": "нормы поведения",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "поведение в коллектив",
+            "count": 1,
+            "cluster": "поведение в коллективе",
+            "sentiment": "neutrals",
+            "corrected": "поведение в коллективе"
+        },
+        {
+            "answer": "поведение в коллективе",
+            "count": 1,
+            "cluster": "поведение в коллективе",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "правила",
+            "count": 1,
+            "cluster": "правила",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "свои правила",
+            "count": 1,
+            "cluster": "правила",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "общая идея",
+            "count": 1,
+            "cluster": "общая идея",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "общая цель",
+            "count": 1,
+            "cluster": "общая цель",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "общение",
+            "count": 1,
+            "cluster": "общение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "объединение",
+            "count": 1,
+            "cluster": "сплоченность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сплоченность",
+            "count": 3,
+            "cluster": "сплоченность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "поведение компании",
+            "count": 1,
+            "cluster": "поведение компании",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "понимание",
+            "count": 1,
+            "cluster": "понимание",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "распорядок",
+            "count": 1,
+            "cluster": "распорядок",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "слаженность",
+            "count": 1,
+            "cluster": "слаженность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "умение общаться в коллективом",
+            "count": 1,
+            "cluster": "умение общаться с коллективом",
+            "sentiment": "positives",
+            "corrected": "умение общаться с коллективом"
+        },
+        {
+            "answer": "уметь слушать",
+            "count": 1,
+            "cluster": "уметь слушать",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "это потенциал его раскрытие",
+            "count": 1,
+            "cluster": "это потенциал его раскрытия",
+            "sentiment": "neutrals",
+            "corrected": "это потенциал его раскрытия"
+        },
+        {
+            "answer": "это семья",
+            "count": 1,
+            "cluster": "это семья",
+            "sentiment": "neutrals"
+        }
+    ]
+}

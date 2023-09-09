@@ -1,0 +1,73 @@
+{
+    "question": "Какие эмоции вы испытали от участия в Чемпионате? (введите не более 3-х слов)",
+    "id": 20785,
+    "answers": [
+        {
+            "answer": "удовольствие",
+            "count": 2,
+            "cluster": "удовольствие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "эйфория",
+            "count": 1,
+            "cluster": "удовольствие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "это было круто!",
+            "count": 1,
+            "cluster": "это было круто",
+            "sentiment": "positives",
+            "corrected": "это было круто"
+        },
+        {
+            "answer": "изумление",
+            "count": 1,
+            "cluster": "изумление",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "интерес",
+            "count": 2,
+            "cluster": "интерес",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "интересно",
+            "count": 1,
+            "cluster": "интерес",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "испуг",
+            "count": 1,
+            "cluster": "испуг",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "общение",
+            "count": 1,
+            "cluster": "общение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "умиротворение",
+            "count": 1,
+            "cluster": "умиротворение",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "усталость",
+            "count": 4,
+            "cluster": "усталость",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "чувство единения команды",
+            "count": 1,
+            "cluster": "чувство единения команды",
+            "sentiment": "positives"
+        }
+    ]
+}

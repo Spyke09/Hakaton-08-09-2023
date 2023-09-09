@@ -1,0 +1,200 @@
+{
+    "question": "Какие зоны роста в переговорах вы видите?",
+    "id": 24379,
+    "answers": [
+        {
+            "answer": "английский язык",
+            "count": 1,
+            "cluster": "английский язык",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "аргументация",
+            "count": 1,
+            "cluster": "аргументы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "аргументированность",
+            "count": 1,
+            "cluster": "аргументы",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "аргументы",
+            "count": 1,
+            "cluster": "аргументы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "более жесткая позиция",
+            "count": 1,
+            "cluster": "жесткость",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "больше опыта",
+            "count": 1,
+            "cluster": "больше опыта",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "брать на себя роль лидера",
+            "count": 1,
+            "cluster": "брать на себя роль лидера",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "взаимные интересы",
+            "count": 1,
+            "cluster": "взаимные интересы",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "гибкость",
+            "count": 1,
+            "cluster": "гибкость",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "жесткость",
+            "count": 1,
+            "cluster": "жесткость",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "инициативность",
+            "count": 2,
+            "cluster": "инициативность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "коммуникативность",
+            "count": 1,
+            "cluster": "коммуникативность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "культурные тонкости",
+            "count": 1,
+            "cluster": "культурные тонкости",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "лучше торговаться",
+            "count": 1,
+            "cluster": "лучше торговаться",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "международная специфика",
+            "count": 1,
+            "cluster": "международная специфика",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "не лидера но ближе к этому",
+            "count": 1,
+            "cluster": "не лидера но ближе к этому",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нлп",
+            "count": 1,
+            "cluster": "нлп",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "обширные возможности",
+            "count": 1,
+            "cluster": "обширные возможности",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "предпринимательский подход",
+            "count": 1,
+            "cluster": "предпринимательский подход",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "прокачка эмоц интеллекта",
+            "count": 1,
+            "cluster": "эмоциональный интеллект",
+            "sentiment": "positives",
+            "corrected": "улучшение эмоционального интеллекта"
+        },
+        {
+            "answer": "эмоциональный интеллект",
+            "count": 1,
+            "cluster": "эмоциональный интеллект",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "развивать компетенции",
+            "count": 1,
+            "cluster": "развивать компетенции",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "слушать",
+            "count": 1,
+            "cluster": "слышать партнёров",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "слышать партнёров",
+            "count": 1,
+            "cluster": "слышать партнёров",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "уверенность",
+            "count": 1,
+            "cluster": "уверенность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "управление эмоциями",
+            "count": 1,
+            "cluster": "эмоциональный интеллект",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "эмоции",
+            "count": 1,
+            "cluster": "эмоции",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "устойчивые",
+            "count": 1,
+            "cluster": "устойчивые",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "харизма",
+            "count": 1,
+            "cluster": "харизма",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "четкость позиции",
+            "count": 1,
+            "cluster": "четкость позиции",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "чтобы заметили и подняли зп!!!",
+            "count": 1,
+            "cluster": "чтобы заметили и подняли зарплата",
+            "sentiment": "neutrals",
+            "corrected": "чтобы заметили и подняли зарплата"
+        },
+        {
+            "answer": "эмпатия",
+            "count": 1,
+            "cluster": "эмпатия",
+            "sentiment": "positives"
+        }
+    ]
+}

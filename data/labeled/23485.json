@@ -1,0 +1,49 @@
+{
+    "question": "Ваши открытия за время обучения на модуле",
+    "id": 23485,
+    "answers": [
+        {
+            "answer": "возможность влиять на финансы",
+            "count": 1,
+            "cluster": "возможность влиять на финансы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "использовать для развития чужи",
+            "count": 1,
+            "cluster": "использовать для развития чужи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "креативность",
+            "count": 1,
+            "cluster": "креативность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "нет",
+            "count": 1,
+            "cluster": "нет",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "оборачиваемость",
+            "count": 1,
+            "cluster": "оборачиваемость",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "просто в финансах)",
+            "count": 1,
+            "cluster": "просто в финансах",
+            "sentiment": "neutrals",
+            "corrected": "просто в финансах"
+        },
+        {
+            "answer": "что в себе скрывают показатели",
+            "count": 1,
+            "cluster": "что в себе скрывают показатели",
+            "sentiment": "neutrals"
+        }
+    ]
+}

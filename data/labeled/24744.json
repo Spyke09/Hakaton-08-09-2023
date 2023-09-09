@@ -1,0 +1,19 @@
+{
+    "question": "От чего надо отказаться на стороне Заказчика?",
+    "id": 24744,
+    "answers": [
+        {
+            "answer": "асинхронности",
+            "count": 1,
+            "cluster": "асинхронности",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "все хорошо",
+            "count": 1,
+            "cluster": "все хорошо",
+            "sentiment": "context cluster",
+            "corrected": "нет"
+        }
+    ]
+}

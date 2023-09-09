@@ -1,0 +1,25 @@
+{
+    "question": "Ваши ассоциации со словом КАЧЕСТВО?",
+    "id": 23831,
+    "answers": [
+        {
+            "answer": "брак",
+            "count": 3,
+            "cluster": "брак",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "всё хорошо",
+            "count": 1,
+            "cluster": "всё хорошо",
+            "sentiment": "context cluster",
+            "corrected": "бездефектность"
+        },
+        {
+            "answer": "прозрачность",
+            "count": 1,
+            "cluster": "прозрачность",
+            "sentiment": "context sentiment"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "question": "Ключевые ассоциации с парадигмой политического реализма (5 слов)",
+    "id": 21817,
+    "answers": [
+        {
+            "answer": "пессимизм",
+            "count": 1,
+            "cluster": "пессимизм",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "поиск",
+            "count": 1,
+            "cluster": "поиск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "политика",
+            "count": 1,
+            "cluster": "политика",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "политические деятели",
+            "count": 1,
+            "cluster": "политические деятели",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "президенты",
+            "count": 1,
+            "cluster": "президенты",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "равноправие",
+            "count": 1,
+            "cluster": "равноправие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "рациональность",
+            "count": 1,
+            "cluster": "рациональность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "развитие",
+            "count": 1,
+            "cluster": "развитие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "решение",
+            "count": 1,
+            "cluster": "решение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сила",
+            "count": 2,
+            "cluster": "сила",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "сотрудничество",
+            "count": 2,
+            "cluster": "сотрудничество",
+            "sentiment": "positives"
+        }
+    ]
+}

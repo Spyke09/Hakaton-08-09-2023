@@ -1,0 +1,43 @@
+{
+    "question": "Что поможет сделать программу более полезной для вас?",
+    "id": 23486,
+    "answers": [
+        {
+            "answer": "больше интерактива",
+            "count": 1,
+            "cluster": "больше интерактива",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "больше примеров",
+            "count": 1,
+            "cluster": "больше примеров",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "практика",
+            "count": 2,
+            "cluster": "практика",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "увеличить время не 2 дня а тр",
+            "count": 1,
+            "cluster": "увеличить ее продолжительность",
+            "sentiment": "neutrals",
+            "corrected": "увеличить время не 2 дня а три"
+        },
+        {
+            "answer": "увеличить ее продолжительность",
+            "count": 1,
+            "cluster": "увеличить ее продолжительность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "учиться только очно",
+            "count": 1,
+            "cluster": "учиться только очно",
+            "sentiment": "neutrals"
+        }
+    ]
+}

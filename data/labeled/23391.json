@@ -1,0 +1,13 @@
+{
+    "question": "Как проходит процесс адаптации?",
+    "id": 23391,
+    "answers": [
+        {
+            "answer": "как дома",
+            "count": 1,
+            "cluster": "как дома",
+            "sentiment": "context cluster",
+            "corrected": "комфортно"
+        }
+    ]
+}

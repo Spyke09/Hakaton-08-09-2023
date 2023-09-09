@@ -1,0 +1,51 @@
+{
+    "question": "От кого зависит реализация Цифрового Видения 2030?",
+    "id": 23574,
+    "answers": [
+        {
+            "answer": "вовлеченности",
+            "count": 1,
+            "cluster": "вовлеченности",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "мотивация людей",
+            "count": 1,
+            "cluster": "мотивация людей",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "от вдохновленных людей",
+            "count": 1,
+            "cluster": "от вдохновленных людей",
+            "sentiment": "context sentiment",
+            "corrected": "мотивация людей"
+        },
+        {
+            "answer": "от заинтересованности руководи",
+            "count": 1,
+            "cluster": "от заинтересованности руководил",
+            "sentiment": "context sentiment",
+            "corrected": "от руководителей"
+        },
+        {
+            "answer": "от информированности",
+            "count": 1,
+            "cluster": "от информированности",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "от понимания руководителя",
+            "count": 1,
+            "cluster": "от понимания руководителя",
+            "sentiment": "context sentiment",
+            "corrected": "от руководителей"
+        },
+        {
+            "answer": "поддержки руководства",
+            "count": 1,
+            "cluster": "поддержки руководства",
+            "sentiment": "context sentiment"
+        }
+    ]
+}

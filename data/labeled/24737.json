@@ -1,0 +1,72 @@
+{
+    "question": "Что планируете применять из пройденного обучения в ближайшее время?",
+    "id": 24737,
+    "answers": [
+        {
+            "answer": "adkar",
+            "count": 4,
+            "cluster": "adkar",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "модель adkar",
+            "count": 1,
+            "cluster": "adkar",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "все",
+            "count": 2,
+            "cluster": "всё",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "всё",
+            "count": 1,
+            "cluster": "всё",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "да",
+            "count": 1,
+            "cluster": "да",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ничего",
+            "count": 1,
+            "cluster": "ничего",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "очень полезно в работе",
+            "count": 1,
+            "cluster": "очень полезно в работе",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "планирую",
+            "count": 1,
+            "cluster": "планирую",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "практику изменений",
+            "count": 1,
+            "cluster": "практику изменений",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "работу со знаниями",
+            "count": 1,
+            "cluster": "работу со знаниями",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "тактики",
+            "count": 2,
+            "cluster": "тактики",
+            "sentiment": "neutrals"
+        }
+    ]
+}

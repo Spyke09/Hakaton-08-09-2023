@@ -1,0 +1,41 @@
+{
+    "question": "Что нам не удалось за 4 года?",
+    "id": 23571,
+    "answers": [
+        {
+            "answer": "бюрократию",
+            "count": 1,
+            "cluster": "бюрократию",
+            "sentiment": "context cluster",
+            "corrected": "дебюрократизация"
+        },
+        {
+            "answer": "бюрократия",
+            "count": 14,
+            "cluster": "бюрократия",
+            "sentiment": "context cluster",
+            "corrected": "дебюрократизация"
+        },
+        {
+            "answer": "мало внешних продуктов",
+            "count": 1,
+            "cluster": "мало внешних продуктов",
+            "sentiment": "context cluster",
+            "corrected": "продуктизация"
+        },
+        {
+            "answer": "показать практический результа",
+            "count": 1,
+            "cluster": "показать практический результат",
+            "sentiment": "context cluster",
+            "corrected": "нет результата"
+        },
+        {
+            "answer": "результат",
+            "count": 1,
+            "cluster": "результат",
+            "sentiment": "context cluster",
+            "corrected": "нет результата"
+        }
+    ]
+}

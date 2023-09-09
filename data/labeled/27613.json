@@ -1,0 +1,512 @@
+{
+    "question": "Ваши ожидания от Карьерного трека?",
+    "id": 27613,
+    "answers": [
+        {
+            "answer": "большего",
+            "count": 1,
+            "cluster": "большего",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "вакансии",
+            "count": 1,
+            "cluster": "вакансии",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "найти место работы",
+            "count": 1,
+            "cluster": "трудоустройство",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "найти работу",
+            "count": 3,
+            "cluster": "трудоустройство",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "получить приглашение на работу",
+            "count": 1,
+            "cluster": "трудоустройство",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "получить работу мечты",
+            "count": 1,
+            "cluster": "трудоустройство",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "возможности",
+            "count": 1,
+            "cluster": "возможности",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "возможность",
+            "count": 1,
+            "cluster": "возможности",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "возможность попасть",
+            "count": 1,
+            "cluster": "трудоустройство",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "дальнейшее трудоустройтво",
+            "count": 1,
+            "cluster": "трудоустройство",
+            "sentiment": "neutrals",
+            "corrected": "дальнейшее трудоустройство"
+        },
+        {
+            "answer": "поступить на работу в росатом",
+            "count": 1,
+            "cluster": "трудоустройство",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "трудоустройства",
+            "count": 1,
+            "cluster": "трудоустройство",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "трудоустройство",
+            "count": 12,
+            "cluster": "трудоустройство",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "устроиться в росатом",
+            "count": 1,
+            "cluster": "трудоустройство",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "гарантии при трудоустройстве",
+            "count": 1,
+            "cluster": "трудоустройство",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "где я буду полезен",
+            "count": 1,
+            "cluster": "где я буду полезен",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "горизонтального движения",
+            "count": 1,
+            "cluster": "горизонтального движения",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "знакомства",
+            "count": 1,
+            "cluster": "знакомства",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нетворкинг",
+            "count": 1,
+            "cluster": "связи",
+            "sentiment": "positives",
+            "corrected": "окружение специалистов определенной сферы"
+        },
+        {
+            "answer": "связи",
+            "count": 2,
+            "cluster": "связи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "инструкции",
+            "count": 1,
+            "cluster": "инструкции",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "информация о вузах",
+            "count": 1,
+            "cluster": "информация о вузах",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "как",
+            "count": 1,
+            "cluster": "как",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "карьера",
+            "count": 1,
+            "cluster": "карьера",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "карьера инженера на аэс",
+            "count": 1,
+            "cluster": "карьера",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "карьерная траектория",
+            "count": 1,
+            "cluster": "карьерная траектория",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "определиться с направлением",
+            "count": 1,
+            "cluster": "карьерная траектория",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "помощь в построении карьеры",
+            "count": 1,
+            "cluster": "карьерная траектория",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "понимание куда двигаться",
+            "count": 1,
+            "cluster": "понимание перспектив",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "понять вектор развития до вуза",
+            "count": 1,
+            "cluster": "карьерная траектория",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "построения карьерного трека",
+            "count": 1,
+            "cluster": "карьерная траектория",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "узнать развитие в карьере",
+            "count": 1,
+            "cluster": "узнать развитие в карьере",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "курсы",
+            "count": 1,
+            "cluster": "курсы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "найти своё место в жизни",
+            "count": 1,
+            "cluster": "найти себя",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "найти себя",
+            "count": 2,
+            "cluster": "найти себя",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "понять себя",
+            "count": 1,
+            "cluster": "найти себя",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "найти стажировку",
+            "count": 1,
+            "cluster": "получить стажировку",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "оплачиваемая стажировка",
+            "count": 2,
+            "cluster": "получить стажировку",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "получить возможность стадировк",
+            "count": 1,
+            "cluster": "получить стажировку",
+            "sentiment": "neutrals",
+            "corrected": "получить возможность стажировки"
+        },
+        {
+            "answer": "получить стажировку",
+            "count": 2,
+            "cluster": "получить стажировку",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "попасть на стажировку",
+            "count": 1,
+            "cluster": "получить стажировку",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "стажировка",
+            "count": 3,
+            "cluster": "получить стажировку",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "стажировка в вниихт",
+            "count": 1,
+            "cluster": "получить стажировку",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "необходимый опыт во время студ",
+            "count": 1,
+            "cluster": "необходимый опыт во время студ",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нужен ли мне лично росатом",
+            "count": 1,
+            "cluster": "стоит ли работать в росатоме",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "стоит ли работать в росатоме",
+            "count": 1,
+            "cluster": "стоит ли работать в росатоме",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "огромные",
+            "count": 1,
+            "cluster": "огромные",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "определение своего работодател",
+            "count": 1,
+            "cluster": "определение своего работодателя",
+            "sentiment": "neutrals",
+            "corrected": "определение своего работодателя"
+        },
+        {
+            "answer": "ответ на вопрос",
+            "count": 1,
+            "cluster": "ответ на вопросы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ответ на вопросы",
+            "count": 1,
+            "cluster": "ответ на вопросы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ответы на вопросы",
+            "count": 2,
+            "cluster": "ответ на вопросы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "получение ответов на вопросы",
+            "count": 1,
+            "cluster": "ответ на вопросы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "четких ответов",
+            "count": 1,
+            "cluster": "ответ на вопросы",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "отдых",
+            "count": 1,
+            "cluster": "отдых",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "открытие истинных желаний",
+            "count": 1,
+            "cluster": "открытие истинных желаний",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "план",
+            "count": 1,
+            "cluster": "план действий",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "план действий",
+            "count": 1,
+            "cluster": "план действий",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "побывать на собеседовании",
+            "count": 1,
+            "cluster": "собеседование",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "пройти собеседование :)",
+            "count": 1,
+            "cluster": "собеседование",
+            "sentiment": "neutrals",
+            "corrected": "пройти собеседование"
+        },
+        {
+            "answer": "собеседование",
+            "count": 2,
+            "cluster": "собеседование",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "поиск наставника",
+            "count": 1,
+            "cluster": "поиск наставника",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "полезная информация",
+            "count": 1,
+            "cluster": "полезная информация",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "понимание перспектив",
+            "count": 1,
+            "cluster": "возможности",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "понять каким я буду специалист",
+            "count": 1,
+            "cluster": "понять каким я буду специалистом",
+            "sentiment": "neutrals",
+            "corrected": "понять каким я буду специалистом"
+        },
+        {
+            "answer": "точное понимание профессии",
+            "count": 1,
+            "cluster": "узнать больше о профессии",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "узнать больше о профессии",
+            "count": 1,
+            "cluster": "узнать больше о профессии",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "узнать больше про работу",
+            "count": 1,
+            "cluster": "узнать больше о профессии",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "практика",
+            "count": 2,
+            "cluster": "практика",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "прохождение практики",
+            "count": 1,
+            "cluster": "практика",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "работа",
+            "count": 2,
+            "cluster": "работа",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "работа",
+            "count": 1,
+            "cluster": "работа",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "разъяснений",
+            "count": 1,
+            "cluster": "разъяснений",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "расшифровка",
+            "count": 1,
+            "cluster": "расшифровка",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "с чего начать карьеру?",
+            "count": 1,
+            "cluster": "с чего начать карьеру",
+            "sentiment": "neutrals",
+            "corrected": "с чего начать карьеру"
+        },
+        {
+            "answer": "саморазвитие",
+            "count": 1,
+            "cluster": "саморазвитие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "свободы действий",
+            "count": 1,
+            "cluster": "свободы действий",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "узнать что от меня требуется",
+            "count": 1,
+            "cluster": "узнать больше про работу",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "услышать новое",
+            "count": 1,
+            "cluster": "услышать новое",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "хорошая зарплата",
+            "count": 1,
+            "cluster": "хорошая зарплата",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "хоть что-то полезное для студ",
+            "count": 1,
+            "cluster": "хоть что то полезное для студента",
+            "sentiment": "positives",
+            "corrected": "хоть что то полезное для студента"
+        },
+        {
+            "answer": "целевое обучение",
+            "count": 1,
+            "cluster": "целевое обучение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "что предлагают что могу дать",
+            "count": 1,
+            "cluster": "что предлагают что могу дать",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ясность",
+            "count": 1,
+            "cluster": "ясность",
+            "sentiment": "positives"
+        }
+    ]
+}

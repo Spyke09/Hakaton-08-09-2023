@@ -1,0 +1,67 @@
+{
+    "question": "Что планируете применять из пройденного обучения в ближайшее время?",
+    "id": 23463,
+    "answers": [
+        {
+            "answer": "в переговорах не спешить",
+            "count": 1,
+            "cluster": "в переговорах не спешить",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "всё",
+            "count": 1,
+            "cluster": "всё",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "гибкость",
+            "count": 1,
+            "cluster": "гибкость",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "гибкость в переговорах",
+            "count": 1,
+            "cluster": "гибкость",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "договариваться",
+            "count": 1,
+            "cluster": "договариваться",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "модель 3д в переговорах",
+            "count": 1,
+            "cluster": "модель 3д в переговорах",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "поправить собственную модель",
+            "count": 1,
+            "cluster": "поправить собственную модель",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "не готов не садись за стол",
+            "count": 1,
+            "cluster": "не готов не садись за стол",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "оценка переговор 5 10 15",
+            "count": 1,
+            "cluster": "оценка переговоры 5 10 15",
+            "sentiment": "neutrals",
+            "corrected": "оценка переговоры 5 10 15"
+        },
+        {
+            "answer": "стратегию в переговорах",
+            "count": 1,
+            "cluster": "стратегию в переговорах",
+            "sentiment": "neutrals"
+        }
+    ]
+}

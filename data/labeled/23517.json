@@ -1,0 +1,50 @@
+{
+    "question": "Что поможет сделать программу более полезной для вас?",
+    "id": 23517,
+    "answers": [
+        {
+            "answer": "больше примеров",
+            "count": 1,
+            "cluster": "больше примеров",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "все достаточно",
+            "count": 1,
+            "cluster": "все достаточно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "ничего все в норме",
+            "count": 1,
+            "cluster": "все достаточно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "получил максимальную полезност",
+            "count": 1,
+            "cluster": "получил максимальную полезность",
+            "sentiment": "positives",
+            "corrected": "получил максимальную полезность"
+        },
+        {
+            "answer": "здорово что очно",
+            "count": 1,
+            "cluster": "здорово что очно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "обратная связь после прохожден",
+            "count": 1,
+            "cluster": "обратная связь после прохождения",
+            "sentiment": "neutrals",
+            "corrected": "обратная связь после прохождения"
+        },
+        {
+            "answer": "очное обучение",
+            "count": 1,
+            "cluster": "очное обучение",
+            "sentiment": "neutrals"
+        }
+    ]
+}

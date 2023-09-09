@@ -1,0 +1,85 @@
+{
+    "question": "Ваши открытия за время обучения на модуле",
+    "id": 24738,
+    "answers": [
+        {
+            "answer": "adkar",
+            "count": 2,
+            "cluster": "adkar",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "все",
+            "count": 2,
+            "cluster": "все",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "да",
+            "count": 1,
+            "cluster": "да",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "знакомства",
+            "count": 1,
+            "cluster": "знакомства",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "методы и действия",
+            "count": 1,
+            "cluster": "методы и действия",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "модель применима в жизнь",
+            "count": 1,
+            "cluster": "модель применима в жизни",
+            "sentiment": "positives",
+            "corrected": "модель применима в жизни"
+        },
+        {
+            "answer": "нельзя перешагивать барьер",
+            "count": 1,
+            "cluster": "нельзя перешагивать барьер",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "практика",
+            "count": 1,
+            "cluster": "практика",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "стратегии внедрения изменений",
+            "count": 1,
+            "cluster": "тактики внедрения",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "тактики",
+            "count": 1,
+            "cluster": "тактики",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "тактики внедрения",
+            "count": 1,
+            "cluster": "тактики внедрения",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "факторы",
+            "count": 1,
+            "cluster": "факторы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "что теория слабо применяется",
+            "count": 1,
+            "cluster": "что теория слабо применяется",
+            "sentiment": "negatives"
+        }
+    ]
+}

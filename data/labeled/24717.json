@@ -1,0 +1,109 @@
+{
+    "question": "Что планируете применять из пройденного обучения в ближайшее время?",
+    "id": 24717,
+    "answers": [
+        {
+            "answer": "внедрение информационной систе",
+            "count": 1,
+            "cluster": "внедрение информационной системы",
+            "sentiment": "neutrals",
+            "corrected": "внедрение информационной системы"
+        },
+        {
+            "answer": "все",
+            "count": 2,
+            "cluster": "всё",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "всё",
+            "count": 1,
+            "cluster": "всё",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "всю полученную информацию",
+            "count": 1,
+            "cluster": "всё",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ецс",
+            "count": 1,
+            "cluster": "единая цифровая стратегия",
+            "sentiment": "neutrals",
+            "corrected": "единая цифровая стратегия"
+        },
+        {
+            "answer": "наверное ничего",
+            "count": 1,
+            "cluster": "наверное ничего",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "подумать по процессам для цифр",
+            "count": 1,
+            "cluster": "подумать по процессам для цифровизации",
+            "sentiment": "neutrals",
+            "corrected": "подумать по процессам для цифровизации"
+        },
+        {
+            "answer": "пока возможна только автоматиз",
+            "count": 1,
+            "cluster": "пока возможна только автоматизация",
+            "sentiment": "neutrals",
+            "corrected": "пока возможна только автоматизация"
+        },
+        {
+            "answer": "помогать внедрению цифровизаци",
+            "count": 1,
+            "cluster": "помогать внедрению цифровизации",
+            "sentiment": "positives",
+            "corrected": "помогать внедрению цифровизации"
+        },
+        {
+            "answer": "технологии цифровизации",
+            "count": 1,
+            "cluster": "цифровизацию процессов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "увеличить объём цифровизации",
+            "count": 1,
+            "cluster": "цифровизацию процессов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "цифр на рабочем месте",
+            "count": 1,
+            "cluster": "цифровизацию процессов",
+            "sentiment": "neutrals",
+            "corrected": "цифровизацию на рабочем месте"
+        },
+        {
+            "answer": "цифровая трансформация",
+            "count": 1,
+            "cluster": "цифровизацию процессов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "цифровизацию процессов",
+            "count": 1,
+            "cluster": "цифровизацию процессов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "цифровизироваться",
+            "count": 1,
+            "cluster": "цифровизацию процессов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "расскажу всем сотрудникам о ци",
+            "count": 1,
+            "cluster": "расскажу всем сотрудникам о цифровизации",
+            "sentiment": "neutrals",
+            "corrected": "расскажу всем сотрудникам о цифровизации"
+        }
+    ]
+}

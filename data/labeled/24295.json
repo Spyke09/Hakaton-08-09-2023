@@ -1,0 +1,252 @@
+{
+    "question": "Напишите свой филиал, структурное подразделение или город",
+    "id": 24295,
+    "answers": [
+        {
+            "answer": "ао фпк г киров",
+            "count": 1,
+            "cluster": "акционерное общество федеральная пассажирская компания г киров",
+            "sentiment": "neutrals",
+            "corrected": "акционерное общество федеральная пассажирская компания г киров"
+        },
+        {
+            "answer": "аппарат управления",
+            "count": 2,
+            "cluster": "аппарат управления",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "брянск",
+            "count": 2,
+            "cluster": "брянск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "вагонный участок архангельск",
+            "count": 1,
+            "cluster": "вагонный участок архангельск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "восточно- сибирский филиал",
+            "count": 1,
+            "cluster": "восточно сибирский филиал",
+            "sentiment": "neutrals",
+            "corrected": "восточно сибирский филиал"
+        },
+        {
+            "answer": "восточное-сибирский",
+            "count": 1,
+            "cluster": "восточно сибирский филиал",
+            "sentiment": "neutrals",
+            "corrected": "восточно сибирский"
+        },
+        {
+            "answer": "вост-сиб",
+            "count": 1,
+            "cluster": "восточно сибирский филиал",
+            "sentiment": "neutrals",
+            "corrected": "восточно сибирский"
+        },
+        {
+            "answer": "гжа",
+            "count": 2,
+            "cluster": "горьковский филиал",
+            "sentiment": "neutrals",
+            "corrected": "горьковское железнодорожное агентство"
+        },
+        {
+            "answer": "глазов удмуртия",
+            "count": 1,
+            "cluster": "глазов удмуртия",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "горьковский",
+            "count": 1,
+            "cluster": "горьковский филиал",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "горьковский филиал",
+            "count": 6,
+            "cluster": "горьковский филиал",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "екатеригбург",
+            "count": 1,
+            "cluster": "екатеринбург",
+            "sentiment": "neutrals",
+            "corrected": "екатеринбург"
+        },
+        {
+            "answer": "екатеринбург",
+            "count": 1,
+            "cluster": "екатеринбург",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ур.ф г. екатеринбург",
+            "count": 1,
+            "cluster": "екатеринбург",
+            "sentiment": "neutrals",
+            "corrected": "уральский филиал г екатеринбург"
+        },
+        {
+            "answer": "урал",
+            "count": 1,
+            "cluster": "екатеринбург",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "уральский екатеринбург",
+            "count": 1,
+            "cluster": "екатеринбург",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "западно-сибирский филиал",
+            "count": 1,
+            "cluster": "западно сибирский филиал",
+            "sentiment": "neutrals",
+            "corrected": "западно сибирский филиал"
+        },
+        {
+            "answer": "западно-сибирское жа",
+            "count": 1,
+            "cluster": "западно сибирский филиал",
+            "sentiment": "neutrals",
+            "corrected": "западно сибирское железнодорожное агентство"
+        },
+        {
+            "answer": "кбш филиал г. уфа",
+            "count": 1,
+            "cluster": "куйбышевский филиал г уфа",
+            "sentiment": "neutrals",
+            "corrected": "куйбышевский филиал г уфа"
+        },
+        {
+            "answer": "лвч-14 г.уфа",
+            "count": 1,
+            "cluster": "куйбышевский филиал г уфа",
+            "sentiment": "neutrals",
+            "corrected": "лвч 14 г уфа"
+        },
+        {
+            "answer": "лвч14 куйбышевского филиала",
+            "count": 1,
+            "cluster": "куйбышевский филиал г уфа",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "уфа",
+            "count": 1,
+            "cluster": "куйбышевский филиал г уфа",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "красноярск",
+            "count": 1,
+            "cluster": "красноярск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "моск лвчд 15",
+            "count": 1,
+            "cluster": "москва лвчд 15",
+            "sentiment": "neutrals",
+            "corrected": "москва лвчд 15"
+        },
+        {
+            "answer": "москва",
+            "count": 3,
+            "cluster": "москва",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "центральный офис",
+            "count": 1,
+            "cluster": "центральный офис",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "центральный москва",
+            "count": 1,
+            "cluster": "центральный офис",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "москва(челябинск)",
+            "count": 1,
+            "cluster": "москва челябинск",
+            "sentiment": "neutrals",
+            "corrected": "москва челябинск"
+        },
+        {
+            "answer": "нижний новгород",
+            "count": 1,
+            "cluster": "горьковский филиал",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "омск",
+            "count": 2,
+            "cluster": "омск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "саратов приволжский филиал))",
+            "count": 1,
+            "cluster": "приволжский",
+            "sentiment": "neutrals",
+            "corrected": "саратов приволжский филиал"
+        },
+        {
+            "answer": "приволжский",
+            "count": 2,
+            "cluster": "приволжский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "санкт-петербург",
+            "count": 1,
+            "cluster": "санкт петербург",
+            "sentiment": "neutrals",
+            "corrected": "санкт петербург"
+        },
+        {
+            "answer": "лвч-8",
+            "count": 1,
+            "cluster": "санкт петербург",
+            "sentiment": "neutrals",
+            "corrected": "лвч 8"
+        },
+        {
+            "answer": "северо-западный спб",
+            "count": 1,
+            "cluster": "санкт петербург",
+            "sentiment": "neutrals",
+            "corrected": "северо западный санкт-петербург"
+        },
+        {
+            "answer": "с-зап санкт-петербург",
+            "count": 1,
+            "cluster": "санкт петербург",
+            "sentiment": "neutrals",
+            "corrected": "северо западный санкт-петербург"
+        },
+        {
+            "answer": "смоленск",
+            "count": 1,
+            "cluster": "смоленск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "хабаровск",
+            "count": 2,
+            "cluster": "хабаровск",
+            "sentiment": "neutrals"
+        }
+    ]
+}

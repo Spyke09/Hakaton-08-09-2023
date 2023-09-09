@@ -1,0 +1,329 @@
+{
+    "question": "What organization do you represent?",
+    "id": 25723,
+    "answers": [
+        {
+            "answer": "academy of sciences of belarus",
+            "count": 1,
+            "cluster": "academy of sciences of belarus",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "advanced dynamics",
+            "count": 1,
+            "cluster": "advanced dynamics",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "agrotech plus ltd",
+            "count": 1,
+            "cluster": "agrotech plus ltd",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "armenian nuclear power plant",
+            "count": 1,
+            "cluster": "armenian nuclear power plant",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ase rosatom",
+            "count": 1,
+            "cluster": "ase rosatom",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ashoka university",
+            "count": 1,
+            "cluster": "ashoka university",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "atomstroyeksport",
+            "count": 1,
+            "cluster": "ase rosatom",
+            "sentiment": "neutrals",
+            "corrected": "atomstroyexport"
+        },
+        {
+            "answer": "atomtechenergo",
+            "count": 1,
+            "cluster": "atomtechenergo",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "belarusian state university",
+            "count": 2,
+            "cluster": "belarusian state university",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "cjsc “armatom”",
+            "count": 1,
+            "cluster": "cjsc armatom",
+            "sentiment": "neutrals",
+            "corrected": "cjsc armatom"
+        },
+        {
+            "answer": "cjsc armatom",
+            "count": 1,
+            "cluster": "cjsc armatom",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "cjsc armatom”",
+            "count": 1,
+            "cluster": "cjsc armatom",
+            "sentiment": "neutrals",
+            "corrected": "cjsc armatom"
+        },
+        {
+            "answer": "energy geopolitics observatory",
+            "count": 1,
+            "cluster": "energy geopolitics observatory",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "engineers india limited",
+            "count": 1,
+            "cluster": "engineers india limited",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ernst & young (it)",
+            "count": 1,
+            "cluster": "ernst young it",
+            "sentiment": "neutrals",
+            "corrected": "ernst young it"
+        },
+        {
+            "answer": "eskom",
+            "count": 3,
+            "cluster": "eskom",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "fspn africa",
+            "count": 1,
+            "cluster": "fspn africa",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "fsue atomflot",
+            "count": 1,
+            "cluster": "fsue atomflot",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "gidropress",
+            "count": 1,
+            "cluster": "gidropress",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "greener",
+            "count": 1,
+            "cluster": "greener",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "hydrofuels solutions pty ltd",
+            "count": 1,
+            "cluster": "hydrofuels solutions pty ltd",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ibrae",
+            "count": 1,
+            "cluster": "ibrae",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "institute of nuclear physics",
+            "count": 1,
+            "cluster": "institute of nuclear physics",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "jis college of engineering",
+            "count": 2,
+            "cluster": "jis college of engineering",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "jsc atomenergoproekt",
+            "count": 1,
+            "cluster": "jsc atomenergoproekt",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "jsk rusatom infrastructure s.",
+            "count": 1,
+            "cluster": "jsk rusatom infrastructure solutions",
+            "sentiment": "neutrals",
+            "corrected": "jsk rusatom infrastructure solutions"
+        },
+        {
+            "answer": "kazatomprom",
+            "count": 6,
+            "cluster": "nac kazatomprom jsc",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "nac kazatomprom jsc",
+            "count": 1,
+            "cluster": "nac kazatomprom jsc",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "kygn",
+            "count": 1,
+            "cluster": "kygn",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "mephi",
+            "count": 2,
+            "cluster": "mephi",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ministry of energy",
+            "count": 1,
+            "cluster": "ministry of energy",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ministry of energy uzbekistan",
+            "count": 1,
+            "cluster": "ministry of energy uzbekistan",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "national nuclear center of rk",
+            "count": 1,
+            "cluster": "national nuclear center of rk",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "national nuclear center rk",
+            "count": 1,
+            "cluster": "national nuclear center of rk",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "necsa",
+            "count": 2,
+            "cluster": "necsa",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "nit srinagar j&k india",
+            "count": 1,
+            "cluster": "nit srinagar j k india",
+            "sentiment": "neutrals",
+            "corrected": "nit srinagar j k india"
+        },
+        {
+            "answer": "no rwm",
+            "count": 1,
+            "cluster": "no rwm",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "rfnc-vniitf",
+            "count": 1,
+            "cluster": "rfnc vniitf",
+            "sentiment": "neutrals",
+            "corrected": "rfnc vniitf"
+        },
+        {
+            "answer": "rosatom",
+            "count": 4,
+            "cluster": "rosatom",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "rosatom technical academy",
+            "count": 2,
+            "cluster": "rosatom technical academy",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "rosenergoatom",
+            "count": 1,
+            "cluster": "rosenergoatom",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "sasol",
+            "count": 1,
+            "cluster": "sasol",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "saynaps",
+            "count": 1,
+            "cluster": "saynps",
+            "sentiment": "neutrals",
+            "corrected": "saynps"
+        },
+        {
+            "answer": "saynps",
+            "count": 1,
+            "cluster": "saynaps",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "south africa",
+            "count": 1,
+            "cluster": "south africa",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "south african brics youth asso",
+            "count": 1,
+            "cluster": "south african brics youth association",
+            "sentiment": "neutrals",
+            "corrected": "south african brics youth association"
+        },
+        {
+            "answer": "south african young nuclear",
+            "count": 1,
+            "cluster": "saynps",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "thapar institute of engg.",
+            "count": 1,
+            "cluster": "thapar institute of engg",
+            "sentiment": "neutrals",
+            "corrected": "thapar institute of engg"
+        },
+        {
+            "answer": "the nuclear society of kazakhs",
+            "count": 1,
+            "cluster": "the nuclear society of kazakhstan",
+            "sentiment": "neutrals",
+            "corrected": "the nuclear society of kazakhstan"
+        },
+        {
+            "answer": "ufrj",
+            "count": 3,
+            "cluster": "ufrj",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ural federal university",
+            "count": 1,
+            "cluster": "ural federal university",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "uzatom agency",
+            "count": 4,
+            "cluster": "uzatom agency",
+            "sentiment": "neutrals"
+        }
+    ]
+}
