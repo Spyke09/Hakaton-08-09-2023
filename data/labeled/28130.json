@@ -1,0 +1,466 @@
+{
+    "question": "Какие ваши ассоциации с этим годом? Вы можете ввести несколько ответов",
+    "id": 28130,
+    "answers": [
+        {
+            "answer": "\"нам надо\" от пользователей",
+            "count": 1,
+            "cluster": "пользователи",
+            "sentiment": "neutrals",
+            "corrected": "нам надо от пользователей"
+        },
+        {
+            "answer": "а какой сейчас год?",
+            "count": 1,
+            "cluster": "а какой сейчас год",
+            "sentiment": "positives",
+            "corrected": "а какой сейчас год"
+        },
+        {
+            "answer": "аааааааа!!!!!",
+            "count": 1,
+            "cluster": "а",
+            "sentiment": "neutrals",
+            "corrected": "а"
+        },
+        {
+            "answer": "аааааааааааааааа",
+            "count": 1,
+            "cluster": "а",
+            "sentiment": "neutrals",
+            "corrected": "а"
+        },
+        {
+            "answer": "адское пекло! да! жги гаси! 😇",
+            "count": 1,
+            "cluster": "разные",
+            "sentiment": "neutrals",
+            "corrected": "разные"
+        },
+        {
+            "answer": "амбициозный",
+            "count": 1,
+            "cluster": "амбициозный",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "беспокойство",
+            "count": 1,
+            "cluster": "тревожность",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "боль",
+            "count": 1,
+            "cluster": "боль",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "весело",
+            "count": 1,
+            "cluster": "весело",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "позитив",
+            "count": 1,
+            "cluster": "позитив",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "война",
+            "count": 1,
+            "cluster": "война",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "волнительно",
+            "count": 1,
+            "cluster": "волнительно",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "восторг",
+            "count": 1,
+            "cluster": "восторг",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "крутой",
+            "count": 1,
+            "cluster": "крутят",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "крутяк",
+            "count": 1,
+            "cluster": "крутят",
+            "sentiment": "positives",
+            "corrected": "крутят"
+        },
+        {
+            "answer": "лучшие",
+            "count": 1,
+            "cluster": "хорошие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "невероятно",
+            "count": 1,
+            "cluster": "невероятно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "выживание",
+            "count": 1,
+            "cluster": "выжить",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "выжить",
+            "count": 1,
+            "cluster": "выжить",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "год за два",
+            "count": 1,
+            "cluster": "год за два",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "горе",
+            "count": 1,
+            "cluster": "горе",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "депрессия",
+            "count": 1,
+            "cluster": "депрессия",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "дичь",
+            "count": 1,
+            "cluster": "дичь",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "жесть",
+            "count": 4,
+            "cluster": "жесть",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "интересно",
+            "count": 1,
+            "cluster": "интересно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "интрига",
+            "count": 1,
+            "cluster": "интрига",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ипотека",
+            "count": 1,
+            "cluster": "ипотека",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "короткие сроки",
+            "count": 1,
+            "cluster": "короткие сроки",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "круглые столы",
+            "count": 1,
+            "cluster": "круглые столы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "лучшая команда",
+            "count": 1,
+            "cluster": "хорошие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "любовь к пользователям",
+            "count": 1,
+            "cluster": "пользователи",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "любой год хорош",
+            "count": 1,
+            "cluster": "любой год хорош",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "много задач",
+            "count": 1,
+            "cluster": "сложности и работа",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "много нового",
+            "count": 1,
+            "cluster": "много нового",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мобилизация",
+            "count": 1,
+            "cluster": "мобилизация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мы выжили",
+            "count": 1,
+            "cluster": "выжить",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нагрузка",
+            "count": 1,
+            "cluster": "сложности и работа",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "надежды",
+            "count": 1,
+            "cluster": "надежды",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "начало",
+            "count": 1,
+            "cluster": "начало",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "неопределенность",
+            "count": 1,
+            "cluster": "неопределенность",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "новый опыт",
+            "count": 1,
+            "cluster": "новый опыт",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "норм",
+            "count": 2,
+            "cluster": "норм",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "обращения",
+            "count": 1,
+            "cluster": "обращения",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "паника",
+            "count": 1,
+            "cluster": "паника",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "перемен и вдохновений",
+            "count": 1,
+            "cluster": "перемен и вдохновений",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "победа",
+            "count": 1,
+            "cluster": "победа",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "поддержка",
+            "count": 1,
+            "cluster": "поддержка",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "пользователи",
+            "count": 1,
+            "cluster": "пользователи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "преодоление",
+            "count": 1,
+            "cluster": "победа",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "принятие",
+            "count": 1,
+            "cluster": "принятие",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "продуктив",
+            "count": 1,
+            "cluster": "продуктов",
+            "sentiment": "neutrals",
+            "corrected": "продуктов"
+        },
+        {
+            "answer": "продуктивный",
+            "count": 1,
+            "cluster": "продуктов",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "пугающий",
+            "count": 1,
+            "cluster": "пугающий",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "работа",
+            "count": 2,
+            "cluster": "сложности и работа",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "работа 24/7",
+            "count": 1,
+            "cluster": "сложности и работа",
+            "sentiment": "neutrals",
+            "corrected": "работа 24 7"
+        },
+        {
+            "answer": "размеренный",
+            "count": 1,
+            "cluster": "ритмичный",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "разные)))",
+            "count": 1,
+            "cluster": "разные",
+            "sentiment": "neutrals",
+            "corrected": "разные"
+        },
+        {
+            "answer": "рекорд",
+            "count": 1,
+            "cluster": "рекорд",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "рекордный",
+            "count": 1,
+            "cluster": "рекорд",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "релиз",
+            "count": 1,
+            "cluster": "релиз",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "релокация",
+            "count": 1,
+            "cluster": "релокация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ритмичный",
+            "count": 1,
+            "cluster": "ритмичный",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "санкции",
+            "count": 1,
+            "cluster": "санкции",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "свет в конце туннеля",
+            "count": 1,
+            "cluster": "свет в конце туннеля",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сложно",
+            "count": 1,
+            "cluster": "сложный",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сложный",
+            "count": 1,
+            "cluster": "сложный",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сложности и работа",
+            "count": 1,
+            "cluster": "сложности и работа",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "снова тираж",
+            "count": 1,
+            "cluster": "снова тираж",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "специальная операция",
+            "count": 1,
+            "cluster": "специальная операция",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "тревожно",
+            "count": 1,
+            "cluster": "тревожность",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "тревожность",
+            "count": 1,
+            "cluster": "тревожность",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "холодно",
+            "count": 1,
+            "cluster": "холодно",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "хорршие)",
+            "count": 1,
+            "cluster": "хорошие",
+            "sentiment": "positives",
+            "corrected": "хорошие"
+        },
+        {
+            "answer": "хочу пить",
+            "count": 1,
+            "cluster": "хочу пить",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "хочу спать",
+            "count": 1,
+            "cluster": "хочу пить",
+            "sentiment": "neutrals"
+        }
+    ]
+}

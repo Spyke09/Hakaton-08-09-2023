@@ -1,0 +1,118 @@
+{
+    "question": "Что образование сейчас получает от чемпионатов?",
+    "id": 24335,
+    "answers": [
+        {
+            "answer": "векторы для новых программ",
+            "count": 1,
+            "cluster": "векторы для новых программ",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "кейсы для развития",
+            "count": 1,
+            "cluster": "решение для развития",
+            "sentiment": "neutrals",
+            "corrected": "решение для развития"
+        },
+        {
+            "answer": "методики оценки специалистов",
+            "count": 1,
+            "cluster": "методики оценки специалистов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новые решения",
+            "count": 1,
+            "cluster": "новые решения",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новый уровень",
+            "count": 1,
+            "cluster": "новый уровень",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "уровень подготовки студентов",
+            "count": 1,
+            "cluster": "уровень подготовки студентов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "опыт",
+            "count": 1,
+            "cluster": "опыт",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "ориентиры для опережающей подг",
+            "count": 1,
+            "cluster": "ориентиры для опережающей подготовки",
+            "sentiment": "neutrals",
+            "corrected": "ориентиры для опережающей подготовки"
+        },
+        {
+            "answer": "планку стандартов",
+            "count": 1,
+            "cluster": "планку стандартов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "формирование новых стандартов",
+            "count": 1,
+            "cluster": "планку стандартов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "производственные задачи",
+            "count": 1,
+            "cluster": "производственные задачи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "развитие",
+            "count": 1,
+            "cluster": "развитие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "развитие образовательных прог",
+            "count": 1,
+            "cluster": "развитие образовательных программ",
+            "sentiment": "positives",
+            "corrected": "развитие образовательных программ"
+        },
+        {
+            "answer": "связь с практическим производс",
+            "count": 1,
+            "cluster": "связь с практическим производством",
+            "sentiment": "neutrals",
+            "corrected": "связь с практическим производством"
+        },
+        {
+            "answer": "системность образования",
+            "count": 1,
+            "cluster": "системность образования",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "студента",
+            "count": 1,
+            "cluster": "студента",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "целевого студента",
+            "count": 1,
+            "cluster": "студента",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "улучшение инфраструктуры",
+            "count": 1,
+            "cluster": "улучшение инфраструктуры",
+            "sentiment": "positives"
+        }
+    ]
+}

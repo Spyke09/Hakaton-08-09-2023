@@ -1,0 +1,97 @@
+{
+    "question": "Ваши открытия за время обучения на модуле",
+    "id": 24728,
+    "answers": [
+        {
+            "answer": "learning lessons",
+            "count": 1,
+            "cluster": "извлечение уроков проекта",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "showstopper",
+            "count": 1,
+            "cluster": "showstopper",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "всесторонних охват",
+            "count": 1,
+            "cluster": "всесторонний охват",
+            "sentiment": "positives",
+            "corrected": "всесторонний охват"
+        },
+        {
+            "answer": "да",
+            "count": 1,
+            "cluster": "да",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "доска канбан",
+            "count": 1,
+            "cluster": "канбан",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "канбан",
+            "count": 1,
+            "cluster": "канбан",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "извлечение уроков проекта",
+            "count": 1,
+            "cluster": "извлечение уроков проекта",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "много отчетности",
+            "count": 1,
+            "cluster": "много отчетности",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "не было",
+            "count": 1,
+            "cluster": "не было",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новые знания",
+            "count": 1,
+            "cluster": "новые знания",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "оформление проектов",
+            "count": 1,
+            "cluster": "оформление проектов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "применимо в обычной жизни",
+            "count": 1,
+            "cluster": "применимо в обычной жизни",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "проектное мышление",
+            "count": 1,
+            "cluster": "проектное мышление",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "риски",
+            "count": 1,
+            "cluster": "риски",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "способы управления рисками",
+            "count": 1,
+            "cluster": "способы управления рисками",
+            "sentiment": "neutrals"
+        }
+    ]
+}

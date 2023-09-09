@@ -1,0 +1,505 @@
+{
+    "question": "Чему бы вы хотели научиться?",
+    "id": 24689,
+    "answers": [
+        {
+            "answer": "3d графика",
+            "count": 1,
+            "cluster": "3d графика",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "3d графике",
+            "count": 1,
+            "cluster": "3d графика",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "3d моделирование",
+            "count": 1,
+            "cluster": "3d графика",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ar",
+            "count": 1,
+            "cluster": "ar",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "it",
+            "count": 1,
+            "cluster": "информационные технологии",
+            "sentiment": "neutrals",
+            "corrected": "информационные технологии"
+        },
+        {
+            "answer": "js",
+            "count": 1,
+            "cluster": "javascript",
+            "sentiment": "neutrals",
+            "corrected": "javascript"
+        },
+        {
+            "answer": "metaverse",
+            "count": 1,
+            "cluster": "metaverse",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "pr",
+            "count": 1,
+            "cluster": "pr",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "анализировать людей",
+            "count": 1,
+            "cluster": "анализировать людей",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "анализировать тренды",
+            "count": 1,
+            "cluster": "анализировать тренды",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "английский язык",
+            "count": 1,
+            "cluster": "английский язык",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "владеть несколькими свободно",
+            "count": 1,
+            "cluster": "владеть несколькими свободно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "новому языку",
+            "count": 1,
+            "cluster": "новому языку",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "свободный английский",
+            "count": 1,
+            "cluster": "английский язык",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "анимировать",
+            "count": 1,
+            "cluster": "анимировать",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "антиперфекционизму",
+            "count": 1,
+            "cluster": "антиперфекционизму",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "бизнес-анализу",
+            "count": 1,
+            "cluster": "бизнес анализу",
+            "sentiment": "neutrals",
+            "corrected": "бизнес анализу"
+        },
+        {
+            "answer": "большей работоспособности",
+            "count": 1,
+            "cluster": "большей работоспособности",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "быстрее усваивать информацию",
+            "count": 1,
+            "cluster": "быстрее усваивать информацию",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ведение бизнеса",
+            "count": 1,
+            "cluster": "управлять бизнесом",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "управлять бизнесом",
+            "count": 1,
+            "cluster": "управлять бизнесом",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "видеомонтаж",
+            "count": 1,
+            "cluster": "видеомонтаж",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "выступления",
+            "count": 1,
+            "cluster": "выступления",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "вязание спицами",
+            "count": 1,
+            "cluster": "вязание спицами",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "вязанию спицами",
+            "count": 2,
+            "cluster": "вязание спицами",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "готовить",
+            "count": 1,
+            "cluster": "готовить",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "готовить как боженька",
+            "count": 1,
+            "cluster": "готовить",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "готовить и танцевать",
+            "count": 1,
+            "cluster": "готовить",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "графический web дизайн",
+            "count": 1,
+            "cluster": "графический web дизайн",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "делать документальное кино",
+            "count": 1,
+            "cluster": "делать документальное кино",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "делать крутые презы",
+            "count": 1,
+            "cluster": "делать крутые презентации",
+            "sentiment": "positives",
+            "corrected": "делать крутые презентации"
+        },
+        {
+            "answer": "дизайну",
+            "count": 2,
+            "cluster": "дизайну",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "договариваться",
+            "count": 1,
+            "cluster": "договариваться",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "играть на гитаре",
+            "count": 1,
+            "cluster": "играть на гитаре",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ии в образовании",
+            "count": 1,
+            "cluster": "искусственный интеллект в образовании",
+            "sentiment": "neutrals",
+            "corrected": "искусственный интеллект в образовании"
+        },
+        {
+            "answer": "как открыть свой бизнес",
+            "count": 1,
+            "cluster": "как открыть свой бизнес",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "кататься на велосипеде",
+            "count": 1,
+            "cluster": "кататься на велосипеде",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "качествам будущего",
+            "count": 1,
+            "cluster": "качествам будущего",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "командной работе",
+            "count": 1,
+            "cluster": "командной работе",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "критическое мышление",
+            "count": 1,
+            "cluster": "критическое мышление",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ложиться спать в 22.00",
+            "count": 1,
+            "cluster": "ложиться спать в 22 00",
+            "sentiment": "neutrals",
+            "corrected": "ложиться спать в 22 00"
+        },
+        {
+            "answer": "менеджменту",
+            "count": 1,
+            "cluster": "менеджменту",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "научиться учиться",
+            "count": 2,
+            "cluster": "научиться учиться",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "не нервничать",
+            "count": 1,
+            "cluster": "спокойствию",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "спокойствию",
+            "count": 1,
+            "cluster": "спокойствию",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "нетворкинг",
+            "count": 1,
+            "cluster": "окружение специалистов определенной сферы",
+            "sentiment": "positives",
+            "corrected": "окружение специалистов определенной сферы"
+        },
+        {
+            "answer": "нетворкингу",
+            "count": 1,
+            "cluster": "окружение специалистов определенной сферы",
+            "sentiment": "positives",
+            "corrected": "окружение специалистов определенной сферы"
+        },
+        {
+            "answer": "нетворкингу\nплаванью\nс",
+            "count": 1,
+            "cluster": "окружение специалистов определенной сферы",
+            "sentiment": "positives",
+            "corrected": "окружение специалистов определенной сферы"
+        },
+        {
+            "answer": "общаться",
+            "count": 1,
+            "cluster": "общаться",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ораторство",
+            "count": 1,
+            "cluster": "ораторству",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ораторству",
+            "count": 2,
+            "cluster": "ораторству",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "организация пространства",
+            "count": 1,
+            "cluster": "организация пространства",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "петь",
+            "count": 3,
+            "cluster": "петь",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "писать сценарии",
+            "count": 1,
+            "cluster": "писать сценарии",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "плаванье",
+            "count": 1,
+            "cluster": "плаванье",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "плаванью",
+            "count": 2,
+            "cluster": "плаванье",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "плавать",
+            "count": 1,
+            "cluster": "плаванье",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "принятию других мнений",
+            "count": 1,
+            "cluster": "принятию других мнений",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "прогнозированию будущего",
+            "count": 1,
+            "cluster": "прогнозировать будущее",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "прогнозировать будущее",
+            "count": 1,
+            "cluster": "прогнозировать будущее",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "футорологии",
+            "count": 1,
+            "cluster": "прогнозировать будущее",
+            "sentiment": "neutrals",
+            "corrected": "футурологии"
+        },
+        {
+            "answer": "продажи",
+            "count": 1,
+            "cluster": "продажи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "работе с аудио",
+            "count": 1,
+            "cluster": "работе с аудио",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "расслабляться",
+            "count": 1,
+            "cluster": "расслабляться",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "рендерить показы в clo3d",
+            "count": 1,
+            "cluster": "рендерить показы в clo3d",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "рисовать",
+            "count": 2,
+            "cluster": "рисовать",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "самооборона",
+            "count": 1,
+            "cluster": "самообороне",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "самообороне",
+            "count": 2,
+            "cluster": "самообороне",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "самопрезентации",
+            "count": 1,
+            "cluster": "самопрезентации",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "скетчить на экране эскизы одеж",
+            "count": 1,
+            "cluster": "скетчить на экране эскизы одежды",
+            "sentiment": "neutrals",
+            "corrected": "скетчить на экране эскизы одежды"
+        },
+        {
+            "answer": "софт скиллам",
+            "count": 2,
+            "cluster": "софт умение",
+            "sentiment": "neutrals",
+            "corrected": "софт умение"
+        },
+        {
+            "answer": "способности учиться",
+            "count": 1,
+            "cluster": "научиться учиться",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "учиться",
+            "count": 2,
+            "cluster": "научиться учиться",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "стоять на руках",
+            "count": 1,
+            "cluster": "стоять на руках",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "тайм-менеджмент",
+            "count": 1,
+            "cluster": "тайм менеджмент",
+            "sentiment": "neutrals",
+            "corrected": "тайм менеджмент"
+        },
+        {
+            "answer": "танцевать профессионально",
+            "count": 1,
+            "cluster": "танцевать профессионально",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "управление персоналом",
+            "count": 1,
+            "cluster": "управление персоналом",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "управление проектами",
+            "count": 1,
+            "cluster": "управление проектами",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "управлению вниманием",
+            "count": 1,
+            "cluster": "управлению вниманием",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "четко делегировать задачи",
+            "count": 1,
+            "cluster": "четко делегировать задачи",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "читать мысли на расстоянии",
+            "count": 1,
+            "cluster": "читать мысли на расстоянии",
+            "sentiment": "neutrals"
+        }
+    ]
+}

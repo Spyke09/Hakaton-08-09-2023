@@ -1,0 +1,72 @@
+{
+    "question": "Какие виды волонтерства вам известны?",
+    "id": 25708,
+    "answers": [
+        {
+            "answer": "pro bono",
+            "count": 1,
+            "cluster": "pro bono",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "волонтёры победы",
+            "count": 1,
+            "cluster": "волонтёры победы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "медицинское",
+            "count": 4,
+            "cluster": "медицинское",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "научное",
+            "count": 3,
+            "cluster": "научное",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "патриотическое",
+            "count": 1,
+            "cluster": "патриотическое",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "педагогическое волонтерство",
+            "count": 1,
+            "cluster": "педагогическое волонтерство",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "помощь животным",
+            "count": 1,
+            "cluster": "помощь животным",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "просветительское",
+            "count": 1,
+            "cluster": "просветительское",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "событийное",
+            "count": 2,
+            "cluster": "событийное",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "спортивное",
+            "count": 1,
+            "cluster": "спортивное",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "экологическое",
+            "count": 1,
+            "cluster": "экологическое",
+            "sentiment": "neutrals"
+        }
+    ]
+}

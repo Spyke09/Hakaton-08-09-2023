@@ -1,0 +1,37 @@
+{
+    "question": "Мой город/город где я живу",
+    "id": 24446,
+    "answers": [
+        {
+            "answer": "г. усолье-сибирское",
+            "count": 1,
+            "cluster": "усолье-сибирское",
+            "sentiment": "neutrals",
+            "corrected": "г усолье-сибирское"
+        },
+        {
+            "answer": "усолье-сибирское",
+            "count": 3,
+            "cluster": "усолье-сибирское",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "железногорск",
+            "count": 1,
+            "cluster": "железногорск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "москва",
+            "count": 1,
+            "cluster": "москва",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новосибирск",
+            "count": 1,
+            "cluster": "новосибирск",
+            "sentiment": "neutrals"
+        }
+    ]
+}

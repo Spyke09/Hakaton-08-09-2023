@@ -1,0 +1,77 @@
+{
+    "question": "Какие направления работы, на ваш взгляд, обязательно должны быть в деятельности Совета молодежи?",
+    "id": 21819,
+    "answers": [
+        {
+            "answer": "развитие it",
+            "count": 1,
+            "cluster": "развитие it",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "тем. встречи квиз",
+            "count": 1,
+            "cluster": "тематические встречи опрос",
+            "sentiment": "neutrals",
+            "corrected": "тематические встречи опрос"
+        },
+        {
+            "answer": "тех. туры",
+            "count": 1,
+            "cluster": "технические туры",
+            "sentiment": "neutrals",
+            "corrected": "технические туры"
+        },
+        {
+            "answer": "технические туры на аэс",
+            "count": 1,
+            "cluster": "технические туры на аэс",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "технические туры на аэс и т.д.",
+            "count": 1,
+            "cluster": "технические туры на аэс",
+            "sentiment": "neutrals",
+            "corrected": "технические туры на аэс и т д"
+        },
+        {
+            "answer": "техтуры",
+            "count": 1,
+            "cluster": "технические туры",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "туристическое тех.туры",
+            "count": 1,
+            "cluster": "технические туры",
+            "sentiment": "neutrals",
+            "corrected": "туристическое технические туры"
+        },
+        {
+            "answer": "участие в разрешении проблем",
+            "count": 1,
+            "cluster": "участие в разрешении проблем",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "цех",
+            "count": 1,
+            "cluster": "цех",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "цифровизация",
+            "count": 1,
+            "cluster": "цифровизация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "чтгдк-да...",
+            "count": 1,
+            "cluster": "чтгдк да",
+            "sentiment": "neutrals",
+            "corrected": "чтгдк да"
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "question": "Ваш основной вывод по вчерашнему дню. 1-2 слова",
+    "id": 25365,
+    "answers": [
+        {
+            "answer": "а были ли центрифуги?",
+            "count": 1,
+            "cluster": "а были ли центрифуги",
+            "sentiment": "neutrals",
+            "corrected": "а были ли центрифуги"
+        },
+        {
+            "answer": "будем работать!",
+            "count": 1,
+            "cluster": "будем работать",
+            "sentiment": "neutrals",
+            "corrected": "будем работать"
+        },
+        {
+            "answer": "важно знать процессы",
+            "count": 1,
+            "cluster": "важно знать процессы",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "нам это надо",
+            "count": 1,
+            "cluster": "нам это надо",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "полезно",
+            "count": 3,
+            "cluster": "важно познавательно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "важно познавательно",
+            "count": 1,
+            "cluster": "важно познавательно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "есть о чем подумать",
+            "count": 1,
+            "cluster": "есть о чем подумать",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "знания",
+            "count": 1,
+            "cluster": "знания",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "новые знания получены",
+            "count": 1,
+            "cluster": "знания",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "познавательно",
+            "count": 5,
+            "cluster": "важно познавательно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "интересно",
+            "count": 3,
+            "cluster": "интересно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "не увидели суздаль",
+            "count": 3,
+            "cluster": "не увидели суздаль",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "надо чаще",
+            "count": 1,
+            "cluster": "надо чаще",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "надо чаще выезжать",
+            "count": 1,
+            "cluster": "надо чаще",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новые впечатление",
+            "count": 1,
+            "cluster": "новые впечатления",
+            "sentiment": "positives",
+            "corrected": "новые впечатления"
+        },
+        {
+            "answer": "оптимизировать возможно все",
+            "count": 1,
+            "cluster": "оптимизировать возможно все",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "плодотворно",
+            "count": 1,
+            "cluster": "плодотворно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "принято в работу",
+            "count": 1,
+            "cluster": "принято в работу",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "продуктивно",
+            "count": 2,
+            "cluster": "плодотворно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "эффективность",
+            "count": 1,
+            "cluster": "плодотворно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "производительно",
+            "count": 1,
+            "cluster": "плодотворно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "процесс идет!",
+            "count": 1,
+            "cluster": "процесс идет",
+            "sentiment": "neutrals",
+            "corrected": "процесс идет"
+        },
+        {
+            "answer": "пср",
+            "count": 1,
+            "cluster": "производственная система росатома",
+            "sentiment": "neutrals",
+            "corrected": "производственная система росатома"
+        },
+        {
+            "answer": "пср на кмз на высшем уровне",
+            "count": 1,
+            "cluster": "производственная система росатома на ковровском механическом заводе на высшем уровне",
+            "sentiment": "positives",
+            "corrected": "производственная система росатома на ковровском механическом заводе на высшем уровне"
+        },
+        {
+            "answer": "супер!",
+            "count": 1,
+            "cluster": "супер",
+            "sentiment": "positives",
+            "corrected": "супер"
+        },
+        {
+            "answer": "у нас прекрасная команда!",
+            "count": 1,
+            "cluster": "у нас прекрасная команда",
+            "sentiment": "positives",
+            "corrected": "у нас прекрасная команда"
+        },
+        {
+            "answer": "увлечённые люди многое могут",
+            "count": 1,
+            "cluster": "увлечённые люди многое могут",
+            "sentiment": "neutrals"
+        }
+    ]
+}

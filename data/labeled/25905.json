@@ -1,0 +1,126 @@
+{
+    "question": "Напишите 3 слова или словосочетания отражающие ваше ощущение от прошедшего спринта",
+    "id": 25905,
+    "answers": [
+        {
+            "answer": "быстро",
+            "count": 1,
+            "cluster": "быстро",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "в последний момент",
+            "count": 1,
+            "cluster": "в последний момент",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "гармонично",
+            "count": 1,
+            "cluster": "гармонично",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "душный",
+            "count": 1,
+            "cluster": "душный",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "зима близко",
+            "count": 1,
+            "cluster": "зима близко",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "легко",
+            "count": 1,
+            "cluster": "легко",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "много изменений",
+            "count": 1,
+            "cluster": "много изменений",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "неопределенный",
+            "count": 1,
+            "cluster": "неопределенный",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "океан груммингов",
+            "count": 1,
+            "cluster": "океан груммингов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "отставание",
+            "count": 1,
+            "cluster": "отставание",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "первый спринт",
+            "count": 1,
+            "cluster": "первый спринт",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "поздно тестируемый",
+            "count": 1,
+            "cluster": "поздно тестируемый",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "приемлемо",
+            "count": 1,
+            "cluster": "приемлемо",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "продуктивно",
+            "count": 2,
+            "cluster": "продуктивно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "сложный",
+            "count": 1,
+            "cluster": "тяжелый",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "тяжелый",
+            "count": 1,
+            "cluster": "тяжелый",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "смена требований",
+            "count": 1,
+            "cluster": "смена требований",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "смена целей",
+            "count": 1,
+            "cluster": "смена целей",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "спокойно",
+            "count": 1,
+            "cluster": "спокойно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "хаос",
+            "count": 1,
+            "cluster": "хаос",
+            "sentiment": "negatives"
+        }
+    ]
+}

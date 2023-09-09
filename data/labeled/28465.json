@@ -1,0 +1,334 @@
+{
+    "question": "Какие еще направления берем в работу молодежного сообщества на следующий год?",
+    "id": 28465,
+    "answers": [
+        {
+            "answer": "28 город",
+            "count": 1,
+            "cluster": "28 город",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "80 летие атомной отросли",
+            "count": 1,
+            "cluster": "80 лет атомной отрасли",
+            "sentiment": "neutrals",
+            "corrected": "80 лет атомной отрасли"
+        },
+        {
+            "answer": "it",
+            "count": 1,
+            "cluster": "информационные технологии",
+            "sentiment": "neutrals",
+            "corrected": "информационные технологии"
+        },
+        {
+            "answer": "pr",
+            "count": 1,
+            "cluster": "пиар",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "пиар",
+            "count": 10,
+            "cluster": "пиар",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "пиар рабочих профессий",
+            "count": 1,
+            "cluster": "пиар рабочих профессий",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "пиар росатома",
+            "count": 1,
+            "cluster": "пиар росатома",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "рекламная компания",
+            "count": 1,
+            "cluster": "рекламная компания",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "атомная история",
+            "count": 1,
+            "cluster": "атомная история",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "безопасность",
+            "count": 19,
+            "cluster": "безопасность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "безопасность в городах",
+            "count": 1,
+            "cluster": "безопасность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "борьба с выгоранием",
+            "count": 1,
+            "cluster": "борьба с выгоранием",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "бренд",
+            "count": 5,
+            "cluster": "брендирование",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "брендирование",
+            "count": 1,
+            "cluster": "брендирование",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "вовлеченность",
+            "count": 1,
+            "cluster": "вовлеченность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "волонтерство",
+            "count": 3,
+            "cluster": "волонтерство",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "дебюр",
+            "count": 7,
+            "cluster": "дебюрократизация",
+            "sentiment": "positives",
+            "corrected": "дебюрократизация"
+        },
+        {
+            "answer": "документальное кино",
+            "count": 1,
+            "cluster": "документальное кино",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "достаточно",
+            "count": 1,
+            "cluster": "достаточно",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "досуг",
+            "count": 1,
+            "cluster": "досуг",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "зелёная политика",
+            "count": 1,
+            "cluster": "экология",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "экология",
+            "count": 8,
+            "cluster": "экология",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "интеграция энергодара",
+            "count": 1,
+            "cluster": "интеграция энергодара",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "поддержка и развитие энергодар",
+            "count": 1,
+            "cluster": "интеграция энергодара",
+            "sentiment": "positives",
+            "corrected": "поддержка и развитие энергодара"
+        },
+        {
+            "answer": "поддржка эеергодара",
+            "count": 1,
+            "cluster": "интеграция энергодара",
+            "sentiment": "positives",
+            "corrected": "поддержка энергодара"
+        },
+        {
+            "answer": "энергодар",
+            "count": 7,
+            "cluster": "интеграция энергодара",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "информирование",
+            "count": 1,
+            "cluster": "информирование",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "качественная коммуникация",
+            "count": 1,
+            "cluster": "качественная коммуникация",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "корпоративное предприниматель",
+            "count": 2,
+            "cluster": "корпоративное предпринимательство",
+            "sentiment": "neutrals",
+            "corrected": "корпоративное предпринимательство"
+        },
+        {
+            "answer": "которые зажигают",
+            "count": 1,
+            "cluster": "которые зажигают",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "кпи",
+            "count": 1,
+            "cluster": "ключевые показатели эффективности",
+            "sentiment": "neutrals",
+            "corrected": "ключевые показатели эффективности"
+        },
+        {
+            "answer": "кпр",
+            "count": 1,
+            "cluster": "корпоративные предприниматели росатома",
+            "sentiment": "neutrals",
+            "corrected": "корпоративные предприниматели росатома"
+        },
+        {
+            "answer": "люди и города",
+            "count": 13,
+            "cluster": "люди и города",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мотивация",
+            "count": 1,
+            "cluster": "мотивация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мотивация сотрудников",
+            "count": 1,
+            "cluster": "мотивация",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "наука",
+            "count": 5,
+            "cluster": "наука",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "научные конференции",
+            "count": 1,
+            "cluster": "научные конференции",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новая модель лидерства",
+            "count": 1,
+            "cluster": "новая модель лидерства",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новые бизнесы",
+            "count": 2,
+            "cluster": "новые бизнесы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новые технологии в ит",
+            "count": 1,
+            "cluster": "новые технологии в информационные технологии",
+            "sentiment": "neutrals",
+            "corrected": "новые технологии в информационные технологии"
+        },
+        {
+            "answer": "политика",
+            "count": 2,
+            "cluster": "политика",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "помощь запорожью",
+            "count": 1,
+            "cluster": "помощь запорожью",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "преемственность",
+            "count": 1,
+            "cluster": "преемственность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "престиж инженерной профессии",
+            "count": 1,
+            "cluster": "престиж инженерной профессии",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "престиж росатома",
+            "count": 1,
+            "cluster": "престиж росатома",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "развитие среды на предприятиях",
+            "count": 1,
+            "cluster": "развитие среды на предприятиях",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "раскрытие потенциала",
+            "count": 1,
+            "cluster": "раскрытие потенциала",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "семейные ценности",
+            "count": 1,
+            "cluster": "семейные ценности",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "смена",
+            "count": 2,
+            "cluster": "смена",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "создание шт ед в гкдлялидерасм",
+            "count": 1,
+            "cluster": "создание шт ед в госкорпорации для лидер асм",
+            "sentiment": "neutrals",
+            "corrected": "создание шт ед в госкорпорации для лидер асм"
+        },
+        {
+            "answer": "технические туры",
+            "count": 1,
+            "cluster": "технические туры",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "фестиваль молодежных культур",
+            "count": 1,
+            "cluster": "фестиваль молодежных культур",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "школа лидеров",
+            "count": 1,
+            "cluster": "школа лидеров",
+            "sentiment": "neutrals"
+        }
+    ]
+}

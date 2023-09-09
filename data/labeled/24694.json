@@ -1,0 +1,36 @@
+{
+    "question": "Самое главное качество лицеиста?",
+    "id": 24694,
+    "answers": [
+        {
+            "answer": "доброта",
+            "count": 2,
+            "cluster": "доброта",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "заинтересованность",
+            "count": 1,
+            "cluster": "заинтересованность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "порядочность",
+            "count": 1,
+            "cluster": "порядочность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "честность",
+            "count": 1,
+            "cluster": "честность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "честь",
+            "count": 1,
+            "cluster": "честь",
+            "sentiment": "positives"
+        }
+    ]
+}

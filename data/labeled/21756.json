@@ -1,0 +1,157 @@
+{
+    "question": "Опишите одним словом ваше текущее состояние",
+    "id": 21756,
+    "answers": [
+        {
+            "answer": "сложно",
+            "count": 1,
+            "cluster": "сложно",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "тяжело",
+            "count": 1,
+            "cluster": "сложно",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "смятение",
+            "count": 2,
+            "cluster": "смятение",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "собранность",
+            "count": 2,
+            "cluster": "сосредоточенность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "сосредоточенность",
+            "count": 2,
+            "cluster": "сосредоточенность",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "сожаление",
+            "count": 1,
+            "cluster": "сожаление",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "стабильно",
+            "count": 3,
+            "cluster": "стабильное",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "стабильное",
+            "count": 15,
+            "cluster": "стабильное",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "стабильность",
+            "count": 3,
+            "cluster": "стабильное",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "стагнация",
+            "count": 1,
+            "cluster": "стагнация",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "стараюсь отвлечься",
+            "count": 1,
+            "cluster": "стараюсь отвлечься",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "стресс",
+            "count": 18,
+            "cluster": "стресс",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "твик из южного парка",
+            "count": 1,
+            "cluster": "твик из южного парка",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "текущее положение в стране",
+            "count": 1,
+            "cluster": "текущее положение в стране",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "только вперед)",
+            "count": 1,
+            "cluster": "только вперед",
+            "sentiment": "positives",
+            "corrected": "только вперед"
+        },
+        {
+            "answer": "ультрамыслительное",
+            "count": 1,
+            "cluster": "ультрамыслительное",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "упадок",
+            "count": 1,
+            "cluster": "упадок",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "упадок сил",
+            "count": 1,
+            "cluster": "упадок",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "хаос",
+            "count": 1,
+            "cluster": "хаос",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "целеустремленность",
+            "count": 1,
+            "cluster": "целеустремлённость",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "целеустремлённость",
+            "count": 1,
+            "cluster": "целеустремлённость",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "цели понятны",
+            "count": 1,
+            "cluster": "цели понятны",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "частые перепады настроения",
+            "count": 1,
+            "cluster": "частые перепады настроения",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "эмоциональная мясорубка",
+            "count": 1,
+            "cluster": "частые перепады настроения",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "шок",
+            "count": 2,
+            "cluster": "шок",
+            "sentiment": "neutrals"
+        }
+    ]
+}

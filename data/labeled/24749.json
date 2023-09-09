@@ -1,0 +1,20 @@
+{
+    "question": "От чего надо отказаться на стороне проектной команды?",
+    "id": 24749,
+    "answers": [
+        {
+            "answer": "ни от чего",
+            "count": 2,
+            "cluster": "ни от чего",
+            "sentiment": "context cluster",
+            "corrected": "все корректно"
+        },
+        {
+            "answer": "ничего",
+            "count": 1,
+            "cluster": "ничего",
+            "sentiment": "context cluster",
+            "corrected": "все корректно"
+        }
+    ]
+}

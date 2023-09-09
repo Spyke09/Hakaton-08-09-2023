@@ -1,0 +1,85 @@
+{
+    "question": "What country do you represent?",
+    "id": 25722,
+    "answers": [
+        {
+            "answer": "armenia",
+            "count": 3,
+            "cluster": "armenia",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "bangladesh",
+            "count": 1,
+            "cluster": "bangladesh",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "belarus",
+            "count": 3,
+            "cluster": "belarus",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "brazil",
+            "count": 5,
+            "cluster": "brazil",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "india",
+            "count": 7,
+            "cluster": "india",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "kazakhstan",
+            "count": 10,
+            "cluster": "kazakhstan",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "kenya",
+            "count": 3,
+            "cluster": "kenya",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "russia",
+            "count": 14,
+            "cluster": "russia",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "russia 🇷🇺🇷🇺🇷🇺🇷🇺",
+            "count": 1,
+            "cluster": "russia",
+            "sentiment": "neutrals",
+            "corrected": "russia"
+        },
+        {
+            "answer": "russian federation",
+            "count": 1,
+            "cluster": "russia",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "south africa",
+            "count": 9,
+            "cluster": "south africa",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "uzbekistan",
+            "count": 7,
+            "cluster": "uzbekistan",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "узбекистан",
+            "count": 1,
+            "cluster": "uzbekistan",
+            "sentiment": "neutrals"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "question": "Читательская грамотность - это",
+    "id": 23764,
+    "answers": [
+        {
+            "answer": "осознанное чтение",
+            "count": 1,
+            "cluster": "осознанное чтение",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "осознание прочитанного",
+            "count": 1,
+            "cluster": "осознание прочитанного",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "способность понимать текст",
+            "count": 1,
+            "cluster": "способность понимать текст",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "способность человека понимать",
+            "count": 1,
+            "cluster": "способность понимать текст",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "это понимание смысла текста.",
+            "count": 1,
+            "cluster": "осознание прочитанного",
+            "sentiment": "positives",
+            "corrected": "это понимание смысла текста"
+        },
+        {
+            "answer": "это способность понимать текст",
+            "count": 1,
+            "cluster": "способность понимать текст",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "читательская грамотность -",
+            "count": 1,
+            "cluster": "читательская грамотность",
+            "sentiment": "positives",
+            "corrected": "читательская грамотность"
+        }
+    ]
+}

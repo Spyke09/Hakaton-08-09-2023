@@ -1,0 +1,69 @@
+{
+    "question": "Назовите одно прилагательное, которое ассоциируется у вас с Росатомом",
+    "id": 27654,
+    "answers": [
+        {
+            "answer": "гибкий",
+            "count": 1,
+            "cluster": "гибкий",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "заинтересованный",
+            "count": 1,
+            "cluster": "заинтересованный",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "командный",
+            "count": 1,
+            "cluster": "командный",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "организованный",
+            "count": 1,
+            "cluster": "организованный",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "перспективность",
+            "count": 3,
+            "cluster": "перспективность",
+            "sentiment": "context sentiment",
+            "corrected": "перспективы"
+        },
+        {
+            "answer": "перспективы",
+            "count": 1,
+            "cluster": "перспективы",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "постоянный",
+            "count": 1,
+            "cluster": "постоянный",
+            "sentiment": "context sentiment",
+            "corrected": "стабильный"
+        },
+        {
+            "answer": "прорыв",
+            "count": 1,
+            "cluster": "прорыв",
+            "sentiment": "context sentiment",
+            "corrected": "развитие"
+        },
+        {
+            "answer": "родной",
+            "count": 1,
+            "cluster": "родной",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "современный",
+            "count": 5,
+            "cluster": "современный",
+            "sentiment": "context sentiment"
+        }
+    ]
+}

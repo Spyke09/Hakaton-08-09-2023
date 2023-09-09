@@ -1,0 +1,60 @@
+{
+    "question": "Каким словом можно описать состояние молодежи Росатома сегодня?",
+    "id": 24519,
+    "answers": [
+        {
+            "answer": "активность",
+            "count": 2,
+            "cluster": "активность",
+            "sentiment": "context sentiment",
+            "corrected": "активные"
+        },
+        {
+            "answer": "в ресурсе",
+            "count": 1,
+            "cluster": "в ресурсе",
+            "sentiment": "context cluster",
+            "corrected": "рабочее"
+        },
+        {
+            "answer": "в шоколаде",
+            "count": 1,
+            "cluster": "в шоколаде",
+            "sentiment": "context sentiment",
+            "corrected": "хорошее"
+        },
+        {
+            "answer": "вовлеченная",
+            "count": 1,
+            "cluster": "вовлеченная",
+            "sentiment": "context sentiment",
+            "corrected": "вовлеченное"
+        },
+        {
+            "answer": "вовлеченное",
+            "count": 2,
+            "cluster": "вовлеченное",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "вовлеченость",
+            "count": 1,
+            "cluster": "вовлеченность",
+            "sentiment": "context sentiment",
+            "corrected": "вовлеченное"
+        },
+        {
+            "answer": "разрозненные",
+            "count": 1,
+            "cluster": "разрозненные",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "спит",
+            "count": 1,
+            "cluster": "спит",
+            "sentiment": "context cluster",
+            "corrected": "вялая"
+        }
+    ]
+}

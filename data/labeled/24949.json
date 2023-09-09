@@ -1,0 +1,30 @@
+{
+    "question": "Ваши открытия за время обучения на модуле",
+    "id": 24949,
+    "answers": [
+        {
+            "answer": "информация о rfid метках",
+            "count": 1,
+            "cluster": "информация о rfid метках",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нет",
+            "count": 1,
+            "cluster": "нет",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "увидел знакомое в новом свете",
+            "count": 1,
+            "cluster": "увидел знакомое в новом свете",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "цифровой информатизм",
+            "count": 1,
+            "cluster": "цифровой информатизм",
+            "sentiment": "neutrals"
+        }
+    ]
+}

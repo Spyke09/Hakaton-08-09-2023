@@ -1,0 +1,59 @@
+{
+    "question": "Какие у вас впечатления после встречи с А.Е. Лихачевым?",
+    "id": 28463,
+    "answers": [
+        {
+            "answer": "мотивационно",
+            "count": 1,
+            "cluster": "мотивационно",
+            "sentiment": "context sentiment",
+            "corrected": "мотивация"
+        },
+        {
+            "answer": "во!",
+            "count": 1,
+            "cluster": "во",
+            "sentiment": "context sentiment",
+            "corrected": "великолепно"
+        },
+        {
+            "answer": "глубина мысли",
+            "count": 2,
+            "cluster": "глубина мысли",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "движение вперёд!",
+            "count": 1,
+            "cluster": "движение вперёд",
+            "sentiment": "context sentiment",
+            "corrected": "движение вперёд"
+        },
+        {
+            "answer": "заряд",
+            "count": 3,
+            "cluster": "заряд",
+            "sentiment": "context sentiment",
+            "corrected": "заряд энергией"
+        },
+        {
+            "answer": "заряжает",
+            "count": 2,
+            "cluster": "заряжает",
+            "sentiment": "context sentiment",
+            "corrected": "заряд энергией"
+        },
+        {
+            "answer": "душевно",
+            "count": 3,
+            "cluster": "душевно",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "теплота",
+            "count": 1,
+            "cluster": "теплота",
+            "sentiment": "context sentiment"
+        }
+    ]
+}

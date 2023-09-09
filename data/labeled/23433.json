@@ -1,0 +1,55 @@
+{
+    "question": "Что поможет сделать программу более полезной для вас?",
+    "id": 23433,
+    "answers": [
+        {
+            "answer": "возможность выбирать задания",
+            "count": 1,
+            "cluster": "возможность выбирать задания",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "все хорошо",
+            "count": 1,
+            "cluster": "все хорошо",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "детальное разъяснения",
+            "count": 1,
+            "cluster": "детальные разъяснения",
+            "sentiment": "positives",
+            "corrected": "детальные разъяснения"
+        },
+        {
+            "answer": "заранее изучить теорию",
+            "count": 1,
+            "cluster": "заранее изучить теорию",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "кроме игры неплохо бы теорию",
+            "count": 1,
+            "cluster": "кроме игры неплохо бы теорию",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ограничения по инфбезопасности",
+            "count": 1,
+            "cluster": "ограничения по инфбезопасности",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "понимание что у нас есть",
+            "count": 1,
+            "cluster": "понимание что у нас есть",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "проходить индивидуально",
+            "count": 1,
+            "cluster": "проходить индивидуально",
+            "sentiment": "neutrals"
+        }
+    ]
+}

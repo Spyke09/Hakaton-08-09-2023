@@ -1,0 +1,48 @@
+{
+    "question": "Что поможет сделать программу более полезной для вас?",
+    "id": 23423,
+    "answers": [
+        {
+            "answer": "больше примеров из росатома",
+            "count": 1,
+            "cluster": "больше примеров из росатома",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "включение теории",
+            "count": 1,
+            "cluster": "включение теории",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "все",
+            "count": 1,
+            "cluster": "все",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "очное участие",
+            "count": 2,
+            "cluster": "очный формат",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "очный формат",
+            "count": 2,
+            "cluster": "очный формат",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "практика",
+            "count": 1,
+            "cluster": "практика",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "устранение технических проблем",
+            "count": 1,
+            "cluster": "устранение технических проблем",
+            "sentiment": "positives"
+        }
+    ]
+}

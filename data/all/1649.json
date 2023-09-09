@@ -1,0 +1,346 @@
+{
+    "id": 1649,
+    "question": "Что нового (из технологий, языков и тд) вы начали изучать в этом году  ?",
+    "answers": [
+        {
+            "answer": "nodejs",
+            "count": 1
+        },
+        {
+            "answer": "express.js",
+            "count": 1
+        },
+        {
+            "answer": "node js",
+            "count": 1
+        },
+        {
+            "answer": "kafka",
+            "count": 1
+        },
+        {
+            "answer": "nginx",
+            "count": 1
+        },
+        {
+            "answer": "vue",
+            "count": 1
+        },
+        {
+            "answer": "ai",
+            "count": 1
+        },
+        {
+            "answer": "vuejs",
+            "count": 1
+        },
+        {
+            "answer": "ci/cd",
+            "count": 1
+        },
+        {
+            "answer": "docker",
+            "count": 1
+        },
+        {
+            "answer": "nuxt.js",
+            "count": 1
+        },
+        {
+            "answer": "docker",
+            "count": 1
+        },
+        {
+            "answer": "redis",
+            "count": 1
+        },
+        {
+            "answer": "node js",
+            "count": 1
+        },
+        {
+            "answer": "next.js",
+            "count": 1
+        },
+        {
+            "answer": "c#",
+            "count": 1
+        },
+        {
+            "answer": "ssh",
+            "count": 1
+        },
+        {
+            "answer": "java",
+            "count": 1
+        },
+        {
+            "answer": "c#",
+            "count": 1
+        },
+        {
+            "answer": "mobx",
+            "count": 1
+        },
+        {
+            "answer": "docker",
+            "count": 1
+        },
+        {
+            "answer": "vuejs, bootstrap, typescript",
+            "count": 1
+        },
+        {
+            "answer": "deep learning",
+            "count": 1
+        },
+        {
+            "answer": "mysql",
+            "count": 1
+        },
+        {
+            "answer": "vue.js",
+            "count": 1
+        },
+        {
+            "answer": "js",
+            "count": 1
+        },
+        {
+            "answer": "java, cordova, bitrix.vue",
+            "count": 1
+        },
+        {
+            "answer": "freemarker",
+            "count": 1
+        },
+        {
+            "answer": "python, js,написание чат-ботов",
+            "count": 1
+        },
+        {
+            "answer": "vue",
+            "count": 1
+        },
+        {
+            "answer": "node js",
+            "count": 1
+        },
+        {
+            "answer": "devops",
+            "count": 1
+        },
+        {
+            "answer": "git",
+            "count": 1
+        },
+        {
+            "answer": "системное администрирование",
+            "count": 1
+        },
+        {
+            "answer": "redis, библиотеки .net c# core",
+            "count": 1
+        },
+        {
+            "answer": "typescript",
+            "count": 1
+        },
+        {
+            "answer": "react",
+            "count": 1
+        },
+        {
+            "answer": "node.js",
+            "count": 1
+        },
+        {
+            "answer": "react",
+            "count": 1
+        },
+        {
+            "answer": "ci/cd",
+            "count": 1
+        },
+        {
+            "answer": "react",
+            "count": 1
+        },
+        {
+            "answer": "технология серых схем",
+            "count": 1
+        },
+        {
+            "answer": "среда разработчика visualcode",
+            "count": 1
+        },
+        {
+            "answer": "node.js",
+            "count": 1
+        },
+        {
+            "answer": "caml запросы",
+            "count": 1
+        },
+        {
+            "answer": "vuejs",
+            "count": 1
+        },
+        {
+            "answer": "gulp",
+            "count": 1
+        },
+        {
+            "answer": "pm2",
+            "count": 1
+        },
+        {
+            "answer": "c#",
+            "count": 1
+        },
+        {
+            "answer": "node.js",
+            "count": 1
+        },
+        {
+            "answer": "vue",
+            "count": 1
+        },
+        {
+            "answer": "typescript",
+            "count": 1
+        },
+        {
+            "answer": "telegram bot api",
+            "count": 1
+        },
+        {
+            "answer": "react",
+            "count": 1
+        },
+        {
+            "answer": "powershall",
+            "count": 1
+        },
+        {
+            "answer": "vue",
+            "count": 1
+        },
+        {
+            "answer": "vue.js",
+            "count": 1
+        },
+        {
+            "answer": "react",
+            "count": 1
+        },
+        {
+            "answer": "vue, nodejs, react",
+            "count": 1
+        },
+        {
+            "answer": "sql",
+            "count": 1
+        },
+        {
+            "answer": "grpc",
+            "count": 1
+        },
+        {
+            "answer": "kroki",
+            "count": 1
+        },
+        {
+            "answer": "vue.js",
+            "count": 1
+        },
+        {
+            "answer": "react",
+            "count": 1
+        },
+        {
+            "answer": "signalr",
+            "count": 1
+        },
+        {
+            "answer": "vue",
+            "count": 1
+        },
+        {
+            "answer": "php",
+            "count": 1
+        },
+        {
+            "answer": "-",
+            "count": 1
+        },
+        {
+            "answer": "ml",
+            "count": 1
+        },
+        {
+            "answer": "java",
+            "count": 1
+        },
+        {
+            "answer": "vue javascript",
+            "count": 1
+        },
+        {
+            "answer": "jquery",
+            "count": 1
+        },
+        {
+            "answer": "vue.js",
+            "count": 1
+        },
+        {
+            "answer": "gulp",
+            "count": 1
+        },
+        {
+            "answer": "нейросети",
+            "count": 1
+        },
+        {
+            "answer": "asciidoc",
+            "count": 1
+        },
+        {
+            "answer": "vue",
+            "count": 1
+        },
+        {
+            "answer": "java",
+            "count": 1
+        },
+        {
+            "answer": "vue",
+            "count": 1
+        },
+        {
+            "answer": "ml",
+            "count": 1
+        },
+        {
+            "answer": "redis",
+            "count": 1
+        },
+        {
+            "answer": "yml",
+            "count": 1
+        },
+        {
+            "answer": "highcharts",
+            "count": 1
+        },
+        {
+            "answer": "go",
+            "count": 1
+        },
+        {
+            "answer": "vue",
+            "count": 1
+        }
+    ]
+}

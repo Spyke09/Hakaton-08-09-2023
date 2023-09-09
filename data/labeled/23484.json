@@ -1,0 +1,76 @@
+{
+    "question": "Что планируете применять из пройденного обучения в ближайшее время?",
+    "id": 23484,
+    "answers": [
+        {
+            "answer": "анализ баланса",
+            "count": 1,
+            "cluster": "финансовый анализ",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "анализ баланса и отчета о приб",
+            "count": 1,
+            "cluster": "финансовый анализ",
+            "sentiment": "neutrals",
+            "corrected": "анализ баланса и отчета о прибыли"
+        },
+        {
+            "answer": "анализ запасов",
+            "count": 1,
+            "cluster": "анализ запасов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "использовать данные на совещан",
+            "count": 1,
+            "cluster": "использовать данные на совещаниях",
+            "sentiment": "neutrals",
+            "corrected": "использовать данные на совещаниях"
+        },
+        {
+            "answer": "по ключевым фррмулам",
+            "count": 1,
+            "cluster": "по ключевым формулам",
+            "sentiment": "neutrals",
+            "corrected": "по ключевым формулам"
+        },
+        {
+            "answer": "повышение производительности",
+            "count": 1,
+            "cluster": "повышение производительности",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "приехать на работу",
+            "count": 1,
+            "cluster": "приехать на работу",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сделать выписку по ключевым те",
+            "count": 1,
+            "cluster": "сделать выписку по ключевым те",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сокращать себестоимость",
+            "count": 1,
+            "cluster": "сокращать себестоимость",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "управление расходной частью",
+            "count": 1,
+            "cluster": "управление расходной частью",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "фин анализ",
+            "count": 1,
+            "cluster": "финансовый анализ",
+            "sentiment": "neutrals",
+            "corrected": "финансовый анализ"
+        }
+    ]
+}

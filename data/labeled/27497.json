@@ -1,0 +1,724 @@
+{
+    "question": "Какой город Вы представляете?",
+    "id": 27497,
+    "answers": [
+        {
+            "answer": "ангарск",
+            "count": 3,
+            "cluster": "ангарск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "архангельск",
+            "count": 2,
+            "cluster": "архангельск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "балаково",
+            "count": 2,
+            "cluster": "балаково",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "барнаул",
+            "count": 1,
+            "cluster": "барнаул",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "белгород",
+            "count": 2,
+            "cluster": "белгород",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "благовещенск",
+            "count": 2,
+            "cluster": "благовещенск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "владивосток",
+            "count": 1,
+            "cluster": "владивосток",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "владикавказ",
+            "count": 1,
+            "cluster": "владикавказ",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "владимир",
+            "count": 1,
+            "cluster": "владимир",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "волгоград",
+            "count": 3,
+            "cluster": "волгоград",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "волгодонск",
+            "count": 7,
+            "cluster": "волгодонск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "волжский",
+            "count": 3,
+            "cluster": "волжский",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "вологда",
+            "count": 1,
+            "cluster": "вологда",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "воронеж",
+            "count": 3,
+            "cluster": "воронеж",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "воронеж ♥️",
+            "count": 1,
+            "cluster": "воронеж",
+            "sentiment": "neutrals",
+            "corrected": "воронеж"
+        },
+        {
+            "answer": "вуктыл",
+            "count": 1,
+            "cluster": "вуктыл",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "выборг",
+            "count": 1,
+            "cluster": "выборг",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "гачи-петербург",
+            "count": 1,
+            "cluster": "санкт петербург",
+            "sentiment": "neutrals",
+            "corrected": "гачи петербург"
+        },
+        {
+            "answer": "глазов",
+            "count": 5,
+            "cluster": "глазов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "город-герой севастополь",
+            "count": 1,
+            "cluster": "севастополь",
+            "sentiment": "neutrals",
+            "corrected": "город герой севастополь"
+        },
+        {
+            "answer": "севастополь",
+            "count": 3,
+            "cluster": "севастополь",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "димитровград",
+            "count": 1,
+            "cluster": "димитровград",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "домодедово",
+            "count": 1,
+            "cluster": "домодедово",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "екатеринбург",
+            "count": 6,
+            "cluster": "екатеринбург",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "енергодар",
+            "count": 2,
+            "cluster": "энергодар",
+            "sentiment": "neutrals",
+            "corrected": "энергодар"
+        },
+        {
+            "answer": "энергодар",
+            "count": 6,
+            "cluster": "энергодар",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "железногорск",
+            "count": 4,
+            "cluster": "железногорск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "железногорск красноярский край",
+            "count": 2,
+            "cluster": "железногорск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "железнодорожный",
+            "count": 1,
+            "cluster": "железнодорожный",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "заречный",
+            "count": 2,
+            "cluster": "заречный",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "заречный (свердловская обл)",
+            "count": 1,
+            "cluster": "заречный свердловская область",
+            "sentiment": "neutrals",
+            "corrected": "заречный свердловская область"
+        },
+        {
+            "answer": "заречный (свердловская область",
+            "count": 1,
+            "cluster": "заречный свердловская область",
+            "sentiment": "neutrals",
+            "corrected": "заречный свердловская область"
+        },
+        {
+            "answer": "заречный(свердловская область",
+            "count": 1,
+            "cluster": "заречный свердловская область",
+            "sentiment": "neutrals",
+            "corrected": "заречный свердловская область"
+        },
+        {
+            "answer": "заречный свердловская область",
+            "count": 1,
+            "cluster": "заречный свердловская область",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "заречный пензенская",
+            "count": 1,
+            "cluster": "заречный пензенская",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "зеленогорск",
+            "count": 2,
+            "cluster": "зеленогорск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "иваново",
+            "count": 1,
+            "cluster": "иваново",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ижевск",
+            "count": 2,
+            "cluster": "ижевск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "иркутск",
+            "count": 1,
+            "cluster": "иркутск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ишимбай",
+            "count": 1,
+            "cluster": "ишимбай",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "казань",
+            "count": 2,
+            "cluster": "казань",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "казань республика татарстан",
+            "count": 1,
+            "cluster": "казань",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "калуга",
+            "count": 1,
+            "cluster": "калуга",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "киров",
+            "count": 1,
+            "cluster": "киров",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ковров",
+            "count": 1,
+            "cluster": "ковров",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "кострома",
+            "count": 1,
+            "cluster": "кострома",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "краснодар",
+            "count": 2,
+            "cluster": "краснодар",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "краснокаменск",
+            "count": 4,
+            "cluster": "краснокаменск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "красноуфимск",
+            "count": 1,
+            "cluster": "красноуфимск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "курск",
+            "count": 2,
+            "cluster": "курск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "курчатов",
+            "count": 2,
+            "cluster": "курчатов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ленинград",
+            "count": 1,
+            "cluster": "санкт петербург",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "санки-петербург",
+            "count": 1,
+            "cluster": "санкт петербург",
+            "sentiment": "neutrals",
+            "corrected": "санкт петербург"
+        },
+        {
+            "answer": "санкт петербург",
+            "count": 1,
+            "cluster": "санкт петербург",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "санкт~петербург",
+            "count": 1,
+            "cluster": "санкт петербург",
+            "sentiment": "neutrals",
+            "corrected": "санкт петербург"
+        },
+        {
+            "answer": "санкт-петербург",
+            "count": 28,
+            "cluster": "санкт петербург",
+            "sentiment": "neutrals",
+            "corrected": "санкт петербург"
+        },
+        {
+            "answer": "спб",
+            "count": 1,
+            "cluster": "санкт петербург",
+            "sentiment": "neutrals",
+            "corrected": "санкт-петербург"
+        },
+        {
+            "answer": "лесной",
+            "count": 3,
+            "cluster": "лесной",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "лыткарино",
+            "count": 2,
+            "cluster": "лыткарино",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "минск",
+            "count": 1,
+            "cluster": "минск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "москва",
+            "count": 130,
+            "cluster": "москва",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "москва и ноябрьск",
+            "count": 1,
+            "cluster": "москва",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "москва троицк",
+            "count": 1,
+            "cluster": "москва",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "мурманск",
+            "count": 4,
+            "cluster": "мурманск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "набережные челны",
+            "count": 1,
+            "cluster": "набережные челны",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "набережные челны рт",
+            "count": 1,
+            "cluster": "набережные челны",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "находка",
+            "count": 1,
+            "cluster": "находка",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нижневартовск",
+            "count": 1,
+            "cluster": "нижневартовск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нижний новгород",
+            "count": 27,
+            "cluster": "нижний новгород",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нововоронеж",
+            "count": 5,
+            "cluster": "нововоронеж",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новороссийск",
+            "count": 1,
+            "cluster": "новороссийск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новосибирск",
+            "count": 7,
+            "cluster": "новосибирск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новоуральск",
+            "count": 2,
+            "cluster": "новоуральск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "обнинск",
+            "count": 12,
+            "cluster": "обнинск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "озерск",
+            "count": 5,
+            "cluster": "озерск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "озерск ❤️",
+            "count": 1,
+            "cluster": "озерск",
+            "sentiment": "neutrals",
+            "corrected": "озерск"
+        },
+        {
+            "answer": "озёрск челябинская область",
+            "count": 1,
+            "cluster": "озерск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "орёл",
+            "count": 1,
+            "cluster": "орёл",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "оренбург",
+            "count": 1,
+            "cluster": "оренбург",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "пенза",
+            "count": 1,
+            "cluster": "пенза",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "пермь",
+            "count": 3,
+            "cluster": "пермь",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "петропавловск-камчатский",
+            "count": 1,
+            "cluster": "петропавловск камчатский",
+            "sentiment": "neutrals",
+            "corrected": "петропавловск камчатский"
+        },
+        {
+            "answer": "подольск",
+            "count": 9,
+            "cluster": "подольск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "подольск  московская область",
+            "count": 1,
+            "cluster": "подольск",
+            "sentiment": "neutrals",
+            "corrected": "подольск московская область"
+        },
+        {
+            "answer": "полярные зори",
+            "count": 2,
+            "cluster": "полярные зори",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "рассказово",
+            "count": 1,
+            "cluster": "рассказово",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ростов-на-дону",
+            "count": 6,
+            "cluster": "ростов на дону",
+            "sentiment": "neutrals",
+            "corrected": "ростов на дону"
+        },
+        {
+            "answer": "рязань",
+            "count": 1,
+            "cluster": "рязань",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "самара",
+            "count": 1,
+            "cluster": "самара",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "саратов",
+            "count": 1,
+            "cluster": "саратов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "саров",
+            "count": 27,
+            "cluster": "саров",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "северск",
+            "count": 6,
+            "cluster": "северск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "северск томская область",
+            "count": 2,
+            "cluster": "северск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "симферополь",
+            "count": 1,
+            "cluster": "симферополь",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "снежинск",
+            "count": 6,
+            "cluster": "снежинск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сосновый бор",
+            "count": 4,
+            "cluster": "сосновый бор",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сочи",
+            "count": 3,
+            "cluster": "сочи",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сызрань",
+            "count": 1,
+            "cluster": "сызрань",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сыктывкар",
+            "count": 1,
+            "cluster": "сыктывкар",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "таганрог",
+            "count": 1,
+            "cluster": "таганрог",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "тимашевск",
+            "count": 1,
+            "cluster": "тимашевск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "томск",
+            "count": 9,
+            "cluster": "томск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "трехгорный",
+            "count": 3,
+            "cluster": "трёхгорный",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "трёхгорный",
+            "count": 4,
+            "cluster": "трёхгорный",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "тула",
+            "count": 2,
+            "cluster": "тула",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "тюмень",
+            "count": 2,
+            "cluster": "тюмень",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "удомля",
+            "count": 2,
+            "cluster": "удомля",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ульяновск",
+            "count": 1,
+            "cluster": "ульяновск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "усмань",
+            "count": 1,
+            "cluster": "усмань",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "усолье-сибирское",
+            "count": 1,
+            "cluster": "усолье сибирское",
+            "sentiment": "neutrals",
+            "corrected": "усолье сибирское"
+        },
+        {
+            "answer": "уфа",
+            "count": 1,
+            "cluster": "уфа",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "хабаровск",
+            "count": 1,
+            "cluster": "хабаровск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "челябинск",
+            "count": 2,
+            "cluster": "челябинск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "чита",
+            "count": 2,
+            "cluster": "чита",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "электрогорск",
+            "count": 1,
+            "cluster": "электрогорск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "электросталь",
+            "count": 4,
+            "cluster": "электросталь",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "энгельс",
+            "count": 1,
+            "cluster": "энгельс",
+            "sentiment": "neutrals"
+        }
+    ]
+}

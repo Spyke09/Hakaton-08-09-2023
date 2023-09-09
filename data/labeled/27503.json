@@ -1,0 +1,272 @@
+{
+    "question": "Какой лидер актуален сегодня для вас?",
+    "id": 27503,
+    "answers": [
+        {
+            "answer": "зажигающий",
+            "count": 1,
+            "cluster": "зажигающий",
+            "sentiment": "context sentiment",
+            "corrected": "вдохновляющий"
+        },
+        {
+            "answer": "заряжающий",
+            "count": 1,
+            "cluster": "заряжающий",
+            "sentiment": "context sentiment",
+            "corrected": "вдохновляющий"
+        },
+        {
+            "answer": "стимулирующий",
+            "count": 2,
+            "cluster": "стимулирующий",
+            "sentiment": "context sentiment",
+            "corrected": "мотивирующие"
+        },
+        {
+            "answer": "видит за горизонты",
+            "count": 1,
+            "cluster": "видит за горизонт",
+            "sentiment": "context sentiment",
+            "corrected": "дальновидный"
+        },
+        {
+            "answer": "вовлекающий",
+            "count": 3,
+            "cluster": "вовлекающий",
+            "sentiment": "context sentiment",
+            "corrected": "вовлеченный и вовлекающий"
+        },
+        {
+            "answer": "вовлеченный",
+            "count": 4,
+            "cluster": "вовлеченный",
+            "sentiment": "context sentiment",
+            "corrected": "вовлеченный и вовлекающий"
+        },
+        {
+            "answer": "заинтересованный",
+            "count": 3,
+            "cluster": "заинтересованный",
+            "sentiment": "context sentiment",
+            "corrected": "интересующийся"
+        },
+        {
+            "answer": "интересующийся",
+            "count": 1,
+            "cluster": "интересующийся",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "вовлеченный и вовлекающий",
+            "count": 3,
+            "cluster": "вовлеченный и вовлекающий",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "гибкий",
+            "count": 45,
+            "cluster": "гибкий",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "гибким",
+            "count": 1,
+            "cluster": "гибким",
+            "sentiment": "context sentiment",
+            "corrected": "гибкий"
+        },
+        {
+            "answer": "горящий",
+            "count": 2,
+            "cluster": "горящий",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "организованный",
+            "count": 3,
+            "cluster": "организованный",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "знающий",
+            "count": 2,
+            "cluster": "знающий",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "зрелый",
+            "count": 1,
+            "cluster": "зрелый",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "исполнительный",
+            "count": 4,
+            "cluster": "исполнительный",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "культурный",
+            "count": 4,
+            "cluster": "культурный",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "логичный",
+            "count": 1,
+            "cluster": "логичный",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "настойчивый",
+            "count": 4,
+            "cluster": "настойчивый",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "настойчыввй",
+            "count": 1,
+            "cluster": "настойчивый",
+            "sentiment": "context sentiment",
+            "corrected": "настойчивый"
+        },
+        {
+            "answer": "осведомлённый",
+            "count": 1,
+            "cluster": "осведомлённый",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "осознанный",
+            "count": 3,
+            "cluster": "осознанный",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "понимающий",
+            "count": 19,
+            "cluster": "понимающий",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "понимающий и разделяющий",
+            "count": 1,
+            "cluster": "понимающий и разделяющий",
+            "sentiment": "context sentiment",
+            "corrected": "понимающий"
+        },
+        {
+            "answer": "последовательный",
+            "count": 1,
+            "cluster": "последовательный",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "экспертный",
+            "count": 2,
+            "cluster": "экспертный",
+            "sentiment": "context sentiment",
+            "corrected": "компетентный"
+        },
+        {
+            "answer": "пробивной",
+            "count": 4,
+            "cluster": "пробивной",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "ресурсный",
+            "count": 1,
+            "cluster": "ресурсный",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "решительный",
+            "count": 18,
+            "cluster": "решительный",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "самоуверенный",
+            "count": 1,
+            "cluster": "самоуверенный",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "свой парень",
+            "count": 1,
+            "cluster": "свой парень",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "слушающий",
+            "count": 2,
+            "cluster": "слушающий",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "слышащий",
+            "count": 12,
+            "cluster": "слышащий",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "трезвый",
+            "count": 2,
+            "cluster": "трезвый",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "трендовость",
+            "count": 1,
+            "cluster": "трендовость",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "увлечённый",
+            "count": 1,
+            "cluster": "увлечённый",
+            "sentiment": "context sentiment",
+            "corrected": "интересующийся"
+        },
+        {
+            "answer": "удивительный",
+            "count": 1,
+            "cluster": "удивительный",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "уравновешенный",
+            "count": 7,
+            "cluster": "уравновешенный",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "целлостный",
+            "count": 1,
+            "cluster": "целостный",
+            "sentiment": "context sentiment",
+            "corrected": "целостный"
+        },
+        {
+            "answer": "целостный",
+            "count": 1,
+            "cluster": "целостный",
+            "sentiment": "context sentiment"
+        },
+        {
+            "answer": "чувствующий",
+            "count": 1,
+            "cluster": "чувствующий",
+            "sentiment": "context sentiment",
+            "corrected": "чуткий"
+        },
+        {
+            "answer": "эталонный",
+            "count": 1,
+            "cluster": "эталонный",
+            "sentiment": "context sentiment"
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "question": "Компас – это...",
+    "id": 25390,
+    "answers": [
+        {
+            "answer": "анализ деятельности",
+            "count": 1,
+            "cluster": "анализ деятельности",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "чек лист",
+            "count": 2,
+            "cluster": "чек лист",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "экспресс оценка деятельности",
+            "count": 1,
+            "cluster": "экспресс оценка деятельности",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "вектор",
+            "count": 1,
+            "cluster": "вектор",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "инструмент для руководителя",
+            "count": 1,
+            "cluster": "инструмент для руководителя",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "руководителя",
+            "count": 1,
+            "cluster": "руководителя",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "цели и задачи руководителя",
+            "count": 2,
+            "cluster": "цели и задачи руководителя",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "интегратор",
+            "count": 1,
+            "cluster": "интегратор",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "навигатор развития",
+            "count": 1,
+            "cluster": "навигатор развития",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ориентир где сейчас и куда дви",
+            "count": 1,
+            "cluster": "ориентир где сейчас и куда двигаться",
+            "sentiment": "neutrals",
+            "corrected": "ориентир где сейчас и куда двигаться"
+        },
+        {
+            "answer": "ориентир для работы над собой",
+            "count": 1,
+            "cluster": "ориентир для работы над собой",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "результат работы",
+            "count": 1,
+            "cluster": "результат работы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "самооценка",
+            "count": 2,
+            "cluster": "самооценка",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "свод задач на определённый сро",
+            "count": 1,
+            "cluster": "свод задач на определённый срок",
+            "sentiment": "neutrals",
+            "corrected": "свод задач на определённый срок"
+        },
+        {
+            "answer": "я и моя команда",
+            "count": 1,
+            "cluster": "я и моя команда",
+            "sentiment": "neutrals"
+        }
+    ]
+}

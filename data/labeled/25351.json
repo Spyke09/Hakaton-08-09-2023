@@ -1,0 +1,254 @@
+{
+    "question": "Кого из спикеров вы хотели бы пригласить на REFORUM?",
+    "id": 25351,
+    "answers": [
+        {
+            "answer": "digital fashion factory school",
+            "count": 1,
+            "cluster": "digital fashion factory school",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "lex friedman",
+            "count": 1,
+            "cluster": "lex fridman",
+            "sentiment": "neutrals",
+            "corrected": "lex fridman"
+        },
+        {
+            "answer": "александр головин",
+            "count": 1,
+            "cluster": "александр головин",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "александр храмов (иннополис)",
+            "count": 1,
+            "cluster": "александр храмов иннополис",
+            "sentiment": "neutrals",
+            "corrected": "александр храмов иннополис"
+        },
+        {
+            "answer": "александра герасименко",
+            "count": 1,
+            "cluster": "александра герасименко",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "александра соколова",
+            "count": 1,
+            "cluster": "александра соколова",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "анастасия дорофеева фэшн юрист",
+            "count": 1,
+            "cluster": "анастасия дорофеева фэшн юрист",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "анджей чихоцкий (сколтех)",
+            "count": 1,
+            "cluster": "анджей чихоцкий сколтех",
+            "sentiment": "neutrals",
+            "corrected": "анджей чихоцкий сколтех"
+        },
+        {
+            "answer": "андрей ахаян дпн",
+            "count": 1,
+            "cluster": "андрей ахаян дпн",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "билл брайсон",
+            "count": 1,
+            "cluster": "билл брайсон",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "в области воздухоплавания",
+            "count": 1,
+            "cluster": "в области воздухоплавания",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "артемий лебедев",
+            "count": 1,
+            "cluster": "артемий лебедев",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "валентина габышева",
+            "count": 1,
+            "cluster": "валентина габышева",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "виктор лемпицкий (сколтех)",
+            "count": 1,
+            "cluster": "виктор лемпицкий сколтех",
+            "sentiment": "neutrals",
+            "corrected": "виктор лемпицкий сколтех"
+        },
+        {
+            "answer": "виктора лебедева",
+            "count": 1,
+            "cluster": "виктора лебедева",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "вячеслав прохоров",
+            "count": 1,
+            "cluster": "вячеслав прохоров",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "данила медведев футуролог",
+            "count": 1,
+            "cluster": "данила медведев футуролог",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "дмитрий абзалов",
+            "count": 1,
+            "cluster": "дмитрий абзалов",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "илон маск",
+            "count": 4,
+            "cluster": "илон маск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "маск",
+            "count": 1,
+            "cluster": "илон маск",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "илья сачков",
+            "count": 1,
+            "cluster": "илья сачков",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "кэти сапович",
+            "count": 1,
+            "cluster": "кэти сапович",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "николая ягодкина",
+            "count": 1,
+            "cluster": "николая ягодкина",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нил стивенсон",
+            "count": 1,
+            "cluster": "нил стивенсон",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ной харрари",
+            "count": 1,
+            "cluster": "ной харрари",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ольга еременко",
+            "count": 1,
+            "cluster": "ольга еременко",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ольга сказкина ecoolska",
+            "count": 1,
+            "cluster": "ольга сказкина ecoolska",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "павел дуров",
+            "count": 2,
+            "cluster": "павел дуров",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "пол стеметс(миколог)",
+            "count": 1,
+            "cluster": "пол стеметс миколог",
+            "sentiment": "neutrals",
+            "corrected": "пол стеметс миколог"
+        },
+        {
+            "answer": "полина кривых",
+            "count": 1,
+            "cluster": "полина кривых",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "психолога викторию дмитриеву",
+            "count": 1,
+            "cluster": "психолога викторию дмитриеву",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "развитие младших школьников",
+            "count": 1,
+            "cluster": "развитие младших школьников",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "разных в т.ч. иностранных",
+            "count": 1,
+            "cluster": "разных в том числе иностранных",
+            "sentiment": "neutrals",
+            "corrected": "разных в том числе иностранных"
+        },
+        {
+            "answer": "сергей михайлов (основатель gc",
+            "count": 1,
+            "cluster": "сергей михайлов основатель getcourse",
+            "sentiment": "neutrals",
+            "corrected": "сергей михайлов основатель getcourse"
+        },
+        {
+            "answer": "сергей николаенко (ниу вшэ)",
+            "count": 1,
+            "cluster": "сергей николаенко ниу вшэ",
+            "sentiment": "neutrals",
+            "corrected": "сергей николаенко ниу вшэ"
+        },
+        {
+            "answer": "спикера про метаверс",
+            "count": 1,
+            "cluster": "спикера про метаверс",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "татьяна мужицкая",
+            "count": 1,
+            "cluster": "татьяна мужицкая",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "траблшутер брагинский или фаер",
+            "count": 1,
+            "cluster": "траблшутер брагинский или фаер",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "черниговская татьяна",
+            "count": 1,
+            "cluster": "черниговская татьяна",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "юрий мильнер",
+            "count": 1,
+            "cluster": "юрий мильнер",
+            "sentiment": "neutrals"
+        }
+    ]
+}

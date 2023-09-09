@@ -1,0 +1,247 @@
+{
+    "question": "Что было полезно за день?",
+    "id": 27128,
+    "answers": [
+        {
+            "answer": "1. информационность",
+            "count": 1,
+            "cluster": "1 информационность",
+            "sentiment": "positives",
+            "corrected": "1 информационность"
+        },
+        {
+            "answer": "анна ильина",
+            "count": 1,
+            "cluster": "анна ильина",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "выступление анны ильиной!",
+            "count": 1,
+            "cluster": "анна ильина",
+            "sentiment": "neutrals",
+            "corrected": "выступление анны ильиной"
+        },
+        {
+            "answer": "знакомство с анной ильиной",
+            "count": 1,
+            "cluster": "анна ильина",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ильина",
+            "count": 1,
+            "cluster": "анна ильина",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "лекция ильиной",
+            "count": 1,
+            "cluster": "анна ильина",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "возможность обсудить проблемы",
+            "count": 1,
+            "cluster": "возможность обсудить проблемы",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "обсуждение ошибок протокола",
+            "count": 1,
+            "cluster": "ошибки протокола",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ошибки протокола",
+            "count": 1,
+            "cluster": "ошибки протокола",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "разбор ошибок",
+            "count": 2,
+            "cluster": "разбор ошибок",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "все лекции приглашеных спикеро",
+            "count": 1,
+            "cluster": "доклады",
+            "sentiment": "neutrals",
+            "corrected": "все лекции приглашенных спикеров"
+        },
+        {
+            "answer": "докладчики",
+            "count": 1,
+            "cluster": "спикеры",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "доклады",
+            "count": 1,
+            "cluster": "доклады",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "опыт спикеров.",
+            "count": 1,
+            "cluster": "спикеры",
+            "sentiment": "neutrals",
+            "corrected": "опыт спикеров"
+        },
+        {
+            "answer": "профессиональные спикеры",
+            "count": 2,
+            "cluster": "спикеры",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "спикеры",
+            "count": 2,
+            "cluster": "спикеры",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "знакомства",
+            "count": 1,
+            "cluster": "знакомства",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "нетворкинг",
+            "count": 1,
+            "cluster": "окружение специалистов определенной сферы",
+            "sentiment": "positives",
+            "corrected": "окружение специалистов определенной сферы"
+        },
+        {
+            "answer": "новые контакты",
+            "count": 1,
+            "cluster": "знакомства",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "интересная информация",
+            "count": 1,
+            "cluster": "много интересной информации",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "кладезь полезной информации",
+            "count": 1,
+            "cluster": "много полезной информации",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "много интересной информации.",
+            "count": 1,
+            "cluster": "много интересной информации",
+            "sentiment": "positives",
+            "corrected": "много интересной информации"
+        },
+        {
+            "answer": "много полезной информации",
+            "count": 1,
+            "cluster": "много полезной информации",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "личное общение",
+            "count": 1,
+            "cluster": "общение",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "много информации об ошибках",
+            "count": 1,
+            "cluster": "много информации об ошибках",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "обмен мнениями",
+            "count": 2,
+            "cluster": "обмен мнениями",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "обмен опытом",
+            "count": 1,
+            "cluster": "обмен опытом",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "общение с практиками",
+            "count": 1,
+            "cluster": "общение с практиками",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "общение",
+            "count": 1,
+            "cluster": "общение",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "опыт общения",
+            "count": 1,
+            "cluster": "общение",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "поесть",
+            "count": 1,
+            "cluster": "поесть",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "потрясающие примеры из жизни",
+            "count": 1,
+            "cluster": "практические примеры",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "практические примеры",
+            "count": 1,
+            "cluster": "практические примеры",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "примеры",
+            "count": 1,
+            "cluster": "практические примеры",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "примеры как не должно быть",
+            "count": 1,
+            "cluster": "примеры ошибок",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "примеры ошибок",
+            "count": 1,
+            "cluster": "примеры ошибок",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "работа в группах",
+            "count": 2,
+            "cluster": "работа в группах",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "список литературы",
+            "count": 1,
+            "cluster": "список литературы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "формализация структур.",
+            "count": 1,
+            "cluster": "формализация структур",
+            "sentiment": "neutrals",
+            "corrected": "формализация структур"
+        }
+    ]
+}

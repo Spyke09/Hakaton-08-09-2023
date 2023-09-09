@@ -1,0 +1,79 @@
+{
+    "question": "Вопрос 8. Какая поддержка нам нужна от руководителей отрасли и дивизиона?",
+    "id": 19750,
+    "answers": [
+        {
+            "answer": "топ менеджеры",
+            "count": 1,
+            "cluster": "топ менеджеры",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "требования безопасности для р",
+            "count": 1,
+            "cluster": "требования безопасности для р",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "увеличить численность от до",
+            "count": 1,
+            "cluster": "увеличить численность от до",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "узконаправленная деятельность",
+            "count": 1,
+            "cluster": "узконаправленная деятельность",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "умение выслушать",
+            "count": 1,
+            "cluster": "умение выслушать",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "упростить закупки",
+            "count": 1,
+            "cluster": "упростить закупки",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "участие лидеров в совещ. рук.",
+            "count": 1,
+            "cluster": "участие лидеров в совещаниях руководителей",
+            "sentiment": "neutrals",
+            "corrected": "участие лидеров в совещаниях руководителей"
+        },
+        {
+            "answer": "физическая",
+            "count": 1,
+            "cluster": "физическая",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "эта поддержка уже есть",
+            "count": 1,
+            "cluster": "эта поддержка уже есть",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "методическая",
+            "count": 1,
+            "cluster": "методическая",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "методология",
+            "count": 1,
+            "cluster": "методическая",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "тренинги",
+            "count": 1,
+            "cluster": "тренинги",
+            "sentiment": "neutrals"
+        }
+    ]
+}

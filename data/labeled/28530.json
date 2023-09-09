@@ -1,0 +1,306 @@
+{
+    "question": "На какие еще темы вы хотели бы поговорить с А.Е. Лихачевым?",
+    "id": 28530,
+    "answers": [
+        {
+            "answer": "1)советы (жизнен. профессион.",
+            "count": 1,
+            "cluster": "1 советы жизненные профессиональные",
+            "sentiment": "neutrals",
+            "corrected": "1 советы жизненные профессиональные"
+        },
+        {
+            "answer": "будущие планы росатома",
+            "count": 1,
+            "cluster": "глобальные планы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "глобальные планы",
+            "count": 1,
+            "cluster": "глобальные планы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "о развитии росатома",
+            "count": 1,
+            "cluster": "о развитии росатома",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "перспективы развития",
+            "count": 2,
+            "cluster": "о развитии росатома",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "перспективы россии и росатома",
+            "count": 1,
+            "cluster": "перспективы россии и росатома",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "про будущее росатома и отрасли",
+            "count": 1,
+            "cluster": "тема перспектив росатома",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "стратегия развития росатома",
+            "count": 1,
+            "cluster": "о развитии росатома",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "тема перспектив росатома",
+            "count": 1,
+            "cluster": "тема перспектив росатома",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "внедрение it vr/ar data sciens",
+            "count": 1,
+            "cluster": "внедрение информационные технологии vr ar data science",
+            "sentiment": "neutrals",
+            "corrected": "внедрение информационные технологии vr ar data science"
+        },
+        {
+            "answer": "вовлечение школьников в проф.п",
+            "count": 1,
+            "cluster": "вовлечение школьников в проф п",
+            "sentiment": "neutrals",
+            "corrected": "вовлечение школьников в проф п"
+        },
+        {
+            "answer": "возможность масштабирования ца",
+            "count": 1,
+            "cluster": "возможность масштабирования целевая аудитория",
+            "sentiment": "neutrals",
+            "corrected": "возможность масштабирования целевая аудитория"
+        },
+        {
+            "answer": "выбор университета",
+            "count": 1,
+            "cluster": "выбор университета",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "его принципы управления",
+            "count": 1,
+            "cluster": "управление госкорпорацией",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "управление госкорпорацией",
+            "count": 1,
+            "cluster": "управление госкорпорацией",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "жизнь",
+            "count": 1,
+            "cluster": "жизнь",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "история карьерного пути а.е.",
+            "count": 1,
+            "cluster": "история карьерного пути а е",
+            "sentiment": "neutrals",
+            "corrected": "история карьерного пути а е"
+        },
+        {
+            "answer": "как добиться такого успеха",
+            "count": 1,
+            "cluster": "как добиться такого успеха",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "история развития отрасли",
+            "count": 1,
+            "cluster": "история развития отрасли",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "личный вклад в работу росатома",
+            "count": 1,
+            "cluster": "личный вклад в работу росатома",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "медицина",
+            "count": 1,
+            "cluster": "медицина",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ядерная медицина",
+            "count": 1,
+            "cluster": "ядерная медицина",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "международные проекты",
+            "count": 1,
+            "cluster": "международные проекты",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "наукоемкая разработка",
+            "count": 1,
+            "cluster": "наукоемкая разработка",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новые направления развития рос",
+            "count": 1,
+            "cluster": "новые направления развития росатома",
+            "sentiment": "positives",
+            "corrected": "новые направления развития росатома"
+        },
+        {
+            "answer": "новый векторы развития росатом",
+            "count": 1,
+            "cluster": "новые направления развития росатома",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "новые проекты",
+            "count": 1,
+            "cluster": "новые проекты",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "реализация новых проектов",
+            "count": 1,
+            "cluster": "новые проекты",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "опыт",
+            "count": 1,
+            "cluster": "опыт",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "отрасли росатома",
+            "count": 1,
+            "cluster": "отрасли росатома",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "практики в росатоме",
+            "count": 1,
+            "cluster": "стажировки и практики",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "стажировки",
+            "count": 2,
+            "cluster": "стажировки и практики",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "стажировки и практики",
+            "count": 1,
+            "cluster": "стажировки и практики",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "о том как можно развиваться",
+            "count": 1,
+            "cluster": "о том как можно развиваться",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "профессиональное развитие",
+            "count": 1,
+            "cluster": "профессиональное развитие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "пути развития медиа в росатоме",
+            "count": 1,
+            "cluster": "пути развития медиа в росатоме",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "работа",
+            "count": 1,
+            "cluster": "работа",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "развитие атомных городов",
+            "count": 1,
+            "cluster": "развитие атомных городов",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "развитие атомных классов",
+            "count": 1,
+            "cluster": "развитие атомных классов",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "развитие отдельных отраслей",
+            "count": 1,
+            "cluster": "развитие отдельных отраслей",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "рекламная кампания",
+            "count": 1,
+            "cluster": "рекламная кампания",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "роль россии в мире",
+            "count": 1,
+            "cluster": "роль россии в мире",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "росатома",
+            "count": 1,
+            "cluster": "росатома",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "создание студенческого совета",
+            "count": 1,
+            "cluster": "создание студенческого совета",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "трудности и их преодоление",
+            "count": 1,
+            "cluster": "трудности и их преодоление",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "трудоустройство",
+            "count": 1,
+            "cluster": "трудоустройство",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "уже отвечали вроде",
+            "count": 1,
+            "cluster": "уже отвечали вроде",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "философия",
+            "count": 1,
+            "cluster": "философия",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "хобби и творчество",
+            "count": 1,
+            "cluster": "хобби и творчество",
+            "sentiment": "neutrals"
+        }
+    ]
+}

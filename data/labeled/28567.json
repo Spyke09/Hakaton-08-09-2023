@@ -1,0 +1,222 @@
+{
+    "question": "Зачем мы решили создать межрегиональную сеть \"Пересекающиеся параллели\"",
+    "id": 28567,
+    "answers": [
+        {
+            "answer": "амбиции",
+            "count": 1,
+            "cluster": "амбиции",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "внести в образование новое",
+            "count": 1,
+            "cluster": "внести в образование новое",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "возможности для детей",
+            "count": 1,
+            "cluster": "возможности для детей",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "для помощи детям",
+            "count": 1,
+            "cluster": "для помощи детям",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "делиться опытом",
+            "count": 1,
+            "cluster": "обмен опытом",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "для обменя опытом",
+            "count": 1,
+            "cluster": "обмен опытом",
+            "sentiment": "positives",
+            "corrected": "для обмена опытом"
+        },
+        {
+            "answer": "обмен опытом",
+            "count": 10,
+            "cluster": "обмен опытом",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "обменяться опытом",
+            "count": 1,
+            "cluster": "обмен опытом",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "для развития и расширения возм",
+            "count": 1,
+            "cluster": "расширить возможности",
+            "sentiment": "positives",
+            "corrected": "для развития и расширения возможностей"
+        },
+        {
+            "answer": "расширение возможностей",
+            "count": 1,
+            "cluster": "расширить возможности",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "расширить возможности",
+            "count": 1,
+            "cluster": "расширить возможности",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "для самосовершенствования",
+            "count": 1,
+            "cluster": "для самосовершенствования",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "для улучшения качества образов",
+            "count": 1,
+            "cluster": "повысить качество образования",
+            "sentiment": "positives",
+            "corrected": "для улучшения качества образования"
+        },
+        {
+            "answer": "повысить качество образования",
+            "count": 1,
+            "cluster": "повысить качество образования",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "повышение качества образования",
+            "count": 1,
+            "cluster": "повысить качество образования",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "инновации",
+            "count": 1,
+            "cluster": "инновации",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "кадры",
+            "count": 1,
+            "cluster": "кадры",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "новаторские идеи",
+            "count": 1,
+            "cluster": "инновации",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "новый опыт",
+            "count": 1,
+            "cluster": "новый опыт",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "общее образоват. пространство",
+            "count": 1,
+            "cluster": "общее образовательное пространство",
+            "sentiment": "neutrals",
+            "corrected": "общее образовательное пространство"
+        },
+        {
+            "answer": "пиар",
+            "count": 1,
+            "cluster": "пиар",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "плохо слышно нет четкой речи",
+            "count": 1,
+            "cluster": "плохо слышно нет четкой речи",
+            "sentiment": "negatives"
+        },
+        {
+            "answer": "повышение материальной базы уч",
+            "count": 1,
+            "cluster": "повышение материальной базы уч",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "поддержка",
+            "count": 1,
+            "cluster": "поддержка",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "развитие",
+            "count": 4,
+            "cluster": "развитие",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "расширить гругозор",
+            "count": 1,
+            "cluster": "расширить кругозор",
+            "sentiment": "positives",
+            "corrected": "расширить кругозор"
+        },
+        {
+            "answer": "расширить свой горизонт",
+            "count": 1,
+            "cluster": "расширить свой горизонт",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "региональный компонент",
+            "count": 1,
+            "cluster": "региональный компонент",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "ресурсы",
+            "count": 1,
+            "cluster": "ресурсы",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "сотрудничество",
+            "count": 1,
+            "cluster": "сотрудничество",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "удовлетворенность работой",
+            "count": 1,
+            "cluster": "удовлетворенность работой",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "услышать другие мнения",
+            "count": 1,
+            "cluster": "услышать другие мнения",
+            "sentiment": "neutrals"
+        },
+        {
+            "answer": "участие в пооекте",
+            "count": 1,
+            "cluster": "участие в проекте",
+            "sentiment": "neutrals",
+            "corrected": "участие в проекте"
+        },
+        {
+            "answer": "чтобы не было застоя",
+            "count": 1,
+            "cluster": "чтобы не было застоя",
+            "sentiment": "positives"
+        },
+        {
+            "answer": "эффективные технологии",
+            "count": 1,
+            "cluster": "эффективные технологии",
+            "sentiment": "positives"
+        }
+    ]
+}
