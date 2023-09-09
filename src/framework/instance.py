@@ -8,3 +8,4 @@ class Instance:
     id: int
     answers: tp.List[str]
     counts: tp.List[int]
+    sentiments: tp.List[str] = None
