@@ -1,8 +1,8 @@
-import instance
-import nltk
 import re
-from dostoevsky.tokenization import RegexTokenizer
+
+import nltk
 from dostoevsky.models import FastTextSocialNetworkModel
+from dostoevsky.tokenization import RegexTokenizer
 from natasha import (
     Segmenter,
     MorphVocab,
@@ -14,135 +14,124 @@ from natasha import (
 from nltk.corpus import stopwords
 from spellchecker import SpellChecker
 
-nltk.download("stopwords")
-
-segmenter = Segmenter()
-morph_vocab = MorphVocab()
-emb = NewsEmbedding()
-morph_tagger = NewsMorphTagger(emb)
-syntax_parser = NewsSyntaxParser(emb)
-spell = SpellChecker(language="ru")
-russian_stopwords = stopwords.words("russian")
+import instance
 
 
-def get_abbreviations(f):
-    abbreviations = dict()
-    with open(f) as file:
-        for line in file.readlines():
-            key, value = map(str.strip, line.split('->'))
-            abbreviations[key] = value
-    return abbreviations
+class Preprocessor:
+    def __init__(self):
+        self._segmenter = Segmenter()
+        self._morph_vocab = MorphVocab()
+        self._emb = NewsEmbedding()
+        self._morph_tagger = NewsMorphTagger(self._emb)
+        self._syntax_parser = NewsSyntaxParser(self._emb)
+        try:
+            self._russian_stopwords = stopwords.words("russian")
+        except LookupError:
+            nltk.download("stopwords")
+            self._russian_stopwords = stopwords.words("russian")
 
+        self._spell = SpellChecker(language="ru")
 
-def replace_abbreviations_str(sentence):
-    abbreviations = get_abbreviations('../../data/сокращения.txt')
-    words = sentence.lower().split()
-    for i in range(len(words)):
-        if words[i] in abbreviations:
-            words[i] = abbreviations[words[i]]
-    return ' '.join(words)
+    def _get_abbreviations(self, f):
+        abbreviations = dict()
+        with open(f) as file:
+            for line in file.readlines():
+                key, value = map(str.strip, line.split('->'))
+                abbreviations[key] = value
+        return abbreviations
 
+    def _replace_abbreviations_str(self, sentence):
+        abbreviations = self._get_abbreviations('../data/сокращения.txt')
+        words = sentence.lower().split()
+        for i in range(len(words)):
+            if words[i] in abbreviations:
+                words[i] = abbreviations[words[i]]
+        return ' '.join(words)
 
-def replace_anglicisms_str(sentence):
-    anglicisms = get_abbreviations('../../data/англицизмы.txt')
-    words = sentence.lower().split()
-    for i in range(len(words)):
-        if words[i] in anglicisms:
-            words[i] = anglicisms[words[i]]
-    return ' '.join(words)
-
-
-def get_keys(list_of_dicts):
-    keys = []
-    for d in list_of_dicts:
-        for key in d:
-            keys.append(key)
-    return keys
-
-
-class InstancePreprocessor:
-    @staticmethod
-    def to_lower(inst: instance.Instance):
-        inst.question = inst.question.lower()
-        inst.answers = [i.lower() for i in inst.answers]
+    def _replace_anglicisms_str(self, sentence):
+        anglicisms = self._get_abbreviations('../data/англицизмы.txt')
+        words = sentence.lower().split()
+        for i in range(len(words)):
+            if words[i] in anglicisms:
+                words[i] = anglicisms[words[i]]
+        return ' '.join(words)
 
     @staticmethod
-    def delete_non_letters(inst: instance.Instance):
-        for i in range(len(inst.answers)):
-            inst.answers[i] = re.sub("[^а-яА-Яa-zA-Z]", " ", inst.answers[i])
+    def _get_keys(list_of_dicts):
+        keys = []
+        for d in list_of_dicts:
+            for key in d:
+                keys.append(key)
+        return keys
 
-    @staticmethod
-    def replace_abbreviations(inst: instance.Instance):
+    def replace_abbreviations(self, inst: instance.Instance):
         corrected_answers = list(
-            map(lambda sentence: replace_abbreviations_str(sentence), inst.answers)
+            map(lambda sentence: self._replace_abbreviations_str(sentence), inst.answers)
         )
         return instance.Instance(inst.question, inst.id_, corrected_answers, inst.counts, inst.sentiments)
 
-    @staticmethod
-    def token_lemmatization_spc_natasha(inst: instance.Instance):
+    def token_lemmatization_spc_natasha(self, inst: instance.Instance):
         result = []
         for answer in inst.answers:
             tokens = re.sub("[^а-яА-Я]", " ", answer)
 
             doc = Doc(" ".join(tokens))
-            doc.segment(segmenter)
-            doc.tag_morph(morph_tagger)
+            doc.segment(self._segmenter)
+            doc.tag_morph(self._morph_tagger)
             for token in doc.tokens:
-                token.lemmatize(morph_vocab)
+                token.lemmatize(self._morph_vocab)
             doc = Doc(tokens)
 
-            doc.segment(segmenter)
-            doc.tag_morph(morph_tagger)
+            doc.segment(self._segmenter)
+            doc.tag_morph(self._morph_tagger)
 
             for token in doc.tokens:
-                token.lemmatize(morph_vocab)
+                token.lemmatize(self._morph_vocab)
 
-            result.append(" ".join([_.lemma for _ in doc.tokens if _.lemma not in russian_stopwords]))
+            result.append(" ".join([_.lemma for _ in doc.tokens if _.lemma not in self._russian_stopwords]))
         return instance.Instance(inst.question, inst.id_, result, inst.counts, inst.sentiments)
 
-    @staticmethod
-    def token_lemmatization_natasha(inst: instance.Instance):
+    def token_lemmatization_natasha(self, inst: instance.Instance):
         result = []
         for answer in inst.answers:
-            tokens = re.sub("[^а-яА-Я]", " ", answer)
-            first_lem = [list(spell.candidates(i))[0].lower()
-                         if spell.candidates(i) is not None
+            tokens = re.sub("[^а-яА-Яa-zA-Z]", " ", answer)
+            first_lem = [list(self._spell.candidates(i))[0].lower()
+                         if self._spell.candidates(i) is not None
                          else i.lower()
                          for i in tokens.split(" ")]
             doc = Doc(" ".join(first_lem))
-            doc.segment(segmenter)
-            doc.tag_morph(morph_tagger)
+            doc.segment(self._segmenter)
+            doc.tag_morph(self._morph_tagger)
             for token in doc.tokens:
-                token.lemmatize(morph_vocab)
-            result.append(" ".join([_.lemma for _ in doc.tokens if _.lemma not in russian_stopwords]))
+                token.lemmatize(self._morph_vocab)
+            result.append(" ".join([_.lemma for _ in doc.tokens if _.lemma not in self._russian_stopwords]))
 
         return instance.Instance(inst.question, inst.id_, result, inst.counts, inst.sentiments)
 
-    @staticmethod
-    def token_lemmatization_spc(inst: instance.Instance):
+    def token_lemmatization_spc(self, inst: instance.Instance):
         result = []
         for answer in inst.answers:
-            tokens = re.sub("[^а-яА-Я]", " ", answer)
-            first_lem = [list(spell.candidates(i))[0].lower()
-                         if spell.candidates(i) is not None
+            tokens = re.sub("[^а-яА-Яa-zA-Z]", " ", answer)
+            first_lem = [list(self._spell.candidates(i))[0].lower()
+                         if self._spell.candidates(i) is not None
                          else i.lower()
                          for i in tokens.split(" ")]
-            result.append(" ".join([_ for _ in first_lem if _ not in russian_stopwords]))
+            result.append(" ".join([_ for _ in first_lem if _ not in self._russian_stopwords]))
         return instance.Instance(inst.question, inst.id_, result, inst.counts, inst.sentiments)
 
-    @staticmethod
-    def replace_anglicisms(inst: instance.Instance):
+    def replace_anglicisms(self, inst: instance.Instance):
         corrected_answers = list(
-            map(lambda sentence: replace_anglicisms_str(sentence), inst.answers)
+            map(lambda sentence: self._replace_anglicisms_str(sentence), inst.answers)
         )
         return instance.Instance(inst.question, inst.id_, corrected_answers, inst.counts, inst.sentiments)
 
-    @staticmethod
-    def get_sentiments(inst: instance.Instance):
+    def get_sentiments(self, inst: instance.Instance):
         tokenizer = RegexTokenizer()
         model = FastTextSocialNetworkModel(tokenizer=tokenizer)
         list_of_sentiments = model.predict(inst.answers, k=1)
-        sentiments = [sentiment if sentiment != 'speech' else 'positive' for sentiment in get_keys(list_of_sentiments)]
+        sentiments = [
+            sentiment if sentiment != 'speech' else 'positive' for sentiment in self._get_keys(list_of_sentiments)
+        ]
         sentiments = [sentiment if sentiment != 'skip' else 'neutral' for sentiment in sentiments]
         return sentiments
 
@@ -150,3 +139,9 @@ class InstancePreprocessor:
     def delete_question_mark(inst: instance.Instance):
         p = re.compile('(Вопрос|Вопросы|Question|Questions)', flags=re.IGNORECASE)
         return instance.Instance(p.sub(" ", inst.question), inst.id_, inst.answers, inst.counts, inst.sentiments)
+
+    @staticmethod
+    def composition(prepr_func, inst):
+        for func in prepr_func:
+            inst = func(inst)
+        return inst

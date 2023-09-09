@@ -7,7 +7,7 @@ from wordcloud import WordCloud
 
 import classificator
 import instance
-from instance_preprocessing import InstancePreprocessor
+from instance_preprocessing import Preprocessor
 
 
 class AbstractModel(abc.ABC):
@@ -37,38 +37,39 @@ class SimpleModel(AbstractModel):
 
     def train(self):
         # preprocessing
-        self._pre_inst = InstancePreprocessor.replace_abbreviations(self._inst)
+        prep = Preprocessor()
+        self._pre_inst = prep.composition([
+            prep.replace_abbreviations,
+            prep.token_lemmatization_natasha,
+            prep.replace_anglicisms,
+            prep.delete_question_mark
+        ], self._inst)
 
         # getting sentiments
-        temp_inst = InstancePreprocessor.token_lemmatization_natasha(self._inst)
-        temp_inst = InstancePreprocessor.replace_anglicisms(temp_inst)
-        sentiments = InstancePreprocessor.get_sentiments(temp_inst)
+        sentiments = prep.get_sentiments(self._pre_inst)
 
         # more preprocessing
-        self._pre_inst = InstancePreprocessor.replace_anglicisms(self._inst)
-        self._pre_inst = InstancePreprocessor.delete_question_mark(self._inst)
-
-        self._pre_inst.sentiments = sentiments
 
         # getting clusters
         clustor = classificator.Clusterizator()
         clustor.fit(self._pre_inst)
         clustor.train()
         clusters = clustor.get_clusters()
-        self._pre_inst.clusters = clusters
         self._clusters = clusters
 
-        self._pre_inst.corrected = temp_inst.answers
+        self._inst.clusters = clusters
+        self._inst.sentiments = sentiments
+        self._inst.corrected = self._pre_inst.answers
 
     def dump(self, path: str):
         j_dict = {"question": self._pre_inst.question, "id": self._pre_inst.id_, "answers": []}
         for i in range(len(self._pre_inst)):
             a_dict = {
-                "answer": self._pre_inst.answers[i],
-                "count": self._pre_inst.counts[i],
-                "cluster": self._pre_inst.clusters[i],
-                "sentiment": self._pre_inst.sentiments[i],
-                "corrected": self._pre_inst.corrected[i]
+                "answer": self._inst.answers[i],
+                "count": self._inst.counts[i],
+                "cluster": self._inst.clusters[i],
+                "sentiment": self._inst.sentiments[i],
+                "corrected": self._inst.corrected[i]
             }
             j_dict["answers"].append(a_dict)
 
