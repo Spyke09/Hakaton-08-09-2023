@@ -8,27 +8,30 @@ import instance
 
 
 class Clusterizator:
-    def get_centroids(self, emb):
+    @staticmethod
+    def get_centroids(emb):
         c = list()
         for i in range(emb['label'].nunique()):
             s = emb[emb['label'] == i]
-            l = len(s)
-            c.append((s.sum() / l).to_numpy())
+            c.append((s.sum() / len(s)).to_numpy())
         return np.array(c)
 
-    def metric(self, x, y):
+    @staticmethod
+    def metric(x, y):
         return 1 - x.dot(y) / (np.linalg.norm(y) * np.linalg.norm(x))
 
-    def get_cluster(self, cluster_id, emb):
+    @staticmethod
+    def get_cluster(cluster_id, emb):
         return emb[emb['label'] == cluster_id]
 
-    def get_nearest(self, cluster_id, centrs, emb):
+    @staticmethod
+    def get_nearest(cluster_id, centrs, emb):
         centr = centrs[cluster_id]
-        cluster = self.get_cluster(cluster_id, emb)
+        cluster = Clusterizator.get_cluster(cluster_id, emb)
         argmin = None
         min_ = 1
         for idx, c in zip(cluster.index, cluster.to_numpy()):
-            cur_min = self.metric(centr, c)
+            cur_min = Clusterizator.metric(centr, c)
             if cur_min < min_:
                 min_ = cur_min
                 argmin = idx
@@ -48,8 +51,8 @@ class Clusterizator:
         self._instance = None
         self._res = None
 
-    def fit(self, instance: instance.Instance):
-        self._instance: instance.Instance = instance
+    def fit(self, inst: instance.Instance):
+        self._instance: instance.Instance = inst
 
     def train(self):
 
