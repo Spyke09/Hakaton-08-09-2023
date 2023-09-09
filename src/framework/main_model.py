@@ -1,8 +1,13 @@
-import instance
 import abc
-from instance_preprocessing import InstancePreprocessor
-import classificator
 import json
+from collections import Counter
+
+import matplotlib.pyplot as plt
+from wordcloud import WordCloud
+
+import classificator
+import instance
+from instance_preprocessing import InstancePreprocessor
 
 
 class AbstractModel(abc.ABC):
@@ -25,6 +30,7 @@ class SimpleModel(AbstractModel):
         self._inst = None
         self._pre_inst = None
         self._result = None
+        self._clusters = None
 
     def fit(self, inst: instance.Instance):
         self._inst = inst
@@ -48,7 +54,11 @@ class SimpleModel(AbstractModel):
         clustor = classificator.Clusterizator()
         clustor.fit(self._pre_inst)
         clustor.train()
-        self._pre_inst.clusters = clustor.get_clusters()
+        clusters = clustor.get_clusters()
+        self._pre_inst.clusters = clusters
+        self._clusters = clusters
+
+        self._pre_inst.corrected = temp_inst.answers
 
     def dump(self, path: str):
         j_dict = {"question": self._pre_inst.question, "id": self._pre_inst.id_, "answers": []}
@@ -57,9 +67,28 @@ class SimpleModel(AbstractModel):
                 "answer": self._pre_inst.answers[i],
                 "count": self._pre_inst.counts[i],
                 "cluster": self._pre_inst.clusters[i],
-                "sentiment": self._pre_inst.sentiments[i]
+                "sentiment": self._pre_inst.sentiments[i],
+                "corrected": self._pre_inst.corrected[i]
             }
             j_dict["answers"].append(a_dict)
 
         with open(path, "w") as file:
             json.dump(j_dict, file, separators=(",\n", ": "), ensure_ascii=False)
+
+    @property
+    def clusters(self):
+        return self._clusters
+
+    def show_stats(self):
+        word_cloud = WordCloud(
+            width=3000,
+            height=2000,
+            random_state=100,
+            background_color="white",
+            colormap="cool",
+            collocations=False,
+        ).generate_from_frequencies(Counter(self.clusters))
+
+        plt.imshow(word_cloud)
+        plt.axis("off")
+        plt.show()
