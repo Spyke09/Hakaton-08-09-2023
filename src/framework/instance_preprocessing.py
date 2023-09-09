@@ -1,6 +1,5 @@
 import instance
 import re
-import ABC
 
 
 class InstancePreprocessor:
