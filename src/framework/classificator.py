@@ -9,7 +9,7 @@ import instance
 
 class Clusterizator:
     @staticmethod
-    def get_centroids(emb):
+    def _get_centroids(emb):
         c = list()
         for i in range(emb['label'].nunique()):
             s = emb[emb['label'] == i]
@@ -17,31 +17,31 @@ class Clusterizator:
         return np.array(c)
 
     @staticmethod
-    def metric(x, y):
+    def _metric(x, y):
         return 1 - x.dot(y) / (np.linalg.norm(y) * np.linalg.norm(x))
 
     @staticmethod
-    def get_cluster(cluster_id, emb):
+    def _get_cluster(cluster_id, emb):
         return emb[emb['label'] == cluster_id]
 
     @staticmethod
-    def get_nearest(cluster_id, centrs, emb):
+    def _get_nearest(cluster_id, centrs, emb):
         centr = centrs[cluster_id]
-        cluster = Clusterizator.get_cluster(cluster_id, emb)
+        cluster = Clusterizator._get_cluster(cluster_id, emb)
         argmin = None
         min_ = 1
         for idx, c in zip(cluster.index, cluster.to_numpy()):
-            cur_min = Clusterizator.metric(centr, c)
+            cur_min = Clusterizator._metric(centr, c)
             if cur_min < min_:
                 min_ = cur_min
                 argmin = idx
         return argmin
 
-    def select_best_cluster(self, questions_clusters, q_embedding):
+    def _select_best_cluster(self, questions_clusters, q_embedding):
         max_ = 1
         arg_max = None
         for i, j in enumerate(questions_clusters):
-            cur_max = self.metric(j, q_embedding)
+            cur_max = self._metric(j, q_embedding)
             if cur_max < max_:
                 max_ = cur_max
                 arg_max = i
@@ -55,7 +55,6 @@ class Clusterizator:
         self._instance: instance.Instance = inst
 
     def train(self):
-
         q_model = SentenceTransformer('jgammack/distilbert-base-mean-pooling')
 
         e_answers = q_model.encode(self._instance.answers)
@@ -65,10 +64,10 @@ class Clusterizator:
                                                      linkage='average').fit(q_emb_15d)
         e_answers = pd.DataFrame(e_answers)
         e_answers['label'] = answers_clustering.labels_
-        centroids = self.get_centroids(e_answers)
+        centroids = self._get_centroids(e_answers)
         res_s = []
         for i in range(len(self._instance.answers)):
-            iii = self.get_nearest(e_answers["label"].iloc[i], centroids, e_answers)
+            iii = self._get_nearest(e_answers["label"].iloc[i], centroids, e_answers)
             res_s.append(self._instance.answers[iii])
 
         self._res = res_s

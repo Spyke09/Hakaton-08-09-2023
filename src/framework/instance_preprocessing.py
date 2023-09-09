@@ -35,7 +35,7 @@ def get_abbreviations(f):
 
 
 def replace_abbreviations_str(sentence):
-    abbreviations = get_abbreviations('../data/сокращения.txt')
+    abbreviations = get_abbreviations('../../data/сокращения.txt')
     words = sentence.lower().split()
     for i in range(len(words)):
         if words[i] in abbreviations:
@@ -44,7 +44,7 @@ def replace_abbreviations_str(sentence):
 
 
 def replace_anglicisms_str(sentence):
-    anglicisms = get_abbreviations('../data/англицизмы.txt')
+    anglicisms = get_abbreviations('../../data/англицизмы.txt')
     words = sentence.lower().split()
     for i in range(len(words)):
         if words[i] in anglicisms:
@@ -76,7 +76,7 @@ class InstancePreprocessor:
         corrected_answers = list(
             map(lambda sentence: replace_abbreviations_str(sentence), inst.answers)
         )
-        return instance.Instance(inst.question, inst.id, corrected_answers, inst.counts)
+        return instance.Instance(inst.question, inst.id_, corrected_answers, inst.counts, inst.sentiments)
 
     @staticmethod
     def token_lemmatization_spc_natasha(inst: instance.Instance):
@@ -98,7 +98,7 @@ class InstancePreprocessor:
                 token.lemmatize(morph_vocab)
 
             result.append(" ".join([_.lemma for _ in doc.tokens if _.lemma not in russian_stopwords]))
-        return instance.Instance(inst.question, inst.id, result, inst.counts)
+        return instance.Instance(inst.question, inst.id_, result, inst.counts, inst.sentiments)
 
     @staticmethod
     def token_lemmatization_natasha(inst: instance.Instance):
@@ -116,7 +116,7 @@ class InstancePreprocessor:
                 token.lemmatize(morph_vocab)
             result.append(" ".join([_.lemma for _ in doc.tokens if _.lemma not in russian_stopwords]))
 
-        return instance.Instance(inst.question, inst.id, result, inst.counts)
+        return instance.Instance(inst.question, inst.id_, result, inst.counts, inst.sentiments)
 
     @staticmethod
     def token_lemmatization_spc(inst: instance.Instance):
@@ -128,14 +128,14 @@ class InstancePreprocessor:
                          else i.lower()
                          for i in tokens.split(" ")]
             result.append(" ".join([_ for _ in first_lem if _ not in russian_stopwords]))
-        return instance.Instance(inst.question, inst.id, result, inst.counts)
+        return instance.Instance(inst.question, inst.id_, result, inst.counts, inst.sentiments)
 
     @staticmethod
     def replace_anglicisms(inst: instance.Instance):
         corrected_answers = list(
             map(lambda sentence: replace_anglicisms_str(sentence), inst.answers)
         )
-        return instance.Instance(inst.question, inst.id, corrected_answers, inst.counts)
+        return instance.Instance(inst.question, inst.id_, corrected_answers, inst.counts, inst.sentiments)
 
     @staticmethod
     def get_sentiments(inst: instance.Instance):
@@ -144,9 +144,9 @@ class InstancePreprocessor:
         list_of_sentiments = model.predict(inst.answers, k=1)
         sentiments = [sentiment if sentiment != 'speech' else 'positive' for sentiment in get_keys(list_of_sentiments)]
         sentiments = [sentiment if sentiment != 'skip' else 'neutral' for sentiment in sentiments]
-        return instance.Instance(inst.question, inst.id, inst.answers, inst.counts, sentiments)
+        return sentiments
 
     @staticmethod
     def delete_question_mark(inst: instance.Instance):
         p = re.compile('(Вопрос|Вопросы|Question|Questions)', flags=re.IGNORECASE)
-        return p.sub(" ", inst.question)
+        return instance.Instance(p.sub(" ", inst.question), inst.id_, inst.answers, inst.counts, inst.sentiments)
