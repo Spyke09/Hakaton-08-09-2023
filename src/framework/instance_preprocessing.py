@@ -1,6 +1,6 @@
 import instance
-from spellchecker import spellchecker
 import re
+import ABC
 
 
 class InstancePreprocessor:
@@ -14,17 +14,6 @@ class InstancePreprocessor:
         for i in range(len(inst.answers)):
             inst.answers[i] = re.sub("[^а-яА-Яa-zA-Z]", " ", inst.answers[i])
 
-    @staticmethod
-    def correct_errors(inst: instance.Instance):
-        rus_cheker = spellchecker.SpellChecker("ru")
-        eng_cheker = spellchecker.SpellChecker("en")
-        eng = set("qwertyuiopasdfghjklzxcvbnm")
-        rus = set("йцукенгшщзхъфывапролджэячсмитьбю")
-
-        for i in range(len(inst.answers)):
-            new_line = rus_cheker.correction(inst.answers[i])
-            if new_line is not None:
-                inst.answers[i] = new_line
 
 
 
