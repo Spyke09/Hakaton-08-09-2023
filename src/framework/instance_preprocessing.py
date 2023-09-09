@@ -14,7 +14,10 @@ from natasha import (
 from nltk.corpus import stopwords
 from spellchecker import SpellChecker
 
-import instance
+import src.framework.instance as instance
+import os
+
+PATH = os.path.dirname(__file__)
 
 
 class Preprocessor:
@@ -41,7 +44,7 @@ class Preprocessor:
         return abbreviations
 
     def _replace_abbreviations_str(self, sentence):
-        abbreviations = self._get_abbreviations('../data/сокращения.txt')
+        abbreviations = self._get_abbreviations(f'{PATH}/data/сокращения.txt')
         words = sentence.lower().split()
         for i in range(len(words)):
             if words[i] in abbreviations:
@@ -49,7 +52,7 @@ class Preprocessor:
         return ' '.join(words)
 
     def _replace_anglicisms_str(self, sentence):
-        anglicisms = self._get_abbreviations('../data/англицизмы.txt')
+        anglicisms = self._get_abbreviations(f'{PATH}/data/англицизмы.txt')
         words = sentence.lower().split()
         for i in range(len(words)):
             if words[i] in anglicisms:

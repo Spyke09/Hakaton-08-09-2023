@@ -5,9 +5,9 @@ from collections import Counter
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 
-import classificator
-import instance
-from instance_preprocessing import Preprocessor
+import src.framework.classificator as classificator
+import src.framework.instance as instance
+from src.framework.instance_preprocessing import Preprocessor
 
 
 class AbstractModel(abc.ABC):
