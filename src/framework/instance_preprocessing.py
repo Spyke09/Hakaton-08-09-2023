@@ -1,3 +1,4 @@
+import os
 import re
 
 import nltk
@@ -15,7 +16,6 @@ from nltk.corpus import stopwords
 from spellchecker import SpellChecker
 
 import src.framework.instance as instance
-import os
 
 PATH = os.path.dirname(__file__)
 

@@ -2,8 +2,8 @@ import abc
 import json
 from collections import Counter
 
-import pandas as pd
 import matplotlib.pyplot as plt
+import pandas as pd
 from wordcloud import WordCloud
 
 import src.framework.classificator as classificator

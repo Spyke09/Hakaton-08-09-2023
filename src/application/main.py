@@ -6,8 +6,6 @@ import src.framework.json_parser
 import click
 
 
-
-
 @click.command()
 @click.argument("path_to_instance", type=click.Path())
 @click.argument("path_to_result", type=click.Path())
