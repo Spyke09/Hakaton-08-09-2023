@@ -1,6 +1,11 @@
+import sys
+sys.path.insert(0, '../../')
+
 import src.framework.main_model
 import src.framework.json_parser
 import click
+
+
 
 
 @click.command()
