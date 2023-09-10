@@ -4,7 +4,7 @@ from sentence_transformers import SentenceTransformer
 from sklearn.cluster import AgglomerativeClustering
 from sklearn.decomposition import PCA
 
-import instance
+import src.framework.instance as instance
 
 
 class Clusterizator:

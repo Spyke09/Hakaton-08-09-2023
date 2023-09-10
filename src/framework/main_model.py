@@ -2,12 +2,13 @@ import abc
 import json
 from collections import Counter
 
+import pandas as pd
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 
-import classificator
-import instance
-from instance_preprocessing import Preprocessor
+import src.framework.classificator as classificator
+import src.framework.instance as instance
+from src.framework.instance_preprocessing import Preprocessor
 
 
 class AbstractModel(abc.ABC):
@@ -73,14 +74,40 @@ class SimpleModel(AbstractModel):
             }
             j_dict["answers"].append(a_dict)
 
-        with open(path, "w") as file:
+        with open(f"{path}/{self._inst.id_}_labeled.json", "w") as file:
             json.dump(j_dict, file, separators=(",\n", ": "), ensure_ascii=False)
 
     @property
     def clusters(self):
         return self._clusters
 
-    def show_stats(self):
+    def get_stats_dataframe(self):
+        df = pd.DataFrame({
+            "question": [self._inst.question for _ in range(len(self._inst))],
+            "id": [self._inst.id_ for _ in range(len(self._inst))],
+            "answer": self._inst.answers,
+            "count": self._inst.counts,
+            "cluster": self.clusters,
+            "sentiment": self._inst.sentiments,
+            "corrected": self._inst.corrected
+        })
+        return df
+
+    def save_to_excel(self, path: str):
+        df = self.get_stats_dataframe()
+
+        freq1 = Counter(self.clusters)
+
+        df1 = pd.DataFrame(freq1, index=[0]).T.reset_index()
+        df1.columns = ["cluster_name", "frequency"]
+
+        writer = pd.ExcelWriter(f"{path}/semantic_clusters_stats_{self._inst.id_}.xlsx", engine="xlsxwriter")
+        df.to_excel(writer, sheet_name="labeled_json")
+        df1.to_excel(writer, sheet_name="clusters_frequency")
+
+        writer.close()
+
+    def draw_word_cloud(self, path):
         word_cloud = WordCloud(
             width=3000,
             height=2000,
@@ -92,4 +119,5 @@ class SimpleModel(AbstractModel):
 
         plt.imshow(word_cloud)
         plt.axis("off")
-        plt.show()
+
+        word_cloud.to_file(f"{path}/semantic_clusters_freq_in_{self._inst.id_}_json.pdf")

@@ -1,6 +1,6 @@
 import json
 
-import instance
+import src.framework.instance as instance
 
 
 class SimpleJSONParser:
