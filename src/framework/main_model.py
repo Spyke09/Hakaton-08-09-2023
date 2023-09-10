@@ -41,7 +41,7 @@ class SimpleModel(AbstractModel):
         prep = Preprocessor()
         self._pre_inst = prep.composition([
             prep.replace_abbreviations,
-            prep.token_lemmatization_natasha,
+            prep.token_lemmatization_spc,
             prep.replace_anglicisms,
             prep.delete_question_mark
         ], self._inst)
