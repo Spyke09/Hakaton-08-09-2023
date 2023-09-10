@@ -13,7 +13,8 @@ def main(path_to_instance, path_to_result):
     m.fit(inst)
     m.train()
     m.dump(path_to_result)
-    m.show_stats()
+    m.draw_word_cloud(path_to_result)
+    m.save_to_excel(path_to_result)
 
 
 if __name__ == "__main__":
